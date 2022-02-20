@@ -104,6 +104,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 Also see:
 
 * [analysis-tools-dev/static-analysis: ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.](https://github.com/analysis-tools-dev/static-analysis/)
+* [anderseknert/awesome-opa: A curated list of OPA related tools, frameworks and articles](https://github.com/anderseknert/awesome-opa)
 
 ## Identity, signing and provenance
 
