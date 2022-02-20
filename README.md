@@ -32,16 +32,16 @@ Other examples of the ongoing process to define the domain include [Add Bad Desi
   * [Friends don't let friends Curl | Bash](https://sysdig.com/blog/friends-dont-let-friends-curl-bash/)
   * [Falco](https://falco.org/)
   * [aquasecurity/tracee: Linux Runtime Security and Forensics using eBPF](https://github.com/aquasecurity/tracee)
-  * [ genuinetools/bane: Custom &amp; better AppArmor profile generator for Docker containers.](https://github.com/genuinetools/bane)
-  * [ containers/oci-seccomp-bpf-hook: OCI hook to trace syscalls and generate a seccomp profile](https://github.com/containers/oci-seccomp-bpf-hook)
-  * [ bottlerocket-os/hotdog: Hotdog is a set of OCI hooks used to inject the Log4j Hot Patch into containers.](https://github.com/bottlerocket-os/hotdog)
-* [ deepfence/ThreatMapper: 🔥 🔥   Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more. 🔥 🔥](https://github.com/deepfence/ThreatMapper)
+  * [genuinetools/bane: Custom &amp; better AppArmor profile generator for Docker containers.](https://github.com/genuinetools/bane)
+  * [containers/oci-seccomp-bpf-hook: OCI hook to trace syscalls and generate a seccomp profile](https://github.com/containers/oci-seccomp-bpf-hook)
+  * [bottlerocket-os/hotdog: Hotdog is a set of OCI hooks used to inject the Log4j Hot Patch into containers.](https://github.com/bottlerocket-os/hotdog)
+* [deepfence/ThreatMapper: 🔥 🔥   Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more. 🔥 🔥](https://github.com/deepfence/ThreatMapper)
 * [dependency-check](https://jeremylong.github.io/DependencyCheck/index.html)
-* [ ossf/package-analysis: Open Source Package Analysis](https://github.com/ossf/package-analysis) and [ ossf/package-feeds: Feed parsing for language package manager updates](https://github.com/ossf/package-feeds)
+* [ossf/package-analysis: Open Source Package Analysis](https://github.com/ossf/package-analysis) and [ossf/package-feeds: Feed parsing for language package manager updates](https://github.com/ossf/package-feeds)
 
 Also read:
 
-* [ TaptuIT/awesome-devsecops: Curating the best DevSecOps resources and tooling.](https://github.com/TaptuIT/awesome-devsecops#dependency-management)
+* [TaptuIT/awesome-devsecops: Curating the best DevSecOps resources and tooling.](https://github.com/TaptuIT/awesome-devsecops#dependency-management)
 
 ### SCA and SBOM
 
@@ -54,11 +54,11 @@ Also read:
 * [trailofbits/it-depends: A tool to automatically build a dependency graph and Software Bill of Materials (SBOM) for packages and arbitrary source code repositories.](https://github.com/trailofbits/it-depends)
 * [Whitesource Renovate: Automated Dependency Updates](https://www.whitesourcesoftware.com/free-developer-tools/renovate/)
 * [JFrog Xray - Universal Component Analysis &amp; Container Security Scanning](https://jfrog.com/xray/)
-* [ DependencyTrack/dependency-track: Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.](https://github.com/DependencyTrack/dependency-track)
-* [ anchore/syft: CLI tool and library for generating a Software Bill of Materials from container images and filesystems](https://github.com/anchore/syft) from [Software supply chain security solutions • Anchore](https://anchore.com/)
+* [DependencyTrack/dependency-track: Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.](https://github.com/DependencyTrack/dependency-track)
+* [anchore/syft: CLI tool and library for generating a Software Bill of Materials from container images and filesystems](https://github.com/anchore/syft) from [Software supply chain security solutions • Anchore](https://anchore.com/)
 * [Container Security | Qualys, Inc.](https://www.qualys.com/apps/container-security/)
 * [Aqua Cloud Native Security, Container Security &amp; Serverless Security](https://www.aquasec.com/)
-* [ tern-tools/tern: Tern is a software composition analysis tool and Python library that generates a Software Bill of Materials for container images and Dockerfiles. The SBOM that Tern generates will give you a layer-by-layer view of what&#39;s inside your container in a variety of formats including human-readable, JSON, HTML, SPDX and more.](https://github.com/tern-tools/tern)
+* [tern-tools/tern: Tern is a software composition analysis tool and Python library that generates a Software Bill of Materials for container images and Dockerfiles. The SBOM that Tern generates will give you a layer-by-layer view of what&#39;s inside your container in a variety of formats including human-readable, JSON, HTML, SPDX and more.](https://github.com/tern-tools/tern)
 
 ### Vulnerability information exchange
 
@@ -67,10 +67,10 @@ Also read:
 * Qualys' [Vulnerability Detection Pipeline](https://community.qualys.com/vulnerability-detection-pipeline/)
 * [Vuls · Agentless Vulnerability Scanner for Linux/FreeBSD](https://vuls.io/)
 * [aquasecurity/trivy: Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues](https://github.com/aquasecurity/trivy)
-* [ cve-search/cve-search: cve-search - a tool to perform local searches for known vulnerabilities](https://github.com/cve-search/cve-search)
-* [ nexB/vulnerablecode: A work-in-progress towards a free and open vulnerabilities database and the packages they impact. And the tools to aggregate and correlate these vulnerabilities. Sponsored by NLnet https://nlnet.nl/project/vulnerabilitydatabase/ for https://www.aboutcode.org/ Chat at https://gitter.im/aboutcode-org/vulnerablecode](https://github.com/nexB/vulnerablecode)
-* [ toolswatch/vFeed: The Correlated CVE Vulnerability And Threat Intelligence Database API](https://github.com/toolswatch/vFeed)
-* [ ossf/scorecard: Security Scorecards - Security health metrics for Open Source](https://github.com/ossf/scorecard) and [ ossf/security-reviews: A community collection of security reviews of open source software components.](https://github.com/ossf/security-reviews)
+* [cve-search/cve-search: cve-search - a tool to perform local searches for known vulnerabilities](https://github.com/cve-search/cve-search)
+* [nexB/vulnerablecode: A work-in-progress towards a free and open vulnerabilities database and the packages they impact. And the tools to aggregate and correlate these vulnerabilities. Sponsored by NLnet https://nlnet.nl/project/vulnerabilitydatabase/ for https://www.aboutcode.org/ Chat at https://gitter.im/aboutcode-org/vulnerablecode](https://github.com/nexB/vulnerablecode)
+* [toolswatch/vFeed: The Correlated CVE Vulnerability And Threat Intelligence Database API](https://github.com/toolswatch/vFeed)
+* [ossf/scorecard: Security Scorecards - Security health metrics for Open Source](https://github.com/ossf/scorecard) and [ossf/security-reviews: A community collection of security reviews of open source software components.](https://github.com/ossf/security-reviews)
 * [Lynis - Security auditing and hardening tool for Linux/Unix](https://cisofy.com/lynis/)
 
 ## Point-of-use validations
@@ -82,24 +82,24 @@ Also read:
 * [Open Policy Agent](https://www.openpolicyagent.org/)
 * [Conftest](https://www.conftest.dev/examples/) allows to write tests against structured configuration data using the Open Policy Agent Rego query language: [here's an example](https://github.com/open-policy-agent/conftest/blob/master/examples/docker/policy/commands.rego)
 * Several [pre-commit](https://pre-commit.com/hooks.html) hooks allow vulnerability checking right before dependency ingestion time into the codebase
-  * e.g., [ pyupio/safety: Safety checks your installed dependencies for known security vulnerabilities](https://github.com/pyupio/safety)
+  * e.g., [pyupio/safety: Safety checks your installed dependencies for known security vulnerabilities](https://github.com/pyupio/safety)
     * Or [npm-audit](https://docs.npmjs.com/cli/v8/commands/npm-audit)
     * Or [requires.io | Monitor your dependencies](https://requires.io/)
     * Or [Brakeman Security Scanner](https://brakemanscanner.org/)
 * Static analysis is often used at this stage in order to detect dependency acquisition, e.g.:
   * [Semgrep](https://semgrep.dev/)
   * [graudit/signatures at master · wireghoul/graudit](https://github.com/wireghoul/graudit/tree/master/signatures)
-  * [ banyanops/collector: A framework for Static Analysis of Docker container images](https://github.com/banyanops/collector)
-  * [ quay/clair: Vulnerability Static Analysis for Containers](https://github.com/quay/clair)
-  * [ eliasgranderubio/dagda: a tool to perform static analysis of known vulnerabilities, trojans, viruses, malware &amp; other malicious threats in docker images/containers and to monitor the docker daemon and running docker containers for detecting anomalous activities](https://github.com/eliasgranderubio/dagda)
+  * [banyanops/collector: A framework for Static Analysis of Docker container images](https://github.com/banyanops/collector)
+  * [quay/clair: Vulnerability Static Analysis for Containers](https://github.com/quay/clair)
+  * [eliasgranderubio/dagda: a tool to perform static analysis of known vulnerabilities, trojans, viruses, malware &amp; other malicious threats in docker images/containers and to monitor the docker daemon and running docker containers for detecting anomalous activities](https://github.com/eliasgranderubio/dagda)
   * [KICS - Keeping Infrastructure as Code Secure](https://kics.io/)
   * `hadolint` rules on package installation, e.g., [hadolint/README.md at d16f342c8e70fcffc7a788d122a1ba602075250d · hadolint/hadolint](https://github.com/hadolint/hadolint/blob/d16f342c8e70fcffc7a788d122a1ba602075250d/README.md#rules)
-    * Also [dockerfile resource scans - checkov](https://www.checkov.io/5.Policy%20Index/dockerfile.html) from [ bridgecrewio/checkov: Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.](https://github.com/bridgecrewio/checkov)
+    * Also [dockerfile resource scans - checkov](https://www.checkov.io/5.Policy%20Index/dockerfile.html) from [bridgecrewio/checkov: Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.](https://github.com/bridgecrewio/checkov)
 * [Vulnerability Assessment | OpenSCAP portal](https://www.open-scap.org/features/vulnerability-assessment/)
 
 Also see:
 
-* [ analysis-tools-dev/static-analysis: ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.](https://github.com/analysis-tools-dev/static-analysis/)
+* [analysis-tools-dev/static-analysis: ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.](https://github.com/analysis-tools-dev/static-analysis/)
 
 ## Identity, signing and provenance
 
@@ -111,11 +111,11 @@ Also see:
     * [Rekor](https://docs.sigstore.dev/rekor/overview)
 * [technosophos/helm-gpg: Chart signing and verification with GnuPG for Helm.](https://github.com/technosophos/helm-gpg)
 * [notaryproject/notary: Notary is a project that allows anyone to have trust over arbitrary collections of data](https://github.com/notaryproject/notary)
-  * [ notaryproject/roadmap: Roadmap for NotaryV2](https://github.com/notaryproject/roadmap)
-  * [ notaryproject/notation: Notation is a project to add signatures as standard items in the registry ecosystem, and to build a set of simple tooling for signing and verifying these signatures. Based on Notary V2 standard.](https://github.com/notaryproject/notation)
-  * [ notaryproject/tuf: The Update Framework for OCI Registries](https://github.com/notaryproject/tuf)
-    * Also see [ vmware-labs/repository-editor-for-tuf: Command line tool for editing and maintaining a TUF repository](https://github.com/vmware-labs/repository-editor-for-tuf)
-* [ deislabs/ratify: Artifact Ratification Framework](https://github.com/deislabs/ratify)
+  * [notaryproject/roadmap: Roadmap for NotaryV2](https://github.com/notaryproject/roadmap)
+  * [notaryproject/notation: Notation is a project to add signatures as standard items in the registry ecosystem, and to build a set of simple tooling for signing and verifying these signatures. Based on Notary V2 standard.](https://github.com/notaryproject/notation)
+  * [notaryproject/tuf: The Update Framework for OCI Registries](https://github.com/notaryproject/tuf)
+    * Also see [vmware-labs/repository-editor-for-tuf: Command line tool for editing and maintaining a TUF repository](https://github.com/vmware-labs/repository-editor-for-tuf)
+* [deislabs/ratify: Artifact Ratification Framework](https://github.com/deislabs/ratify)
 * [latchset/tang: Tang binding daemon](https://github.com/latchset/tang)
 * [An exposed apt signing key and how to improve apt security](https://blog.cloudflare.com/dont-use-apt-key/)
 * 
@@ -131,7 +131,7 @@ Also see:
 * SAFECODE's [Fundamental Practices for Secure Software Development, Third Edition](https://safecode.org/uncategorized/fundamental-practices-secure-software-development/), esp. _Manage Security Risk Inherent in the Use of Third-party Components_
 * [SSF | The Secure Software Factory](https://thesecuresoftwarefactory.github.io/ssf/) and [mlieberman85/supply-chain-examples](https://github.com/mlieberman85/supply-chain-examples)
 * [Software Supply Chain Risk Management | BSIMM](https://www.bsimm.com/about/bsimm-for-vendors.html)
-* [ microsoft/scim: Supply Chain Integrity Model](https://github.com/microsoft/SCIM)
+* [microsoft/scim: Supply Chain Integrity Model](https://github.com/microsoft/SCIM)
 
 ## Build techniques
 
@@ -159,5 +159,5 @@ Also see:
 * A few resources to understand supply chain compromises:
   * [Supply Chain Compromise - attackics](https://collaborate.mitre.org/attackics/index.php/Technique/T0862#:~:text=Supply%20chain%20compromise%20is%20the,receipt%20by%20the%20end%20consumer.&text=This%20may%20involve%20the%20compromise,third%20party%20or%20vendor%20websites.)
   * [tag-security/supply-chain-security/compromises at main · cncf/tag-security](https://github.com/cncf/tag-security/tree/main/supply-chain-security/compromises)
-  * [ IQTLabs/software-supply-chain-compromises: A dataset of software supply chain compromises. Please help us maintain it!](https://github.com/IQTLabs/software-supply-chain-compromises)
+  * [IQTLabs/software-supply-chain-compromises: A dataset of software supply chain compromises. Please help us maintain it!](https://github.com/IQTLabs/software-supply-chain-compromises)
   * Also follow: [Publish list of OSS compromises and how SLSA can help · Issue #222 · slsa-framework/slsa](https://github.com/slsa-framework/slsa/issues/222#issuecomment-1030356313) and watch [ossf/oss-compromises](https://github.com/ossf/oss-compromises)
