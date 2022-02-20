@@ -4,13 +4,15 @@ A compilation of resources in the software supply chain security domain, with em
 
 ## About the categories
 
-There is no prescribed taxonomy for this domain. The [supply-chain-synthesis](https://github.com/AevaOnline/supply-chain-synthesis/) repo offers a long-form read on why that's the case, plus helpful pointers to understand and navigate it as it evolves.
+There is no prescribed taxonomy for this domain. This list will necessarily have some overlap with disciplines and categories such as DevSecOps and SCA. The [supply-chain-synthesis](https://github.com/AevaOnline/supply-chain-synthesis/) repo offers a long-form read on why that's the case, plus helpful pointers to understand and navigate it as it evolves.
 
-For `awesome-software-supply-chain-security` we take the following high-level approach: different actors in the supply chain contribute **attestations** to the elements represented in the chain. In this process view, attestations are _emitted_, _augmented_ (e.g., during composition) and _verified_. Using this lens we can identify a large group of "subjects" (dependencies), distinct categories of "facts" (licenses or vulnerabilities) and the specific role of identity, provenance and build systems. This is the rationale behind the current headings, which are expected to evolve with the domain.
+For `awesome-software-supply-chain-security` we take the following high-level approach: different actors in the supply chain contribute **attestations** to the elements represented in the chain. In this process view, attestations are _emitted_, _augmented_ (e.g., during composition) and _verified_.
+
+Using this lens we can identify a large group of "subjects" (dependencies), distinct categories of "facts" (licenses or vulnerabilities) and the specific role of identity, provenance and build systems. This is the rationale behind the current headings, which are expected to evolve with the domain.
 
 ## Dependency management
 
-This section includes: package management, library management, dependency management, vendored dependency management, by-hash searches, package, library and dependency naming, library behavior labeling, library publishing, registries and repositories, publishing gates and scans, dependency lifecycle.
+> This section includes: package management, library management, dependency management, vendored dependency management, by-hash searches, package, library and dependency naming, library behavior labeling, library publishing, registries and repositories, publishing gates and scans, dependency lifecycle.
 
 * **TODO**: dereference the excellent starting point from [awesome-devsecops](https://github.com/TaptuIT/awesome-devsecops#dependency-management)
   * Possibly also the [containers](https://github.com/TaptuIT/awesome-devsecops#containers) section
@@ -26,7 +28,7 @@ This section includes: package management, library management, dependency manage
 
 ### SCA and SBOM
 
-This section includes: package/library scanners and detectors, SBOM formats, standards, authoring and validation, and a few applications. Will likely include SCA.
+> This section includes: package/library scanners and detectors, SBOM formats, standards, authoring and validation, and a few applications. Will likely include SCA.
 
 * OWASP's [SCA tools](https://owasp.org/www-community/Source_Code_Analysis_Tools) list is comprehensive on its own
 * [Grafeas: A Component Metadata API](https://github.com/grafeas/grafeas)
@@ -35,22 +37,22 @@ This section includes: package/library scanners and detectors, SBOM formats, sta
 
 ## Point-of-use validations
 
-This section includes: admission and ingestion policies, pull-time verification, 
+> This section includes: admission and ingestion policies, pull-time verification and end-user verifications.
 
 ## Identity and provenance
 
-This section includes: 
+> This section includes: projects and discussions specifics to developer identity, OIDC, keyrings and related topics.
 
 ## Frameworks and best practice references
 
-This section includes: reference architectures and authoritative compilations of supply chain attacks and the emerging categories.
+> This section includes: reference architectures and authoritative compilations of supply chain attacks and the emerging categories.
 
 * [OWASP Application Security Verification Standard](https://owasp.org/www-project-application-security-verification-standard/), esp. _V14 - Configuration_
 * SAFECODE's [Fundamental Practices for Secure Software Development, Third Edition](https://safecode.org/uncategorized/fundamental-practices-secure-software-development/), esp. _Manage Security Risk Inherent in the Use of Third-party Components_
 
 ## Build techniques
 
-This section includes: reproducible builds, hermetic builds, bootstrappable builds, special considerations for CI/CD systems, best practices building artifacts such as OCI containers, etc.
+> This section includes: reproducible builds, hermetic builds, bootstrappable builds, special considerations for CI/CD systems, best practices building artifacts such as OCI containers, etc.
 
 ## Others in need of categorization
 
