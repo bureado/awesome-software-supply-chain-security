@@ -65,6 +65,13 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
 * [Open Policy Agent](https://www.openpolicyagent.org/)
 * [Conftest](https://www.conftest.dev/examples/) allows to write tests against structured configuration data using the Open Policy Agent Rego query language: [here's an example](https://github.com/open-policy-agent/conftest/blob/master/examples/docker/policy/commands.rego)
 * Several [pre-commit](https://pre-commit.com/hooks.html) hooks allow vulnerability checking right before dependency ingestion time into the codebase
+  * e.g., [GitHub - pyupio/safety: Safety checks your installed dependencies for known security vulnerabilities](https://github.com/pyupio/safety)
+* Static analysis is often used at this stage in order to detect dependency acquisition, e.g.:
+  * [Semgrep](https://semgrep.dev/)
+  * [graudit/signatures at master · wireghoul/graudit](https://github.com/wireghoul/graudit/tree/master/signatures)
+  * [GitHub - quay/clair: Vulnerability Static Analysis for Containers](https://github.com/quay/clair)
+  * [GitHub - eliasgranderubio/dagda: a tool to perform static analysis of known vulnerabilities, trojans, viruses, malware &amp; other malicious threats in docker images/containers and to monitor the docker daemon and running docker containers for detecting anomalous activities](https://github.com/eliasgranderubio/dagda)
+  * [KICS - Keeping Infrastructure as Code Secure](https://kics.io/)
 
 ## Identity, signing and provenance
 
