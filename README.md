@@ -158,6 +158,10 @@ Also see:
   * Also see [Reproducible Builds: Debian and the case of the missing version string - vulns.xyz](https://vulns.xyz/2022/01/debian-missing-version-string/)
 * [kpcyrd/rebuilderd: Independent verification of binary packages - reproducible builds](https://github.com/kpcyrd/rebuilderd)
 
+Also see:
+
+* The [reproducible-builds](https://github.com/topics/reproducible-builds) topic on GitHub
+
 ## Talks, articles, media coverage and other reading
 
 * [“Chain”ging the Game - how runtime makes your supply chain even more secure](https://sysdig.com/blog/chainging-the-game/)
