@@ -58,6 +58,7 @@ Also read:
 
 The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
 
+* [GitBOM](https://gitbom.dev/)
 * [What an SBOM Can Do for You](https://blog.chainguard.dev/what-an-sbom-can-do-for-you/)
 * [awesomeSBOM/awesome-sbom: A curated list of SBOM (Software Bill Of Materials) related tools, frameworks, blogs, podcasts, and articles](https://github.com/awesomeSBOM/awesome-sbom)
 * OWASP's [SCA tools](https://owasp.org/www-community/Source_Code_Analysis_Tools) list is comprehensive on its own
@@ -204,3 +205,4 @@ Also see:
   * [Improve supply chain security with GitHub actions, Cosign, Kyverno and other open source tools](https://www.cloudnative.quest/posts/security/2022/01/01/improve-supply-chain-security-with-github-actions-and-open-source-tools/)
 * [Using SARIF to Extend Analysis of SAST Tools](https://blogs.grammatech.com/using-sarif-to-extend-analysis-of-sast-tools)
 * GitLab's [Software Supply Chain Security](https://about.gitlab.com/solutions/supply-chain/) section
+* GitHub's [SARIF support for code scanning](https://docs.github.com/en/code-security/code-scanning/integrating-with-code-scanning/sarif-support-for-code-scanning)
