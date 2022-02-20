@@ -188,3 +188,5 @@ Also see:
 * [Improving TOFU (trust on first use) With Transparency](https://dlorenc.medium.com/improving-tofu-with-transparency-da674aa2879d)
 * Reports:
   * [2022 State of Cloud Native Security Report - Palo Alto Networks](https://www.paloaltonetworks.com/state-of-cloud-native-security)
+* End-to-end demos and examples:
+  * [goreleaser/supply-chain-example: Example goreleaser + github actions config with keyless signing and SBOM generation](https://github.com/goreleaser/supply-chain-example)
