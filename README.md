@@ -33,6 +33,7 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
     * [curl trace attestor · Issue #139 · testifysec/witness](https://github.com/testifysec/witness/issues/139)
   * [Friends don't let friends Curl | Bash](https://sysdig.com/blog/friends-dont-let-friends-curl-bash/)
   * [aquasecurity/tracee: Linux Runtime Security and Forensics using eBPF](https://github.com/aquasecurity/tracee)
+* [dependency-check](https://jeremylong.github.io/DependencyCheck/index.html)
 
 ### SCA and SBOM
 
