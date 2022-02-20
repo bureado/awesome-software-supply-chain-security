@@ -97,6 +97,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
   * [quay/clair: Vulnerability Static Analysis for Containers](https://github.com/quay/clair)
   * [eliasgranderubio/dagda: a tool to perform static analysis of known vulnerabilities, trojans, viruses, malware &amp; other malicious threats in docker images/containers and to monitor the docker daemon and running docker containers for detecting anomalous activities](https://github.com/eliasgranderubio/dagda)
   * [KICS - Keeping Infrastructure as Code Secure](https://kics.io/)
+  * [tinkerbell/lint-install: Consistently install reasonable linter rules for open-source projects](https://github.com/tinkerbell/lint-install)
   * `hadolint` rules on package installation, e.g., [hadolint/README.md at d16f342c8e70fcffc7a788d122a1ba602075250d · hadolint/hadolint](https://github.com/hadolint/hadolint/blob/d16f342c8e70fcffc7a788d122a1ba602075250d/README.md#rules)
     * Also [dockerfile resource scans - checkov](https://www.checkov.io/5.Policy%20Index/dockerfile.html) from [bridgecrewio/checkov: Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.](https://github.com/bridgecrewio/checkov)
 * [Vulnerability Assessment | OpenSCAP portal](https://www.open-scap.org/features/vulnerability-assessment/)
