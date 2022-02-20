@@ -201,4 +201,5 @@ Also see:
   * [2022 State of Cloud Native Security Report - Palo Alto Networks](https://www.paloaltonetworks.com/state-of-cloud-native-security)
 * End-to-end demos and examples:
   * [goreleaser/supply-chain-example: Example goreleaser + github actions config with keyless signing and SBOM generation](https://github.com/goreleaser/supply-chain-example)
+  * [Improve supply chain security with GitHub actions, Cosign, Kyverno and other open source tools](https://www.cloudnative.quest/posts/security/2022/01/01/improve-supply-chain-security-with-github-actions-and-open-source-tools/)
 * [Using SARIF to Extend Analysis of SAST Tools](https://blogs.grammatech.com/using-sarif-to-extend-analysis-of-sast-tools)
