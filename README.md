@@ -66,6 +66,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * [Grafeas: A Component Metadata API](https://github.com/grafeas/grafeas)
 * [trailofbits/it-depends: A tool to automatically build a dependency graph and Software Bill of Materials (SBOM) for packages and arbitrary source code repositories.](https://github.com/trailofbits/it-depends)
 * [Whitesource Renovate: Automated Dependency Updates](https://www.whitesourcesoftware.com/free-developer-tools/renovate/)
+  * [renovatebot/renovate: Universal dependency update tool that fits into your workflows.](https://github.com/renovatebot/renovate)
 * [JFrog Xray - Universal Component Analysis &amp; Container Security Scanning](https://jfrog.com/xray/)
 * [DependencyTrack/dependency-track: Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.](https://github.com/DependencyTrack/dependency-track)
 * [anchore/syft: CLI tool and library for generating a Software Bill of Materials from container images and filesystems](https://github.com/anchore/syft) from [Software supply chain security solutions • Anchore](https://anchore.com/)
