@@ -48,12 +48,14 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
 
 ### Vulnerability information exchange
 
+* [CycloneDX - Vulnerability Exploitability Exchange (VEX)](https://cyclonedx.org/capabilities/vex/)
 * [OSV](https://osv.dev/)
 * Qualys' [Vulnerability Detection Pipeline](https://community.qualys.com/vulnerability-detection-pipeline/)
 * [Vuls · Agentless Vulnerability Scanner for Linux/FreeBSD](https://vuls.io/)
 * [aquasecurity/trivy: Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues](https://github.com/aquasecurity/trivy)
 * [GitHub - cve-search/cve-search: cve-search - a tool to perform local searches for known vulnerabilities](https://github.com/cve-search/cve-search)
 * [GitHub - nexB/vulnerablecode: A work-in-progress towards a free and open vulnerabilities database and the packages they impact. And the tools to aggregate and correlate these vulnerabilities. Sponsored by NLnet https://nlnet.nl/project/vulnerabilitydatabase/ for https://www.aboutcode.org/ Chat at https://gitter.im/aboutcode-org/vulnerablecode](https://github.com/nexB/vulnerablecode)
+* [GitHub - toolswatch/vFeed: The Correlated CVE Vulnerability And Threat Intelligence Database API](https://github.com/toolswatch/vFeed)
 
 ## Point-of-use validations
 
@@ -96,4 +98,6 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
 * [The Challenges of Securing the Open Source Supply Chain](https://thenewstack.io/the-challenges-of-securing-the-open-source-supply-chain/)
 * [What is a Software Supply Chain Attestation - and why do I need it?](https://www.testifysec.com/blog/what-is-a-supply-chain-attestation/)
 * [Open Policy Agent 2021, Year in Review](https://blog.openpolicyagent.org/open-policy-agent-2021-year-in-review-f334244868e0)
+* [What is VEX and What Does it Have to Do with SBOMs?](https://blog.adolus.com/what-is-vex-and-what-does-it-have-to-do-with-sboms)
+* [What is VEX? It's the Vulnerability Exploitability eXchange!](https://zt.dev/posts/what-is-vex/)
 
