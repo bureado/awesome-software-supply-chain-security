@@ -23,8 +23,15 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
   * A source that can be queried via a public API (HTTP and DNS!) and can be more open source-aware is [CIRCL hashlookup](https://www.circl.lu/services/hashlookup/)
   * [Repology](https://repology.org/) has legendary coverage for Linux packages across multiple distribution; its [repology-updater](https://github.com/repology/repology-updater) and other infrastructure pieces are open source. It provides an updater for [WikiData](https://github.com/repology/repology-wikidata-bot) which also has properties of interest for the supply chain security domain.
   * Tidelift's [libraries.io](https://libraries.io/) provides an [API](https://libraries.io/api) and supports over 30 package ecosystems
-  * The [Software Heritage Project]() has massive ingestion capabilities and [offers an API](https://archive.softwareheritage.org/api/1/known/doc/) which can efficiently check whether a hash is known, and provide certain information on the file if so
+  * WhiteSource's [Unified Agent](https://whitesource.atlassian.net/wiki/spaces/WD/pages/1140852201/Getting+Started+with+the+Unified+Agent#Binary-and-Source-File-Matching-Overview) also offers some sophisticated file matching abilities
+  * The [Software Heritage Project](https://archive.softwareheritage.org/) has massive ingestion capabilities and [offers an API](https://archive.softwareheritage.org/api/1/known/doc/) which can efficiently check whether a hash is known, and provide certain information on the file if so
   * [ClearlyDefined](https://docs.clearlydefined.io/using-data) provides licensing information for open source components, given their coordinates
+* For inputs acquired e.g., via `curl`:
+  * [SpectralOps/preflight: preflight helps you verify scripts and executables to mitigate chain of supply attacks such as the recent Codecov hack.](https://github.com/spectralops/preflight)
+  * [apiaryio/curl-trace-parser: Parser for output from Curl --trace option](https://github.com/apiaryio/curl-trace-parser)
+    * [curl trace attestor · Issue #139 · testifysec/witness](https://github.com/testifysec/witness/issues/139)
+  * [Friends don't let friends Curl | Bash](https://sysdig.com/blog/friends-dont-let-friends-curl-bash/)
+  * [aquasecurity/tracee: Linux Runtime Security and Forensics using eBPF](https://github.com/aquasecurity/tracee)
 
 ### SCA and SBOM
 
@@ -32,21 +39,38 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
 
 * OWASP's [SCA tools](https://owasp.org/www-community/Source_Code_Analysis_Tools) list is comprehensive on its own
 * [Grafeas: A Component Metadata API](https://github.com/grafeas/grafeas)
+* [trailofbits/it-depends: A tool to automatically build a dependency graph and Software Bill of Materials (SBOM) for packages and arbitrary source code repositories.](https://github.com/trailofbits/it-depends)
 
 ### Vulnerability information exchange
+
+* [OSV](https://osv.dev/)
+* Qualys' [Vulnerability Detection Pipeline](https://community.qualys.com/vulnerability-detection-pipeline/)
+* [Vuls · Agentless Vulnerability Scanner for Linux/FreeBSD](https://vuls.io/)
+* [aquasecurity/trivy: Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues](https://github.com/aquasecurity/trivy)
 
 ## Point-of-use validations
 
 > This section includes: admission and ingestion policies, pull-time verification and end-user verifications.
 
-## Identity and provenance
+* [ossf/allstar: GitHub App to set and enforce security policies](https://github.com/ossf/allstar)
+* [Open Policy Agent](https://www.openpolicyagent.org/)
+* [Conftest](https://www.conftest.dev/examples/) allows to write tests against structured configuration data using the Open Policy Agent Rego query language: [here's an example](https://github.com/open-policy-agent/conftest/blob/master/examples/docker/policy/commands.rego)
+
+## Identity, signing and provenance
 
 > This section includes: projects and discussions specifics to developer identity, OIDC, keyrings and related topics.
+
+* [technosophos/helm-gpg: Chart signing and verification with GnuPG for Helm.](https://github.com/technosophos/helm-gpg)
+* [notaryproject/notary: Notary is a project that allows anyone to have trust over arbitrary collections of data](https://github.com/notaryproject/notary)
+* [latchset/tang: Tang binding daemon](https://github.com/latchset/tang)
+* [An exposed apt signing key and how to improve apt security](https://blog.cloudflare.com/dont-use-apt-key/)
 
 ## Frameworks and best practice references
 
 > This section includes: reference architectures and authoritative compilations of supply chain attacks and the emerging categories.
 
+* [in-toto | A framework to secure the integrity of software supply chains](https://in-toto.io/)
+* [Supply chain Levels for Software Artifacts](https://slsa.dev/) or SLSA (salsa) is a security framework, a check-list of standards and controls to prevent tampering, improve integrity, and secure packages and infrastructure in your projects, businesses or enterprises. 
 * [OWASP Application Security Verification Standard](https://owasp.org/www-project-application-security-verification-standard/), esp. _V14 - Configuration_
 * SAFECODE's [Fundamental Practices for Secure Software Development, Third Edition](https://safecode.org/uncategorized/fundamental-practices-secure-software-development/), esp. _Manage Security Risk Inherent in the Use of Third-party Components_
 
@@ -58,5 +82,10 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
 
 ## Talks, articles, media coverage and other reading
 
+* [“Chain”ging the Game - how runtime makes your supply chain even more secure](https://sysdig.com/blog/chainging-the-game/)
+* [How to attack cloud infrastructure via a malicious pull request](https://goteleport.com/blog/hack-via-pull-request/)
 * The [Technology](https://snyk.io/series/devsecops/technology/) chapter in Snyk's DevSecOps series
+* [The Challenges of Securing the Open Source Supply Chain](https://thenewstack.io/the-challenges-of-securing-the-open-source-supply-chain/)
+* [What is a Software Supply Chain Attestation - and why do I need it?](https://www.testifysec.com/blog/what-is-a-supply-chain-attestation/)
+* [Open Policy Agent 2021, Year in Review](https://blog.openpolicyagent.org/open-policy-agent-2021-year-in-review-f334244868e0)
 
