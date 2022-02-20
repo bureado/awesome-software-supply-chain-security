@@ -79,6 +79,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * [peterjmorgan/phylum-analyze-pr-action: GitHub Action to analyze Pull Requests for open-source supply chain issues](https://github.com/peterjmorgan/phylum-analyze-pr-action) from [Phylum | Future of Software Supply Chain Security](https://phylum.io/)
 * [OWASP/Software-Component-Verification-Standard: Software Component Verification Standard (SCVS)](https://github.com/OWASP/Software-Component-Verification-Standard)
 * [microsoft/component-detection: Scans your project to determine what components you use](https://github.com/microsoft/component-detection/)
+* [DWARF 5 Standard](https://dwarfstd.org/Dwarf5Std.php)
 
 ### Vulnerability information exchange
 
