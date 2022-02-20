@@ -115,6 +115,7 @@ Also see:
   * [notaryproject/notation: Notation is a project to add signatures as standard items in the registry ecosystem, and to build a set of simple tooling for signing and verifying these signatures. Based on Notary V2 standard.](https://github.com/notaryproject/notation)
   * [notaryproject/tuf: The Update Framework for OCI Registries](https://github.com/notaryproject/tuf)
     * Also see [vmware-labs/repository-editor-for-tuf: Command line tool for editing and maintaining a TUF repository](https://github.com/vmware-labs/repository-editor-for-tuf)
+    * Also see [How to easily try out TUF + in-toto](https://badhomb.re/ci/security/2020/05/01/tuf-in-toto.html)
 * [deislabs/ratify: Artifact Ratification Framework](https://github.com/deislabs/ratify)
 * [latchset/tang: Tang binding daemon](https://github.com/latchset/tang)
 * [An exposed apt signing key and how to improve apt security](https://blog.cloudflare.com/dont-use-apt-key/)
