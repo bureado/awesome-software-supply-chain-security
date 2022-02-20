@@ -64,6 +64,7 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
 * [ossf/allstar: GitHub App to set and enforce security policies](https://github.com/ossf/allstar)
 * [Open Policy Agent](https://www.openpolicyagent.org/)
 * [Conftest](https://www.conftest.dev/examples/) allows to write tests against structured configuration data using the Open Policy Agent Rego query language: [here's an example](https://github.com/open-policy-agent/conftest/blob/master/examples/docker/policy/commands.rego)
+* Several [pre-commit](https://pre-commit.com/hooks.html) hooks allow vulnerability checking right before dependency ingestion time into the codebase
 
 ## Identity, signing and provenance
 
