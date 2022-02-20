@@ -12,6 +12,8 @@ For `awesome-software-supply-chain-security` we take the following high-level ap
 
 This section includes: package management, library management, dependency management, vendored dependency management, by-hash searches, package, library and dependency naming, library behavior labeling, library publishing, registries and repositories, publishing gates and scans, dependency lifecycle.
 
+* **TODO**: dereference the excellent starting point from [awesome-devsecops](https://github.com/TaptuIT/awesome-devsecops#dependency-management)
+  * Possibly also the [containers](https://github.com/TaptuIT/awesome-devsecops#containers) section
 * Online services that help understand what a specific dependency _is_ (usually feeding it a package identifier, such as `purl`, CPE or another form of `ecosystem:name:version`, or alternatively via hash):
   * [NSRL](https://www.nist.gov/itl/ssd/software-quality-group/national-software-reference-library-nsrl/about-nsrl/library-contents): hashes for [COTS software](https://www.nist.gov/itl/ssd/software-quality-group/national-software-reference-library-nsrl/about-nsrl/library-contents), well-integrated in tooling from [sleuthkit/hfind](http://manpages.ubuntu.com/manpages/bionic/man1/hfind.1.html) to [nsrllookup](https://github.com/rjhansen/nsrllookup)
   * A source that can be queried via a public API (HTTP and DNS!) and can be more open source-aware is [CIRCL hashlookup](https://www.circl.lu/services/hashlookup/)
@@ -38,6 +40,9 @@ This section includes:
 
 This section includes: reference architectures and authoritative compilations of supply chain attacks and the emerging categories.
 
+* [OWASP Application Security Verification Standard](https://owasp.org/www-project-application-security-verification-standard/), esp. _V14 - Configuration_
+* SAFECODE's [Fundamental Practices for Secure Software Development, Third Edition](https://safecode.org/uncategorized/fundamental-practices-secure-software-development/), esp. _Manage Security Risk Inherent in the Use of Third-party Components_
+
 ## Build techniques
 
 This section includes: reproducible builds, hermetic builds, bootstrappable builds, special considerations for CI/CD systems, best practices building artifacts such as OCI containers, etc.
@@ -45,4 +50,6 @@ This section includes: reproducible builds, hermetic builds, bootstrappable buil
 ## Others in need of categorization
 
 ## Talks, articles, media coverage and other reading
+
+* The [Technology](https://snyk.io/series/devsecops/technology/) chapter in Snyk's DevSecOps series
 
