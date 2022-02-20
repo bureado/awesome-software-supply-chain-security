@@ -77,6 +77,10 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
 
 > This section includes: projects and discussions specifics to developer identity, OIDC, keyrings and related topics.
 
+* Part of [sigstore](https://www.sigstore.dev/)
+    * [Cosign](https://docs.sigstore.dev/cosign/overview)
+    * [Fulcio](https://docs.sigstore.dev/fulcio/overview)
+    * [Rekor](https://docs.sigstore.dev/rekor/overview)
 * [technosophos/helm-gpg: Chart signing and verification with GnuPG for Helm.](https://github.com/technosophos/helm-gpg)
 * [notaryproject/notary: Notary is a project that allows anyone to have trust over arbitrary collections of data](https://github.com/notaryproject/notary)
 * [latchset/tang: Tang binding daemon](https://github.com/latchset/tang)
