@@ -14,6 +14,8 @@ This section includes: package management, library management, dependency manage
 
 * **TODO**: dereference the excellent starting point from [awesome-devsecops](https://github.com/TaptuIT/awesome-devsecops#dependency-management)
   * Possibly also the [containers](https://github.com/TaptuIT/awesome-devsecops#containers) section
+  * Also the containers section of [awesome-static-analysis](https://github.com/analysis-tools-dev/static-analysis/#containers) and the [security](https://github.com/analysis-tools-dev/static-analysis/#securitysast) one
+  * On containers, also [awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers#security) and the `kubernetes` section in [awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam#kubernetes)
 * Online services that help understand what a specific dependency _is_ (usually feeding it a package identifier, such as `purl`, CPE or another form of `ecosystem:name:version`, or alternatively via hash):
   * [NSRL](https://www.nist.gov/itl/ssd/software-quality-group/national-software-reference-library-nsrl/about-nsrl/library-contents): hashes for [COTS software](https://www.nist.gov/itl/ssd/software-quality-group/national-software-reference-library-nsrl/about-nsrl/library-contents), well-integrated in tooling from [sleuthkit/hfind](http://manpages.ubuntu.com/manpages/bionic/man1/hfind.1.html) to [nsrllookup](https://github.com/rjhansen/nsrllookup)
   * A source that can be queried via a public API (HTTP and DNS!) and can be more open source-aware is [CIRCL hashlookup](https://www.circl.lu/services/hashlookup/)
@@ -22,9 +24,12 @@ This section includes: package management, library management, dependency manage
   * The [Software Heritage Project]() has massive ingestion capabilities and [offers an API](https://archive.softwareheritage.org/api/1/known/doc/) which can efficiently check whether a hash is known, and provide certain information on the file if so
   * [ClearlyDefined](https://docs.clearlydefined.io/using-data) provides licensing information for open source components, given their coordinates
 
-### SBOM
+### SCA and SBOM
 
-This section includes: package/library scanners and detectors, SBOM formats, standards, authoring and validation, and a few applications.
+This section includes: package/library scanners and detectors, SBOM formats, standards, authoring and validation, and a few applications. Will likely include SCA.
+
+* OWASP's [SCA tools](https://owasp.org/www-community/Source_Code_Analysis_Tools) list is comprehensive on its own
+* [Grafeas: A Component Metadata API](https://github.com/grafeas/grafeas)
 
 ### Vulnerability information exchange
 
