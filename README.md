@@ -62,6 +62,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * [Container Security | Qualys, Inc.](https://www.qualys.com/apps/container-security/)
 * [Aqua Cloud Native Security, Container Security &amp; Serverless Security](https://www.aquasec.com/)
 * [tern-tools/tern: Tern is a software composition analysis tool and Python library that generates a Software Bill of Materials for container images and Dockerfiles. The SBOM that Tern generates will give you a layer-by-layer view of what&#39;s inside your container in a variety of formats including human-readable, JSON, HTML, SPDX and more.](https://github.com/tern-tools/tern)
+* [REA-Products/C-SCRM-Use-Case at master · rjb4standards/REA-Products](https://github.com/rjb4standards/REA-Products/tree/master/C-SCRM-Use-Case) from [this tweet](https://twitter.com/rjb4standards/status/1481250447331573761?s=12)
 
 ### Vulnerability information exchange
 
