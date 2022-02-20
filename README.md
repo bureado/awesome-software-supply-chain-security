@@ -4,13 +4,19 @@ A compilation of resources in the software supply chain security domain, with em
 
 ## About the categories
 
-There is no prescribed taxonomy for this domain. This list will necessarily have some overlap with disciplines and categories such as DevSecOps and SCA. The [supply-chain-synthesis](https://github.com/AevaOnline/supply-chain-synthesis/) repo offers a long-form read on why that's the case, plus helpful pointers to understand and navigate it as it evolves.
+There is no prescribed taxonomy for this domain. This list will necessarily have some overlap with disciplines and categories such as DevSecOps, SAST, SCA and more.
 
-For `awesome-software-supply-chain-security` we take the following high-level approach: different actors in the supply chain contribute **attestations** to the elements represented in the chain. In this process view, attestations are _emitted_, _augmented_ (e.g., during composition) and _verified_. (Another way to look at this was described [here](https://twitter.com/joshbressers/status/1477366321436319745) by Josh Bressers.)
+The [supply-chain-synthesis](https://github.com/AevaOnline/supply-chain-synthesis/) repo offers a long-form read on why that's the case, plus helpful pointers to understand and navigate it as it evolves.
+
+For `awesome-software-supply-chain-security` we take the following high-level approach: different actors in the supply chain contribute **attestations** to the elements represented in the chain.
+
+In this process-centric view, attestations are _emitted_, _augmented_ (e.g., during composition) and _verified_.
+
+> Another way to look at this was described [here](https://twitter.com/joshbressers/status/1477366321436319745) by Josh Bressers.
 
 Using this lens we can identify a large group of "subjects" (dependencies), distinct categories of "facts" (licenses or vulnerabilities) and the specific role of identity, provenance and build systems. This is the rationale behind the current headings, which are expected to evolve with the domain.
 
-Other examples of the ongoing process to define the domain include [Add Bad Design as a supply chain scenario · Issue #249 · slsa-framework/slsa](https://github.com/slsa-framework/slsa/issues/249) and [How does SLSA fit into broader supply chain security? · Issue #276 · slsa-framework/slsa](https://github.com/slsa-framework/slsa/issues/276). [Check out this tweet from Aeva Black](https://twitter.com/aevavoom/status/1491479149227118597) with Dan Lorenc for another in-a-pinch view of a couple key projects.
+> Other examples of the ongoing process to define the domain include [Add Bad Design as a supply chain scenario · Issue #249 · slsa-framework/slsa](https://github.com/slsa-framework/slsa/issues/249) and [How does SLSA fit into broader supply chain security? · Issue #276 · slsa-framework/slsa](https://github.com/slsa-framework/slsa/issues/276). [Check out this tweet from Aeva Black](https://twitter.com/aevavoom/status/1491479149227118597) with Dan Lorenc for another in-a-pinch view of a couple key projects.
 
 ## Dependency intelligence
 
