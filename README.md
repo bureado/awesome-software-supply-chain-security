@@ -66,6 +66,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * [tern-tools/tern: Tern is a software composition analysis tool and Python library that generates a Software Bill of Materials for container images and Dockerfiles. The SBOM that Tern generates will give you a layer-by-layer view of what&#39;s inside your container in a variety of formats including human-readable, JSON, HTML, SPDX and more.](https://github.com/tern-tools/tern)
 * [REA-Products/C-SCRM-Use-Case at master · rjb4standards/REA-Products](https://github.com/rjb4standards/REA-Products/tree/master/C-SCRM-Use-Case) from [this tweet](https://twitter.com/rjb4standards/status/1481250447331573761?s=12)
 * [peterjmorgan/phylum-analyze-pr-action: GitHub Action to analyze Pull Requests for open-source supply chain issues](https://github.com/peterjmorgan/phylum-analyze-pr-action) from [Phylum | Future of Software Supply Chain Security](https://phylum.io/)
+* [OWASP/Software-Component-Verification-Standard: Software Component Verification Standard (SCVS)](https://github.com/OWASP/Software-Component-Verification-Standard)
 
 ### Vulnerability information exchange
 
@@ -95,6 +96,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
     * Or [npm-audit](https://docs.npmjs.com/cli/v8/commands/npm-audit)
     * Or [requires.io | Monitor your dependencies](https://requires.io/)
     * Or [Brakeman Security Scanner](https://brakemanscanner.org/)
+    * Or [trailofbits/pip-audit: Audits Python environments and dependency trees for known vulnerabilities](https://github.com/trailofbits/pip-audit)
 * Static analysis is often used at this stage in order to detect dependency acquisition, e.g.:
   * [Semgrep](https://semgrep.dev/)
   * [graudit/signatures at master · wireghoul/graudit](https://github.com/wireghoul/graudit/tree/master/signatures)
