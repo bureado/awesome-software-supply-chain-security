@@ -85,6 +85,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 > This section includes: admission and ingestion policies, pull-time verification and end-user verifications.
 
 * [Kyverno](https://kyverno.io/)
+* [ckotzbauer/sbom-operator: Catalogue all images of a Kubernetes cluster to multiple targets with Syft](https://github.com/ckotzbauer/sbom-operator)
 * [ossf/allstar: GitHub App to set and enforce security policies](https://github.com/ossf/allstar)
 * [Open Policy Agent](https://www.openpolicyagent.org/)
 * [Conftest](https://www.conftest.dev/examples/) allows to write tests against structured configuration data using the Open Policy Agent Rego query language: [here's an example](https://github.com/open-policy-agent/conftest/blob/master/examples/docker/policy/commands.rego)
