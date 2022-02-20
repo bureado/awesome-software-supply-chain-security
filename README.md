@@ -88,6 +88,8 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * [ossf/scorecard: Security Scorecards - Security health metrics for Open Source](https://github.com/ossf/scorecard) and [ossf/security-reviews: A community collection of security reviews of open source software components.](https://github.com/ossf/security-reviews)
 * [Lynis - Security auditing and hardening tool for Linux/Unix](https://cisofy.com/lynis/)
 * [victims/victims-cve-db: CVE database store](https://github.com/victims/victims-cve-db)
+* [anchore/grype: A vulnerability scanner for container images and filesystems](https://github.com/anchore/grype)
+  * Also see [Using Grype to Identify GitHub Action Vulnerabilities](https://anchore.com/blog/using-grype-to-identify-github-action-vulnerabilities/)
 
 ## Point-of-use validations
 
