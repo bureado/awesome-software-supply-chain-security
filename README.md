@@ -97,6 +97,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
     * Or [requires.io | Monitor your dependencies](https://requires.io/)
     * Or [Brakeman Security Scanner](https://brakemanscanner.org/)
     * Or [trailofbits/pip-audit: Audits Python environments and dependency trees for known vulnerabilities](https://github.com/trailofbits/pip-audit)
+    * Or [Checkmarx/chainjacking: Find which of your go lang direct GitHub dependencies is susceptible to ChainJacking attack](https://github.com/Checkmarx/chainjacking)
 * Static analysis is often used at this stage in order to detect dependency acquisition, e.g.:
   * [Semgrep](https://semgrep.dev/)
   * [graudit/signatures at master · wireghoul/graudit](https://github.com/wireghoul/graudit/tree/master/signatures)
