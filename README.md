@@ -146,6 +146,7 @@ Also see:
     * Also see [How to easily try out TUF + in-toto](https://badhomb.re/ci/security/2020/05/01/tuf-in-toto.html)
 * [deislabs/ratify: Artifact Ratification Framework](https://github.com/deislabs/ratify)
 * [latchset/tang: Tang binding daemon](https://github.com/latchset/tang)
+* [ietf-rats - Overview](https://github.com/ietf-rats)
 * [An exposed apt signing key and how to improve apt security](https://blog.cloudflare.com/dont-use-apt-key/)
 * See [Issue #21 · testifysec/witness](https://github.com/testifysec/witness/issues/21#issuecomment-991774080) for a succinct description of how [testifysec/witness: Witness is a pluggable framework for software supply chain risk management.  It automates, normalizes, and verifies software artifact providence.](https://github.com/testifysec/witness/) deals with attestation chains 
 * The _Supply Chain Risk Management_ section of [SP 800-53 Rev. 5, Security and Privacy Controls for Info Systems and Organizations | CSRC](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final), also see [center-for-threat-informed-defense/attack-control-framework-mappings: Security control framework mappings to MITRE ATT&CK](https://github.com/center-for-threat-informed-defense/attack-control-framework-mappings)
