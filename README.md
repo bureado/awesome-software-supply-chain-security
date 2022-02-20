@@ -34,6 +34,7 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
   * [Friends don't let friends Curl | Bash](https://sysdig.com/blog/friends-dont-let-friends-curl-bash/)
   * [aquasecurity/tracee: Linux Runtime Security and Forensics using eBPF](https://github.com/aquasecurity/tracee)
 * [dependency-check](https://jeremylong.github.io/DependencyCheck/index.html)
+* [GitHub - DependencyTrack/dependency-track: Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.](https://github.com/DependencyTrack/dependency-track)
 
 ### SCA and SBOM
 
