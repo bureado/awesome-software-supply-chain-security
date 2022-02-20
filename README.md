@@ -170,3 +170,4 @@ Also see:
   * [tag-security/supply-chain-security/compromises at main · cncf/tag-security](https://github.com/cncf/tag-security/tree/main/supply-chain-security/compromises)
   * [IQTLabs/software-supply-chain-compromises: A dataset of software supply chain compromises. Please help us maintain it!](https://github.com/IQTLabs/software-supply-chain-compromises)
   * Also follow: [Publish list of OSS compromises and how SLSA can help · Issue #222 · slsa-framework/slsa](https://github.com/slsa-framework/slsa/issues/222#issuecomment-1030356313) and watch [ossf/oss-compromises](https://github.com/ossf/oss-compromises)
+* [Improving TOFU (trust on first use) With Transparency](https://dlorenc.medium.com/improving-tofu-with-transparency-da674aa2879d)
