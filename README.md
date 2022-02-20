@@ -2,28 +2,33 @@
 
 A compilation of resources in the software supply chain security domain, with emphasis on open source.
 
-## Contents
+## Dependency management
 
-- [Section](#section)
-- [Another Section](#another-section)
+This section includes: package management, library management, dependency management, vendored dependency management, by-hash searches, package, library and dependency naming, library behavior labeling, library publishing, registries and repositories, publishing gates and scans, dependency lifecycle.
 
+### SBOM
 
-## Section
+This section includes: package/library scanners and detectors, SBOM formats, standards, authoring and validation, and a few applications.
 
-About this section. Optional. Keep this short and focus on the list.
+### Vulnerability information exchange
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+## Point-of-use validations
 
+This section includes: admission and ingestion policies, pull-time verification, 
 
-## Another Section
+## Identity and provenance
 
-### Subsection
+This section includes: 
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+## Frameworks and best practice references
 
+This section includes: reference architectures and authoritative compilations of supply chain attacks and the emerging categories.
 
-## Contribute
+## Build techniques
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+This section includes: reproducible builds, hermetic builds, bootstrappable builds, special considerations for CI/CD systems, best practices building artifacts such as OCI containers, etc.
+
+## Others in need of categorization
+
+## Talks, articles, media coverage and other reading
+
