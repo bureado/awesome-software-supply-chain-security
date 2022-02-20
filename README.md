@@ -106,8 +106,6 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
 * [Bootstrappable Builds (GNU Mes Reference Manual)](https://www.gnu.org/software/mes/manual/html_node/Bootstrappable-Builds.html)
   * Also read [Bootstrappable builds](https://lwn.net/Articles/841797/) from LWN
 
-## Others in need of categorization
-
 ## Talks, articles, media coverage and other reading
 
 * [“Chain”ging the Game - how runtime makes your supply chain even more secure](https://sysdig.com/blog/chainging-the-game/)
