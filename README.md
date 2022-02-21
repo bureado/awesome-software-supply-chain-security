@@ -215,3 +215,4 @@ Also see:
 * [Using SARIF to Extend Analysis of SAST Tools](https://blogs.grammatech.com/using-sarif-to-extend-analysis-of-sast-tools)
 * GitLab's [Software Supply Chain Security](https://about.gitlab.com/solutions/supply-chain/) section
 * GitHub's [SARIF support for code scanning](https://docs.github.com/en/code-security/code-scanning/integrating-with-code-scanning/sarif-support-for-code-scanning)
+* [Driving Developer Productivity via Automated Dependency Tracking](https://developer.gs.com/blog/posts/driving-developer-productivity-via-automated-dependency-tracking)
