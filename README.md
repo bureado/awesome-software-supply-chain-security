@@ -222,3 +222,4 @@ Also see:
 * GitHub's [SARIF support for code scanning](https://docs.github.com/en/code-security/code-scanning/integrating-with-code-scanning/sarif-support-for-code-scanning)
 * [Driving Developer Productivity via Automated Dependency Tracking](https://developer.gs.com/blog/posts/driving-developer-productivity-via-automated-dependency-tracking)
 * [Code scanning finds more vulnerabilities using machine learning](https://github.blog/2022-02-17-code-scanning-finds-vulnerabilities-using-machine-learning/)
+* [Securing Open Source Software at the Source](https://www.plaintextgroup.com/reports/securing-open-source-software-at-the-source)
