@@ -33,6 +33,7 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
   * The [Software Heritage Project](https://archive.softwareheritage.org/) has massive ingestion capabilities and [offers an API](https://archive.softwareheritage.org/api/1/known/doc/) which can efficiently check whether a hash is known, and provide certain information on the file if so
   * [ClearlyDefined](https://docs.clearlydefined.io/using-data) provides licensing information for open source components, given their coordinates
   * [LGTM - Code Analysis Platform to Find and Prevent Vulnerabilities](https://lgtm.com/#explore) allows manually searching by GitHub repo
+  * [Binary Transparency](https://bintra.directory/) offers an API that allows to search packages by hash and other attributes
 * For inputs acquired e.g., via `curl`:
   * [SpectralOps/preflight: preflight helps you verify scripts and executables to mitigate chain of supply attacks such as the recent Codecov hack.](https://github.com/spectralops/preflight)
   * [apiaryio/curl-trace-parser: Parser for output from Curl --trace option](https://github.com/apiaryio/curl-trace-parser)
