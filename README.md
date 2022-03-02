@@ -197,6 +197,7 @@ Also see:
 Also see:
 
 * The [reproducible-builds](https://github.com/topics/reproducible-builds) topic on GitHub
+* [Dependency management](https://cloud.google.com/artifact-registry/docs/dependencies) as part of Google Cloud's Artifact Registry documentation
 
 ## Talks, articles, media coverage and other reading
 
