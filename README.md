@@ -225,3 +225,4 @@ Also see:
 * [Code scanning finds more vulnerabilities using machine learning](https://github.blog/2022-02-17-code-scanning-finds-vulnerabilities-using-machine-learning/)
 * [Securing Open Source Software at the Source](https://www.plaintextgroup.com/reports/securing-open-source-software-at-the-source)
 * [Security: The Value of SBOMs](https://fluxcd.io/blog/2022/02/security-the-value-of-sboms/)
+* [Why SBOMS & Security Scanning Go Together - Upstream: The Software Supply Chain Security Podcast presented by Anchore](https://www.buzzsprout.com/1913318/10096487?utm_content=198702382&utm_medium=social&utm_source=twitter&hss_channel=tw-46390865)
