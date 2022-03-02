@@ -96,6 +96,8 @@ More interesting resources:
 * [Sounil Yu on SBOMs, software supply chain security - Security Conversations](https://securityconversations.com/episode/sounil-yu-on-sboms-software-supply-chain-security/)
 * [Exploring Security. Criticality of SBOM. Scott McGregor, Cloud Security, Wind River](https://soundcloud.com/cybercrimemagazine/exploring-security-criticality-of-sbom-scott-mcgregor-cloud-security-wind-river)
 * [Down the Security Rabbithole Podcast: DtSR Episode 487 - Software Supply Chain is a BFD](http://podcast.wh1t3rabbit.net/dtsr-episode-487-software-supply-chain-is-a-bfd?tdest_id=609232)
+* [Software Composition Analysis Podcast: Software Supply Chain - Episode 1](https://www.youtube.com/watch?v=ryRV-bAyHXY&list=PLnaFG2n4CcbNi9wtjKZLh2m4cANoqNcgu)
+* [Critical Update: Do You Know What’s In Your Software?](https://www.nextgov.com/podcasts/2021/05/critical-update-do-you-know-whats-your-software/174100/)
 
 ### Vulnerability information exchange
 
