@@ -97,6 +97,8 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * [victims/victims-cve-db: CVE database store](https://github.com/victims/victims-cve-db)
 * [anchore/grype: A vulnerability scanner for container images and filesystems](https://github.com/anchore/grype)
   * Also see [Using Grype to Identify GitHub Action Vulnerabilities](https://anchore.com/blog/using-grype-to-identify-github-action-vulnerabilities/)
+* [GitHub Advisory Database now open to community contributions](https://github.blog/2022-02-22-github-advisory-database-now-open-to-community-contributions/)
+* [Global Security Database Working Group | CSA](https://cloudsecurityalliance.org/research/working-groups/global-security-database/)
 
 ## Point-of-use validations
 
