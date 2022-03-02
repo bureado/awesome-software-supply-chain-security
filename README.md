@@ -94,6 +94,8 @@ More interesting resources:
 * [Reimagining Cyber Podcast: Log4j vulnerability provides harsh lessons in unknown dependencies](https://community.microfocus.com/cyberres/b/sws-22/posts/reimagining-cyber-podcast-log4j-vulnerability-provides-harsh-lessons-in-unknown-dependencies?utm_source=socialmedia&utm_medium=social&utm_campaign=7014J000000dXXVQA2)
 * [Tech Debt Burndown Podcast Series 1 E11: Allan Friedman and SBOMs](https://techdebtburndown.com/episode11/)
 * [Sounil Yu on SBOMs, software supply chain security - Security Conversations](https://securityconversations.com/episode/sounil-yu-on-sboms-software-supply-chain-security/)
+* [Exploring Security. Criticality of SBOM. Scott McGregor, Cloud Security, Wind River](https://soundcloud.com/cybercrimemagazine/exploring-security-criticality-of-sbom-scott-mcgregor-cloud-security-wind-river)
+* [Down the Security Rabbithole Podcast: DtSR Episode 487 - Software Supply Chain is a BFD](http://podcast.wh1t3rabbit.net/dtsr-episode-487-software-supply-chain-is-a-bfd?tdest_id=609232)
 
 ### Vulnerability information exchange
 
