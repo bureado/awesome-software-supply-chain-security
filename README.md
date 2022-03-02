@@ -87,6 +87,10 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * [hughsie/python-uswid: A tiny tool for embedding CoSWID tags in EFI binaries](https://github.com/hughsie/python-uswid)
   * Also see [thread](https://twitter.com/hughsient/status/1498259857341915139?s=120)
 
+More interesting resources:
+
+* [Brakeing Down Security Podcast: 2020-031-Allan Friedman, SBOM, software transparency, and knowing how the sausage is made](https://brakeingsecurity.com/2020-031-allan-friedman-sbom-software-transparency-and-knowing-how-the-sausage-is-made?tdest_id=282477)
+
 ### Vulnerability information exchange
 
 * [CycloneDX - Vulnerability Exploitability Exchange (VEX)](https://cyclonedx.org/capabilities/vex/)
