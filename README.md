@@ -174,6 +174,10 @@ Also see:
 * [microsoft/scim: Supply Chain Integrity Model](https://github.com/microsoft/SCIM)
 * [Goodbye SDLC, Hello SSDF! What is the Secure Software Development Framework?](https://blog.chainguard.dev/goodbye-sdlc-hello-ssdf-what-is-the-secure-software-development-framework/)
 
+Also see:
+
+* [Zero Trust the Hard Way](https://www.youtube.com/watch?app=desktop&v=PMhPWGRzIzM), Kelsey Hightower
+
 ## Build techniques
 
 > This section includes: reproducible builds, hermetic builds, bootstrappable builds, special considerations for CI/CD systems, best practices building artifacts such as OCI containers, etc.
