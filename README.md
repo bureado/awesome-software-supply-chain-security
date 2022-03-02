@@ -248,3 +248,4 @@ Also see:
 * [Why SBOMS & Security Scanning Go Together - Upstream: The Software Supply Chain Security Podcast presented by Anchore](https://www.buzzsprout.com/1913318/10096487?utm_content=198702382&utm_medium=social&utm_source=twitter&hss_channel=tw-46390865)
 * [Whose Sign Is It Anyway?](https://www.youtube.com/watch?v=psTh2xOvVJI) - Marina Moore, NYU & Matthew Riley, Google
 * [Binary Authorization for Borg: how Google verifies code provenance and implements code identity](https://cloud.google.com/docs/security/binary-authorization-for-borg)
+* [Application Security Weekly (Video) on Apple Podcasts](https://podcasts.apple.com/us/podcast/application-security-weekly-video/id1338908396)
