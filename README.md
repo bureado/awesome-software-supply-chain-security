@@ -198,6 +198,7 @@ Also see:
 
 * The [reproducible-builds](https://github.com/topics/reproducible-builds) topic on GitHub
 * [Dependency management](https://cloud.google.com/artifact-registry/docs/dependencies) as part of Google Cloud's Artifact Registry documentation
+* [Security hardening for GitHub Actions](https://docs.github.com/en/actions/security-guides/security-hardening-for-github-actions)
 * [Handling build-time dependency vulnerabilities](https://hackmd.io/@VOkN52x7RbeXS-3vr4XOgg/BJBDNYK0F) from [Create guidance on triaging build time dependency vulnerabilities · Issue #855 · cncf/tag-security](https://github.com/cncf/tag-security/issues/855)
 
 ## Talks, articles, media coverage and other reading
