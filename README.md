@@ -203,6 +203,7 @@ Also see:
 Also see:
 
 * [Zero Trust the Hard Way](https://www.youtube.com/watch?app=desktop&v=PMhPWGRzIzM), Kelsey Hightower
+* [KubePhilly March 2022-  A Look At The Kubernetes SLSA Compliance Project](https://www.youtube.com/watch?v=KV6kfO6gtho)
 
 ## Build techniques
 
