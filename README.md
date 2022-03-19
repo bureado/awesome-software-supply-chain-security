@@ -151,6 +151,7 @@ More interesting resources:
 * [Detecting Log4Shell with Wazuh](https://wazuh.com/blog/detecting-log4shell-with-wazuh/)
 * [aquasecurity/starboard: Kubernetes-native security toolkit](https://github.com/aquasecurity/starboard)
   * [Get started with Kubernetes Security and Starboard](https://www.youtube.com/watch?v=QgctrpTpJec)
+* [armosec/kubescape: Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.](https://github.com/armosec/kubescape)
 
 Also see:
 
