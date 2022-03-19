@@ -274,3 +274,4 @@ Also see:
 * [Software Supply Chain Security Turns to Risk Mitigation](https://www.nationaldefensemagazine.org/articles/2022/3/8/software-supply-chain-security-turns-to-risk-mitigation)
 * [tl;dr sec Newsletter](https://tldrsec.com/newsletter/)
 * [Past Issues | CloudSecList](https://cloudseclist.com/past-issues/)
+* [News - reproducible-builds.org](https://reproducible-builds.org/news/)
