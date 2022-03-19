@@ -278,3 +278,4 @@ Also see:
 * [tl;dr sec Newsletter](https://tldrsec.com/newsletter/)
 * [Past Issues | CloudSecList](https://cloudseclist.com/past-issues/)
 * [News - reproducible-builds.org](https://reproducible-builds.org/news/)
+* [sigstore/community: General sigstore community repo](https://github.com/sigstore/community#slack)
