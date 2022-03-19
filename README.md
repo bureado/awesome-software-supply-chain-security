@@ -153,6 +153,7 @@ More interesting resources:
 * [aquasecurity/starboard: Kubernetes-native security toolkit](https://github.com/aquasecurity/starboard)
   * [Get started with Kubernetes Security and Starboard](https://www.youtube.com/watch?v=QgctrpTpJec)
 * [armosec/kubescape: Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.](https://github.com/armosec/kubescape)
+* [ckotzbauer/vulnerability-operator: Scans SBOMs for vulnerabilities](https://github.com/ckotzbauer/vulnerability-operator)
 
 Also see:
 
