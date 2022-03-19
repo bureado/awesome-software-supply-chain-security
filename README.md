@@ -166,6 +166,7 @@ Also see:
     * [Cosign](https://docs.sigstore.dev/cosign/overview)
     * [Fulcio](https://docs.sigstore.dev/fulcio/overview)
     * [Rekor](https://docs.sigstore.dev/rekor/overview)
+* [cas - cas attestation service](https://cas.codenotary.com/)
 * [technosophos/helm-gpg: Chart signing and verification with GnuPG for Helm.](https://github.com/technosophos/helm-gpg)
 * [notaryproject/notary: Notary is a project that allows anyone to have trust over arbitrary collections of data](https://github.com/notaryproject/notary)
   * [notaryproject/roadmap: Roadmap for NotaryV2](https://github.com/notaryproject/roadmap)
