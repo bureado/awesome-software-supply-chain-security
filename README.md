@@ -48,6 +48,7 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
 * [dependency-check](https://jeremylong.github.io/DependencyCheck/index.html)
 * [ossf/package-analysis: Open Source Package Analysis](https://github.com/ossf/package-analysis) and [ossf/package-feeds: Feed parsing for language package manager updates](https://github.com/ossf/package-feeds)
   * Also [Argo Security Automation with OSS-Fuzz](https://blog.argoproj.io/argo-security-automation-with-oss-fuzz-da38c1f86452) and [google/oss-fuzz: OSS-Fuzz - continuous fuzzing for open source software.](https://github.com/google/oss-fuzz)
+  * And [ClusterFuzzLite](https://google.github.io/clusterfuzzlite/)
 * [cugu/gocap: List your dependencies capabilities and monitor if updates require more  capabilities.](https://github.com/cugu/gocap)
 * [Checkmarx/chainalert-github-action: scans popular packages and alerts in cases there is suspicion of an account takeover](https://github.com/Checkmarx/chainalert-github-action)
 * Open Source Security Foundation (OpenSSF) [Alpha-Omega Project](https://openssf.org/community/alpha-omega/)
