@@ -88,6 +88,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * [DWARF 5 Standard](https://dwarfstd.org/Dwarf5Std.php)
 * [hughsie/python-uswid: A tiny tool for embedding CoSWID tags in EFI binaries](https://github.com/hughsie/python-uswid)
   * Also see [thread](https://twitter.com/hughsient/status/1498259857341915139?s=120)
+* [ckotzbauer/sbom-operator: Catalogue all images of a Kubernetes cluster to multiple targets with Syft](https://github.com/ckotzbauer/sbom-operator)
 
 More interesting resources:
 
