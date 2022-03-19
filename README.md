@@ -258,6 +258,7 @@ Also see:
   * [Improve supply chain security with GitHub actions, Cosign, Kyverno and other open source tools](https://www.cloudnative.quest/posts/security/2022/01/01/improve-supply-chain-security-with-github-actions-and-open-source-tools/)
 * [Using SARIF to Extend Analysis of SAST Tools](https://blogs.grammatech.com/using-sarif-to-extend-analysis-of-sast-tools)
 * GitLab's [Software Supply Chain Security](https://about.gitlab.com/solutions/supply-chain/) section
+  * Also read GitLab's [Software Supply Chain Security Direction](https://about.gitlab.com/direction/supply-chain/)
 * GitHub's [SARIF support for code scanning](https://docs.github.com/en/code-security/code-scanning/integrating-with-code-scanning/sarif-support-for-code-scanning)
 * [Driving Developer Productivity via Automated Dependency Tracking](https://developer.gs.com/blog/posts/driving-developer-productivity-via-automated-dependency-tracking)
 * [Code scanning finds more vulnerabilities using machine learning](https://github.blog/2022-02-17-code-scanning-finds-vulnerabilities-using-machine-learning/)
