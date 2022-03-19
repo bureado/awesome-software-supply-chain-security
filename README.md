@@ -267,3 +267,4 @@ Also see:
 * [Binary Authorization for Borg: how Google verifies code provenance and implements code identity](https://cloud.google.com/docs/security/binary-authorization-for-borg)
 * [Application Security Weekly (Video) on Apple Podcasts](https://podcasts.apple.com/us/podcast/application-security-weekly-video/id1338908396)
 * [How to prioritize the improvement of open-source software security](https://www.brookings.edu/techstream/how-to-prioritize-the-improvement-of-open-source-software-security/)
+* [Software Supply Chain Security Turns to Risk Mitigation](https://www.nationaldefensemagazine.org/articles/2022/3/8/software-supply-chain-security-turns-to-risk-mitigation)
