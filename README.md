@@ -186,6 +186,7 @@ Also see:
   * [notaryproject/tuf: The Update Framework for OCI Registries](https://github.com/notaryproject/tuf)
     * Also see [vmware-labs/repository-editor-for-tuf: Command line tool for editing and maintaining a TUF repository](https://github.com/vmware-labs/repository-editor-for-tuf)
     * Also see [How to easily try out TUF + in-toto](https://badhomb.re/ci/security/2020/05/01/tuf-in-toto.html)
+    * Check out [Python-TUF reaches version 1.0.0](https://ssl.engineering.nyu.edu/blog/2022-02-21-tuf-1_0_0)
 * [deislabs/ratify: Artifact Ratification Framework](https://github.com/deislabs/ratify)
 * [latchset/tang: Tang binding daemon](https://github.com/latchset/tang)
 * [ietf-rats - Overview](https://github.com/ietf-rats)
