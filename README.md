@@ -288,3 +288,4 @@ Also see:
 * [News - reproducible-builds.org](https://reproducible-builds.org/news/)
 * [sigstore/community: General sigstore community repo](https://github.com/sigstore/community#slack)
 * [CycloneDX Use Cases](https://cyclonedx.org/use-cases/)
+* [Building a Sustainable Software Supply Chain](https://fossa.com/blog/building-sustainable-software-supply-chain/), particularly the section: "The Software Supply Chain Sustainability Maturity Model"
