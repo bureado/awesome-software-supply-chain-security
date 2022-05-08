@@ -35,6 +35,7 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
   * [ClearlyDefined](https://docs.clearlydefined.io/using-data) provides licensing information for open source components, given their coordinates
   * [LGTM - Code Analysis Platform to Find and Prevent Vulnerabilities](https://lgtm.com/#explore) allows manually searching by GitHub repo
   * [Binary Transparency](https://bintra.directory/) offers an API that allows to search packages by hash and other attributes
+    * A somehow related read is the second half of [How Cloudflare verifies the code WhatsApp Web serves to users](https://blog.cloudflare.com/cloudflare-verifies-code-whatsapp-web-serves-users/#security-needs-to-be-convenient)
 * For inputs acquired e.g., via `curl`:
   * [SpectralOps/preflight: preflight helps you verify scripts and executables to mitigate chain of supply attacks such as the recent Codecov hack.](https://github.com/spectralops/preflight)
   * [apiaryio/curl-trace-parser: Parser for output from Curl --trace option](https://github.com/apiaryio/curl-trace-parser)
