@@ -179,6 +179,7 @@ Also see:
     * [Cosign](https://docs.sigstore.dev/cosign/overview)
     * [Fulcio](https://docs.sigstore.dev/fulcio/overview)
     * [Rekor](https://docs.sigstore.dev/rekor/overview)
+    * Also see: [Kubernetes taps Sigstore to thwart open-source software supply chain attacks](https://www.zdnet.com/article/kubernetes-taps-sigstore-to-thwart-open-source-software-supply-chain-attacks/)
 * [cas - cas attestation service](https://cas.codenotary.com/)
 * [technosophos/helm-gpg: Chart signing and verification with GnuPG for Helm.](https://github.com/technosophos/helm-gpg)
 * [notaryproject/notary: Notary is a project that allows anyone to have trust over arbitrary collections of data](https://github.com/notaryproject/notary)
