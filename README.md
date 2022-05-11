@@ -69,8 +69,9 @@ Also read:
 The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
 
 * [GitBOM](https://gitbom.dev/)
-* [What an SBOM Can Do for You](https://blog.chainguard.dev/what-an-sbom-can-do-for-you/)
+  * Also see [bomsage/vision.md at main · dpp/bomsage](https://github.com/dpp/bomsage/blob/main/info/vision.md)
 * [awesomeSBOM/awesome-sbom: A curated list of SBOM (Software Bill Of Materials) related tools, frameworks, blogs, podcasts, and articles](https://github.com/awesomeSBOM/awesome-sbom)
+  * Also see [What an SBOM Can Do for You](https://blog.chainguard.dev/what-an-sbom-can-do-for-you/)
 * OWASP's [SCA tools](https://owasp.org/www-community/Source_Code_Analysis_Tools) list is comprehensive on its own
 * [Grafeas: A Component Metadata API](https://github.com/grafeas/grafeas)
 * [trailofbits/it-depends: A tool to automatically build a dependency graph and Software Bill of Materials (SBOM) for packages and arbitrary source code repositories.](https://github.com/trailofbits/it-depends)
@@ -209,6 +210,7 @@ Also see:
 * [Software Supply Chain Risk Management | BSIMM](https://www.bsimm.com/about/bsimm-for-vendors.html)
 * [microsoft/scim: Supply Chain Integrity Model](https://github.com/microsoft/SCIM)
 * [Goodbye SDLC, Hello SSDF! What is the Secure Software Development Framework?](https://blog.chainguard.dev/goodbye-sdlc-hello-ssdf-what-is-the-secure-software-development-framework/)
+  * Also [Comply with NIST's secure software supply chain framework with GitLab](https://about.gitlab.com/blog/2022/03/29/comply-with-nist-secure-supply-chain-framework-with-gitlab/)
 * The _Supply Chain Risk Management_ section of [SP 800-53 Rev. 5, Security and Privacy Controls for Info Systems and Organizations | CSRC](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final), also see [center-for-threat-informed-defense/attack-control-framework-mappings: Security control framework mappings to MITRE ATT&CK](https://github.com/center-for-threat-informed-defense/attack-control-framework-mappings)
 * [SP 800-161 Rev. 1, C-SCRM Practices for Systems and Organizations | CSRC](https://csrc.nist.gov/publications/detail/sp/800-161/rev-1/final)
 
