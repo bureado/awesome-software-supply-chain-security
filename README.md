@@ -298,3 +298,4 @@ Also see:
 * [Report: 95% of IT leaders say Log4shell was &#8216;major wake-up call&#8217; for cloud security](https://venturebeat.com/2022/04/29/report-95-of-it-leaders-say-log4shell-was-major-wake-up-call-for-cloud-security/)
 * Presentation: [Securing the Open Source Software Supply Chain](https://github.com/di/talks/raw/master/2022/pycon_us_2022/talk.pdf) at PyConUS2022 by Dustin Ingram
 * Watch: [The state of open source security in 2022](https://www.helpnetsecurity.com/2022/04/13/open-source-security-video/) with Kurt Seifried
+* Podcast: [Kubernetes Podcast from Google: Episode 174 - in-toto, with Santiago Torres-Arias](https://kubernetespodcast.com/episode/174-in-toto/)
