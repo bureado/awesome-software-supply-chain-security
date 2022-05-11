@@ -225,6 +225,7 @@ Also see:
 
 * [Zero Trust the Hard Way](https://www.youtube.com/watch?app=desktop&v=PMhPWGRzIzM), Kelsey Hightower
 * [KubePhilly March 2022-  A Look At The Kubernetes SLSA Compliance Project](https://www.youtube.com/watch?v=KV6kfO6gtho)
+* [Supply Chain Risk Management](https://blog.aquia.us/blog/2022-03-06-supply-chain-risk-mgmt/)
 
 ## Build techniques
 
