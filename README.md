@@ -148,6 +148,7 @@ More interesting resources:
 * Several [pre-commit](https://pre-commit.com/hooks.html) hooks allow vulnerability checking right before dependency ingestion time into the codebase
   * e.g., [pyupio/safety: Safety checks your installed dependencies for known security vulnerabilities](https://github.com/pyupio/safety)
     * Or [npm-audit](https://docs.npmjs.com/cli/v8/commands/npm-audit)
+      * Also see [snyk-labs/snync: Mitigate security concerns of Dependency Confusion supply chain security risks](https://github.com/snyk-labs/snync)
     * Or [requires.io | Monitor your dependencies](https://requires.io/)
     * Or [Brakeman Security Scanner](https://brakemanscanner.org/)
     * Or [trailofbits/pip-audit: Audits Python environments and dependency trees for known vulnerabilities](https://github.com/trailofbits/pip-audit)
