@@ -80,6 +80,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
     * Also read [Use Cases - Renovate Docs](https://docs.renovatebot.com/getting-started/use-cases/)
 * [JFrog Xray - Universal Component Analysis &amp; Container Security Scanning](https://jfrog.com/xray/)
 * [DependencyTrack/dependency-track: Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.](https://github.com/DependencyTrack/dependency-track)
+* Read: [SBOM Management | Six Ways It Prevents SBOM Sprawl](https://anchore.com/sbom/sbom-management-and-six-ways-it-prevents-sbom-sprawl/?utm_content=194184253)
 * [anchore/syft: CLI tool and library for generating a Software Bill of Materials from container images and filesystems](https://github.com/anchore/syft) from [Software supply chain security solutions • Anchore](https://anchore.com/)
   * Also note: [New `docker sbom` Command Creates SBOMs Using Syft](https://anchore.com/sbom/docker-sbom-command-creates-sbom-using-syft/)
   * [Creating SBOM Attestations Using Syft and Sigstore](https://anchore.com/sbom/creating-sbom-attestations-using-syft-and-sigstore/)
