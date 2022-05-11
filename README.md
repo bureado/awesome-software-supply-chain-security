@@ -300,3 +300,4 @@ Also see:
 * Presentation: [Securing the Open Source Software Supply Chain](https://github.com/di/talks/raw/master/2022/pycon_us_2022/talk.pdf) at PyConUS2022 by Dustin Ingram
 * Watch: [The state of open source security in 2022](https://www.helpnetsecurity.com/2022/04/13/open-source-security-video/) with Kurt Seifried
 * Podcast: [Kubernetes Podcast from Google: Episode 174 - in-toto, with Santiago Torres-Arias](https://kubernetespodcast.com/episode/174-in-toto/)
+* [EO 14028 and Supply Chain Security](https://www.testifysec.com/blog/turtles-all-the-way-down/)
