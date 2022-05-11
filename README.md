@@ -132,6 +132,7 @@ More interesting resources:
 * [GitHub Advisory Database now open to community contributions](https://github.blog/2022-02-22-github-advisory-database-now-open-to-community-contributions/)
 * [Global Security Database Working Group | CSA](https://cloudsecurityalliance.org/research/working-groups/global-security-database/)
 * [trickest/cve: Gather and update all available and newest CVEs with their PoC.](https://github.com/trickest/cve)
+* [RFC 9116: A File Format to Aid in Security Vulnerability Disclosure](https://www.rfc-editor.org/rfc/rfc9116)
 
 ## Point-of-use validations
 
