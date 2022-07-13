@@ -90,7 +90,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * [tern-tools/tern: Tern is a software composition analysis tool and Python library that generates a Software Bill of Materials for container images and Dockerfiles. The SBOM that Tern generates will give you a layer-by-layer view of what&#39;s inside your container in a variety of formats including human-readable, JSON, HTML, SPDX and more.](https://github.com/tern-tools/tern)
 * [REA-Products/C-SCRM-Use-Case at master · rjb4standards/REA-Products](https://github.com/rjb4standards/REA-Products/tree/master/C-SCRM-Use-Case) from [this tweet](https://twitter.com/rjb4standards/status/1481250447331573761?s=12)
   * Also see [Energy SBOM Proof of Concept - INL](https://inl.gov/sbom-poc/)
-* [peterjmorgan/phylum-analyze-pr-action: GitHub Action to analyze Pull Requests for open-source supply chain issues](https://github.com/peterjmorgan/phylum-analyze-pr-action) from [Phylum | Future of Software Supply Chain Security](https://phylum.io/)
+* [Phylum Analyze PR Action: GitHub Action to analyze Pull Requests for open-source supply chain issues](https://github.com/phylum-dev/phylum-analyze-pr-action) from [Phylum | The Software Supply Chain Security Company](https://phylum.io/)
 * [OWASP/Software-Component-Verification-Standard: Software Component Verification Standard (SCVS)](https://github.com/OWASP/Software-Component-Verification-Standard)
 * [microsoft/component-detection: Scans your project to determine what components you use](https://github.com/microsoft/component-detection/)
 * [DWARF 5 Standard](https://dwarfstd.org/Dwarf5Std.php)
