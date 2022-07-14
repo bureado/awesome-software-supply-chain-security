@@ -124,7 +124,7 @@ More interesting resources:
 * [nexB/vulnerablecode: A work-in-progress towards a free and open vulnerabilities database and the packages they impact. And the tools to aggregate and correlate these vulnerabilities. Sponsored by NLnet https://nlnet.nl/project/vulnerabilitydatabase/ for https://www.aboutcode.org/ Chat at https://gitter.im/aboutcode-org/vulnerablecode](https://github.com/nexB/vulnerablecode)
 * [toolswatch/vFeed: The Correlated CVE Vulnerability And Threat Intelligence Database API](https://github.com/toolswatch/vFeed)
 * [ossf/scorecard: Security Scorecards - Security health metrics for Open Source](https://github.com/ossf/scorecard), [OpenSSF Metrics](https://metrics.openssf.org/) and [ossf/security-reviews: A community collection of security reviews of open source software components.](https://github.com/ossf/security-reviews)
-  * Also [luigigubello/security-insights-spec: OPENSSF SECURITY INSIGHTS: Repository for development of the draft standard, where requests for modification should be made via Github Issues.](https://github.com/luigigubello/security-insights-spec)
+  * Also [OpenSSF Security Insights Spec](https://github.com/ossf/security-insights-spec)
 * [Lynis - Security auditing and hardening tool for Linux/Unix](https://cisofy.com/lynis/)
 * [victims/victims-cve-db: CVE database store](https://github.com/victims/victims-cve-db)
 * [anchore/grype: A vulnerability scanner for container images and filesystems](https://github.com/anchore/grype)
