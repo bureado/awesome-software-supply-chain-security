@@ -138,6 +138,10 @@ More interesting resources:
 * An AOSP vuln-to-commit exercise: [quarkslab/aosp_dataset: Large Commit Precise Vulnerability Dataset based on AOSP CVE](https://github.com/quarkslab/aosp_dataset)
   * [Commit Level Vulnerability Dataset](https://blog.quarkslab.com/commit-level-vulnerability-dataset.html)
 
+Also see:
+
+* [Vulncode-DB](https://www.vulncode-db.com/end) on deprecation path
+
 ## Point-of-use validations
 
 > This section includes: admission and ingestion policies, pull-time verification and end-user verifications.
