@@ -264,6 +264,8 @@ Also see:
 
 ## Talks, articles, media coverage and other reading
 
+* [Secure Software Development Fundamentals Courses - Open Source Security Foundation](https://openssf.org/training/courses/)
+  * [Securing Your Software Supply Chain with Sigstore](https://www.edx.org/course/securing-your-software-supply-chain-with-sigstore)
 * [Census II of Free and Open Source Software — Application Libraries](https://linuxfoundation.org/wp-content/uploads/LFResearch_Harvard_Census_II.pdf)
 * [“Chain”ging the Game - how runtime makes your supply chain even more secure](https://sysdig.com/blog/chainging-the-game/)
 * [How to attack cloud infrastructure via a malicious pull request](https://goteleport.com/blog/hack-via-pull-request/)
