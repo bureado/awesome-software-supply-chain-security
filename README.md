@@ -147,6 +147,7 @@ More interesting resources:
 Also see:
 
 * [Vulncode-DB](https://www.vulncode-db.com/end) on deprecation path
+* [GitHub brings supply chain security features to the Rust community](https://github.blog/2022-06-06-github-brings-supply-chain-security-features-to-the-rust-community/)
 
 ## Point-of-use validations
 
