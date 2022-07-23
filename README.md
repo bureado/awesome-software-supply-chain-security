@@ -219,7 +219,7 @@ Also see:
 * [ietf-rats - Overview](https://github.com/ietf-rats)
 * [An exposed apt signing key and how to improve apt security](https://blog.cloudflare.com/dont-use-apt-key/)
 * See [Issue #21 · testifysec/witness](https://github.com/testifysec/witness/issues/21#issuecomment-991774080) for a succinct description of how [testifysec/witness: Witness is a pluggable framework for software supply chain risk management.  It automates, normalizes, and verifies software artifact providence.](https://github.com/testifysec/witness/) deals with attestation chains 
-  * Another [testify example with GitLab](https://gitlab.com/testifysec/demos/witness-demo)
+  * Another [witness example with GitLab](https://gitlab.com/testifysec/demos/witness-demo)
 * [Allow using SSH keys to sign commits · Discussion #7744 · github/feedback](https://github.com/github/feedback/discussions/7744#discussioncomment-1794438)
 * Read: [Securing Gitpod's Software Supply Chain with SLSA](https://www.gitpod.io/blog/securing-the-software-supply-chain-at-gitpod-with-slsa)
 
