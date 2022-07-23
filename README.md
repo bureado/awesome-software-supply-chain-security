@@ -118,6 +118,11 @@ More interesting resources:
 * [Software Composition Analysis Podcast: Software Supply Chain - Episode 1](https://www.youtube.com/watch?v=ryRV-bAyHXY&list=PLnaFG2n4CcbNi9wtjKZLh2m4cANoqNcgu)
 * [Critical Update: Do You Know What’s In Your Software?](https://www.nextgov.com/podcasts/2021/05/critical-update-do-you-know-whats-your-software/174100/)
 
+A few open source projects are documenting, in public, how they acquire dependencies. This intentional, human-parsable, long-form examples can be illustrative:
+
+* [envoy/DEPENDENCY_POLICY.md at main · envoyproxy/envoy](https://github.com/envoyproxy/envoy/blob/main/DEPENDENCY_POLICY.md)
+* [What curl expects from dependencies](https://daniel.haxx.se/blog/2022/03/28/what-curl-expects-from-dependencies/)
+
 ### Vulnerability information exchange
 
 * [CycloneDX - Vulnerability Exploitability Exchange (VEX)](https://cyclonedx.org/capabilities/vex/)
