@@ -228,6 +228,7 @@ Also see:
   * Another [witness example with GitLab](https://gitlab.com/testifysec/demos/witness-demo)
 * [Allow using SSH keys to sign commits · Discussion #7744 · github/feedback](https://github.com/github/feedback/discussions/7744#discussioncomment-1794438)
 * Read: [Securing Gitpod's Software Supply Chain with SLSA](https://www.gitpod.io/blog/securing-the-software-supply-chain-at-gitpod-with-slsa)
+* Read: [Monitoring the kernel.org Transparency Log for a year](https://linderud.dev/blog/monitoring-the-kernel.org-transparency-log-for-a-year/)
 
 ## Frameworks and best practice references
 
