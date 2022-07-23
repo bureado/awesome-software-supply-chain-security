@@ -278,6 +278,7 @@ Also see:
 ## Talks, articles, media coverage and other reading
 
 * A great compilation of reads, context and learning materials: [chainguard-dev/ssc-reading-list: A reading list for software supply-chain security.](https://github.com/chainguard-dev/ssc-reading-list)
+* A great visual reference by Enso Security: [AppSec Map](https://appsecmap.com/MyMap)
 * [Secure Software Development Fundamentals Courses - Open Source Security Foundation](https://openssf.org/training/courses/)
   * [Securing Your Software Supply Chain with Sigstore](https://www.edx.org/course/securing-your-software-supply-chain-with-sigstore)
 * [Census II of Free and Open Source Software — Application Libraries](https://linuxfoundation.org/wp-content/uploads/LFResearch_Harvard_Census_II.pdf)
