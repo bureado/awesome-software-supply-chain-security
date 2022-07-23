@@ -330,3 +330,4 @@ Also see:
 * Podcast: [Kubernetes Podcast from Google: Episode 174 - in-toto, with Santiago Torres-Arias](https://kubernetespodcast.com/episode/174-in-toto/)
 * [EO 14028 and Supply Chain Security](https://www.testifysec.com/blog/turtles-all-the-way-down/)
 * [Reducing Open Source Risk Throughout the Development, Delivery and Deployment of SBOMs](https://icitech.org/wp-content/uploads/2022/05/SBOM_Whitepaper.pdf), a May 2022 paper illustrating at a high level the differences between SBOMs in publishing, distribution and delivery scenarios; see pages 6-9
+* [Open Source Security Foundation (OpenSSF) Security Mobilization Plan](https://openssf.org/oss-security-mobilization-plan/)
