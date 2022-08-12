@@ -358,3 +358,4 @@ Also see:
 * [Reducing Open Source Risk Throughout the Development, Delivery and Deployment of SBOMs](https://icitech.org/wp-content/uploads/2022/05/SBOM_Whitepaper.pdf), a May 2022 paper illustrating at a high level the differences between SBOMs in publishing, distribution and delivery scenarios; see pages 6-9
 * [Open Source Security Foundation (OpenSSF) Security Mobilization Plan](https://openssf.org/oss-security-mobilization-plan/)
 * [Not Just Third Party Risk](https://www.kusari.dev/blog/not_just_tprm/)
+* [Open-Source Security: How Digital Infrastructure Is Built on a House of Cards](https://www.lawfareblog.com/open-source-security-how-digital-infrastructure-built-house-cards)
