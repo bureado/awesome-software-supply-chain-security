@@ -168,6 +168,7 @@ Also see:
 * Read: [A closer look at CVSS scores](https://theoryof.predictable.software/articles/a-closer-look-at-cvss-scores/)
 * Fortress: [Vulnerability Management](https://www.fortressinfosec.com/product-security/vulnerability-management)
 * [Vulnerability Management | aDolus](https://adolus.com/solutions/vulnerability-management/)
+* [secvisogram/secvisogram: Secvisogram is a web tool for creating and editing security advisories in the CSAF 2.0 format](https://github.com/secvisogram/secvisogram/)
 
 ## Point-of-use validations
 
