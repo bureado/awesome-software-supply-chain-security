@@ -159,6 +159,9 @@ A few open source projects are documenting, in public, how they acquire dependen
   * [Commit Level Vulnerability Dataset](https://blog.quarkslab.com/commit-level-vulnerability-dataset.html)
 * [nyph-infosec/daggerboard](https://github.com/nyph-infosec/daggerboard)
 * [davideshay/vulnscan: Vulnerability Scanner Suite based on grype and syft from anchore](https://github.com/davideshay/vulnscan#readme)
+* Fortress: [Vulnerability Management](https://www.fortressinfosec.com/product-security/vulnerability-management)
+* [Vulnerability Management | aDolus](https://adolus.com/solutions/vulnerability-management/)
+* [secvisogram/secvisogram: Secvisogram is a web tool for creating and editing security advisories in the CSAF 2.0 format](https://github.com/secvisogram/secvisogram/)
 
 Also see:
 
@@ -166,9 +169,6 @@ Also see:
 * [GitHub brings supply chain security features to the Rust community](https://github.blog/2022-06-06-github-brings-supply-chain-security-features-to-the-rust-community/)
 * [CyCognito Adopts Mapping ATT&CK to CVE for Impact](https://info.mitre-engenuity.org/hubfs/Center%20for%20Threat%20Informed%20Defense/Adoption%20Spotlight_CVE%20for%20Impact_CTID_CyCognito_20220622_Final.pdf)
 * Read: [A closer look at CVSS scores](https://theoryof.predictable.software/articles/a-closer-look-at-cvss-scores/)
-* Fortress: [Vulnerability Management](https://www.fortressinfosec.com/product-security/vulnerability-management)
-* [Vulnerability Management | aDolus](https://adolus.com/solutions/vulnerability-management/)
-* [secvisogram/secvisogram: Secvisogram is a web tool for creating and editing security advisories in the CSAF 2.0 format](https://github.com/secvisogram/secvisogram/)
 
 ## Point-of-use validations
 
