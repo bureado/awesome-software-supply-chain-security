@@ -109,6 +109,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * [Mend SCA SBOM](https://www.mend.io/sbom/)
 * [Rezillion Dynamic SBOM](https://www.rezilion.com/platform/dynamic-sbom/)
 * [opensbom-generator/spdx-sbom-generator: Support CI generation of SBOMs via golang tooling.](https://github.com/opensbom-generator/spdx-sbom-generator)
+* Tauruseer's [SBOM tools](https://www.tauruseer.com/platform/dynamic-software-bill-of-materials-SBOM)
 
 More interesting resources:
 
