@@ -107,6 +107,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
   * Impressive list of integrations with samples: [DefectDojo/sample-scan-files: Sample scan files for testing DefectDojo imports](https://github.com/DefectDojo/sample-scan-files)
 * FOSSA's [SBOM Solution](https://fossa.com/lp/simplify-sbom-generation-fossa)
 * [Mend SCA SBOM](https://www.mend.io/sbom/)
+* [Rezillion Dynamic SBOM](https://www.rezilion.com/platform/dynamic-sbom/)
 
 More interesting resources:
 
