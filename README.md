@@ -280,6 +280,7 @@ Also see:
 * [defenseunicorns/zarf: DevSecOps for Air Gap & Limited-Connection Systems. https://zarf.dev/](https://github.com/defenseunicorns/zarf)
 * On instrumenting runners:
   * Keep an eye on [Draft: POC Witness Runner integration (!1) · Merge requests · testifysec / gitlab-runner](https://gitlab.com/testifysec/gitlab-runner/-/merge_requests/1) for GitLab runners
+* [reposaur/reposaur: Open source compliance tool for development platforms.](https://github.com/reposaur/reposaur)
 
 Also see:
 
