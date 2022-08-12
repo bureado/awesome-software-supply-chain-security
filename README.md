@@ -283,6 +283,7 @@ Also see:
 * On instrumenting runners:
   * Keep an eye on [Draft: POC Witness Runner integration (!1) · Merge requests · testifysec / gitlab-runner](https://gitlab.com/testifysec/gitlab-runner/-/merge_requests/1) for GitLab runners
 * [reposaur/reposaur: Open source compliance tool for development platforms.](https://github.com/reposaur/reposaur)
+* [buildsec/frsca](https://github.com/buildsec/frsca) is an implementation of the CNCF's Secure Software Factory Reference Architecture. It is also intended to follow SLSA requirements closely and generate in-toto attesttations for SLSA provenance predicates.
 
 Also see:
 
