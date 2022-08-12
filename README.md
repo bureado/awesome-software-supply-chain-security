@@ -170,7 +170,6 @@ Also see:
 
 * [Kyverno](https://kyverno.io/)
 * [ckotzbauer/sbom-operator: Catalogue all images of a Kubernetes cluster to multiple targets with Syft](https://github.com/ckotzbauer/sbom-operator)
-* [ossf/allstar: GitHub App to set and enforce security policies](https://github.com/ossf/allstar)
 * [Open Policy Agent](https://www.openpolicyagent.org/)
 * [Conftest](https://www.conftest.dev/examples/) allows to write tests against structured configuration data using the Open Policy Agent Rego query language: [here's an example](https://github.com/open-policy-agent/conftest/blob/master/examples/docker/policy/commands.rego)
 * Several [pre-commit](https://pre-commit.com/hooks.html) hooks allow vulnerability checking right before dependency ingestion time into the codebase
@@ -286,6 +285,7 @@ Also see:
 * [reposaur/reposaur: Open source compliance tool for development platforms.](https://github.com/reposaur/reposaur)
 * [buildsec/frsca](https://github.com/buildsec/frsca) is an implementation of the CNCF's Secure Software Factory Reference Architecture. It is also intended to follow SLSA requirements closely and generate in-toto attesttations for SLSA provenance predicates.
 * [aquasecurity/chain-bench: an open-source tool for auditing your software supply chain stack for security compliance](https://github.com/aquasecurity/chain-bench?utm_source=thenewstack&utm_medium=website&utm_campaign=platform) implementing checks for [CIS 1.0 | Vulnerability Database | Aqua Security](https://avd.aquasec.com/compliance/softwaresupplychain/cis-1.0/?utm_source=thenewstack&utm_medium=website&utm_campaign=platform)
+* [ossf/allstar: GitHub App to set and enforce security policies](https://github.com/ossf/allstar)
 
 Also see:
 
