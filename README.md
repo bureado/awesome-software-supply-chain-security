@@ -167,6 +167,7 @@ Also see:
 * [CyCognito Adopts Mapping ATT&CK to CVE for Impact](https://info.mitre-engenuity.org/hubfs/Center%20for%20Threat%20Informed%20Defense/Adoption%20Spotlight_CVE%20for%20Impact_CTID_CyCognito_20220622_Final.pdf)
 * Read: [A closer look at CVSS scores](https://theoryof.predictable.software/articles/a-closer-look-at-cvss-scores/)
 * Fortress: [Vulnerability Management](https://www.fortressinfosec.com/product-security/vulnerability-management)
+* [Vulnerability Management | aDolus](https://adolus.com/solutions/vulnerability-management/)
 
 ## Point-of-use validations
 
