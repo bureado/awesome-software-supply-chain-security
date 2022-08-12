@@ -105,6 +105,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * [Security problem management](https://www.dynatrace.com/support/help/how-to-use-dynatrace/application-security/security-problem-management) in Dynatrace Application Security
 * [DefectDojo/django-DefectDojo: DefectDojo is a DevSecOps and vulnerability management tool.](https://github.com/DefectDojo/django-DefectDojo)
   * Impressive list of integrations with samples: [DefectDojo/sample-scan-files: Sample scan files for testing DefectDojo imports](https://github.com/DefectDojo/sample-scan-files)
+* FOSSA's [SBOM Solution](https://fossa.com/lp/simplify-sbom-generation-fossa)
 
 More interesting resources:
 
