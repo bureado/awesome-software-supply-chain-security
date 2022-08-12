@@ -86,7 +86,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * [JFrog Xray - Universal Component Analysis &amp; Container Security Scanning](https://jfrog.com/xray/)
 * [DependencyTrack/dependency-track: Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.](https://github.com/DependencyTrack/dependency-track)
   * [Good read on Dependency-Track](https://tomalrichblog.blogspot.com/2022/06/the-first-complete-sbom-tool.html?m=1)
-* Read: [SBOM Management | Six Ways It Prevents SBOM Sprawl](https://anchore.com/sbom/sbom-management-and-six-ways-it-prevents-sbom-sprawl/?utm_content=194184253)
+* Read: [SBOM Management | Six Ways It Prevents SBOM Sprawl](https://anchore.com/sbom/sbom-management-and-six-ways-it-prevents-sbom-sprawl/)
 * [anchore/syft: CLI tool and library for generating a Software Bill of Materials from container images and filesystems](https://github.com/anchore/syft) from [Software supply chain security solutions • Anchore](https://anchore.com/)
   * Also note: [New `docker sbom` Command Creates SBOMs Using Syft](https://anchore.com/sbom/docker-sbom-command-creates-sbom-using-syft/)
   * [Creating SBOM Attestations Using Syft and Sigstore](https://anchore.com/sbom/creating-sbom-attestations-using-syft-and-sigstore/)
@@ -118,7 +118,7 @@ More interesting resources:
 
 * [Brakeing Down Security Podcast: 2020-031-Allan Friedman, SBOM, software transparency, and knowing how the sausage is made](https://brakeingsecurity.com/2020-031-allan-friedman-sbom-software-transparency-and-knowing-how-the-sausage-is-made?tdest_id=282477)
 * [Episode 312: The Legend of the SBOM](https://opensourcesecurity.io/2022/02/27/episode-312-the-legend-of-the-sbom/)
-* [Reimagining Cyber Podcast: Log4j vulnerability provides harsh lessons in unknown dependencies](https://community.microfocus.com/cyberres/b/sws-22/posts/reimagining-cyber-podcast-log4j-vulnerability-provides-harsh-lessons-in-unknown-dependencies?utm_source=socialmedia&utm_medium=social&utm_campaign=7014J000000dXXVQA2)
+* [Reimagining Cyber Podcast: Log4j vulnerability provides harsh lessons in unknown dependencies](https://community.microfocus.com/cyberres/b/sws-22/posts/reimagining-cyber-podcast-log4j-vulnerability-provides-harsh-lessons-in-unknown-dependencies)
 * [Tech Debt Burndown Podcast Series 1 E11: Allan Friedman and SBOMs](https://techdebtburndown.com/episode11/)
 * [Sounil Yu on SBOMs, software supply chain security - Security Conversations](https://securityconversations.com/episode/sounil-yu-on-sboms-software-supply-chain-security/)
 * [Exploring Security. Criticality of SBOM. Scott McGregor, Cloud Security, Wind River](https://soundcloud.com/cybercrimemagazine/exploring-security-criticality-of-sbom-scott-mcgregor-cloud-security-wind-river)
@@ -284,7 +284,7 @@ Also see:
   * Keep an eye on [Draft: POC Witness Runner integration (!1) · Merge requests · testifysec / gitlab-runner](https://gitlab.com/testifysec/gitlab-runner/-/merge_requests/1) for GitLab runners
 * [reposaur/reposaur: Open source compliance tool for development platforms.](https://github.com/reposaur/reposaur)
 * [buildsec/frsca](https://github.com/buildsec/frsca) is an implementation of the CNCF's Secure Software Factory Reference Architecture. It is also intended to follow SLSA requirements closely and generate in-toto attesttations for SLSA provenance predicates.
-* [aquasecurity/chain-bench: an open-source tool for auditing your software supply chain stack for security compliance](https://github.com/aquasecurity/chain-bench?utm_source=thenewstack&utm_medium=website&utm_campaign=platform) implementing checks for [CIS 1.0 | Vulnerability Database | Aqua Security](https://avd.aquasec.com/compliance/softwaresupplychain/cis-1.0/?utm_source=thenewstack&utm_medium=website&utm_campaign=platform)
+* [aquasecurity/chain-bench: an open-source tool for auditing your software supply chain stack for security compliance](https://github.com/aquasecurity/chain-bench) implementing checks for [CIS 1.0 | Vulnerability Database | Aqua Security](https://avd.aquasec.com/compliance/softwaresupplychain/cis-1.0/)
 * [ossf/allstar: GitHub App to set and enforce security policies](https://github.com/ossf/allstar)
 
 Also see:
@@ -340,7 +340,7 @@ Also see:
 * [Code scanning finds more vulnerabilities using machine learning](https://github.blog/2022-02-17-code-scanning-finds-vulnerabilities-using-machine-learning/)
 * [Securing Open Source Software at the Source](https://www.plaintextgroup.com/reports/securing-open-source-software-at-the-source)
 * [Security: The Value of SBOMs](https://fluxcd.io/blog/2022/02/security-the-value-of-sboms/)
-* [Why SBOMS & Security Scanning Go Together - Upstream: The Software Supply Chain Security Podcast presented by Anchore](https://www.buzzsprout.com/1913318/10096487?utm_content=198702382&utm_medium=social&utm_source=twitter&hss_channel=tw-46390865)
+* [Why SBOMS & Security Scanning Go Together - Upstream: The Software Supply Chain Security Podcast presented by Anchore](https://www.buzzsprout.com/1913318/10096487)
 * [Whose Sign Is It Anyway?](https://www.youtube.com/watch?v=psTh2xOvVJI) - Marina Moore, NYU & Matthew Riley, Google
 * [Binary Authorization for Borg: how Google verifies code provenance and implements code identity](https://cloud.google.com/docs/security/binary-authorization-for-borg)
 * [Application Security Weekly (Video) on Apple Podcasts](https://podcasts.apple.com/us/podcast/application-security-weekly-video/id1338908396)
