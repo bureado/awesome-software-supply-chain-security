@@ -37,6 +37,7 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
   * [LGTM - Code Analysis Platform to Find and Prevent Vulnerabilities](https://lgtm.com/#explore) allows manually searching by GitHub repo
   * [Binary Transparency directory](https://bintra.directory/) offers an API that allows to search packages by hash and other attributes
     * A somehow related read is the second half of [How Cloudflare verifies the code WhatsApp Web serves to users](https://blog.cloudflare.com/cloudflare-verifies-code-whatsapp-web-serves-users/#security-needs-to-be-convenient)
+    * And [Subresource Integrity](https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity)
     * Not to be confused with the legendary read on [Binary Transparency](https://binary.transparency.dev/)
 * For inputs acquired e.g., via `curl`:
   * [SpectralOps/preflight: preflight helps you verify scripts and executables to mitigate chain of supply attacks such as the recent Codecov hack.](https://github.com/spectralops/preflight)
