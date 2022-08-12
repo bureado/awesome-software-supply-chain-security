@@ -156,6 +156,7 @@ A few open source projects are documenting, in public, how they acquire dependen
 * An AOSP vuln-to-commit exercise: [quarkslab/aosp_dataset: Large Commit Precise Vulnerability Dataset based on AOSP CVE](https://github.com/quarkslab/aosp_dataset)
   * [Commit Level Vulnerability Dataset](https://blog.quarkslab.com/commit-level-vulnerability-dataset.html)
 * [nyph-infosec/daggerboard](https://github.com/nyph-infosec/daggerboard)
+* [davideshay/vulnscan: Vulnerability Scanner Suite based on grype and syft from anchore](https://github.com/davideshay/vulnscan#readme)
 
 Also see:
 
