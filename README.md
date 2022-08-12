@@ -114,6 +114,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * [opensbom-generator/spdx-sbom-generator: Support CI generation of SBOMs via golang tooling.](https://github.com/opensbom-generator/spdx-sbom-generator)
 * Tauruseer's [SBOM tools](https://www.tauruseer.com/platform/dynamic-software-bill-of-materials-SBOM)
 * SOOS' [Supported Languages & Manifests](https://kb.soos.io/help/soos-languages-supported)
+* Fortress: [Software Bill of Materials](https://www.fortressinfosec.com/sbom)
 
 More interesting resources:
 
@@ -165,6 +166,7 @@ Also see:
 * [GitHub brings supply chain security features to the Rust community](https://github.blog/2022-06-06-github-brings-supply-chain-security-features-to-the-rust-community/)
 * [CyCognito Adopts Mapping ATT&CK to CVE for Impact](https://info.mitre-engenuity.org/hubfs/Center%20for%20Threat%20Informed%20Defense/Adoption%20Spotlight_CVE%20for%20Impact_CTID_CyCognito_20220622_Final.pdf)
 * Read: [A closer look at CVSS scores](https://theoryof.predictable.software/articles/a-closer-look-at-cvss-scores/)
+* Fortress: [Vulnerability Management](https://www.fortressinfosec.com/product-security/vulnerability-management)
 
 ## Point-of-use validations
 
