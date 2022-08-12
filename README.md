@@ -108,6 +108,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * FOSSA's [SBOM Solution](https://fossa.com/lp/simplify-sbom-generation-fossa)
 * [Mend SCA SBOM](https://www.mend.io/sbom/)
 * [Rezillion Dynamic SBOM](https://www.rezilion.com/platform/dynamic-sbom/)
+* [opensbom-generator/spdx-sbom-generator: Support CI generation of SBOMs via golang tooling.](https://github.com/opensbom-generator/spdx-sbom-generator)
 
 More interesting resources:
 
