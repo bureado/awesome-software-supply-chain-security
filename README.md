@@ -264,6 +264,7 @@ Also see:
   * Also [Comply with NIST's secure software supply chain framework with GitLab](https://about.gitlab.com/blog/2022/03/29/comply-with-nist-secure-supply-chain-framework-with-gitlab/)
 * The _Supply Chain Risk Management_ section of [SP 800-53 Rev. 5, Security and Privacy Controls for Info Systems and Organizations | CSRC](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final), also see [center-for-threat-informed-defense/attack-control-framework-mappings: Security control framework mappings to MITRE ATT&CK](https://github.com/center-for-threat-informed-defense/attack-control-framework-mappings)
 * [SP 800-161 Rev. 1, C-SCRM Practices for Systems and Organizations | CSRC](https://csrc.nist.gov/publications/detail/sp/800-161/rev-1/final)
+* [npm Best Practices Guide](https://github.com/ossf/package-manager-best-practices/blob/main/published/npm.md) (OpenSSF) - Features and recommendations on using npm safely
 
 Also see:
 
