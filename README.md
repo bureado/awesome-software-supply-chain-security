@@ -331,8 +331,16 @@ Also see:
 
 ## Talks, articles, media coverage and other reading
 
-* A great compilation of reads, context and learning materials: [chainguard-dev/ssc-reading-list: A reading list for software supply-chain security.](https://github.com/chainguard-dev/ssc-reading-list)
-* A great visual reference by Enso Security: [AppSec Map](https://appsecmap.com/MyMap)
+* A few resources, in addition to this repository, that can help keep up with news and announcements:
+  * An RSS feed maintained by [@bureado](https://github.com/bureado) with a mix of open source security, DevSecOps, AppSec and supply chain security news: [corner-security](https://www.inoreader.com/stream/user/1005644984/tag/corner-security)
+  * [tl;dr sec Newsletter](https://tldrsec.com/newsletter/)
+  * [Past Issues | CloudSecList](https://cloudseclist.com/past-issues/)
+  * [News - reproducible-builds.org](https://reproducible-builds.org/news/)
+  * A great compilation of reads, context and learning materials: [chainguard-dev/ssc-reading-list: A reading list for software supply-chain security.](https://github.com/chainguard-dev/ssc-reading-list)
+  * And a visual reference by Enso Security: [AppSec Map](https://appsecmap.com/MyMap)
+
+And a collection of reads and listens, ranging from insightful blog posts, explainers/all-rounders and some long-form analysis (we've tried to keep deep dive reads scoped to other sections)
+
 * [Secure Software Development Fundamentals Courses - Open Source Security Foundation](https://openssf.org/training/courses/)
   * [Securing Your Software Supply Chain with Sigstore](https://www.edx.org/course/securing-your-software-supply-chain-with-sigstore)
 * [Census II of Free and Open Source Software — Application Libraries](https://linuxfoundation.org/wp-content/uploads/LFResearch_Harvard_Census_II.pdf)
@@ -377,9 +385,6 @@ Also see:
   * And [Strengthening digital infrastructure: A policy agenda for free and open source software](https://www.brookings.edu/research/strengthening-digital-infrastructure-a-policy-agenda-for-free-and-open-source-software/)
 * [Software Supply Chain Security Turns to Risk Mitigation](https://www.nationaldefensemagazine.org/articles/2022/3/8/software-supply-chain-security-turns-to-risk-mitigation)
 * [Reproducible Builds: Increasing the Integrity of Software Supply Chains](https://arxiv.org/abs/2104.06020)
-* [tl;dr sec Newsletter](https://tldrsec.com/newsletter/)
-* [Past Issues | CloudSecList](https://cloudseclist.com/past-issues/)
-* [News - reproducible-builds.org](https://reproducible-builds.org/news/)
 * [sigstore/community: General sigstore community repo](https://github.com/sigstore/community#slack)
 * [CycloneDX Use Cases](https://cyclonedx.org/use-cases/)
   * Listen: [#6: Steve Springett: CycloneDX and the Future of SBOMs - Cybellum](https://cybellum.com/podcast/6-steve-springett-cyclonedx-and-the-future-of-sboms/)
