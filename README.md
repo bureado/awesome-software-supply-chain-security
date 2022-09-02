@@ -71,6 +71,7 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
 Also read:
 
 * [TaptuIT/awesome-devsecops: Curating the best DevSecOps resources and tooling.](https://github.com/TaptuIT/awesome-devsecops#dependency-management)
+* Read: [Contour: A Practical System for Binary Transparency](https://arxiv.org/abs/1712.08427)
 
 ### SCA and SBOM
 
