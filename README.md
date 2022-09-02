@@ -288,6 +288,8 @@ Also see:
 * Read: [Securing Gitpod's Software Supply Chain with SLSA](https://www.gitpod.io/blog/securing-the-software-supply-chain-at-gitpod-with-slsa)
 * Read: [A First Step to Attaining SLSA Level 3 on GitHub](https://blogs.vmware.com/opensource/2022/08/02/a-first-step-to-attaining-slsa-level-3-on-github/)
 * Read: [Monitoring the kernel.org Transparency Log for a year](https://linderud.dev/blog/monitoring-the-kernel.org-transparency-log-for-a-year/)
+* [paragonie/libgossamer: Public Key Infrastructure without Certificate Authorities, for WordPress and Packagist](https://github.com/paragonie/libgossamer)
+  * Read: [Solving Open Source Supply Chain Security for the PHP Ecosystem](https://paragonie.com/blog/2022/01/solving-open-source-supply-chain-security-for-php-ecosystem)
 
 ## Frameworks and best practice references
 
