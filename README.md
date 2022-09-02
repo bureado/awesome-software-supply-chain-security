@@ -171,7 +171,7 @@ A few open source projects are documenting, in public, how they acquire dependen
   * Also see [Using Grype to Identify GitHub Action Vulnerabilities](https://anchore.com/blog/using-grype-to-identify-github-action-vulnerabilities/)
   * And also [Grype now supports CycloneDX and SPDX standards](https://anchore.com/sbom/grype-support-cyclonedx-spdx/)
 * [GitHub Advisory Database now open to community contributions](https://github.blog/2022-02-22-github-advisory-database-now-open-to-community-contributions/)
-* [Global Security Database Working Group | CSA](https://cloudsecurityalliance.org/research/working-groups/global-security-database/)
+* [Global Security Database Working Group | CSA](https://cloudsecurityalliance.org/research/working-groups/global-security-database/), also see [cloudsecurityalliance/gsd-database: Global Security Database](https://github.com/cloudsecurityalliance/gsd-database)
 * [trickest/cve: Gather and update all available and newest CVEs with their PoC.](https://github.com/trickest/cve)
 * [RFC 9116: A File Format to Aid in Security Vulnerability Disclosure](https://www.rfc-editor.org/rfc/rfc9116)
 * An AOSP vuln-to-commit exercise: [quarkslab/aosp_dataset: Large Commit Precise Vulnerability Dataset based on AOSP CVE](https://github.com/quarkslab/aosp_dataset)
