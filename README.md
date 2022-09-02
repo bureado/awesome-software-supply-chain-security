@@ -199,6 +199,7 @@ Also see:
 > This section includes: admission and ingestion policies, pull-time verification and end-user verifications.
 
 * [Kyverno](https://kyverno.io/)
+  * Read: [Attesting Image Scans With Kyverno](https://neonmirrors.net/post/2022-07/attesting-image-scans-kyverno/)
 * [ckotzbauer/sbom-operator: Catalogue all images of a Kubernetes cluster to multiple targets with Syft](https://github.com/ckotzbauer/sbom-operator)
 * [Open Policy Agent](https://www.openpolicyagent.org/)
 * [Conftest](https://www.conftest.dev/examples/) allows to write tests against structured configuration data using the Open Policy Agent Rego query language: [here's an example](https://github.com/open-policy-agent/conftest/blob/master/examples/docker/policy/commands.rego)
