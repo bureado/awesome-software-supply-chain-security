@@ -360,7 +360,8 @@ Also see:
   * [Past Issues | CloudSecList](https://cloudseclist.com/past-issues/)
   * [News - reproducible-builds.org](https://reproducible-builds.org/news/)
   * A great compilation of reads, context and learning materials: [chainguard-dev/ssc-reading-list: A reading list for software supply-chain security.](https://github.com/chainguard-dev/ssc-reading-list)
-  * And a visual reference by Enso Security: [AppSec Map](https://appsecmap.com/MyMap)
+  * A visual reference by Enso Security: [AppSec Map](https://appsecmap.com/MyMap)
+  * [wg-security-tooling/guide.md at main · ossf/wg-security-tooling](https://github.com/ossf/wg-security-tooling/blob/main/guide.md) from [ossf/wg-security-tooling: OpenSSF Security Tooling Working Group](https://github.com/ossf/wg-security-tooling#active-projects)
 
 And a collection of reads and listens, ranging from insightful blog posts, explainers/all-rounders and some long-form analysis (we've tried to keep deep dive reads scoped to other sections)
 
