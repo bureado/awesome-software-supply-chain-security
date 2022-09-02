@@ -298,6 +298,7 @@ Also see:
   * Great read: [SLSA | CloudSecDocs](https://cloudsecdocs.com/devops/pipelines/supply_chain/slsa/)
   * Another L50 read: [Building trust in our software supply chains with SLSA](https://blog.chainguard.dev/building-trust-in-our-software-supply-chains-with-slsa/)
   * Read: [SLSA for Success: Using SLSA to help achieve NIST’s SSDF](https://slsa.dev/blog/2022/06/slsa-ssdf) and [All about that Base(line): How Cybersecurity Frameworks are Evolving with Foundational Guidance](https://slsa.dev/blog/2022/07/slsa-foundational-framework)
+    * Also, a [framework mapping](https://docs.google.com/spreadsheets/d/1P_xxMlyF5iPV51CqIk8_EhI57aR6wf1Gkrg8sRHBMMQ/edit?usp=sharing) put together by [Red Hat](https://www.redhat.com/en/blog/SLSA-framework-measuring-supply-chain-security-maturity)
 * [OWASP Application Security Verification Standard](https://owasp.org/www-project-application-security-verification-standard/), esp. _V14 - Configuration_
 * SAFECODE's [Fundamental Practices for Secure Software Development, Third Edition](https://safecode.org/uncategorized/fundamental-practices-secure-software-development/), esp. _Manage Security Risk Inherent in the Use of Third-party Components_
 * [SSF | The Secure Software Factory](https://thesecuresoftwarefactory.github.io/ssf/) and [mlieberman85/supply-chain-examples](https://github.com/mlieberman85/supply-chain-examples)
