@@ -197,7 +197,7 @@ A dedicated section on VEX reads:
   * [Vex and SBOMs](https://docs.google.com/presentation/d/1lfhwgSnBXUViSAUNKVPVMUi0sGROwTNWImk5dzPiF38/edit?usp=sharing)
   * [VDR or VEX – Which Do I Use? Part 1](https://www.linkedin.com/pulse/vdr-vex-which-do-i-use-tony-turner)
   * [VEX! or... How to Reduce CVE Noise With One Simple Trick!](https://www.youtube.com/watch?v=OWAn3ynhyzQ) by Frederick Kautz
-  * [hVulnerability Exploitability eXchange (VEX) - Status Justifications](https://www.cisa.gov/sites/default/files/publications/VEX_Status_Justification_Jun22.pdf)
+  * [Vulnerability Exploitability eXchange (VEX) - Status Justifications](https://www.cisa.gov/sites/default/files/publications/VEX_Status_Justification_Jun22.pdf)
 
 Also see:
 
