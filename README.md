@@ -256,6 +256,7 @@ Also see:
     * Also see [How to easily try out TUF + in-toto](https://badhomb.re/ci/security/2020/05/01/tuf-in-toto.html)
     * Check out [Python-TUF reaches version 1.0.0](https://ssl.engineering.nyu.edu/blog/2022-02-21-tuf-1_0_0)
     * Related project: [werf/trdl: The universal solution for delivering your software updates securely from a trusted The Update Framework (TUF) repository.](https://github.com/werf/trdl)
+    * Read: [Secure Software Updates via TUF — Part 2](https://medium.com/@mulgundmath/secure-software-updates-via-tuf-part-2-412c6a2b10ab)
 * [deislabs/ratify: Artifact Ratification Framework](https://github.com/deislabs/ratify)
 * [latchset/tang: Tang binding daemon](https://github.com/latchset/tang)
 * [ietf-rats - Overview](https://github.com/ietf-rats)
