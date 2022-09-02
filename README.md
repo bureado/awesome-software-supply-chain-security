@@ -305,6 +305,8 @@ Also see:
 * [npm Best Practices Guide](https://github.com/ossf/package-manager-best-practices/blob/main/published/npm.md) (OpenSSF) - Features and recommendations on using npm safely
 * [CIS Software Supply Chain Security Guide](https://github.com/aquasecurity/chain-bench/blob/main/docs/CIS-Software-Supply-Chain-Security-Guide-v1.0.pdf)
 * [microsoft/oss-ssc-framework: Open Source Software Secure Supply Chain Framework](https://github.com/microsoft/oss-ssc-framework)
+* GitHub's [Implementing software security in open source](https://github.com/readme/guides/sigstore-software-security)
+* Previously referenced: [Google Best Practices for Java Libraries](https://jlbp.dev/)
 
 Also see:
 
