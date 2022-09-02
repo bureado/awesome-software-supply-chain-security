@@ -210,7 +210,7 @@ Also see:
 * [Vulncode-DB](https://www.vulncode-db.com/end) on deprecation path
 * [GitHub brings supply chain security features to the Rust community](https://github.blog/2022-06-06-github-brings-supply-chain-security-features-to-the-rust-community/)
 * [CyCognito Adopts Mapping ATT&CK to CVE for Impact](https://info.mitre-engenuity.org/hubfs/Center%20for%20Threat%20Informed%20Defense/Adoption%20Spotlight_CVE%20for%20Impact_CTID_CyCognito_20220622_Final.pdf)
-* Read: [A closer look at CVSS scores](https://theoryof.predictable.software/articles/a-closer-look-at-cvss-scores/)
+* Read: [A closer look at CVSS scores](https://theoryof.predictable.software/articles/a-closer-look-at-cvss-scores/) and [An Incomplete Look at Vulnerability Databases & Scoring Methodologies](https://medium.com/@chris.hughes_11070/an-incomplete-look-at-vulnerability-databases-scoring-methodologies-7be7155661e8)
 * Read: [How to Analyze an SBOM](https://cloudsmith.com/blog/how-to-analyze-an-sbom/) and [How to Generate and Host SBoMs](https://cloudsmith.com/blog/how-to-generate-and-host-an-sbom/) from Cloudsmith
 * Read: [After the Advisory](https://blog.deps.dev/after-the-advisory/) from Google's Open Source Insights team
 
