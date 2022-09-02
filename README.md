@@ -342,6 +342,7 @@ Also see:
 * [Code Sight](https://www.synopsys.com/software-integrity/code-sight.html)
 * [cider-security-research/cicd-goat: A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.](https://github.com/cider-security-research/cicd-goat)
 * Read: [What Makes a Build Reproducible, Part 2](https://blogs.vmware.com/opensource/2022/07/14/what-makes-a-build-reproducible-part-2/)
+* Read: [Building a Secure Software Supply Chain with GNU Guix](https://programming-journal.org/2023/7/1/)
 
 ## Talks, articles, media coverage and other reading
 
