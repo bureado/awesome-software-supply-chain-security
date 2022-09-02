@@ -314,6 +314,7 @@ And a few things to watch beyond libraries and software dependencies:
   * [A Practical Guide to the SLSA Framework](https://fossa.com/blog/practical-guide-slsa-framework/) by FOSSA
   * Read: [Securing Gitpod's Software Supply Chain with SLSA](https://www.gitpod.io/blog/securing-the-software-supply-chain-at-gitpod-with-slsa)
   * Read: [A First Step to Attaining SLSA Level 3 on GitHub](https://blogs.vmware.com/opensource/2022/08/02/a-first-step-to-attaining-slsa-level-3-on-github/)
+  * And a [pattern search across GitHub](https://cs.github.com/?scopeName=All+repos&scope=&q=%22uses%3A+slsa-framework%2Fslsa-github-generator%2F.github%2Fworkflows%2F%22+path%3A**.yml+NOT+org%3Aslsa-framework+NOT+org%3Aasraa+NOT+org%3Alaurentsimon+NOT+org%3Aazeemshaikh38+NOT+org%3Asethmlarson+NOT+org%3Alukehinds) for inspiration (thanks [@infernosec](https://twitter.com/infernosec/status/1559937819128127488))
 * [OWASP Application Security Verification Standard](https://owasp.org/www-project-application-security-verification-standard/), esp. _V14 - Configuration_
 * SAFECODE's [Fundamental Practices for Secure Software Development, Third Edition](https://safecode.org/uncategorized/fundamental-practices-secure-software-development/), esp. _Manage Security Risk Inherent in the Use of Third-party Components_
 * [SSF | The Secure Software Factory](https://thesecuresoftwarefactory.github.io/ssf/) and [mlieberman85/supply-chain-examples](https://github.com/mlieberman85/supply-chain-examples)
