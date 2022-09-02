@@ -141,7 +141,6 @@ A few open source projects are documenting, in public, how they acquire dependen
 
 ### Vulnerability information exchange
 
-* [CycloneDX - Vulnerability Exploitability Exchange (VEX)](https://cyclonedx.org/capabilities/vex/)
 * [OSV](https://osv.dev/)
 * Qualys' [Vulnerability Detection Pipeline](https://community.qualys.com/vulnerability-detection-pipeline/)
 * [Vuls · Agentless Vulnerability Scanner for Linux/FreeBSD](https://vuls.io/)
@@ -169,6 +168,19 @@ A few open source projects are documenting, in public, how they acquire dependen
 * [Vulnerability Management | aDolus](https://adolus.com/solutions/vulnerability-management/)
 * [secvisogram/secvisogram: Secvisogram is a web tool for creating and editing security advisories in the CSAF 2.0 format](https://github.com/secvisogram/secvisogram/)
 * [future-architect/vuls: Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices](https://github.com/future-architect/vuls)
+
+A dedicated section on VEX reads:
+
+* [CycloneDX - Vulnerability Exploitability Exchange (VEX)](https://cyclonedx.org/capabilities/vex/)
+  * [Vulnerability eXploitability Exchange explained: How VEX makes SBOMs actionable](https://www.csoonline.com/article/3669810/vulnerability-exploitability-exchange-explained-how-vex-makes-sboms-actionable.html)
+  * [How VEX helps SBOM+SLSA improve supply chain visibility | Google Cloud Blog](https://cloud.google.com/blog/products/identity-security/how-vex-helps-sbomslsa-improve-supply-chain-visibility)
+  * [What is VEX and What Does it Have to Do with SBOMs?](https://blog.adolus.com/what-is-vex-and-what-does-it-have-to-do-with-sboms)
+  * [What is VEX? It's the Vulnerability Exploitability eXchange!](https://zt.dev/posts/what-is-vex/)
+  * [The Vulnerability Exploitability eXchange (VEX) standard](https://www.linkedin.com/pulse/vulnerability-exploitability-exchange-vex-standard-walter-haydock)
+  * [Vex and SBOMs](https://docs.google.com/presentation/d/1lfhwgSnBXUViSAUNKVPVMUi0sGROwTNWImk5dzPiF38/edit?usp=sharing)
+  * [VDR or VEX – Which Do I Use? Part 1](https://www.linkedin.com/pulse/vdr-vex-which-do-i-use-tony-turner)
+  * [VEX! or... How to Reduce CVE Noise With One Simple Trick!](https://www.youtube.com/watch?v=OWAn3ynhyzQ) by Frederick Kautz
+  * [hVulnerability Exploitability eXchange (VEX) - Status Justifications](https://www.cisa.gov/sites/default/files/publications/VEX_Status_Justification_Jun22.pdf)
 
 Also see:
 
@@ -328,9 +340,6 @@ Also see:
 * [The Challenges of Securing the Open Source Supply Chain](https://thenewstack.io/the-challenges-of-securing-the-open-source-supply-chain/)
 * [What is a Software Supply Chain Attestation - and why do I need it?](https://www.testifysec.com/blog/what-is-a-supply-chain-attestation/)
 * [Open Policy Agent 2021, Year in Review](https://blog.openpolicyagent.org/open-policy-agent-2021-year-in-review-f334244868e0)
-* [What is VEX and What Does it Have to Do with SBOMs?](https://blog.adolus.com/what-is-vex-and-what-does-it-have-to-do-with-sboms)
-* [What is VEX? It's the Vulnerability Exploitability eXchange!](https://zt.dev/posts/what-is-vex/)
-* [The Vulnerability Exploitability eXchange (VEX) standard](https://www.linkedin.com/pulse/vulnerability-exploitability-exchange-vex-standard-walter-haydock)
 * [Buildpacks and SBOM Integration Opportunities](https://zt.dev/posts/buildpacks-sbom-opportunities/)
 * [The state of software bill of materials: SBOM growth could bolster software supply chains](https://venturebeat.com/2022/02/02/the-state-of-software-bill-of-materials-sbom-growth-could-bolster-software-supply-chains/)
 * A helpful list of acronyms: [Acronyms | OpenSCAP portal](https://www.open-scap.org/resources/acronyms/)
