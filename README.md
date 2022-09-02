@@ -123,6 +123,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * [microsoft/sbom-tool: The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts.](https://github.com/microsoft/sbom-tool)
 * Veracode's [SCA to Automate Security Scanning](https://www.veracode.com/products/software-composition-analysis), see demo: [How to generate a Software Bill of Materials (SBOM) using Veracode Software Composition Analysis](https://www.youtube.com/watch?v=FfTgeHjEwkk)
 * [Enterprise Edition - BluBracket: Code Security & Secret Detection](https://blubracket.com/products/enterprise-edition/)
+* [AppThreat/dep-scan: Fully open-source security audit for project dependencies based on known vulnerabilities and advisories. Supports both local repos and container images. Integrates with various CI environments such as Azure Pipelines, CircleCI, Google CloudBuild. No server required!](https://github.com/AppThreat/dep-scan)
 
 More interesting resources:
 
