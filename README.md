@@ -119,6 +119,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * Fortress: [Software Bill of Materials](https://www.fortressinfosec.com/sbom)
 * [javixeneize/yasca: Yet Another SCA tool](https://github.com/javixeneize/yasca)
 * Cybeats [SBOM Studio](https://www.cybeats.com/sbom-studio)
+* REA's [Software Assurance Guardian Point Man (SAG-PM)](https://reliableenergyanalytics.com/products)
 
 More interesting resources:
 
