@@ -154,6 +154,7 @@ A few open source projects are documenting, in public, how they acquire dependen
   * Read: [SBOM in Action: finding vulnerabilities with a Software Bill of Materials](https://security.googleblog.com/2022/06/sbom-in-action-finding-vulnerabilities.html?m=1)
 * Qualys' [Vulnerability Detection Pipeline](https://community.qualys.com/vulnerability-detection-pipeline/)
 * [Vuls · Agentless Vulnerability Scanner for Linux/FreeBSD](https://vuls.io/)
+* [Vulnerability Database](https://vuldb.com/?), an [API](https://vuldb.com/?kb.api) is also available; see [VulDB](https://github.com/vuldb)
 * [AppThreat/vulnerability-db: Vulnerability database and package search for sources such as OSV, NVD, GitHub and npm.](https://github.com/AppThreat/vulnerability-db)
 * [aquasecurity/trivy: Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues](https://github.com/aquasecurity/trivy)
 * [SAST for Code Security | Snyk Code](https://snyk.io/product/snyk-code/)
@@ -377,7 +378,7 @@ Also see:
   * The [Technology](https://snyk.io/series/devsecops/technology/) chapter in Snyk's DevSecOps series
   * A helpful list of acronyms: [Acronyms | OpenSCAP portal](https://www.open-scap.org/resources/acronyms/)
   * [slsa/terminology.md at main · slsa-framework/slsa](https://github.com/slsa-framework/slsa/blob/main/docs/_spec/v0.1/terminology.md)
-  
+
 And a collection of reads and listens, ranging from insightful blog posts, explainers/all-rounders and some long-form analysis (we've tried to keep deep dive reads scoped to other sections)
 
 * [Secure Software Development Fundamentals Courses - Open Source Security Foundation](https://openssf.org/training/courses/)
