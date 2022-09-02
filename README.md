@@ -170,6 +170,7 @@ A few open source projects are documenting, in public, how they acquire dependen
 * [toolswatch/vFeed: The Correlated CVE Vulnerability And Threat Intelligence Database API](https://github.com/toolswatch/vFeed)
 * [ossf/scorecard: Security Scorecards - Security health metrics for Open Source](https://github.com/ossf/scorecard), [OpenSSF Metrics](https://metrics.openssf.org/) and [ossf/security-reviews: A community collection of security reviews of open source software components.](https://github.com/ossf/security-reviews)
   * Also [OpenSSF Security Insights Spec](https://github.com/ossf/security-insights-spec)
+  * Read: [How OpenSSF Scorecards can help to evaluate open-source software risks](https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3668192/how-openssf-scorecards-can-help-to-evaluate-open-source-software-risks.amp.html)
 * [Lynis - Security auditing and hardening tool for Linux/Unix](https://cisofy.com/lynis/)
 * [victims/victims-cve-db: CVE database store](https://github.com/victims/victims-cve-db)
 * [anchore/grype: A vulnerability scanner for container images and filesystems](https://github.com/anchore/grype)
