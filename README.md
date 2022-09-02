@@ -374,7 +374,10 @@ Also see:
   * A visual reference by Enso Security: [AppSec Map](https://appsecmap.com/MyMap)
   * [wg-security-tooling/guide.md at main · ossf/wg-security-tooling](https://github.com/ossf/wg-security-tooling/blob/main/guide.md) from [ossf/wg-security-tooling: OpenSSF Security Tooling Working Group](https://github.com/ossf/wg-security-tooling#active-projects)
   * [A toolbox for a secure software supply chain](https://blog.chainguard.dev/a-toolbox-for-a-secure-software-supply-chain/) from Chainguard
-
+  * The [Technology](https://snyk.io/series/devsecops/technology/) chapter in Snyk's DevSecOps series
+  * A helpful list of acronyms: [Acronyms | OpenSCAP portal](https://www.open-scap.org/resources/acronyms/)
+  * [slsa/terminology.md at main · slsa-framework/slsa](https://github.com/slsa-framework/slsa/blob/main/docs/_spec/v0.1/terminology.md)
+  
 And a collection of reads and listens, ranging from insightful blog posts, explainers/all-rounders and some long-form analysis (we've tried to keep deep dive reads scoped to other sections)
 
 * [Secure Software Development Fundamentals Courses - Open Source Security Foundation](https://openssf.org/training/courses/)
@@ -382,14 +385,11 @@ And a collection of reads and listens, ranging from insightful blog posts, expla
 * [Census II of Free and Open Source Software — Application Libraries](https://linuxfoundation.org/wp-content/uploads/LFResearch_Harvard_Census_II.pdf)
 * [“Chain”ging the Game - how runtime makes your supply chain even more secure](https://sysdig.com/blog/chainging-the-game/)
 * [How to attack cloud infrastructure via a malicious pull request](https://goteleport.com/blog/hack-via-pull-request/)
-* The [Technology](https://snyk.io/series/devsecops/technology/) chapter in Snyk's DevSecOps series
 * [The Challenges of Securing the Open Source Supply Chain](https://thenewstack.io/the-challenges-of-securing-the-open-source-supply-chain/)
 * [What is a Software Supply Chain Attestation - and why do I need it?](https://www.testifysec.com/blog/what-is-a-supply-chain-attestation/)
 * [Open Policy Agent 2021, Year in Review](https://blog.openpolicyagent.org/open-policy-agent-2021-year-in-review-f334244868e0)
 * [Buildpacks and SBOM Integration Opportunities](https://zt.dev/posts/buildpacks-sbom-opportunities/)
 * [The state of software bill of materials: SBOM growth could bolster software supply chains](https://venturebeat.com/2022/02/02/the-state-of-software-bill-of-materials-sbom-growth-could-bolster-software-supply-chains/)
-* A helpful list of acronyms: [Acronyms | OpenSCAP portal](https://www.open-scap.org/resources/acronyms/)
-* [slsa/terminology.md at main · slsa-framework/slsa](https://github.com/slsa-framework/slsa/blob/main/docs/_spec/v0.1/terminology.md)
 * [Secure Your Software Supply Chain with New VMware Tanzu Application Platform Capabilities](https://tanzu.vmware.com/content/blog/secure-software-supply-chain-vmware-tanzu-application-platform)
   * [Secure Software Supply Chains](https://tanzu.vmware.com/developer/learningpaths/secure-software-supply-chain/)
 * A few resources to understand supply chain compromises:
