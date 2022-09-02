@@ -65,6 +65,7 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
 * [RedHatProductSecurity/component-registry: Component Registry (Corgi) aggregates component data across Red Hat's supported products, managed services, and internal product pipeline services.](https://github.com/RedHatProductSecurity/component-registry)
 * [OSS Insight](https://ossinsight.io/), powered by TIDB Cloud, is an insight tool that can help you analyze in depth any single GitHub repository/developers, compare any two repositories using the same metrics, and provide comprehensive, valuable, and trending open source insights.
 * [Announcing the Private Beta of FOSSA Risk Intelligence](https://fossa.com/blog/announcing-private-beta-risk-intelligence/)
+* From [Projects | Software Transparency Foundation](https://st.foundation/projects), see [OSSKB | Free Open Source Inventorying](https://osskb.org/)
 
 Also read:
 
@@ -120,6 +121,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * Cybeats [SBOM Studio](https://www.cybeats.com/sbom-studio)
 * REA's [Software Assurance Guardian Point Man (SAG-PM)](https://reliableenergyanalytics.com/products)
 * [microsoft/sbom-tool: The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts.](https://github.com/microsoft/sbom-tool)
+* Veracode's [SCA to Automate Security Scanning](https://www.veracode.com/products/software-composition-analysis)
 
 More interesting resources:
 
