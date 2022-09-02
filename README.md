@@ -116,6 +116,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * Tauruseer's [SBOM tools](https://www.tauruseer.com/platform/dynamic-software-bill-of-materials-SBOM)
 * SOOS' [Supported Languages & Manifests](https://kb.soos.io/help/soos-languages-supported)
 * Fortress: [Software Bill of Materials](https://www.fortressinfosec.com/sbom)
+* [javixeneize/yasca: Yet Another SCA tool](https://github.com/javixeneize/yasca)
 
 More interesting resources:
 
