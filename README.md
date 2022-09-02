@@ -382,6 +382,7 @@ Also see:
 * [News - reproducible-builds.org](https://reproducible-builds.org/news/)
 * [sigstore/community: General sigstore community repo](https://github.com/sigstore/community#slack)
 * [CycloneDX Use Cases](https://cyclonedx.org/use-cases/)
+  * Listen: [#6: Steve Springett: CycloneDX and the Future of SBOMs - Cybellum](https://cybellum.com/podcast/6-steve-springett-cyclonedx-and-the-future-of-sboms/)
 * [Building a Sustainable Software Supply Chain](https://fossa.com/blog/building-sustainable-software-supply-chain/), particularly the section: "The Software Supply Chain Sustainability Maturity Model"
 * [Dependency Issues: Solving the World’s Open-Source Software Security Problem](https://warontherocks.com/2022/05/dependency-issues-solving-the-worlds-open-source-software-security-problem/) offers a well meditated view on the problem space as well
 * [The Digital Economy Runs on Open Source. Here&rsquo;s How to Protect It](https://hbr.org/2021/09/the-digital-economy-runs-on-open-source-heres-how-to-protect-it) (HBR)
