@@ -121,7 +121,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * Cybeats [SBOM Studio](https://www.cybeats.com/sbom-studio)
 * REA's [Software Assurance Guardian Point Man (SAG-PM)](https://reliableenergyanalytics.com/products)
 * [microsoft/sbom-tool: The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts.](https://github.com/microsoft/sbom-tool)
-* Veracode's [SCA to Automate Security Scanning](https://www.veracode.com/products/software-composition-analysis)
+* Veracode's [SCA to Automate Security Scanning](https://www.veracode.com/products/software-composition-analysis), see demo: [How to generate a Software Bill of Materials (SBOM) using Veracode Software Composition Analysis](https://www.youtube.com/watch?v=FfTgeHjEwkk)
 
 More interesting resources:
 
