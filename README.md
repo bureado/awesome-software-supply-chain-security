@@ -189,6 +189,7 @@ Also see:
 * [CyCognito Adopts Mapping ATT&CK to CVE for Impact](https://info.mitre-engenuity.org/hubfs/Center%20for%20Threat%20Informed%20Defense/Adoption%20Spotlight_CVE%20for%20Impact_CTID_CyCognito_20220622_Final.pdf)
 * Read: [A closer look at CVSS scores](https://theoryof.predictable.software/articles/a-closer-look-at-cvss-scores/)
 * Read: [How to Analyze an SBOM](https://cloudsmith.com/blog/how-to-analyze-an-sbom/) from Cloudsmith
+* Read: [After the Advisory](https://blog.deps.dev/after-the-advisory/) from Google's Open Source Insights team
 
 ## Point-of-use validations
 
