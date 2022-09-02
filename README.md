@@ -406,3 +406,4 @@ And a collection of reads and listens, ranging from insightful blog posts, expla
 * [Open Source Security Foundation (OpenSSF) Security Mobilization Plan](https://openssf.org/oss-security-mobilization-plan/)
 * [Not Just Third Party Risk](https://www.kusari.dev/blog/not_just_tprm/)
 * [Open-Source Security: How Digital Infrastructure Is Built on a House of Cards](https://www.lawfareblog.com/open-source-security-how-digital-infrastructure-built-house-cards)
+* Series: [Bootstrapping Trust Part 1](https://openziti.io/bootstrapping-trust-part-1-encryption-everywhere) covering encryption, certificates, chains and roots of trust
