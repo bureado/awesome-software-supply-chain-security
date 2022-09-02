@@ -134,6 +134,7 @@ More interesting resources:
 * [Critical Update: Do You Know What’s In Your Software?](https://www.nextgov.com/podcasts/2021/05/critical-update-do-you-know-whats-your-software/174100/)
 * [Software Bill of Materials | CISA](https://www.cisa.gov/sbom)
 * [SBOM Use Case - RKVST](https://www.rkvst.com/share-sboms/) and [RKVST SBOM Hub - RKVST](https://www.rkvst.com/rkvst-sbom-hub/)
+  * Also read: [SBOM Hub - NTIA Attribute Mappings](https://support.rkvst.com/hc/en-gb/articles/6023134387601-SBOM-Hub-NTIA-Attribute-Mappings)
 
 A few open source projects are documenting, in public, how they acquire dependencies. This intentional, human-parsable, long-form examples can be illustrative:
 
