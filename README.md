@@ -381,6 +381,7 @@ Also see:
 * Read: [Building a Secure Software Supply Chain with GNU Guix](https://programming-journal.org/2023/7/1/)
 * [alecmocatta/build_id: Obtain a UUID uniquely representing the build of the current binary.](https://github.com/alecmocatta/build_id)
 * Read: [On Omitting Commits and Committing Omissions: Preventing Git Metadata Tampering That (Re)introduces Software Vulnerabilities](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/torres-arias)
+* Read: [Reproducible Builds: Break a log, good things come in trees](https://bora.uib.no/bora-xmlui/handle/1956/20411)
 
 ## Talks, articles, media coverage and other reading
 
