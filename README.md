@@ -259,6 +259,12 @@ Also see:
 * [JupiterOne/secops-automation-examples: Examples on how to maintain security/compliance as code and to automate SecOps using the JupiterOne platform.](https://github.com/JupiterOne/secops-automation-examples)
   * [How We Generate a Software Bill of Materials (SBOM) with CycloneDX](https://try.jupiterone.com/how-we-generate-a-software-bill-of-materials-sbom-with-cyclonedx)
 
+And a few things to watch beyond libraries and software dependencies:
+
+* [System Transparency | security architecture for bare-metal servers](https://system-transparency.org/)
+* [Emulated host profiles in fwupd](https://blogs.gnome.org/hughsie/2022/07/29/emulated-host-profiles-in-fwupd/)
+* [GNOME To Warn Users If Secure Boot Disabled, Preparing Other Firmware Security Help](https://www.phoronix.com/news/GNOME-Secure-Boot-Warning)
+
 ## Identity, signing and provenance
 
 > This section includes: projects and discussions specifics to developer identity, OIDC, keyrings and related topics.
