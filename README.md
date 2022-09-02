@@ -377,6 +377,7 @@ Also see:
 * Read: [What Makes a Build Reproducible, Part 2](https://blogs.vmware.com/opensource/2022/07/14/what-makes-a-build-reproducible-part-2/)
 * Read: [Building a Secure Software Supply Chain with GNU Guix](https://programming-journal.org/2023/7/1/)
 * [alecmocatta/build_id: Obtain a UUID uniquely representing the build of the current binary.](https://github.com/alecmocatta/build_id)
+* Read: [On Omitting Commits and Committing Omissions: Preventing Git Metadata Tampering That (Re)introduces Software Vulnerabilities](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/torres-arias)
 
 ## Talks, articles, media coverage and other reading
 
