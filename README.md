@@ -63,6 +63,7 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
 * [diffoscope: in-depth comparison of files, archives, and directories](https://diffoscope.org/)
 * [RedHatProductSecurity/component-registry: Component Registry (Corgi) aggregates component data across Red Hat's supported products, managed services, and internal product pipeline services.](https://github.com/RedHatProductSecurity/component-registry)
 * [OSS Insight](https://ossinsight.io/), powered by TIDB Cloud, is an insight tool that can help you analyze in depth any single GitHub repository/developers, compare any two repositories using the same metrics, and provide comprehensive, valuable, and trending open source insights.
+* [Announcing the Private Beta of FOSSA Risk Intelligence](https://fossa.com/blog/announcing-private-beta-risk-intelligence/)
 
 Also read:
 
