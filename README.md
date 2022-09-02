@@ -120,6 +120,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * [javixeneize/yasca: Yet Another SCA tool](https://github.com/javixeneize/yasca)
 * Cybeats [SBOM Studio](https://www.cybeats.com/sbom-studio)
 * REA's [Software Assurance Guardian Point Man (SAG-PM)](https://reliableenergyanalytics.com/products)
+* [microsoft/sbom-tool: The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts.](https://github.com/microsoft/sbom-tool)
 
 More interesting resources:
 
