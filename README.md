@@ -286,6 +286,7 @@ Also see:
 * The _Supply Chain Risk Management_ section of [SP 800-53 Rev. 5, Security and Privacy Controls for Info Systems and Organizations | CSRC](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final), also see [center-for-threat-informed-defense/attack-control-framework-mappings: Security control framework mappings to MITRE ATT&CK](https://github.com/center-for-threat-informed-defense/attack-control-framework-mappings)
 * [SP 800-161 Rev. 1, C-SCRM Practices for Systems and Organizations | CSRC](https://csrc.nist.gov/publications/detail/sp/800-161/rev-1/final)
 * [npm Best Practices Guide](https://github.com/ossf/package-manager-best-practices/blob/main/published/npm.md) (OpenSSF) - Features and recommendations on using npm safely
+* [CIS Software Supply Chain Security Guide](https://github.com/aquasecurity/chain-bench/blob/main/docs/CIS-Software-Supply-Chain-Security-Guide-v1.0.pdf)
 * [microsoft/oss-ssc-framework: Open Source Software Secure Supply Chain Framework](https://github.com/microsoft/oss-ssc-framework)
 
 Also see:
