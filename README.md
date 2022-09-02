@@ -290,8 +290,6 @@ Also see:
   * Another [witness example with GitLab](https://gitlab.com/testifysec/demos/witness-demo)
 * [Allow using SSH keys to sign commits · Discussion #7744 · github/feedback](https://github.com/github/feedback/discussions/7744#discussioncomment-1794438)
 * [aws-solutions/verifiable-controls-evidence-store: This repository contains the source code of the Verifiable Controls Evidence Store solution](https://github.com/aws-solutions/verifiable-controls-evidence-store)
-* Read: [Securing Gitpod's Software Supply Chain with SLSA](https://www.gitpod.io/blog/securing-the-software-supply-chain-at-gitpod-with-slsa)
-* Read: [A First Step to Attaining SLSA Level 3 on GitHub](https://blogs.vmware.com/opensource/2022/08/02/a-first-step-to-attaining-slsa-level-3-on-github/)
 * Read: [Monitoring the kernel.org Transparency Log for a year](https://linderud.dev/blog/monitoring-the-kernel.org-transparency-log-for-a-year/)
 * [paragonie/libgossamer: Public Key Infrastructure without Certificate Authorities, for WordPress and Packagist](https://github.com/paragonie/libgossamer)
   * Read: [Solving Open Source Supply Chain Security for the PHP Ecosystem](https://paragonie.com/blog/2022/01/solving-open-source-supply-chain-security-for-php-ecosystem)
@@ -307,6 +305,9 @@ Also see:
   * Another L50 read: [Building trust in our software supply chains with SLSA](https://blog.chainguard.dev/building-trust-in-our-software-supply-chains-with-slsa/)
   * Read: [SLSA for Success: Using SLSA to help achieve NIST’s SSDF](https://slsa.dev/blog/2022/06/slsa-ssdf) and [All about that Base(line): How Cybersecurity Frameworks are Evolving with Foundational Guidance](https://slsa.dev/blog/2022/07/slsa-foundational-framework)
     * Also, a [framework mapping](https://docs.google.com/spreadsheets/d/1P_xxMlyF5iPV51CqIk8_EhI57aR6wf1Gkrg8sRHBMMQ/edit?usp=sharing) put together by [Red Hat](https://www.redhat.com/en/blog/SLSA-framework-measuring-supply-chain-security-maturity)
+  * [A Practical Guide to the SLSA Framework](https://fossa.com/blog/practical-guide-slsa-framework/) by FOSSA
+  * Read: [Securing Gitpod's Software Supply Chain with SLSA](https://www.gitpod.io/blog/securing-the-software-supply-chain-at-gitpod-with-slsa)
+  * Read: [A First Step to Attaining SLSA Level 3 on GitHub](https://blogs.vmware.com/opensource/2022/08/02/a-first-step-to-attaining-slsa-level-3-on-github/)
 * [OWASP Application Security Verification Standard](https://owasp.org/www-project-application-security-verification-standard/), esp. _V14 - Configuration_
 * SAFECODE's [Fundamental Practices for Secure Software Development, Third Edition](https://safecode.org/uncategorized/fundamental-practices-secure-software-development/), esp. _Manage Security Risk Inherent in the Use of Third-party Components_
 * [SSF | The Secure Software Factory](https://thesecuresoftwarefactory.github.io/ssf/) and [mlieberman85/supply-chain-examples](https://github.com/mlieberman85/supply-chain-examples)
