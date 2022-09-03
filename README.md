@@ -67,6 +67,7 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
 * [OSS Insight](https://ossinsight.io/), powered by TIDB Cloud, is an insight tool that can help you analyze in depth any single GitHub repository/developers, compare any two repositories using the same metrics, and provide comprehensive, valuable, and trending open source insights.
 * [Announcing the Private Beta of FOSSA Risk Intelligence](https://fossa.com/blog/announcing-private-beta-risk-intelligence/)
 * From [Projects | Software Transparency Foundation](https://st.foundation/projects), see [OSSKB | Free Open Source Inventorying](https://osskb.org/)
+* [Artifact Hub](https://artifacthub.io/), featuring [Packages security report](https://artifacthub.io/docs/topics/security_report/) and also [verifies with cosign](https://artifacthub.io/docs/topics/repositories/#kubewarden-policies-repositories)
 
 Also read:
 
@@ -123,7 +124,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * [javixeneize/yasca: Yet Another SCA tool](https://github.com/javixeneize/yasca)
 * Cybeats [SBOM Studio](https://www.cybeats.com/sbom-studio)
 * REA's [Software Assurance Guardian Point Man (SAG-PM)](https://reliableenergyanalytics.com/products)
-* [microsoft/sbom-tool: The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts.](https://github.com/microsoft/sbom-tool)
+* [microsoft/sbom-tool: The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts](https://github.com/microsoft/sbom-tool)
 * Veracode's [SCA to Automate Security Scanning](https://www.veracode.com/products/software-composition-analysis), see demo: [How to generate a Software Bill of Materials (SBOM) using Veracode Software Composition Analysis](https://www.youtube.com/watch?v=FfTgeHjEwkk)
 * [Enterprise Edition - BluBracket: Code Security & Secret Detection](https://blubracket.com/products/enterprise-edition/)
 * [AppThreat/dep-scan: Fully open-source security audit for project dependencies based on known vulnerabilities and advisories. Supports both local repos and container images. Integrates with various CI environments such as Azure Pipelines, CircleCI, Google CloudBuild. No server required!](https://github.com/AppThreat/dep-scan)
