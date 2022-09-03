@@ -147,6 +147,7 @@ More interesting resources:
 * [All About That BoM, ‘bout That BoM - Melba Lopez, IBM](https://www.youtube.com/watch?v=lm7ySgCeALk)
 * [OWASP CycloneDX Launches SBOM Exchange API](https://cyclonedx.org/news/owasp-cyclonedx-launches-sbom-exchange-api-standardizing-sbom-distribution/)
 * Read: [SBOM Management | Six Ways It Prevents SBOM Sprawl](https://anchore.com/sbom/sbom-management-and-six-ways-it-prevents-sbom-sprawl/)
+* Read: NTIA's [The Minimum Elements For a Software Bill of Materials](https://www.ntia.doc.gov/files/ntia/publications/sbom_minimum_elements_report.pdf)
 
 A few open source projects are documenting, in public, how they acquire dependencies. This intentional, human-parsable, long-form examples can be illustrative:
 
