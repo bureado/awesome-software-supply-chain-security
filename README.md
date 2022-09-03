@@ -104,7 +104,6 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * [REA-Products/C-SCRM-Use-Case at master · rjb4standards/REA-Products](https://github.com/rjb4standards/REA-Products/tree/master/C-SCRM-Use-Case) from [this tweet](https://twitter.com/rjb4standards/status/1481250447331573761?s=12)
   * Also see [Energy SBOM Proof of Concept - INL](https://inl.gov/sbom-poc/)
 * [Phylum Analyze PR Action: GitHub Action to analyze Pull Requests for open-source supply chain issues](https://github.com/phylum-dev/phylum-analyze-pr-action) from [Phylum | The Software Supply Chain Security Company](https://phylum.io/)
-* [OWASP/Software-Component-Verification-Standard: Software Component Verification Standard (SCVS)](https://github.com/OWASP/Software-Component-Verification-Standard)
 * [microsoft/component-detection: Scans your project to determine what components you use](https://github.com/microsoft/component-detection/)
 * [DWARF 5 Standard](https://dwarfstd.org/Dwarf5Std.php)
 * [hughsie/python-uswid: A tiny tool for embedding CoSWID tags in EFI binaries](https://github.com/hughsie/python-uswid)
@@ -325,6 +324,8 @@ And a few things to watch beyond libraries and software dependencies:
   * Read: [A First Step to Attaining SLSA Level 3 on GitHub](https://blogs.vmware.com/opensource/2022/08/02/a-first-step-to-attaining-slsa-level-3-on-github/)
   * And a [pattern search across GitHub](https://cs.github.com/?scopeName=All+repos&scope=&q=%22uses%3A+slsa-framework%2Fslsa-github-generator%2F.github%2Fworkflows%2F%22+path%3A**.yml+NOT+org%3Aslsa-framework+NOT+org%3Aasraa+NOT+org%3Alaurentsimon+NOT+org%3Aazeemshaikh38+NOT+org%3Asethmlarson+NOT+org%3Alukehinds) for inspiration (thanks [@infernosec](https://twitter.com/infernosec/status/1559937819128127488))
 * [OWASP Application Security Verification Standard](https://owasp.org/www-project-application-security-verification-standard/), esp. _V14 - Configuration_
+* [OWASP/Software-Component-Verification-Standard: Software Component Verification Standard (SCVS)](https://github.com/OWASP/Software-Component-Verification-Standard)
+* [CREST launches OWASP Verification Standard (OVS)](https://www.crest-approved.org/crest-launches-owasp-verification-standard-ovs/)
 * SAFECODE's [Fundamental Practices for Secure Software Development, Third Edition](https://safecode.org/uncategorized/fundamental-practices-secure-software-development/), esp. _Manage Security Risk Inherent in the Use of Third-party Components_
 * [SSF | The Secure Software Factory](https://thesecuresoftwarefactory.github.io/ssf/) and [mlieberman85/supply-chain-examples](https://github.com/mlieberman85/supply-chain-examples)
   * Related: [A MAP for Kubernetes supply chain security](https://www.cncf.io/blog/2022/04/12/a-map-for-kubernetes-supply-chain-security/)
