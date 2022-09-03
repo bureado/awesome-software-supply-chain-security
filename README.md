@@ -82,6 +82,7 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
 * [OSS Insight](https://ossinsight.io/), powered by TIDB Cloud, is an insight tool that can help you analyze in depth any single GitHub repository/developers, compare any two repositories using the same metrics, and provide comprehensive, valuable, and trending open source insights.
 * [Announcing the Private Beta of FOSSA Risk Intelligence](https://fossa.com/blog/announcing-private-beta-risk-intelligence/)
 * From [Projects | Software Transparency Foundation](https://st.foundation/projects), see [OSSKB | Free Open Source Inventorying](https://osskb.org/)
+  * And particularly: [scanoss.py/PACKAGE.md at main · scanoss/scanoss.py](https://github.com/scanoss/scanoss.py/blob/main/PACKAGE.md)
 * [Artifact Hub](https://artifacthub.io/), featuring [Packages security report](https://artifacthub.io/docs/topics/security_report/) and also [verifies with cosign](https://artifacthub.io/docs/topics/repositories/#kubewarden-policies-repositories)
 
 Also read:
