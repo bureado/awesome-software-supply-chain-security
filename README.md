@@ -398,6 +398,7 @@ Also see:
 * [veraison/veraison: Project Veraison will build software components that can be used to build Attestation Verification Services](https://github.com/veraison/veraison)
 * [Changelog](https://www.pantsbuild.org/docs/changelog) for [Pants 2: The ergonomic build system](https://www.pantsbuild.org/)
 * [Bazel](https://bazel.build/) is an open source build and test tool similar to Make, Maven, and Gradle
+* [GoogleContainerTools/kaniko: Build Container Images In Kubernetes](https://github.com/GoogleContainerTools/kaniko)
 
 Also see:
 
