@@ -316,6 +316,7 @@ And a few things to watch beyond libraries and software dependencies:
 * [paragonie/libgossamer: Public Key Infrastructure without Certificate Authorities, for WordPress and Packagist](https://github.com/paragonie/libgossamer)
   * Read: [Solving Open Source Supply Chain Security for the PHP Ecosystem](https://paragonie.com/blog/2022/01/solving-open-source-supply-chain-security-for-php-ecosystem)
 * [johnsonshi/image-layer-provenance](https://github.com/johnsonshi/image-layer-provenance), a PoC for Image Layer Provenance and Manifest Layer History
+* [oras-project/artifacts-spec](https://github.com/oras-project/artifacts-spec/)
 
 ## Frameworks and best practice references
 
