@@ -150,6 +150,7 @@ A few open source projects are documenting, in public, how they acquire dependen
 
 * [envoy/DEPENDENCY_POLICY.md at main · envoyproxy/envoy](https://github.com/envoyproxy/envoy/blob/main/DEPENDENCY_POLICY.md)
 * [What curl expects from dependencies](https://daniel.haxx.se/blog/2022/03/28/what-curl-expects-from-dependencies/)
+* [Security: The Value of SBOMs](https://fluxcd.io/blog/2022/02/security-the-value-of-sboms/) from Flux
 
 ### Vulnerability information exchange
 
