@@ -1,8 +1,23 @@
-# awesome-software-supply-chain-security [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# awesome-software-supply-chain-security
+
+ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A compilation of resources in the software supply chain security domain, with emphasis on open source.
 
-## About the categories
+- [awesome-software-supply-chain-security](#awesome-software-supply-chain-security)
+  - [About this list](#about-this-list)
+  - [Dependency intelligence](#dependency-intelligence)
+    - [SCA and SBOM](#sca-and-sbom)
+    - [Vulnerability information exchange](#vulnerability-information-exchange)
+  - [Point-of-use validations](#point-of-use-validations)
+  - [Supply chain beyond libraries](#supply-chain-beyond-libraries)
+  - [Identity, signing and provenance](#identity-signing-and-provenance)
+  - [Frameworks and best practice references](#frameworks-and-best-practice-references)
+  - [Build techniques](#build-techniques)
+  - [Talks, articles, media coverage and other reading](#talks-articles-media-coverage-and-other-reading)
+    - [Getting started and staying fresh](#getting-started-and-staying-fresh)
+
+## About this list
 
 There is no prescribed taxonomy for this domain. This list will necessarily have some overlap with disciplines and categories such as DevSecOps, SAST, SCA and more.
 
@@ -276,6 +291,8 @@ Also see:
 * [JupiterOne/secops-automation-examples: Examples on how to maintain security/compliance as code and to automate SecOps using the JupiterOne platform.](https://github.com/JupiterOne/secops-automation-examples)
   * [How We Generate a Software Bill of Materials (SBOM) with CycloneDX](https://try.jupiterone.com/how-we-generate-a-software-bill-of-materials-sbom-with-cyclonedx)
 
+## Supply chain beyond libraries
+
 And a few things to watch beyond libraries and software dependencies:
 
 * [System Transparency | security architecture for bare-metal servers](https://system-transparency.org/)
@@ -421,6 +438,8 @@ Also see:
 * Read: [Reproducible Builds: Break a log, good things come in trees](https://bora.uib.no/bora-xmlui/handle/1956/20411)
 
 ## Talks, articles, media coverage and other reading
+
+### Getting started and staying fresh
 
 * A few resources, in addition to this repository, that can help keep up with news and announcements:
   * An RSS feed maintained by [@bureado](https://github.com/bureado) with a mix of open source security, DevSecOps, AppSec and supply chain security news: [corner-security](https://www.inoreader.com/stream/user/1005644984/tag/corner-security)
