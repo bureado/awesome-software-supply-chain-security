@@ -405,6 +405,7 @@ Also see:
   * A helpful list of acronyms: [Acronyms | OpenSCAP portal](https://www.open-scap.org/resources/acronyms/)
   * [slsa/terminology.md at main · slsa-framework/slsa](https://github.com/slsa-framework/slsa/blob/main/docs/_spec/v0.1/terminology.md)
   * Watch: [How to start learning about Supply Chain Security](https://www.youtube.com/watch?v=vFLmm8NnHFg)
+  * Watch: [Open Source Supply Chain Security: A Visualization of the Checkmarx Solution](https://www.youtube.com/watch?v=MIus0_o72hE), plus the Checkmarx channel on YouTube has excellent explanatory videos for tactics, techniques and procedures in the supply chain security domain, for example: [Large Scale Campaign Created Fake GitHub Projects Clones with Fake Commit Added Malware](https://www.youtube.com/watch?v=VQ1blNH3qGM)
 
 And a collection of reads and listens, ranging from insightful blog posts, explainers/all-rounders and some long-form analysis (we've tried to keep deep dive reads scoped to other sections)
 
