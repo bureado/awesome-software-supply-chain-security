@@ -319,6 +319,7 @@ And a few things to watch beyond libraries and software dependencies:
 * [johnsonshi/image-layer-provenance](https://github.com/johnsonshi/image-layer-provenance), a PoC for Image Layer Provenance and Manifest Layer History
 * [oras-project/artifacts-spec](https://github.com/oras-project/artifacts-spec/)
 * [recipy/recipy: Effortless method to record provenance in Python](https://github.com/recipy/recipy)
+* [spiffe/spire: The SPIFFE Runtime Environment](https://github.com/spiffe/spire)
 
 ## Frameworks and best practice references
 
