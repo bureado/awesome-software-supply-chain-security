@@ -105,7 +105,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * [Phylum Analyze PR Action: GitHub Action to analyze Pull Requests for open-source supply chain issues](https://github.com/phylum-dev/phylum-analyze-pr-action) from [Phylum | The Software Supply Chain Security Company](https://phylum.io/)
 * [microsoft/component-detection: Scans your project to determine what components you use](https://github.com/microsoft/component-detection/)
 * [DWARF 5 Standard](https://dwarfstd.org/Dwarf5Std.php)
-* [Software Identification (SWID) Tagging | CSRC](https://csrc.nist.gov/projects/software-identification-swid/guidelines)
+* [Software Identification (SWID) Tagging | CSRC](https://csrc.nist.gov/projects/software-identification-swid/guidelines) and [Guidelines for the Creation of Interoperable Software Identification (SWID) Tags](https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8060.pdf)
 * [Concise Software Identification Tags](https://www.ietf.org/archive/id/draft-ietf-sacm-coswid-18.html)
 * [hughsie/python-uswid: A tiny tool for embedding CoSWID tags in EFI binaries](https://github.com/hughsie/python-uswid)
   * Also see [thread](https://twitter.com/hughsient/status/1498259857341915139?s=120)
