@@ -386,6 +386,7 @@ Also see:
 * [jart/landlock-make: Sandboxing for GNU Make has never been easier](https://github.com/jart/landlock-make)
   * Read: [Using Landlock to Sandbox GNU Make](https://justine.lol/make/)
 * [veraison/veraison: Project Veraison will build software components that can be used to build Attestation Verification Services](https://github.com/veraison/veraison)
+* [Changelog](https://www.pantsbuild.org/docs/changelog) for [Pants 2: The ergonomic build system](https://www.pantsbuild.org/)
 
 Also see:
 
