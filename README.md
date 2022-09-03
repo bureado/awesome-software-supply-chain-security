@@ -431,6 +431,7 @@ And a collection of reads and listens, ranging from insightful blog posts, expla
   * And a classic, [Backstabber's Knife Collection: A Review of Open Source Software Supply Chain Attacks](https://arxiv.org/abs/2005.09535)
   * Also follow: [Publish list of OSS compromises and how SLSA can help · Issue #222 · slsa-framework/slsa](https://github.com/slsa-framework/slsa/issues/222#issuecomment-1030356313) and watch [ossf/oss-compromises](https://github.com/ossf/oss-compromises)
   * Python-specific example: [Bad actors vs our community: detecting software supply chain...](https://www.youtube.com/watch?app=desktop&v=Rcuqn56uCDk&feature=youtu.be) by Ajinkya Rajput and Ashish Bijlani
+  * A comprehensive all rounder: [Protect Yourself Against Supply Chain Attacks - Rob Bos - NDC Security 2022](https://www.youtube.com/watch?v=00R1JGBQEJg)
 * [Improving TOFU (trust on first use) With Transparency](https://dlorenc.medium.com/improving-tofu-with-transparency-da674aa2879d)
 * Reports:
   * [2022 State of Cloud Native Security Report - Palo Alto Networks](https://www.paloaltonetworks.com/state-of-cloud-native-security)
