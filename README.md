@@ -237,6 +237,7 @@ Also see:
     * Or [Brakeman Security Scanner](https://brakemanscanner.org/)
     * Or [trailofbits/pip-audit: Audits Python environments and dependency trees for known vulnerabilities](https://github.com/trailofbits/pip-audit)
       * Also see: [Dependabot alerts now surface if your code is calling a vulnerability](https://github.blog/2022-04-14-dependabot-alerts-now-surface-if-code-is-calling-vulnerability/)
+    * Interesting Python-related project: [Project Thoth](https://thoth-station.ninja/), using Artificial Intelligence to analyse and recommend software stacks for Python applications
     * Or [Checkmarx/chainjacking: Find which of your go lang direct GitHub dependencies is susceptible to ChainJacking attack](https://github.com/Checkmarx/chainjacking)
     * Or [Cargo Vet](https://mozilla.github.io/cargo-vet/)
     * Not automated validation, but comprehensive guidance for Java with a few critical points relating to supply chain security: [Google Best Practices for Java Libraries](https://jlbp.dev/)
