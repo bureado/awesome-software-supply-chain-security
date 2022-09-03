@@ -342,6 +342,7 @@ And a few things to watch beyond libraries and software dependencies:
 * [microsoft/oss-ssc-framework: Open Source Software Secure Supply Chain Framework](https://github.com/microsoft/oss-ssc-framework)
 * GitHub's [Implementing software security in open source](https://github.com/readme/guides/sigstore-software-security)
 * Previously referenced: [Google Best Practices for Java Libraries](https://jlbp.dev/)
+* MITRE's [System of Trust](https://sot.mitre.org/framework/system_of_trust.html)
 
 Also see:
 
