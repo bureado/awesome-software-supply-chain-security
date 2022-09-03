@@ -107,6 +107,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * [microsoft/component-detection: Scans your project to determine what components you use](https://github.com/microsoft/component-detection/)
 * [DWARF 5 Standard](https://dwarfstd.org/Dwarf5Std.php)
 * [Software Identification (SWID) Tagging | CSRC](https://csrc.nist.gov/projects/software-identification-swid/guidelines)
+* [Concise Software Identification Tags](https://www.ietf.org/archive/id/draft-ietf-sacm-coswid-18.html)
 * [hughsie/python-uswid: A tiny tool for embedding CoSWID tags in EFI binaries](https://github.com/hughsie/python-uswid)
   * Also see [thread](https://twitter.com/hughsient/status/1498259857341915139?s=120)
     * And practical example [in coreboot](https://review.coreboot.org/c/coreboot/+/63639)
