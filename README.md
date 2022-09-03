@@ -318,6 +318,7 @@ And a few things to watch beyond libraries and software dependencies:
   * Read: [Solving Open Source Supply Chain Security for the PHP Ecosystem](https://paragonie.com/blog/2022/01/solving-open-source-supply-chain-security-for-php-ecosystem)
 * [johnsonshi/image-layer-provenance](https://github.com/johnsonshi/image-layer-provenance), a PoC for Image Layer Provenance and Manifest Layer History
 * [oras-project/artifacts-spec](https://github.com/oras-project/artifacts-spec/)
+* [recipy/recipy: Effortless method to record provenance in Python](https://github.com/recipy/recipy)
 
 ## Frameworks and best practice references
 
