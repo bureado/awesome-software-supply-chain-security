@@ -10,7 +10,7 @@ A compilation of resources in the software supply chain security domain, with em
     - [SCA and SBOM](#sca-and-sbom)
     - [Vulnerability information exchange](#vulnerability-information-exchange)
   - [Point-of-use validations](#point-of-use-validations)
-  - [Supply chain beyond libraries](#supply-chain-beyond-libraries)
+    - [Supply chain beyond libraries](#supply-chain-beyond-libraries)
   - [Identity, signing and provenance](#identity-signing-and-provenance)
   - [Frameworks and best practice references](#frameworks-and-best-practice-references)
   - [Build techniques](#build-techniques)
@@ -292,7 +292,7 @@ Also see:
 * [JupiterOne/secops-automation-examples: Examples on how to maintain security/compliance as code and to automate SecOps using the JupiterOne platform.](https://github.com/JupiterOne/secops-automation-examples)
   * [How We Generate a Software Bill of Materials (SBOM) with CycloneDX](https://try.jupiterone.com/how-we-generate-a-software-bill-of-materials-sbom-with-cyclonedx)
 
-## Supply chain beyond libraries
+### Supply chain beyond libraries
 
 And a few things to watch beyond libraries and software dependencies:
 
