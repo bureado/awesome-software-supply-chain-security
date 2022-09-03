@@ -279,6 +279,7 @@ And a few things to watch beyond libraries and software dependencies:
 * [GNOME To Warn Users If Secure Boot Disabled, Preparing Other Firmware Security Help](https://www.phoronix.com/news/GNOME-Secure-Boot-Warning)
 * [Kernel Self Protection Project - Linux Kernel Security Subsystem](https://kernsec.org/wiki/index.php/Kernel_Self_Protection_Project)
 * [keylime/keylime: A CNCF Project to Bootstrap &amp; Maintain Trust on the Edge / Cloud and IoT](https://github.com/keylime/keylime)
+* [parallaxsecond/parsec: Platform AbstRaction for SECurity service](https://github.com/parallaxsecond/parsec)
 
 ## Identity, signing and provenance
 
