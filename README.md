@@ -128,6 +128,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * Veracode's [SCA to Automate Security Scanning](https://www.veracode.com/products/software-composition-analysis), see demo: [How to generate a Software Bill of Materials (SBOM) using Veracode Software Composition Analysis](https://www.youtube.com/watch?v=FfTgeHjEwkk)
 * [Enterprise Edition - BluBracket: Code Security & Secret Detection](https://blubracket.com/products/enterprise-edition/)
 * [Software Composition Analysis (SCA) | CyberRes](https://www.microfocus.com/en-us/cyberres/application-security/software-composition-analysis)
+* [Nexus Intelligence - Sonatype Data Services](https://www.sonatype.com/products/intelligence)
 * [AppThreat/dep-scan: Fully open-source security audit for project dependencies based on known vulnerabilities and advisories. Supports both local repos and container images. Integrates with various CI environments such as Azure Pipelines, CircleCI, Google CloudBuild. No server required!](https://github.com/AppThreat/dep-scan)
 
 More interesting resources:
