@@ -323,6 +323,7 @@ And a few things to watch beyond libraries and software dependencies:
 * [recipy/recipy: Effortless method to record provenance in Python](https://github.com/recipy/recipy)
 * [spiffe/spire: The SPIFFE Runtime Environment](https://github.com/spiffe/spire)
 * [Fraunhofer-SIT/charra: Proof-of-concept implementation of the &quot;Challenge/Response Remote Attestation&quot; interaction model of the IETF RATS Reference Interaction Models for Remote Attestation Procedures using TPM 2.0.](https://github.com/Fraunhofer-SIT/charra)
+* [google/trillian: A transparent, highly scalable and cryptographically verifiable data store.](https://github.com/google/trillian)
 
 ## Frameworks and best practice references
 
