@@ -12,7 +12,7 @@ For `awesome-software-supply-chain-security` we take the following high-level ap
 
 In this process-centric view, attestations are _emitted_, _augmented_ (e.g., during composition) and _verified_.
 
-> Another way to look at this was described [here](https://twitter.com/joshbressers/status/1477366321436319745) by Josh Bressers.
+> Another way to look at this was described [here](https://twitter.com/joshbressers/status/1477366321436319745) by Josh Bressers, and here's a narrative example in the wild [from Spotify](https://youtu.be/yuDMsB0jsdE?t=498)
 
 Using this lens we can identify a large group of "subjects" (dependencies), distinct categories of "facts" (licenses or vulnerabilities) and the specific role of identity, provenance and build systems. This is the rationale behind the current headings, which are expected to evolve with the domain.
 
