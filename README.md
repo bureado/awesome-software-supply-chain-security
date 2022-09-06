@@ -75,6 +75,7 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
   * Also, although arguably more in the realm of application observability, [IntelLabs/control-flag: A system to flag anomalous source code expressions by learning typical expressions from training data](https://github.com/IntelLabs/control-flag)
 * [abhisek/supply-chain-security-gateway: Reference architecture and proof of concept implementation for supply chain security gateway](https://github.com/abhisek/supply-chain-security-gateway)
 * [cugu/gocap: List your dependencies capabilities and monitor if updates require more  capabilities.](https://github.com/cugu/gocap)
+* [MATE: Interactive Program Analysis with Code Property Graphs](https://galois.com/blog/2022/08/mate-interactive-program-analysis-with-code-property-graphs/) and see [GaloisInc/MATE: MATE is a suite of tools for interactive program analysis with a focus on hunting for bugs in C and C++ code using Code Property Graphs](https://github.com/GaloisInc/MATE) and [docs](https://galoisinc.github.io/MATE/)
 * [Checkmarx/chainalert-github-action: scans popular packages and alerts in cases there is suspicion of an account takeover](https://github.com/Checkmarx/chainalert-github-action)
 * Open Source Security Foundation (OpenSSF) [Alpha-Omega Project](https://openssf.org/community/alpha-omega/)
 * [Socket - Find and compare millions of open source packages](https://socket.dev/), focused on JavaScript
