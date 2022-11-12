@@ -216,6 +216,7 @@ A few open source projects are documenting, in public, how they acquire dependen
 * [secvisogram/secvisogram: Secvisogram is a web tool for creating and editing security advisories in the CSAF 2.0 format](https://github.com/secvisogram/secvisogram/)
 * [future-architect/vuls: Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices](https://github.com/future-architect/vuls)
 * [infobyte/faraday: Open Source Vulnerability Management Platform](https://github.com/infobyte/faraday) from [Faraday - Community v4 Release](https://faradaysec.com/community-v4/)
+* [mitre/saf: The MITRE Security Automation Framework (SAF) Command Line Interface (CLI) brings together applications, techniques, libraries, and tools developed by MITRE and the security community to streamline security automation for systems and DevOps pipelines](https://github.com/mitre/saf)
 
 A dedicated section on VEX reads:
 
