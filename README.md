@@ -369,6 +369,7 @@ And a few things to watch beyond libraries and software dependencies:
 * [Fraunhofer-SIT/charra: Proof-of-concept implementation of the &quot;Challenge/Response Remote Attestation&quot; interaction model of the IETF RATS Reference Interaction Models for Remote Attestation Procedures using TPM 2.0.](https://github.com/Fraunhofer-SIT/charra)
 * [google/trillian: A transparent, highly scalable and cryptographically verifiable data store.](https://github.com/google/trillian)
 * [Artifactory - Universal Artifact Management](https://jfrog.com/artifactory/)
+* [GitHub - pyrsia/pyrsia: Decentralized Package Network](https://github.com/pyrsia/pyrsia)
 
 ## Frameworks and best practice references
 
