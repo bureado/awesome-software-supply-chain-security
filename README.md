@@ -91,7 +91,8 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
 * [grep.app | code search](https://grep.app/)
 * [GitHub code search](https://github.com/features/code-search)
 * [searchcode | source code search engine](https://searchcode.com/)
-* [Sourcegraph](https://sourcegraph.com/search)
+* [Sourcegraph](https://sourcegraph.com/search) from Sourcegraph
+* [Code Checker](https://snyk.io/code-checker/) from Snyk
 * [GitHub - cve-search/git-vuln-finder: Finding potential software vulnerabilities from git commit messages](https://github.com/cve-search/git-vuln-finder)
 * [GitHub - chaoss/augur: Python library and web service for Open Source Software Health and Sustainability metrics &amp; data collection. You can find our documentation and new contributor information easily here: https://chaoss.github.io/augur/ and learn more about Augur at our website https://augurlabs.io](https://github.com/chaoss/augur)
 
