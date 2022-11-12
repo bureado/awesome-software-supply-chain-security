@@ -89,6 +89,7 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
 * [crt.sh | Certificate Search](https://crt.sh/)
 * [grep.app | code search](https://grep.app/)
 * [GitHub code search](https://github.com/features/code-search)
+* [searchcode | source code search engine](https://searchcode.com/)
 
 Also read:
 
