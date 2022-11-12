@@ -97,6 +97,7 @@ Also read:
 
 * [TaptuIT/awesome-devsecops: Curating the best DevSecOps resources and tooling.](https://github.com/TaptuIT/awesome-devsecops#dependency-management)
 * Read: [Contour: A Practical System for Binary Transparency](https://arxiv.org/abs/1712.08427)
+* Several interesting concepts in: [GitHub - Shopify/seer-prototype: Security Expert Elicitation of Risks](https://github.com/Shopify/seer-prototype/tree/main)
 
 ### SCA and SBOM
 
