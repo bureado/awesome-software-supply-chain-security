@@ -145,6 +145,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * [Security problem management](https://www.dynatrace.com/support/help/how-to-use-dynatrace/application-security/security-problem-management) in Dynatrace Application Security
 * [DefectDojo/django-DefectDojo: DefectDojo is a DevSecOps and vulnerability management tool.](https://github.com/DefectDojo/django-DefectDojo)
   * Impressive list of integrations with samples: [DefectDojo/sample-scan-files: Sample scan files for testing DefectDojo imports](https://github.com/DefectDojo/sample-scan-files)
+* [GitHub - swingletree-oss/swingletree: Integrate and observe the results of your CI/CD pipeline tools](https://github.com/swingletree-oss/swingletree)
 * [GitHub - marcinguy/betterscan-ce: Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report (Code, IaC) - Betterscan Community Edition (CE)](https://github.com/marcinguy/betterscan-ce)
 * [GitHub - BBVA/susto: Systematic Universal Security Testing Orchestration](https://github.com/BBVA/susto)
 * FOSSA's [SBOM Solution](https://fossa.com/lp/simplify-sbom-generation-fossa)
