@@ -277,6 +277,7 @@ Also see:
 
 * [Kyverno](https://kyverno.io/)
   * Read: [Attesting Image Scans With Kyverno](https://neonmirrors.net/post/2022-07/attesting-image-scans-kyverno/)
+    * And: [Managing Kyverno Policies as OCI Artifacts with OCIRepository Sources](https://fluxcd.io/blog/2022/08/manage-kyverno-policies-as-ocirepositories/)
   * Also: [testifysec/judge-k8s: Proof of concept Kubernetes admission controller using the witness attestation verification library](https://github.com/testifysec/judge-k8s)
 * [ckotzbauer/sbom-operator: Catalogue all images of a Kubernetes cluster to multiple targets with Syft](https://github.com/ckotzbauer/sbom-operator)
 * [CONNAISSEUR - Verify Container Image Signatures in Kubernetes](https://sse-secure-systems.github.io/connaisseur/v2.0.0/)
