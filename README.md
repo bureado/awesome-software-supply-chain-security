@@ -300,7 +300,7 @@ Also see:
       * And: [Use data-dist-info-metadata (PEP 658) to decouple resolution from downloading by cosmicexplorer · Pull Request #11111 · pypa/pip](https://github.com/pypa/pip/pull/11111)
     * Interesting Python-related project: [Project Thoth](https://thoth-station.ninja/), using Artificial Intelligence to analyse and recommend software stacks for Python applications
     * Or [Checkmarx/chainjacking: Find which of your go lang direct GitHub dependencies is susceptible to ChainJacking attack](https://github.com/Checkmarx/chainjacking)
-    * Or [Cargo Vet](https://mozilla.github.io/cargo-vet/)
+    * Or [Cargo Vet](https://mozilla.github.io/cargo-vet/) and [crev-dev/cargo-crev: A cryptographically verifiable code review system for the cargo (Rust) package manager.](https://github.com/crev-dev/cargo-crev)
     * Not automated validation, but comprehensive guidance for Java with a few critical points relating to supply chain security: [Google Best Practices for Java Libraries](https://jlbp.dev/)
 * Static analysis is often used at this stage in order to detect dependency acquisition, e.g.:
   * [Semgrep](https://semgrep.dev/)
@@ -326,6 +326,7 @@ Also see:
 * [cloudquery/plugins/source/k8s/policies at main · cloudquery/cloudquery](https://github.com/cloudquery/cloudquery/tree/main/plugins/source/k8s/policies)
 * [quarkslab/kdigger: Kubernetes focused container assessment and context discovery tool for penetration testing](https://github.com/quarkslab/kdigger)
 * [ossillate-inc/packj: The vetting tool 🚀 behind our large-scale security analysis platform to detect malicious/risky open-source packages](https://github.com/ossillate-inc/packj) and [Packj | A vetting tool to avoid "risky" packages](https://packj.dev/)
+* [GitHub - doowon/sigtool: sigtool for signed PE files in GO](https://github.com/doowon/sigtool)
 
 Also see:
 
