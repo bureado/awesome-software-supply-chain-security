@@ -244,6 +244,7 @@ A few open source projects are documenting, in public, how they acquire dependen
 * [mitre/saf: The MITRE Security Automation Framework (SAF) Command Line Interface (CLI) brings together applications, techniques, libraries, and tools developed by MITRE and the security community to streamline security automation for systems and DevOps pipelines](https://github.com/mitre/saf)
 * [GitHub - devops-kung-fu/bomber: Scans Software Bill of Materials (SBOMs) for security vulnerabilities](https://github.com/devops-kung-fu/bomber)
 * [GitHub - Rezilion/mi-x: Determine whether your compute is truly vulnerable to a specific vulnerability by accounting for all factors which affect *actual* exploitability (runtime execution, configuration, permissions, existence of a mitigation, OS, etc..)](https://github.com/Rezilion/mi-x)
+* [GitHub - ossf-cve-benchmark/ossf-cve-benchmark: The OpenSSF CVE Benchmark consists of code and metadata for over 200 real life CVEs, as well as tooling to analyze the vulnerable codebases using a variety of static analysis security testing (SAST) tools and generate reports to evaluate those tools.](https://github.com/ossf-cve-benchmark/ossf-cve-benchmark)
 
 A dedicated section on VEX reads:
 
