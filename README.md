@@ -93,6 +93,7 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
 * [GitHub code search](https://github.com/features/code-search)
 * [searchcode | source code search engine](https://searchcode.com/)
 * [Sourcegraph](https://sourcegraph.com/search) from Sourcegraph
+* [Onboard open-source contributors on Open Source Hub](https://opensourcehub.io/), see the [docker-slim](https://opensourcehub.io/docker-slim/docker-slim) example in Codesee
 * [Code Checker](https://snyk.io/code-checker/) from Snyk
 * [Get Started - FOSSology](https://www.fossology.org/get-started/)
 * [GitHub - cve-search/git-vuln-finder: Finding potential software vulnerabilities from git commit messages](https://github.com/cve-search/git-vuln-finder)
