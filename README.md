@@ -343,7 +343,7 @@ And a few things to watch beyond libraries and software dependencies:
   * Also: [testifysec/judge-k8s: Proof of concept Kubernetes admission controller using the witness attestation verification library](https://github.com/testifysec/judge-k8s)
   * Watch: [Securing the Supply Chain with Witness - Cole Kennedy, TestifySec](https://www.youtube.com/watch?v=cZD_4u7DZPM)
 * [puerco/tejolote: A highly configurable build executor and observer designed to generate signed SLSA provenance attestations about build runs.](https://github.com/puerco/tejolote)
-* [in-toto-run - GitHub Marketplace](https://github.com/marketplace/actions/in-toto-run)
+* [in-toto-run - GitHub Marketplace](https://github.com/marketplace/actions/in-toto-run) and [GitHub - in-toto/github-action: in-toto provenance github action](https://github.com/in-toto/github-action)
 * [technosophos/helm-gpg: Chart signing and verification with GnuPG for Helm.](https://github.com/technosophos/helm-gpg)
 * [notaryproject/notary: Notary is a project that allows anyone to have trust over arbitrary collections of data](https://github.com/notaryproject/notary)
   * [notaryproject/roadmap: Roadmap for NotaryV2](https://github.com/notaryproject/roadmap)
