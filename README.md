@@ -61,6 +61,7 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
   * [apiaryio/curl-trace-parser: Parser for output from Curl --trace option](https://github.com/apiaryio/curl-trace-parser)
     * [curl trace attestor · Issue #139 · testifysec/witness](https://github.com/testifysec/witness/issues/139)
   * [Friends don't let friends Curl | Bash](https://sysdig.com/blog/friends-dont-let-friends-curl-bash/)
+    * And the quite interesting [Enable packaging of curl|bash and other wild stuff. by jordansissel · Pull Request #1957 · jordansissel/fpm](https://github.com/jordansissel/fpm/pull/1957#issuecomment-1304978342)
   * [Falco](https://falco.org/)
   * [aquasecurity/tracee: Linux Runtime Security and Forensics using eBPF](https://github.com/aquasecurity/tracee)
   * [genuinetools/bane: Custom &amp; better AppArmor profile generator for Docker containers.](https://github.com/genuinetools/bane)
