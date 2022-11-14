@@ -583,3 +583,4 @@ And a collection of reads and listens, ranging from insightful blog posts, expla
 * Contact sign-up sheet required: [The Rise of Continuous Packaging](https://cloudsmith.com/developers/resources/the-rise-of-continuous-packaging/) by Cloudsmith and O'Reilly
 * [Supply Chain Security for Cloud Native Java](https://speakerdeck.com/thomasvitale/supply-chain-security-for-cloud-native-java) (from [Thomas Vitale](https://twitter.com/vitalethomas/status/1565714896154755075))
 * Podcast: [It Depends](https://open.spotify.com/episode/6l6yZUVrg058krMIrk8dTi?si=vZdjcI9mRRepHW-Q4B2r-w&nd=1) with Trail of Bits
+* [New security concerns for the open-source software supply chain](https://www.helpnetsecurity.com/2022/10/17/security-concerns-open-source-software-supply-chain/) (top level findings from The State of the Software Supply Chain: Open Source Edition 2022)
