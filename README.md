@@ -273,6 +273,8 @@ Also see:
 * [GitHub - sigstore/policy-controller: The policy admission controller used to enforce policy on a cluster on verifiable supply-chain metadata from cosign.](https://github.com/sigstore/policy-controller)
   * Also see: [GitHub - lukehinds/policy-controller-demo: demo of keyless signing with the sigstore kubernetes policy controller](https://github.com/lukehinds/policy-controller-demo)
 * [portieris/POLICIES.md at main · IBM/portieris](https://github.com/IBM/portieris/blob/main/POLICIES.md)
+* [GitHub - reproducible-containers/repro-get: Reproducible apt/dnf/apk/pacman, with content-addressing](https://github.com/reproducible-containers/repro-get)
+* [kpcyrd/pacman-bintrans: Experimental binary transparency for pacman with sigstore and rekor](https://github.com/kpcyrd/pacman-bintrans)
 * [Open Policy Agent](https://www.openpolicyagent.org/)
 * [Conftest](https://www.conftest.dev/examples/) allows to write tests against structured configuration data using the Open Policy Agent Rego query language: [here's an example](https://github.com/open-policy-agent/conftest/blob/master/examples/docker/policy/commands.rego)
 * Several [pre-commit](https://pre-commit.com/hooks.html) hooks allow vulnerability checking right before dependency ingestion time into the codebase
@@ -434,7 +436,6 @@ Also see:
   * [Is NixOS Reproducible?](https://r13y.com/)
 * [Bootstrappable Builds (GNU Mes Reference Manual)](https://www.gnu.org/software/mes/manual/html_node/Bootstrappable-Builds.html)
   * Also read [Bootstrappable builds](https://lwn.net/Articles/841797/) from LWN
-* [kpcyrd/pacman-bintrans: Experimental binary transparency for pacman with sigstore and rekor](https://github.com/kpcyrd/pacman-bintrans)
 * [tektoncd/chains: Supply Chain Security in Tekton Pipelines](https://github.com/tektoncd/chains)
   * [Verifiable Supply Chain Metadata for Tekton - CD Foundation](https://cd.foundation/blog/2021/06/18/verifiable-supply-chain-metadata-for-tekton/)
 * [google/santa: A binary authorization system for macOS](https://github.com/google/santa)
