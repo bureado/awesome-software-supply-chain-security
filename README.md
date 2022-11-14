@@ -113,6 +113,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 
 * [GitBOM](https://gitbom.dev/)
   * Also: [GitHub - git-bom/bomsh: bomsh is collection of tools to explore the GitBOM idea](https://github.com/git-bom/bomsh#Reproducible-Build-and-Bomsh)
+  * [GitHub - yonhan3/gitbom-repo: A repository of gitBOM docs for Linux binaries](https://github.com/yonhan3/gitbom-repo)
   * Listen: [GitBOM. It’s not Git or SBOM](https://thectoadvisor.com/gitbom-podcast/) and [GitBOM: Repurposing Git’s Graph for Supply Chain Security & Transparency](https://www.youtube.com/watch?v=qcQFIv6pCSE)
   * Also see [bomsage/vision.md at main · dpp/bomsage](https://github.com/dpp/bomsage/blob/main/info/vision.md), and [pkgconf/main.c at master · pkgconf/pkgconf](https://github.com/pkgconf/pkgconf/blob/master/cli/bomtool/main.c) (more info in [this thread](https://twitter.com/ariadneconill/status/1558074556723728387))
 * [nexB/scancode-toolkit: ScanCode detects licenses, copyrights, package manifests &amp; dependencies and more by scanning code ... to discover and inventory open source and third-party packages used in your code.](https://github.com/nexB/scancode-toolkit)
