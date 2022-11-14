@@ -389,6 +389,7 @@ And a few things to watch beyond libraries and software dependencies:
 * [Artifactory - Universal Artifact Management](https://jfrog.com/artifactory/)
 * [GitHub - pyrsia/pyrsia: Decentralized Package Network](https://github.com/pyrsia/pyrsia)
 * [GitHub - transmute-industries/verifiable-actions: Workflow tools for Decentralized Identifiers &amp; Verifiable Credentials](https://github.com/transmute-industries/verifiable-actions/tree/main)
+* Watch: [Privacy-preserving Approaches to Transparency Logs](https://www.youtube.com/watch?v=UrLdEYVASak)
 
 ## Frameworks and best practice references
 
