@@ -169,6 +169,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * [Sonatype BOM Doctor](https://bomdoctor.sonatype.dev/#/home)
 * [GitHub - jhutchings1/spdx-to-dependency-graph-action: A GitHub Action that takes SPDX SBOMs and uploads them to GitHub&#39;s dependency submission API to power Dependabot alerts](https://github.com/jhutchings1/spdx-to-dependency-graph-action)
   * Also see: [GitHub - evryfs/sbom-dependency-submission-action: Submit SBOMs to GitHub&#39;s dependency submission API](https://github.com/evryfs/sbom-dependency-submission-action)
+  * And the [Dependency submission](https://docs.github.com/en/rest/dependency-graph/dependency-submission) docs
 * [GitHub - tap8stry/orion: Go beyond package manager discovery for SBOM](https://github.com/tap8stry/orion)
 * [GitHub - patriksvensson/covenant: A tool to generate SBOM (Software Bill of Material) from source code artifacts.](https://github.com/patriksvensson/covenant)
 * [GitHub - CycloneDX/cyclonedx-webpack-plugin: Create CycloneDX Software Bill of Materials (SBOM) from webpack bundles at compile time.](https://github.com/CycloneDX/cyclonedx-webpack-plugin)
