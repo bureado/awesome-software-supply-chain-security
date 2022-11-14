@@ -248,6 +248,7 @@ A dedicated section on VEX reads:
   * [VDR or VEX – Which Do I Use? Part 1](https://www.linkedin.com/pulse/vdr-vex-which-do-i-use-tony-turner)
   * [VEX! or... How to Reduce CVE Noise With One Simple Trick!](https://www.youtube.com/watch?v=OWAn3ynhyzQ) by Frederick Kautz
   * [Vulnerability Exploitability eXchange (VEX) - Status Justifications](https://www.cisa.gov/sites/default/files/publications/VEX_Status_Justification_Jun22.pdf)
+  * [GitHub - Rezilion/mi-x: Determine whether your compute is truly vulnerable to a specific vulnerability by accounting for all factors which affect *actual* exploitability (runtime execution, configuration, permissions, existence of a mitigation, OS, etc..)](https://github.com/Rezilion/mi-x)
 
 Also see:
 
