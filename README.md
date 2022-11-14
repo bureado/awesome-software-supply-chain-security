@@ -171,6 +171,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
   * Also see: [GitHub - evryfs/sbom-dependency-submission-action: Submit SBOMs to GitHub&#39;s dependency submission API](https://github.com/evryfs/sbom-dependency-submission-action)
 * [GitHub - tap8stry/orion: Go beyond package manager discovery for SBOM](https://github.com/tap8stry/orion)
 * [GitHub - patriksvensson/covenant: A tool to generate SBOM (Software Bill of Material) from source code artifacts.](https://github.com/patriksvensson/covenant)
+* [GitHub - CycloneDX/cyclonedx-webpack-plugin: Create CycloneDX Software Bill of Materials (SBOM) from webpack bundles at compile time.](https://github.com/CycloneDX/cyclonedx-webpack-plugin)
 
 More interesting resources:
 
