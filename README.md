@@ -307,6 +307,8 @@ Also see:
     * Not automated validation, but comprehensive guidance for Java with a few critical points relating to supply chain security: [Google Best Practices for Java Libraries](https://jlbp.dev/)
 * Static analysis is often used at this stage in order to detect dependency acquisition, e.g.:
   * [Semgrep](https://semgrep.dev/)
+    * [Getting started with Semgrep Supply Chain](https://semgrep.dev/docs/semgrep-sc/scanning-open-source-dependencies/)
+    * Also see: [Catching Security Vulnerabilities With Semgrep](https://www.codedbrain.com/catching-security-vulnerabilities-with-semgrep/)
   * [graudit/signatures at master · wireghoul/graudit](https://github.com/wireghoul/graudit/tree/master/signatures)
   * [banyanops/collector: A framework for Static Analysis of Docker container images](https://github.com/banyanops/collector)
   * [quay/clair: Vulnerability Static Analysis for Containers](https://github.com/quay/clair)
