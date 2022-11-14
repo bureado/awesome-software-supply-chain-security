@@ -458,6 +458,7 @@ Also see:
   * Example using SBOM as an input: [Inputs - Hoppr](https://lmco.gitlab.io/hoppr/hoppr/getting_started/inputs.html#cyclonedx-sboms)
 * On instrumenting runners:
   * Keep an eye on [Draft: POC Witness Runner integration (!1) · Merge requests · testifysec / gitlab-runner](https://gitlab.com/testifysec/gitlab-runner/-/merge_requests/1) for GitLab runners
+  * Also, [GitHub - edgelesssys/constellation: Constellation is the first Confidential Kubernetes. Constellation shields entire Kubernetes clusters from the (cloud) infrastructure using confidential computing.](https://github.com/edgelesssys/constellation)
 * [reposaur/reposaur: Open source compliance tool for development platforms.](https://github.com/reposaur/reposaur)
 * [buildsec/frsca](https://github.com/buildsec/frsca) is an implementation of the CNCF's Secure Software Factory Reference Architecture. It is also intended to follow SLSA requirements closely and generate in-toto attesttations for SLSA provenance predicates.
 * [aquasecurity/chain-bench: an open-source tool for auditing your software supply chain stack for security compliance](https://github.com/aquasecurity/chain-bench) implementing checks for [CIS 1.0 | Vulnerability Database | Aqua Security](https://avd.aquasec.com/compliance/softwaresupplychain/cis-1.0/)
