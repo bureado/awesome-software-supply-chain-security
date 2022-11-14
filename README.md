@@ -243,6 +243,7 @@ A few open source projects are documenting, in public, how they acquire dependen
 * [infobyte/faraday: Open Source Vulnerability Management Platform](https://github.com/infobyte/faraday) from [Faraday - Community v4 Release](https://faradaysec.com/community-v4/)
 * [mitre/saf: The MITRE Security Automation Framework (SAF) Command Line Interface (CLI) brings together applications, techniques, libraries, and tools developed by MITRE and the security community to streamline security automation for systems and DevOps pipelines](https://github.com/mitre/saf)
 * [GitHub - devops-kung-fu/bomber: Scans Software Bill of Materials (SBOMs) for security vulnerabilities](https://github.com/devops-kung-fu/bomber)
+* [GitHub - Rezilion/mi-x: Determine whether your compute is truly vulnerable to a specific vulnerability by accounting for all factors which affect *actual* exploitability (runtime execution, configuration, permissions, existence of a mitigation, OS, etc..)](https://github.com/Rezilion/mi-x)
 
 A dedicated section on VEX reads:
 
@@ -256,7 +257,7 @@ A dedicated section on VEX reads:
   * [VDR or VEX – Which Do I Use? Part 1](https://www.linkedin.com/pulse/vdr-vex-which-do-i-use-tony-turner)
   * [VEX! or... How to Reduce CVE Noise With One Simple Trick!](https://www.youtube.com/watch?v=OWAn3ynhyzQ) by Frederick Kautz
   * [Vulnerability Exploitability eXchange (VEX) - Status Justifications](https://www.cisa.gov/sites/default/files/publications/VEX_Status_Justification_Jun22.pdf)
-  * [GitHub - Rezilion/mi-x: Determine whether your compute is truly vulnerable to a specific vulnerability by accounting for all factors which affect *actual* exploitability (runtime execution, configuration, permissions, existence of a mitigation, OS, etc..)](https://github.com/Rezilion/mi-x)
+* [Real-time VEX](https://tomalrichblog.blogspot.com/2022/09/real-time-vex.html?m=1)
 
 Also see:
 
