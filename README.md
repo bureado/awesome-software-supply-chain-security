@@ -461,6 +461,7 @@ Also see:
 * [Bazel](https://bazel.build/) is an open source build and test tool similar to Make, Maven, and Gradle
 * [GoogleContainerTools/kaniko: Build Container Images In Kubernetes](https://github.com/GoogleContainerTools/kaniko)
 * [GitHub - sethvargo/ratchet: A tool for securing CI/CD workflows with version pinning.](https://github.com/sethvargo/ratchet)
+* [GitHub - buildsec/vendorme](https://github.com/buildsec/vendorme) improves the developer workflow by giving you one single place to manage any vendored dependencies, and ensures that those are validated properly to improve the security around your supply chain
 
 Also see:
 
