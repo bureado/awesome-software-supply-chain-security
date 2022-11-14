@@ -379,6 +379,7 @@ And a few things to watch beyond libraries and software dependencies:
 * [google/trillian: A transparent, highly scalable and cryptographically verifiable data store.](https://github.com/google/trillian)
 * [Artifactory - Universal Artifact Management](https://jfrog.com/artifactory/)
 * [GitHub - pyrsia/pyrsia: Decentralized Package Network](https://github.com/pyrsia/pyrsia)
+* [GitHub - transmute-industries/verifiable-actions: Workflow tools for Decentralized Identifiers &amp; Verifiable Credentials](https://github.com/transmute-industries/verifiable-actions/tree/main)
 
 ## Frameworks and best practice references
 
