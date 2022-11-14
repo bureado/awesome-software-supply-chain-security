@@ -365,6 +365,7 @@ And a few things to watch beyond libraries and software dependencies:
 * [in-toto-run - GitHub Marketplace](https://github.com/marketplace/actions/in-toto-run) and [GitHub - in-toto/github-action: in-toto provenance github action](https://github.com/in-toto/github-action)
 * [General availability of SLSA3 Generic Generator for GitHub Actions](https://slsa.dev/blog/2022/08/slsa-github-workflows-generic-ga)
   * [GitHub - slsa-framework/slsa-github-generator: Language-agnostic SLSA provenance generation for Github Actions](https://github.com/slsa-framework/slsa-github-generator)
+  * Also see: [Attestation Crafting | ChainLoop documentation](https://docs.chainloop.dev/getting-started/attestation-crafting)
 * [technosophos/helm-gpg: Chart signing and verification with GnuPG for Helm.](https://github.com/technosophos/helm-gpg)
 * [GitHub - cashapp/pivit](https://github.com/cashapp/pivit) is a command line tool for managing x509 certificates stored on smart cards with PIV applet support that is fully compatible with `git`
 * [notaryproject/notary: Notary is a project that allows anyone to have trust over arbitrary collections of data](https://github.com/notaryproject/notary)
