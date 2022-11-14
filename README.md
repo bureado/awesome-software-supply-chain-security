@@ -38,7 +38,7 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
 > This section includes: package management, library management, dependency management, vendored dependency management, by-hash searches, package, library and dependency naming, library behavior labeling, library publishing, registries and repositories, publishing gates and scans, dependency lifecycle.
 
 * [Open Source Insights](https://deps.dev/)
-* [GitHub - guacsec/guac: GUAC aggregates software security metadata into a high fidelity graph database.](https://github.com/guacsec/guac)
+* [guacsec/guac: GUAC aggregates software security metadata into a high fidelity graph database.](https://github.com/guacsec/guac)
 * [package-url/purl-spec: A minimal specification for purl aka. a package &quot;mostly universal&quot; URL, join the discussion at https://gitter.im/package-url/Lobby](https://github.com/package-url/purl-spec)
 * Online services that help understand what a specific dependency _is_, or at least whether it's known (usually feeding it a package identifier, such as `purl`, CPE or another form of `ecosystem:name:version`, or alternatively via hash):
   * [NSRL](https://www.nist.gov/itl/ssd/software-quality-group/national-software-reference-library-nsrl/about-nsrl/library-contents): hashes for [COTS software](https://www.nist.gov/itl/ssd/software-quality-group/national-software-reference-library-nsrl/about-nsrl/library-contents), well-integrated in tooling from [sleuthkit/hfind](http://manpages.ubuntu.com/manpages/bionic/man1/hfind.1.html) to [nsrllookup](https://github.com/rjhansen/nsrllookup)
@@ -96,14 +96,14 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
 * [Onboard open-source contributors on Open Source Hub](https://opensourcehub.io/), see the [docker-slim](https://opensourcehub.io/docker-slim/docker-slim) example in Codesee
 * [Code Checker](https://snyk.io/code-checker/) from Snyk
 * [Get Started - FOSSology](https://www.fossology.org/get-started/)
-* [GitHub - cve-search/git-vuln-finder: Finding potential software vulnerabilities from git commit messages](https://github.com/cve-search/git-vuln-finder)
-* [GitHub - chaoss/augur: Python library and web service for Open Source Software Health and Sustainability metrics &amp; data collection. You can find our documentation and new contributor information easily here: https://chaoss.github.io/augur/ and learn more about Augur at our website https://augurlabs.io](https://github.com/chaoss/augur)
+* [cve-search/git-vuln-finder: Finding potential software vulnerabilities from git commit messages](https://github.com/cve-search/git-vuln-finder)
+* [chaoss/augur: Python library and web service for Open Source Software Health and Sustainability metrics &amp; data collection. You can find our documentation and new contributor information easily here: https://chaoss.github.io/augur/ and learn more about Augur at our website https://augurlabs.io](https://github.com/chaoss/augur)
 
 Also read:
 
 * [TaptuIT/awesome-devsecops: Curating the best DevSecOps resources and tooling.](https://github.com/TaptuIT/awesome-devsecops#dependency-management)
 * Read: [Contour: A Practical System for Binary Transparency](https://arxiv.org/abs/1712.08427)
-* Several interesting concepts in: [GitHub - Shopify/seer-prototype: Security Expert Elicitation of Risks](https://github.com/Shopify/seer-prototype/tree/main)
+* Several interesting concepts in: [Shopify/seer-prototype: Security Expert Elicitation of Risks](https://github.com/Shopify/seer-prototype/tree/main)
 
 ### SCA and SBOM
 
@@ -112,8 +112,8 @@ Also read:
 The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
 
 * [GitBOM](https://gitbom.dev/)
-  * Also: [GitHub - git-bom/bomsh: bomsh is collection of tools to explore the GitBOM idea](https://github.com/git-bom/bomsh#Reproducible-Build-and-Bomsh)
-  * [GitHub - yonhan3/gitbom-repo: A repository of gitBOM docs for Linux binaries](https://github.com/yonhan3/gitbom-repo)
+  * Also: [git-bom/bomsh: bomsh is collection of tools to explore the GitBOM idea](https://github.com/git-bom/bomsh#Reproducible-Build-and-Bomsh)
+  * [yonhan3/gitbom-repo: A repository of gitBOM docs for Linux binaries](https://github.com/yonhan3/gitbom-repo)
   * Listen: [GitBOM. It’s not Git or SBOM](https://thectoadvisor.com/gitbom-podcast/) and [GitBOM: Repurposing Git’s Graph for Supply Chain Security & Transparency](https://www.youtube.com/watch?v=qcQFIv6pCSE)
   * Also see [bomsage/vision.md at main · dpp/bomsage](https://github.com/dpp/bomsage/blob/main/info/vision.md), and [pkgconf/main.c at master · pkgconf/pkgconf](https://github.com/pkgconf/pkgconf/blob/master/cli/bomtool/main.c) (more info in [this thread](https://twitter.com/ariadneconill/status/1558074556723728387))
 * [nexB/scancode-toolkit: ScanCode detects licenses, copyrights, package manifests &amp; dependencies and more by scanning code ... to discover and inventory open source and third-party packages used in your code.](https://github.com/nexB/scancode-toolkit)
@@ -148,10 +148,10 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * [Security problem management](https://www.dynatrace.com/support/help/how-to-use-dynatrace/application-security/security-problem-management) in Dynatrace Application Security
 * [DefectDojo/django-DefectDojo: DefectDojo is a DevSecOps and vulnerability management tool.](https://github.com/DefectDojo/django-DefectDojo)
   * Impressive list of integrations with samples: [DefectDojo/sample-scan-files: Sample scan files for testing DefectDojo imports](https://github.com/DefectDojo/sample-scan-files)
-* [GitHub - swingletree-oss/swingletree: Integrate and observe the results of your CI/CD pipeline tools](https://github.com/swingletree-oss/swingletree)
-* [GitHub - mercedes-benz/sechub: SecHub - one central and easy way to use different security tools with one API/Client](https://github.com/mercedes-benz/sechub)
-* [GitHub - marcinguy/betterscan-ce: Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report (Code, IaC) - Betterscan Community Edition (CE)](https://github.com/marcinguy/betterscan-ce)
-* [GitHub - BBVA/susto: Systematic Universal Security Testing Orchestration](https://github.com/BBVA/susto)
+* [swingletree-oss/swingletree: Integrate and observe the results of your CI/CD pipeline tools](https://github.com/swingletree-oss/swingletree)
+* [mercedes-benz/sechub: SecHub - one central and easy way to use different security tools with one API/Client](https://github.com/mercedes-benz/sechub)
+* [marcinguy/betterscan-ce: Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report (Code, IaC) - Betterscan Community Edition (CE)](https://github.com/marcinguy/betterscan-ce)
+* [BBVA/susto: Systematic Universal Security Testing Orchestration](https://github.com/BBVA/susto)
 * FOSSA's [SBOM Solution](https://fossa.com/lp/simplify-sbom-generation-fossa)
 * [Rezillion Dynamic SBOM](https://www.rezilion.com/platform/dynamic-sbom/)
 * [opensbom-generator/spdx-sbom-generator: Support CI generation of SBOMs via golang tooling.](https://github.com/opensbom-generator/spdx-sbom-generator)
@@ -167,14 +167,14 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * [Software Composition Analysis (SCA) | CyberRes](https://www.microfocus.com/en-us/cyberres/application-security/software-composition-analysis)
 * [Nexus Intelligence - Sonatype Data Services](https://www.sonatype.com/products/intelligence)
 * [AppThreat/dep-scan: Fully open-source security audit for project dependencies based on known vulnerabilities and advisories. Supports both local repos and container images. Integrates with various CI environments such as Azure Pipelines, CircleCI, Google CloudBuild. No server required!](https://github.com/AppThreat/dep-scan)
-* [GitHub - sbs2001/fatbom: fatbom (Fat Bill Of Materials) is a tool which combines the SBOM generated by various tools into one fat SBOM. Thus leveraging each tool&#39;s strength.](https://github.com/sbs2001/fatbom)
+* [sbs2001/fatbom: fatbom (Fat Bill Of Materials) is a tool which combines the SBOM generated by various tools into one fat SBOM. Thus leveraging each tool&#39;s strength.](https://github.com/sbs2001/fatbom)
 * [Sonatype BOM Doctor](https://bomdoctor.sonatype.dev/#/home)
-* [GitHub - jhutchings1/spdx-to-dependency-graph-action: A GitHub Action that takes SPDX SBOMs and uploads them to GitHub&#39;s dependency submission API to power Dependabot alerts](https://github.com/jhutchings1/spdx-to-dependency-graph-action)
-  * Also see: [GitHub - evryfs/sbom-dependency-submission-action: Submit SBOMs to GitHub&#39;s dependency submission API](https://github.com/evryfs/sbom-dependency-submission-action)
+* [jhutchings1/spdx-to-dependency-graph-action: A GitHub Action that takes SPDX SBOMs and uploads them to GitHub&#39;s dependency submission API to power Dependabot alerts](https://github.com/jhutchings1/spdx-to-dependency-graph-action)
+  * Also see: [evryfs/sbom-dependency-submission-action: Submit SBOMs to GitHub&#39;s dependency submission API](https://github.com/evryfs/sbom-dependency-submission-action)
   * And the [Dependency submission](https://docs.github.com/en/rest/dependency-graph/dependency-submission) docs
-* [GitHub - tap8stry/orion: Go beyond package manager discovery for SBOM](https://github.com/tap8stry/orion)
-* [GitHub - patriksvensson/covenant: A tool to generate SBOM (Software Bill of Material) from source code artifacts.](https://github.com/patriksvensson/covenant)
-* [GitHub - CycloneDX/cyclonedx-webpack-plugin: Create CycloneDX Software Bill of Materials (SBOM) from webpack bundles at compile time.](https://github.com/CycloneDX/cyclonedx-webpack-plugin)
+* [tap8stry/orion: Go beyond package manager discovery for SBOM](https://github.com/tap8stry/orion)
+* [patriksvensson/covenant: A tool to generate SBOM (Software Bill of Material) from source code artifacts.](https://github.com/patriksvensson/covenant)
+* [CycloneDX/cyclonedx-webpack-plugin: Create CycloneDX Software Bill of Materials (SBOM) from webpack bundles at compile time.](https://github.com/CycloneDX/cyclonedx-webpack-plugin)
 
 More interesting resources:
 
@@ -207,7 +207,7 @@ A few open source projects are documenting, in public, how they acquire dependen
 
 * [OSV](https://osv.dev/)
   * Read: [SBOM in Action: finding vulnerabilities with a Software Bill of Materials](https://security.googleblog.com/2022/06/sbom-in-action-finding-vulnerabilities.html?m=1)
-  * Related: [GitHub - spdx/spdx-to-osv: Produce an Open Source Vulnerability JSON file based on information in an SPDX document](https://github.com/spdx/spdx-to-osv/)
+  * Related: [spdx/spdx-to-osv: Produce an Open Source Vulnerability JSON file based on information in an SPDX document](https://github.com/spdx/spdx-to-osv/)
 * Qualys' [Vulnerability Detection Pipeline](https://community.qualys.com/vulnerability-detection-pipeline/)
 * [Vuls · Agentless Vulnerability Scanner for Linux/FreeBSD](https://vuls.io/)
 * [Vulnerability Database](https://vuldb.com/?), an [API](https://vuldb.com/?kb.api) is also available; see [VulDB](https://github.com/vuldb)
@@ -222,7 +222,7 @@ A few open source projects are documenting, in public, how they acquire dependen
 * [nexB/vulnerablecode: A work-in-progress towards a free and open vulnerabilities database and the packages they impact. And the tools to aggregate and correlate these vulnerabilities. Sponsored by NLnet https://nlnet.nl/project/vulnerabilitydatabase/ for https://www.aboutcode.org/ Chat at https://gitter.im/aboutcode-org/vulnerablecode](https://github.com/nexB/vulnerablecode)
 * [toolswatch/vFeed: The Correlated CVE Vulnerability And Threat Intelligence Database API](https://github.com/toolswatch/vFeed)
 * [ossf/scorecard: Security Scorecards - Security health metrics for Open Source](https://github.com/ossf/scorecard), [OpenSSF Metrics](https://metrics.openssf.org/) and [ossf/security-reviews: A community collection of security reviews of open source software components.](https://github.com/ossf/security-reviews)
-  * [GitHub - ossf/scorecard-action: Official GitHub Action for OSSF Scorecards.](https://github.com/ossf/scorecard-action)
+  * [ossf/scorecard-action: Official GitHub Action for OSSF Scorecards.](https://github.com/ossf/scorecard-action)
     * Note: [How OpenSSF Scorecard’s GitHub Action v2 action uses GitHub OIDC with Sigstore](https://github.com/sigstore/community/issues/125#issuecomment-1240965050)
   * Also [OpenSSF Security Insights Spec](https://github.com/ossf/security-insights-spec)
   * Read: [How OpenSSF Scorecards can help to evaluate open-source software risks](https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3668192/how-openssf-scorecards-can-help-to-evaluate-open-source-software-risks.amp.html)
@@ -247,9 +247,9 @@ A few open source projects are documenting, in public, how they acquire dependen
 * [future-architect/vuls: Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices](https://github.com/future-architect/vuls)
 * [infobyte/faraday: Open Source Vulnerability Management Platform](https://github.com/infobyte/faraday) from [Faraday - Community v4 Release](https://faradaysec.com/community-v4/)
 * [mitre/saf: The MITRE Security Automation Framework (SAF) Command Line Interface (CLI) brings together applications, techniques, libraries, and tools developed by MITRE and the security community to streamline security automation for systems and DevOps pipelines](https://github.com/mitre/saf)
-* [GitHub - devops-kung-fu/bomber: Scans Software Bill of Materials (SBOMs) for security vulnerabilities](https://github.com/devops-kung-fu/bomber)
-* [GitHub - Rezilion/mi-x: Determine whether your compute is truly vulnerable to a specific vulnerability by accounting for all factors which affect *actual* exploitability (runtime execution, configuration, permissions, existence of a mitigation, OS, etc..)](https://github.com/Rezilion/mi-x)
-* [GitHub - ossf-cve-benchmark/ossf-cve-benchmark: The OpenSSF CVE Benchmark consists of code and metadata for over 200 real life CVEs, as well as tooling to analyze the vulnerable codebases using a variety of static analysis security testing (SAST) tools and generate reports to evaluate those tools.](https://github.com/ossf-cve-benchmark/ossf-cve-benchmark)
+* [devops-kung-fu/bomber: Scans Software Bill of Materials (SBOMs) for security vulnerabilities](https://github.com/devops-kung-fu/bomber)
+* [Rezilion/mi-x: Determine whether your compute is truly vulnerable to a specific vulnerability by accounting for all factors which affect *actual* exploitability (runtime execution, configuration, permissions, existence of a mitigation, OS, etc..)](https://github.com/Rezilion/mi-x)
+* [ossf-cve-benchmark/ossf-cve-benchmark: The OpenSSF CVE Benchmark consists of code and metadata for over 200 real life CVEs, as well as tooling to analyze the vulnerable codebases using a variety of static analysis security testing (SAST) tools and generate reports to evaluate those tools.](https://github.com/ossf-cve-benchmark/ossf-cve-benchmark)
 
 A dedicated section on VEX reads:
 
@@ -284,10 +284,10 @@ Also see:
   * Also: [testifysec/judge-k8s: Proof of concept Kubernetes admission controller using the witness attestation verification library](https://github.com/testifysec/judge-k8s)
 * [ckotzbauer/sbom-operator: Catalogue all images of a Kubernetes cluster to multiple targets with Syft](https://github.com/ckotzbauer/sbom-operator)
 * [CONNAISSEUR - Verify Container Image Signatures in Kubernetes](https://sse-secure-systems.github.io/connaisseur/v2.0.0/)
-* [GitHub - sigstore/policy-controller: The policy admission controller used to enforce policy on a cluster on verifiable supply-chain metadata from cosign.](https://github.com/sigstore/policy-controller)
-  * Also see: [GitHub - lukehinds/policy-controller-demo: demo of keyless signing with the sigstore kubernetes policy controller](https://github.com/lukehinds/policy-controller-demo)
+* [sigstore/policy-controller: The policy admission controller used to enforce policy on a cluster on verifiable supply-chain metadata from cosign.](https://github.com/sigstore/policy-controller)
+  * Also see: [lukehinds/policy-controller-demo: demo of keyless signing with the sigstore kubernetes policy controller](https://github.com/lukehinds/policy-controller-demo)
 * [portieris/POLICIES.md at main · IBM/portieris](https://github.com/IBM/portieris/blob/main/POLICIES.md)
-* [GitHub - reproducible-containers/repro-get: Reproducible apt/dnf/apk/pacman, with content-addressing](https://github.com/reproducible-containers/repro-get)
+* [reproducible-containers/repro-get: Reproducible apt/dnf/apk/pacman, with content-addressing](https://github.com/reproducible-containers/repro-get)
 * [kpcyrd/pacman-bintrans: Experimental binary transparency for pacman with sigstore and rekor](https://github.com/kpcyrd/pacman-bintrans)
 * [Open Policy Agent](https://www.openpolicyagent.org/)
 * [Conftest](https://www.conftest.dev/examples/) allows to write tests against structured configuration data using the Open Policy Agent Rego query language: [here's an example](https://github.com/open-policy-agent/conftest/blob/master/examples/docker/policy/commands.rego)
@@ -329,7 +329,7 @@ Also see:
 * [cloudquery/plugins/source/k8s/policies at main · cloudquery/cloudquery](https://github.com/cloudquery/cloudquery/tree/main/plugins/source/k8s/policies)
 * [quarkslab/kdigger: Kubernetes focused container assessment and context discovery tool for penetration testing](https://github.com/quarkslab/kdigger)
 * [ossillate-inc/packj: The vetting tool 🚀 behind our large-scale security analysis platform to detect malicious/risky open-source packages](https://github.com/ossillate-inc/packj) and [Packj | A vetting tool to avoid "risky" packages](https://packj.dev/)
-* [GitHub - doowon/sigtool: sigtool for signed PE files in GO](https://github.com/doowon/sigtool)
+* [doowon/sigtool: sigtool for signed PE files in GO](https://github.com/doowon/sigtool)
 
 Also see:
 
@@ -364,12 +364,12 @@ And a few things to watch beyond libraries and software dependencies:
 * [Witness](https://witness.dev/) - [testifysec/witness: Witness is a pluggable framework for software supply chain risk management.  It automates, normalizes, and verifies software artifact provenance.](https://github.com/testifysec/witness)
   * Watch: [Securing the Supply Chain with Witness - Cole Kennedy, TestifySec](https://www.youtube.com/watch?v=cZD_4u7DZPM)
 * [puerco/tejolote: A highly configurable build executor and observer designed to generate signed SLSA provenance attestations about build runs.](https://github.com/puerco/tejolote)
-* [in-toto-run - GitHub Marketplace](https://github.com/marketplace/actions/in-toto-run) and [GitHub - in-toto/github-action: in-toto provenance github action](https://github.com/in-toto/github-action)
+* [in-toto-run - GitHub Marketplace](https://github.com/marketplace/actions/in-toto-run) and [in-toto/github-action: in-toto provenance github action](https://github.com/in-toto/github-action)
 * [General availability of SLSA3 Generic Generator for GitHub Actions](https://slsa.dev/blog/2022/08/slsa-github-workflows-generic-ga)
-  * [GitHub - slsa-framework/slsa-github-generator: Language-agnostic SLSA provenance generation for Github Actions](https://github.com/slsa-framework/slsa-github-generator)
+  * [slsa-framework/slsa-github-generator: Language-agnostic SLSA provenance generation for Github Actions](https://github.com/slsa-framework/slsa-github-generator)
   * Also see: [Attestation Crafting | ChainLoop documentation](https://docs.chainloop.dev/getting-started/attestation-crafting)
 * [technosophos/helm-gpg: Chart signing and verification with GnuPG for Helm.](https://github.com/technosophos/helm-gpg)
-* [GitHub - cashapp/pivit](https://github.com/cashapp/pivit) is a command line tool for managing x509 certificates stored on smart cards with PIV applet support that is fully compatible with `git`
+* [cashapp/pivit](https://github.com/cashapp/pivit) is a command line tool for managing x509 certificates stored on smart cards with PIV applet support that is fully compatible with `git`
 * [notaryproject/notary: Notary is a project that allows anyone to have trust over arbitrary collections of data](https://github.com/notaryproject/notary)
   * [notaryproject/roadmap: Roadmap for NotaryV2](https://github.com/notaryproject/roadmap)
   * [notaryproject/notation: Notation is a project to add signatures as standard items in the registry ecosystem, and to build a set of simple tooling for signing and verifying these signatures. Based on Notary V2 standard.](https://github.com/notaryproject/notation)
@@ -398,8 +398,8 @@ And a few things to watch beyond libraries and software dependencies:
 * [Fraunhofer-SIT/charra: Proof-of-concept implementation of the &quot;Challenge/Response Remote Attestation&quot; interaction model of the IETF RATS Reference Interaction Models for Remote Attestation Procedures using TPM 2.0.](https://github.com/Fraunhofer-SIT/charra)
 * [google/trillian: A transparent, highly scalable and cryptographically verifiable data store.](https://github.com/google/trillian)
 * [Artifactory - Universal Artifact Management](https://jfrog.com/artifactory/)
-* [GitHub - pyrsia/pyrsia: Decentralized Package Network](https://github.com/pyrsia/pyrsia)
-* [GitHub - transmute-industries/verifiable-actions: Workflow tools for Decentralized Identifiers &amp; Verifiable Credentials](https://github.com/transmute-industries/verifiable-actions/tree/main)
+* [pyrsia/pyrsia: Decentralized Package Network](https://github.com/pyrsia/pyrsia)
+* [transmute-industries/verifiable-actions: Workflow tools for Decentralized Identifiers &amp; Verifiable Credentials](https://github.com/transmute-industries/verifiable-actions/tree/main)
 * Watch: [Privacy-preserving Approaches to Transparency Logs](https://www.youtube.com/watch?v=UrLdEYVASak)
 
 ## Frameworks and best practice references
@@ -468,7 +468,7 @@ Also see:
   * Example using SBOM as an input: [Inputs - Hoppr](https://lmco.gitlab.io/hoppr/hoppr/getting_started/inputs.html#cyclonedx-sboms)
 * On instrumenting runners:
   * Keep an eye on [Draft: POC Witness Runner integration (!1) · Merge requests · testifysec / gitlab-runner](https://gitlab.com/testifysec/gitlab-runner/-/merge_requests/1) for GitLab runners
-  * Also, [GitHub - edgelesssys/constellation: Constellation is the first Confidential Kubernetes. Constellation shields entire Kubernetes clusters from the (cloud) infrastructure using confidential computing.](https://github.com/edgelesssys/constellation)
+  * Also, [edgelesssys/constellation: Constellation is the first Confidential Kubernetes. Constellation shields entire Kubernetes clusters from the (cloud) infrastructure using confidential computing.](https://github.com/edgelesssys/constellation)
 * [reposaur/reposaur: Open source compliance tool for development platforms.](https://github.com/reposaur/reposaur)
 * [buildsec/frsca](https://github.com/buildsec/frsca) is an implementation of the CNCF's Secure Software Factory Reference Architecture. It is also intended to follow SLSA requirements closely and generate in-toto attesttations for SLSA provenance predicates.
 * [aquasecurity/chain-bench: an open-source tool for auditing your software supply chain stack for security compliance](https://github.com/aquasecurity/chain-bench) implementing checks for [CIS 1.0 | Vulnerability Database | Aqua Security](https://avd.aquasec.com/compliance/softwaresupplychain/cis-1.0/)
@@ -482,8 +482,8 @@ Also see:
 * [Changelog](https://www.pantsbuild.org/docs/changelog) for [Pants 2: The ergonomic build system](https://www.pantsbuild.org/)
 * [Bazel](https://bazel.build/) is an open source build and test tool similar to Make, Maven, and Gradle
 * [GoogleContainerTools/kaniko: Build Container Images In Kubernetes](https://github.com/GoogleContainerTools/kaniko)
-* [GitHub - sethvargo/ratchet: A tool for securing CI/CD workflows with version pinning.](https://github.com/sethvargo/ratchet)
-* [GitHub - buildsec/vendorme](https://github.com/buildsec/vendorme) improves the developer workflow by giving you one single place to manage any vendored dependencies, and ensures that those are validated properly to improve the security around your supply chain
+* [sethvargo/ratchet: A tool for securing CI/CD workflows with version pinning.](https://github.com/sethvargo/ratchet)
+* [buildsec/vendorme](https://github.com/buildsec/vendorme) improves the developer workflow by giving you one single place to manage any vendored dependencies, and ensures that those are validated properly to improve the security around your supply chain
 
 Also see:
 
@@ -499,7 +499,7 @@ Also see:
 * Read: [On Omitting Commits and Committing Omissions: Preventing Git Metadata Tampering That (Re)introduces Software Vulnerabilities](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/torres-arias)
 * Read: [Reproducible Builds: Break a log, good things come in trees](https://bora.uib.no/bora-xmlui/handle/1956/20411)
 * [Secure Your Software Factory with melange and apko](https://www.chainguard.dev/unchained/secure-your-software-factory-with-melange-and-apko)
-  * On the `apko` pattern, see [GitHub - Shopify/hansel](https://github.com/Shopify/hansel)
+  * On the `apko` pattern, see [Shopify/hansel](https://github.com/Shopify/hansel)
 
 ## Talks, articles, media coverage and other reading
 
@@ -543,10 +543,10 @@ And a collection of reads and listens, ranging from insightful blog posts, expla
     * Also see a classic, [Backstabber's Knife Collection: A Review of Open Source Software Supply Chain Attacks](https://arxiv.org/abs/2005.09535)
   * [Towards Measuring Supply Chain Attacks on Package Managers for Interpreted Languages](https://arxiv.org/pdf/2002.01139.pdf)
   * The [Software Supply Chain Security Threat Landscape](https://www.linkedin.com/posts/tzachi-zornstain_august-supply-chain-summary-report-activity-6975045859688239104-adsU/?utm_source=share) dispatches from Checkmarx are often fresh reading
-  * [GitHub - ossf/oss-compromises: Archive of various open source security compromises](https://github.com/ossf/oss-compromises)
+  * [ossf/oss-compromises: Archive of various open source security compromises](https://github.com/ossf/oss-compromises)
   * Python-specific example: [Bad actors vs our community: detecting software supply chain...](https://www.youtube.com/watch?app=desktop&v=Rcuqn56uCDk&feature=youtu.be) by Ajinkya Rajput and Ashish Bijlani
   * A comprehensive all rounder: [Protect Yourself Against Supply Chain Attacks - Rob Bos - NDC Security 2022](https://www.youtube.com/watch?v=00R1JGBQEJg)
-  * Not supply chain security specific, but worth tracking: [GitHub - PayDevs/awful-oss-incidents: 🤬 A categorized list of incidents caused by unappreciated OSS maintainers or underfunded OSS projects. Feedback welcome!](https://github.com/PayDevs/awful-oss-incidents)
+  * Not supply chain security specific, but worth tracking: [PayDevs/awful-oss-incidents: 🤬 A categorized list of incidents caused by unappreciated OSS maintainers or underfunded OSS projects. Feedback welcome!](https://github.com/PayDevs/awful-oss-incidents)
 * [Improving TOFU (trust on first use) With Transparency](https://dlorenc.medium.com/improving-tofu-with-transparency-da674aa2879d)
 * Reports:
   * [2022 State of Cloud Native Security Report - Palo Alto Networks](https://www.paloaltonetworks.com/state-of-cloud-native-security)
