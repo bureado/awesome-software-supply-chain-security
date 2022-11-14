@@ -269,6 +269,7 @@ Also see:
 
 * [Kyverno](https://kyverno.io/)
   * Read: [Attesting Image Scans With Kyverno](https://neonmirrors.net/post/2022-07/attesting-image-scans-kyverno/)
+  * Also: [testifysec/judge-k8s: Proof of concept Kubernetes admission controller using the witness attestation verification library](https://github.com/testifysec/judge-k8s)
 * [ckotzbauer/sbom-operator: Catalogue all images of a Kubernetes cluster to multiple targets with Syft](https://github.com/ckotzbauer/sbom-operator)
 * [CONNAISSEUR - Verify Container Image Signatures in Kubernetes](https://sse-secure-systems.github.io/connaisseur/v2.0.0/)
 * [GitHub - sigstore/policy-controller: The policy admission controller used to enforce policy on a cluster on verifiable supply-chain metadata from cosign.](https://github.com/sigstore/policy-controller)
@@ -347,7 +348,6 @@ And a few things to watch beyond libraries and software dependencies:
     * Also see: [Kubernetes taps Sigstore to thwart open-source software supply chain attacks](https://www.zdnet.com/article/kubernetes-taps-sigstore-to-thwart-open-source-software-supply-chain-attacks/)
 * [cas - cas attestation service](https://cas.codenotary.com/)
 * [Witness](https://witness.dev/) - [testifysec/witness: Witness is a pluggable framework for software supply chain risk management.  It automates, normalizes, and verifies software artifact provenance.](https://github.com/testifysec/witness)
-  * Also: [testifysec/judge-k8s: Proof of concept Kubernetes admission controller using the witness attestation verification library](https://github.com/testifysec/judge-k8s)
   * Watch: [Securing the Supply Chain with Witness - Cole Kennedy, TestifySec](https://www.youtube.com/watch?v=cZD_4u7DZPM)
 * [puerco/tejolote: A highly configurable build executor and observer designed to generate signed SLSA provenance attestations about build runs.](https://github.com/puerco/tejolote)
 * [in-toto-run - GitHub Marketplace](https://github.com/marketplace/actions/in-toto-run) and [GitHub - in-toto/github-action: in-toto provenance github action](https://github.com/in-toto/github-action)
