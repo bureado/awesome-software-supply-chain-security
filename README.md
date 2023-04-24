@@ -517,6 +517,7 @@ Also see:
 * The [reproducible-builds](https://github.com/topics/reproducible-builds) topic on GitHub
 * [Dependency management](https://cloud.google.com/artifact-registry/docs/dependencies) as part of Google Cloud's Artifact Registry documentation
 * [Security hardening for GitHub Actions](https://docs.github.com/en/actions/security-guides/security-hardening-for-github-actions)
+  * And: [step-security/harden-runner: Security agent for GitHub-hosted runner: block egress traffic &amp; detect code overwrite to prevent breaches](https://github.com/step-security/harden-runner)
 * [Handling build-time dependency vulnerabilities](https://hackmd.io/@VOkN52x7RbeXS-3vr4XOgg/BJBDNYK0F) from [Create guidance on triaging build time dependency vulnerabilities · Issue #855 · cncf/tag-security](https://github.com/cncf/tag-security/issues/855)
 * [Code Sight](https://www.synopsys.com/software-integrity/code-sight.html)
 * [cider-security-research/cicd-goat: A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.](https://github.com/cider-security-research/cicd-goat)
