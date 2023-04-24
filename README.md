@@ -99,6 +99,7 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
 * [cve-search/git-vuln-finder: Finding potential software vulnerabilities from git commit messages](https://github.com/cve-search/git-vuln-finder)
 * [chaoss/augur: Python library and web service for Open Source Software Health and Sustainability metrics &amp; data collection. You can find our documentation and new contributor information easily here: https://chaoss.github.io/augur/ and learn more about Augur at our website https://augurlabs.io](https://github.com/chaoss/augur)
 * [GitHub - IBM/CBOM: Cryptography Bill of Materials](https://github.com/IBM/CBOM)
+* [GitHub - AppThreat/blint: BLint is a Binary Linter to check the security properties, and capabilities in your executables. It is powered by lief.](https://github.com/AppThreat/blint)
 
 Also read:
 
