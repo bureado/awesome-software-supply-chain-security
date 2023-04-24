@@ -350,6 +350,7 @@ Also see:
 * [ossillate-inc/packj: The vetting tool 🚀 behind our large-scale security analysis platform to detect malicious/risky open-source packages](https://github.com/ossillate-inc/packj) and [Packj | A vetting tool to avoid "risky" packages](https://packj.dev/)
 * [doowon/sigtool: sigtool for signed PE files in GO](https://github.com/doowon/sigtool)
 * [Introducing "safe npm", a Socket npm Wrapper - Socket](https://socket.dev/blog/introducing-safe-npm)
+* [Introducing SafeDep vet 🚀 | SafeDep](https://safedep.io/blog/introducing-safedep-vet/)
 
 Also see:
 
