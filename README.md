@@ -181,6 +181,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * [CycloneDX/cyclonedx-webpack-plugin: Create CycloneDX Software Bill of Materials (SBOM) from webpack bundles at compile time.](https://github.com/CycloneDX/cyclonedx-webpack-plugin)
 * [GitHub - advanced-security/gh-sbom: Generate SBOMs with gh CLI](https://github.com/advanced-security/gh-sbom)
 * [GitHub - interlynk-io/sbomqs: SBOM quality score - Quality metrics for your sboms](https://github.com/interlynk-io/sbomqs)
+* [GitHub - eBay/sbom-scorecard: Generate a score for your sbom to understand if it will actually be useful.](https://github.com/eBay/sbom-scorecard)
 
 More interesting resources:
 
