@@ -541,6 +541,7 @@ Also see:
   * [News - reproducible-builds.org](https://reproducible-builds.org/news/)
   * A great compilation of reads, context and learning materials: [chainguard-dev/ssc-reading-list: A reading list for software supply-chain security.](https://github.com/chainguard-dev/ssc-reading-list)
   * A visual reference by Enso Security: [AppSec Map](https://appsecmap.com/MyMap)
+  * A similar one: [Jetstack | The Software Supply Chain Toolkit](https://jetstack.io/software-supply-chain/)
   * [wg-security-tooling/guide.md at main · ossf/wg-security-tooling](https://github.com/ossf/wg-security-tooling/blob/main/guide.md) from [ossf/wg-security-tooling: OpenSSF Security Tooling Working Group](https://github.com/ossf/wg-security-tooling#active-projects)
   * [A toolbox for a secure software supply chain](https://blog.chainguard.dev/a-toolbox-for-a-secure-software-supply-chain/) from Chainguard
   * The [Technology](https://snyk.io/series/devsecops/technology/) chapter in Snyk's DevSecOps series
