@@ -428,7 +428,7 @@ And a few things to watch beyond libraries and software dependencies:
   * Related: [A MAP for Kubernetes supply chain security](https://www.cncf.io/blog/2022/04/12/a-map-for-kubernetes-supply-chain-security/)
 * [Software Supply Chain Risk Management | BSIMM](https://www.bsimm.com/about/bsimm-for-vendors.html)
 * [microsoft/scim: Supply Chain Integrity Model](https://github.com/microsoft/SCIM)
-  * Also see: [Supply Chain Integrity, Transparency, and Trust (scitt)](https://datatracker.ietf.org/group/scitt/about/)
+  * Also see: [Supply Chain Integrity, Transparency, and Trust (scitt)](https://datatracker.ietf.org/group/scitt/about/) and [What Is SCITT](https://scitt.io/)
 * [Goodbye SDLC, Hello SSDF! What is the Secure Software Development Framework?](https://blog.chainguard.dev/goodbye-sdlc-hello-ssdf-what-is-the-secure-software-development-framework/)
   * Also [Comply with NIST's secure software supply chain framework with GitLab](https://about.gitlab.com/blog/2022/03/29/comply-with-nist-secure-supply-chain-framework-with-gitlab/)
 * The _Supply Chain Risk Management_ section of [SP 800-53 Rev. 5, Security and Privacy Controls for Info Systems and Organizations | CSRC](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final), also see [center-for-threat-informed-defense/attack-control-framework-mappings: Security control framework mappings to MITRE ATT&CK](https://github.com/center-for-threat-informed-defense/attack-control-framework-mappings)
