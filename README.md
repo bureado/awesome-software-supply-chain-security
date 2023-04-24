@@ -384,6 +384,7 @@ And a few things to watch beyond libraries and software dependencies:
 * [cas - cas attestation service](https://cas.codenotary.com/)
 * [Witness](https://witness.dev/) - [testifysec/witness: Witness is a pluggable framework for software supply chain risk management.  It automates, normalizes, and verifies software artifact provenance.](https://github.com/testifysec/witness)
   * Watch: [Securing the Supply Chain with Witness - Cole Kennedy, TestifySec](https://www.youtube.com/watch?v=cZD_4u7DZPM)
+  * Also see: [GitHub - testifysec/go-ima: go-ima is a tool that checks if a file has been tampered with.  It is useful in ensuring integrity in CI systems](https://github.com/testifysec/go-ima)
 * [puerco/tejolote: A highly configurable build executor and observer designed to generate signed SLSA provenance attestations about build runs.](https://github.com/puerco/tejolote)
 * [in-toto-run - GitHub Marketplace](https://github.com/marketplace/actions/in-toto-run) and [in-toto/github-action: in-toto provenance github action](https://github.com/in-toto/github-action)
 * [General availability of SLSA3 Generic Generator for GitHub Actions](https://slsa.dev/blog/2022/08/slsa-github-workflows-generic-ga)
