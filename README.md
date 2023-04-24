@@ -154,6 +154,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * [mercedes-benz/sechub: SecHub - one central and easy way to use different security tools with one API/Client](https://github.com/mercedes-benz/sechub)
 * [marcinguy/betterscan-ce: Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report (Code, IaC) - Betterscan Community Edition (CE)](https://github.com/marcinguy/betterscan-ce)
 * [BBVA/susto: Systematic Universal Security Testing Orchestration](https://github.com/BBVA/susto)
+* [GitHub - AppThreat/rosa: An experiment that looks very promising so far.](https://github.com/AppThreat/rosa)
 * FOSSA's [SBOM Solution](https://fossa.com/lp/simplify-sbom-generation-fossa)
 * [Rezillion Dynamic SBOM](https://www.rezilion.com/platform/dynamic-sbom/)
 * [opensbom-generator/spdx-sbom-generator: Support CI generation of SBOMs via golang tooling.](https://github.com/opensbom-generator/spdx-sbom-generator)
