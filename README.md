@@ -98,8 +98,8 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
 * [Get Started - FOSSology](https://www.fossology.org/get-started/)
 * [cve-search/git-vuln-finder: Finding potential software vulnerabilities from git commit messages](https://github.com/cve-search/git-vuln-finder)
 * [chaoss/augur: Python library and web service for Open Source Software Health and Sustainability metrics &amp; data collection. You can find our documentation and new contributor information easily here: https://chaoss.github.io/augur/ and learn more about Augur at our website https://augurlabs.io](https://github.com/chaoss/augur)
-* [GitHub - IBM/CBOM: Cryptography Bill of Materials](https://github.com/IBM/CBOM)
-* [GitHub - AppThreat/blint: BLint is a Binary Linter to check the security properties, and capabilities in your executables. It is powered by lief.](https://github.com/AppThreat/blint)
+* [IBM/CBOM: Cryptography Bill of Materials](https://github.com/IBM/CBOM)
+* [AppThreat/blint: BLint is a Binary Linter to check the security properties, and capabilities in your executables. It is powered by lief.](https://github.com/AppThreat/blint)
 
 Also read:
 
@@ -155,7 +155,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * [mercedes-benz/sechub: SecHub - one central and easy way to use different security tools with one API/Client](https://github.com/mercedes-benz/sechub)
 * [marcinguy/betterscan-ce: Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report (Code, IaC) - Betterscan Community Edition (CE)](https://github.com/marcinguy/betterscan-ce)
 * [BBVA/susto: Systematic Universal Security Testing Orchestration](https://github.com/BBVA/susto)
-* [GitHub - AppThreat/rosa: An experiment that looks very promising so far.](https://github.com/AppThreat/rosa)
+* [AppThreat/rosa: An experiment that looks very promising so far.](https://github.com/AppThreat/rosa)
 * FOSSA's [SBOM Solution](https://fossa.com/lp/simplify-sbom-generation-fossa)
 * [Rezillion Dynamic SBOM](https://www.rezilion.com/platform/dynamic-sbom/)
 * [opensbom-generator/spdx-sbom-generator: Support CI generation of SBOMs via golang tooling.](https://github.com/opensbom-generator/spdx-sbom-generator)
@@ -164,7 +164,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * Fortress: [Software Bill of Materials](https://www.fortressinfosec.com/sbom)
 * [javixeneize/yasca: Yet Another SCA tool](https://github.com/javixeneize/yasca)
 * Cybeats [SBOM Studio](https://www.cybeats.com/sbom-studio)
-* [GitHub - edgebitio/edgebit-build: GitHub action to upload SBOMs to EdgeBit and receive vulnerability context in your pull requests](https://github.com/edgebitio/edgebit-build) from [EdgeBit - Real-time supply chain security, enabling security teams to target and coordinate vulnerability remediation without toil.](https://edgebit.io/)
+* [edgebitio/edgebit-build: GitHub action to upload SBOMs to EdgeBit and receive vulnerability context in your pull requests](https://github.com/edgebitio/edgebit-build) from [EdgeBit - Real-time supply chain security, enabling security teams to target and coordinate vulnerability remediation without toil.](https://edgebit.io/)
 * REA's [Software Assurance Guardian Point Man (SAG-PM)](https://reliableenergyanalytics.com/products)
 * [microsoft/sbom-tool: The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts](https://github.com/microsoft/sbom-tool)
 * Veracode's [SCA to Automate Security Scanning](https://www.veracode.com/products/software-composition-analysis), see demo: [How to generate a Software Bill of Materials (SBOM) using Veracode Software Composition Analysis](https://www.youtube.com/watch?v=FfTgeHjEwkk)
@@ -180,9 +180,9 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * [tap8stry/orion: Go beyond package manager discovery for SBOM](https://github.com/tap8stry/orion)
 * [patriksvensson/covenant: A tool to generate SBOM (Software Bill of Material) from source code artifacts.](https://github.com/patriksvensson/covenant)
 * [CycloneDX/cyclonedx-webpack-plugin: Create CycloneDX Software Bill of Materials (SBOM) from webpack bundles at compile time.](https://github.com/CycloneDX/cyclonedx-webpack-plugin)
-* [GitHub - advanced-security/gh-sbom: Generate SBOMs with gh CLI](https://github.com/advanced-security/gh-sbom)
-* [GitHub - interlynk-io/sbomqs: SBOM quality score - Quality metrics for your sboms](https://github.com/interlynk-io/sbomqs)
-* [GitHub - eBay/sbom-scorecard: Generate a score for your sbom to understand if it will actually be useful.](https://github.com/eBay/sbom-scorecard)
+* [advanced-security/gh-sbom: Generate SBOMs with gh CLI](https://github.com/advanced-security/gh-sbom)
+* [interlynk-io/sbomqs: SBOM quality score - Quality metrics for your sboms](https://github.com/interlynk-io/sbomqs)
+* [eBay/sbom-scorecard: Generate a score for your sbom to understand if it will actually be useful.](https://github.com/eBay/sbom-scorecard)
 
 More interesting resources:
 
@@ -216,7 +216,7 @@ A few open source projects are documenting, in public, how they acquire dependen
 * [OSV](https://osv.dev/)
   * Read: [SBOM in Action: finding vulnerabilities with a Software Bill of Materials](https://security.googleblog.com/2022/06/sbom-in-action-finding-vulnerabilities.html?m=1)
   * Related: [spdx/spdx-to-osv: Produce an Open Source Vulnerability JSON file based on information in an SPDX document](https://github.com/spdx/spdx-to-osv/)
-  * Tools: [GitHub - google/osv-scanner: Vulnerability scanner written in Go which uses the data provided by https://osv.dev](https://github.com/google/osv-scanner)
+  * Tools: [google/osv-scanner: Vulnerability scanner written in Go which uses the data provided by https://osv.dev](https://github.com/google/osv-scanner)
 * Qualys' [Vulnerability Detection Pipeline](https://community.qualys.com/vulnerability-detection-pipeline/)
 * [Vuls · Agentless Vulnerability Scanner for Linux/FreeBSD](https://vuls.io/)
 * [Vulnerability Database](https://vuldb.com/?), an [API](https://vuldb.com/?kb.api) is also available; see [VulDB](https://github.com/vuldb)
@@ -260,8 +260,8 @@ A few open source projects are documenting, in public, how they acquire dependen
 * [Rezilion/mi-x: Determine whether your compute is truly vulnerable to a specific vulnerability by accounting for all factors which affect *actual* exploitability (runtime execution, configuration, permissions, existence of a mitigation, OS, etc..)](https://github.com/Rezilion/mi-x)
 * [ossf-cve-benchmark/ossf-cve-benchmark: The OpenSSF CVE Benchmark consists of code and metadata for over 200 real life CVEs, as well as tooling to analyze the vulnerable codebases using a variety of static analysis security testing (SAST) tools and generate reports to evaluate those tools.](https://github.com/ossf-cve-benchmark/ossf-cve-benchmark)
 * See the [Vulnerability Management](https://open-docs.neuvector.com/scanning/scanning/vulnerabilities) in the NeuVector Docs for integration examples in container scenarios
-* [GitHub - noqcks/xeol: An end-of-life (EOL) package scanner for container images, systems, and SBOMs](https://github.com/noqcks/xeol)
-* [GitHub - mchmarny/vimp: Compare data from multiple vulnerability scanners to get a more complete picture of potential exposures.](https://github.com/mchmarny/vimp)
+* [noqcks/xeol: An end-of-life (EOL) package scanner for container images, systems, and SBOMs](https://github.com/noqcks/xeol)
+* [mchmarny/vimp: Compare data from multiple vulnerability scanners to get a more complete picture of potential exposures.](https://github.com/mchmarny/vimp)
 
 A dedicated section on VEX reads:
 
@@ -301,7 +301,7 @@ Also see:
 * [portieris/POLICIES.md at main · IBM/portieris](https://github.com/IBM/portieris/blob/main/POLICIES.md)
 * [reproducible-containers/repro-get: Reproducible apt/dnf/apk/pacman, with content-addressing](https://github.com/reproducible-containers/repro-get)
 * [kpcyrd/pacman-bintrans: Experimental binary transparency for pacman with sigstore and rekor](https://github.com/kpcyrd/pacman-bintrans)
-  * Also see: [GitHub - kpcyrd/apt-swarm: 🥸 p2p gossip network for update transparency, based on pgp 🥸](https://github.com/kpcyrd/apt-swarm)
+  * Also see: [kpcyrd/apt-swarm: 🥸 p2p gossip network for update transparency, based on pgp 🥸](https://github.com/kpcyrd/apt-swarm)
 * [Open Policy Agent](https://www.openpolicyagent.org/)
 * [Conftest](https://www.conftest.dev/examples/) allows to write tests against structured configuration data using the Open Policy Agent Rego query language: [here's an example](https://github.com/open-policy-agent/conftest/blob/master/examples/docker/policy/commands.rego)
 * Several [pre-commit](https://pre-commit.com/hooks.html) hooks allow vulnerability checking right before dependency ingestion time into the codebase
@@ -327,13 +327,13 @@ Also see:
   * [quay/clair: Vulnerability Static Analysis for Containers](https://github.com/quay/clair)
   * [DataDog/guarddog: GuardDog is a CLI tool to Identify malicious PyPI and npm packages](https://github.com/datadog/guarddog)
   * [eliasgranderubio/dagda: a tool to perform static analysis of known vulnerabilities, trojans, viruses, malware &amp; other malicious threats in docker images/containers and to monitor the docker daemon and running docker containers for detecting anomalous activities](https://github.com/eliasgranderubio/dagda)
-    * Half brilliant, half funny, full helpful: [GitHub - kpcyrd/libredefender: Imagine the information security compliance guideline says you need an antivirus but you run Arch Linux](https://github.com/kpcyrd/libredefender)
+    * Half brilliant, half funny, full helpful: [kpcyrd/libredefender: Imagine the information security compliance guideline says you need an antivirus but you run Arch Linux](https://github.com/kpcyrd/libredefender)
   * [KICS - Keeping Infrastructure as Code Secure](https://kics.io/)
   * [tinkerbell/lint-install: Consistently install reasonable linter rules for open-source projects](https://github.com/tinkerbell/lint-install)
   * `hadolint` rules on package installation, e.g., [hadolint/README.md at d16f342c8e70fcffc7a788d122a1ba602075250d · hadolint/hadolint](https://github.com/hadolint/hadolint/blob/d16f342c8e70fcffc7a788d122a1ba602075250d/README.md#rules)
     * Also [dockerfile resource scans - checkov](https://www.checkov.io/5.Policy%20Index/dockerfile.html) from [bridgecrewio/checkov: Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.](https://github.com/bridgecrewio/checkov)
-    * And: [GitHub - xlab-si/iac-scan-runner: Service that scans your Infrastructure as Code for common vulnerabilities](https://github.com/xlab-si/iac-scan-runner)
-    * And: [GitHub - aws-samples/automated-security-helper](https://github.com/aws-samples/automated-security-helper)1
+    * And: [xlab-si/iac-scan-runner: Service that scans your Infrastructure as Code for common vulnerabilities](https://github.com/xlab-si/iac-scan-runner)
+    * And: [aws-samples/automated-security-helper](https://github.com/aws-samples/automated-security-helper)1
 * [Vulnerability Assessment | OpenSCAP portal](https://www.open-scap.org/features/vulnerability-assessment/)
 * [Detecting Log4Shell with Wazuh](https://wazuh.com/blog/detecting-log4shell-with-wazuh/)
 * [aquasecurity/starboard: Kubernetes-native security toolkit](https://github.com/aquasecurity/starboard)
@@ -385,7 +385,7 @@ And a few things to watch beyond libraries and software dependencies:
 * [cas - cas attestation service](https://cas.codenotary.com/)
 * [Witness](https://witness.dev/) - [testifysec/witness: Witness is a pluggable framework for software supply chain risk management.  It automates, normalizes, and verifies software artifact provenance.](https://github.com/testifysec/witness)
   * Watch: [Securing the Supply Chain with Witness - Cole Kennedy, TestifySec](https://www.youtube.com/watch?v=cZD_4u7DZPM)
-  * Also see: [GitHub - testifysec/go-ima: go-ima is a tool that checks if a file has been tampered with.  It is useful in ensuring integrity in CI systems](https://github.com/testifysec/go-ima)
+  * Also see: [testifysec/go-ima: go-ima is a tool that checks if a file has been tampered with.  It is useful in ensuring integrity in CI systems](https://github.com/testifysec/go-ima)
 * [puerco/tejolote: A highly configurable build executor and observer designed to generate signed SLSA provenance attestations about build runs.](https://github.com/puerco/tejolote)
 * [in-toto-run - GitHub Marketplace](https://github.com/marketplace/actions/in-toto-run) and [in-toto/github-action: in-toto provenance github action](https://github.com/in-toto/github-action)
 * [General availability of SLSA3 Generic Generator for GitHub Actions](https://slsa.dev/blog/2022/08/slsa-github-workflows-generic-ga)
@@ -497,8 +497,8 @@ Also see:
 * [aquasecurity/chain-bench: an open-source tool for auditing your software supply chain stack for security compliance](https://github.com/aquasecurity/chain-bench) implementing checks for [CIS 1.0 | Vulnerability Database | Aqua Security](https://avd.aquasec.com/compliance/softwaresupplychain/cis-1.0/)
 * [ossf/allstar: GitHub App to set and enforce security policies](https://github.com/ossf/allstar)
 * [scribe-public/gitgat: Evaluate source control (GitHub) security posture](https://github.com/scribe-public/gitgat)
-* [GitHub - Legit-Labs/legitify: Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets](https://github.com/Legit-Labs/legitify)
-* [GitHub - crashappsec/github-analyzer: A tool to check the security settings of Github Organizations.](https://github.com/crashappsec/github-analyzer)
+* [Legit-Labs/legitify: Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets](https://github.com/Legit-Labs/legitify)
+* [crashappsec/github-analyzer: A tool to check the security settings of Github Organizations.](https://github.com/crashappsec/github-analyzer)
 * [wspr-ncsu/github-actions-security-analysis](https://github.com/wspr-ncsu/github-actions-security-analysis) from [Characterizing the Security of Github CI Workflows | USENIX](https://www.usenix.org/conference/usenixsecurity22/presentation/koishybayev)
 * [oss-reproducible](https://github.com/microsoft/OSSGadget/tree/main/src/oss-reproducible) - Measures the reproducibility of a package based on its purported source. Part of [OSS Gadget](https://github.com/microsoft/OSSGadget)
 * [jart/landlock-make: Sandboxing for GNU Make has never been easier](https://github.com/jart/landlock-make)
@@ -509,7 +509,7 @@ Also see:
 * [GoogleContainerTools/kaniko: Build Container Images In Kubernetes](https://github.com/GoogleContainerTools/kaniko)
 * [sethvargo/ratchet: A tool for securing CI/CD workflows with version pinning.](https://github.com/sethvargo/ratchet)
 * [buildsec/vendorme](https://github.com/buildsec/vendorme) improves the developer workflow by giving you one single place to manage any vendored dependencies, and ensures that those are validated properly to improve the security around your supply chain
-* [GitHub - eellak/build-recorder](https://github.com/eellak/build-recorder)
+* [eellak/build-recorder](https://github.com/eellak/build-recorder)
   * Also see: [FOSDEM 2023 - Build recorder: a system to capture detailed information](https://fosdem.org/2023/schedule/event/sbom_build_recorder/)
 
 Also see:
@@ -520,7 +520,7 @@ Also see:
 * [Handling build-time dependency vulnerabilities](https://hackmd.io/@VOkN52x7RbeXS-3vr4XOgg/BJBDNYK0F) from [Create guidance on triaging build time dependency vulnerabilities · Issue #855 · cncf/tag-security](https://github.com/cncf/tag-security/issues/855)
 * [Code Sight](https://www.synopsys.com/software-integrity/code-sight.html)
 * [cider-security-research/cicd-goat: A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.](https://github.com/cider-security-research/cicd-goat)
-  * And: [GitHub - step-security/attack-simulator: Simulate past supply chain attacks such as SolarWinds, Codecov, and ua-parser-js](https://github.com/step-security/attack-simulator)
+  * And: [step-security/attack-simulator: Simulate past supply chain attacks such as SolarWinds, Codecov, and ua-parser-js](https://github.com/step-security/attack-simulator)
 * Read: [What Makes a Build Reproducible, Part 2](https://blogs.vmware.com/opensource/2022/07/14/what-makes-a-build-reproducible-part-2/)
 * Read: [Building a Secure Software Supply Chain with GNU Guix](https://programming-journal.org/2023/7/1/)
 * [alecmocatta/build_id: Obtain a UUID uniquely representing the build of the current binary.](https://github.com/alecmocatta/build_id)
@@ -528,7 +528,7 @@ Also see:
 * Read: [Reproducible Builds: Break a log, good things come in trees](https://bora.uib.no/bora-xmlui/handle/1956/20411)
 * [Secure Your Software Factory with melange and apko](https://www.chainguard.dev/unchained/secure-your-software-factory-with-melange-and-apko)
   * On the `apko` pattern, see [Shopify/hansel](https://github.com/Shopify/hansel)
-* [GitHub - kpcyrd/archlinux-inputs-fsck: Lint repository of PKGBUILDs for cryptographically pinned inputs](https://github.com/kpcyrd/archlinux-inputs-fsck)
+* [kpcyrd/archlinux-inputs-fsck: Lint repository of PKGBUILDs for cryptographically pinned inputs](https://github.com/kpcyrd/archlinux-inputs-fsck)
 
 ## Talks, articles, media coverage and other reading
 
