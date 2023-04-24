@@ -176,6 +176,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * [tap8stry/orion: Go beyond package manager discovery for SBOM](https://github.com/tap8stry/orion)
 * [patriksvensson/covenant: A tool to generate SBOM (Software Bill of Material) from source code artifacts.](https://github.com/patriksvensson/covenant)
 * [CycloneDX/cyclonedx-webpack-plugin: Create CycloneDX Software Bill of Materials (SBOM) from webpack bundles at compile time.](https://github.com/CycloneDX/cyclonedx-webpack-plugin)
+* [GitHub - advanced-security/gh-sbom: Generate SBOMs with gh CLI](https://github.com/advanced-security/gh-sbom)
 
 More interesting resources:
 
