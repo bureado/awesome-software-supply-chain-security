@@ -313,6 +313,7 @@ Also see:
   * [graudit/signatures at master · wireghoul/graudit](https://github.com/wireghoul/graudit/tree/master/signatures)
   * [banyanops/collector: A framework for Static Analysis of Docker container images](https://github.com/banyanops/collector)
   * [quay/clair: Vulnerability Static Analysis for Containers](https://github.com/quay/clair)
+  * [DataDog/guarddog: GuardDog is a CLI tool to Identify malicious PyPI and npm packages](https://github.com/datadog/guarddog)
   * [eliasgranderubio/dagda: a tool to perform static analysis of known vulnerabilities, trojans, viruses, malware &amp; other malicious threats in docker images/containers and to monitor the docker daemon and running docker containers for detecting anomalous activities](https://github.com/eliasgranderubio/dagda)
   * [KICS - Keeping Infrastructure as Code Secure](https://kics.io/)
   * [tinkerbell/lint-install: Consistently install reasonable linter rules for open-source projects](https://github.com/tinkerbell/lint-install)
