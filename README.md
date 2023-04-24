@@ -257,6 +257,7 @@ A few open source projects are documenting, in public, how they acquire dependen
 * [ossf-cve-benchmark/ossf-cve-benchmark: The OpenSSF CVE Benchmark consists of code and metadata for over 200 real life CVEs, as well as tooling to analyze the vulnerable codebases using a variety of static analysis security testing (SAST) tools and generate reports to evaluate those tools.](https://github.com/ossf-cve-benchmark/ossf-cve-benchmark)
 * See the [Vulnerability Management](https://open-docs.neuvector.com/scanning/scanning/vulnerabilities) in the NeuVector Docs for integration examples in container scenarios
 * [GitHub - noqcks/xeol: An end-of-life (EOL) package scanner for container images, systems, and SBOMs](https://github.com/noqcks/xeol)
+* [GitHub - mchmarny/vimp: Compare data from multiple vulnerability scanners to get a more complete picture of potential exposures.](https://github.com/mchmarny/vimp)
 
 A dedicated section on VEX reads:
 
