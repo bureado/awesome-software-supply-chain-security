@@ -515,6 +515,7 @@ Also see:
 * Read: [Reproducible Builds: Break a log, good things come in trees](https://bora.uib.no/bora-xmlui/handle/1956/20411)
 * [Secure Your Software Factory with melange and apko](https://www.chainguard.dev/unchained/secure-your-software-factory-with-melange-and-apko)
   * On the `apko` pattern, see [Shopify/hansel](https://github.com/Shopify/hansel)
+* [GitHub - kpcyrd/archlinux-inputs-fsck: Lint repository of PKGBUILDs for cryptographically pinned inputs](https://github.com/kpcyrd/archlinux-inputs-fsck)
 
 ## Talks, articles, media coverage and other reading
 
