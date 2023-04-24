@@ -256,6 +256,7 @@ A few open source projects are documenting, in public, how they acquire dependen
 * [Rezilion/mi-x: Determine whether your compute is truly vulnerable to a specific vulnerability by accounting for all factors which affect *actual* exploitability (runtime execution, configuration, permissions, existence of a mitigation, OS, etc..)](https://github.com/Rezilion/mi-x)
 * [ossf-cve-benchmark/ossf-cve-benchmark: The OpenSSF CVE Benchmark consists of code and metadata for over 200 real life CVEs, as well as tooling to analyze the vulnerable codebases using a variety of static analysis security testing (SAST) tools and generate reports to evaluate those tools.](https://github.com/ossf-cve-benchmark/ossf-cve-benchmark)
 * See the [Vulnerability Management](https://open-docs.neuvector.com/scanning/scanning/vulnerabilities) in the NeuVector Docs for integration examples in container scenarios
+* [GitHub - noqcks/xeol: An end-of-life (EOL) package scanner for container images, systems, and SBOMs](https://github.com/noqcks/xeol)
 
 A dedicated section on VEX reads:
 
