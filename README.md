@@ -143,6 +143,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
   * Also note: [New `docker sbom` Command Creates SBOMs Using Syft](https://anchore.com/sbom/docker-sbom-command-creates-sbom-using-syft/)
   * [Creating SBOM Attestations Using Syft and Sigstore](https://anchore.com/sbom/creating-sbom-attestations-using-syft-and-sigstore/)
   * Simple flow: [utils/ci/github/docker-build-sign-sbom at main · marco-lancini/utils](https://github.com/marco-lancini/utils/tree/main/ci/github/docker-build-sign-sbom)
+* [e-m-b-a/emba: Security analyzer for firmware of embedded devices, supporting static and dynamic analysis via emulation, SBOM generation, and vulnerability reporting](https://github.com/e-m-b-a/emba)
 * [ANNOUNCE: Scan is now in maintenance mode · Issue #352 · ShiftLeftSecurity/sast-scan](https://github.com/ShiftLeftSecurity/sast-scan/issues/352)
 * [Container Security | Qualys, Inc.](https://www.qualys.com/apps/container-security/)
 * [Aqua Cloud Native Security, Container Security &amp; Serverless Security](https://www.aquasec.com/)
