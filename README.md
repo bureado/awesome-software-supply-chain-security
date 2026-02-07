@@ -185,6 +185,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * [CycloneDX/cyclonedx-webpack-plugin: Create CycloneDX Software Bill of Materials (SBOM) from webpack bundles at compile time.](https://github.com/CycloneDX/cyclonedx-webpack-plugin)
 * [advanced-security/gh-sbom: Generate SBOMs with gh CLI](https://github.com/advanced-security/gh-sbom)
 * [SoftwareDesignLab/SBOM-in-a-Box](https://github.com/SoftwareDesignLab/SBOM-in-a-Box), a unified platform for SBOM generation (using integrated open source tools), conversion (SPDX/CycloneDX), VEX generation, quality metrics, comparison and merging
+* [philips-software/SPDXMerge: Tool for merging multiple SPDX JSON/Tag-value SBOMs into a parent SBOM](https://github.com/philips-software/SPDXMerge), supporting deep merge (consolidate contents) and shallow merge (create references) with GitHub Action and Docker support
 * [interlynk-io/sbomqs: SBOM quality score - Quality metrics for your sboms](https://github.com/interlynk-io/sbomqs)
 * [eBay/sbom-scorecard: Generate a score for your sbom to understand if it will actually be useful.](https://github.com/eBay/sbom-scorecard)
 * Read: [An Empirical Study of the SBOM Landscape](https://arxiv.org/abs/2303.11102), a deep-dive into 6 SBOM tools and the accuracy of the SBOMs they produce for complex open-source Java projects (IEEE Security & Privacy, 2023)
