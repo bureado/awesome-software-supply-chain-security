@@ -430,6 +430,7 @@ And a few things to watch beyond libraries and software dependencies:
 * [aws-solutions/verifiable-controls-evidence-store: This repository contains the source code of the Verifiable Controls Evidence Store solution](https://github.com/aws-solutions/verifiable-controls-evidence-store)
 * Read: [Monitoring the kernel.org Transparency Log for a year](https://linderud.dev/blog/monitoring-the-kernel.org-transparency-log-for-a-year/)
 * Read: [Guide to Rekor Monitor and Its Integration with Red Hat Trusted Artifact Signer](https://www.redhat.com/en/blog/guide-rekor-monitor-and-its-integration-red-hat-trusted-artifact-signer) (Red Hat), covering transparency log integrity verification with continuous monitoring and Prometheus metrics
+* Read: [Catching Malicious Package Releases Using a Transparency Log](https://blog.trailofbits.com/2025/12/12/catching-malicious-package-releases-using-a-transparency-log/) (Trail of Bits), explaining how rekor-monitor detects compromised signing identities and malicious releases via Rekor transparency logs
 * Also read: [Software Distribution Transparency and Auditability](https://arxiv.org/abs/1711.07278)
 * [paragonie/libgossamer: Public Key Infrastructure without Certificate Authorities, for WordPress and Packagist](https://github.com/paragonie/libgossamer)
   * Read: [Solving Open Source Supply Chain Security for the PHP Ecosystem](https://paragonie.com/blog/2022/01/solving-open-source-supply-chain-security-for-php-ecosystem)
