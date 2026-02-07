@@ -104,6 +104,7 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
 * [chaoss/augur: Python library and web service for Open Source Software Health and Sustainability metrics &amp; data collection. You can find our documentation and new contributor information easily here: https://chaoss.github.io/augur/ and learn more about Augur at our website https://augurlabs.io](https://github.com/chaoss/augur)
 * [IBM/CBOM: Cryptography Bill of Materials](https://github.com/IBM/CBOM)
 * [AppThreat/blint: BLint is a Binary Linter to check the security properties, and capabilities in your executables. It is powered by lief.](https://github.com/AppThreat/blint)
+* [trailofbits/vendetect: Command-line tool for automatically detecting vendored and copy/pasted code between repositories](https://github.com/trailofbits/vendetect) using similarity detection algorithms to identify code reuse and potential intellectual property issues
 
 Also read:
 
