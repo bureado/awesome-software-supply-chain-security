@@ -339,6 +339,7 @@ Also see:
       * And [lirantal/lockfile-lint: Lint an npm or yarn lockfile to analyze and detect security issues](https://github.com/lirantal/lockfile-lint)
       * [KTH-LangSec/nodeshield: Runtime enforcement of SBOMs and Capabilities Bill of Materials (CBOM) for Node.js to prevent supply chain attacks](https://github.com/KTH-LangSec/nodeshield)
 * [chains-project/goleash: eBPF-based runtime policy enforcement for Go applications, enforcing least privilege at the package level to detect and block malicious behavior from compromised dependencies](https://github.com/chains-project/goleash)
+* [avilum/secimport: eBPF-based module-level sandboxing for Python applications, enforcing syscall restrictions per Python module to mitigate risks from vulnerable or malicious dependencies](https://github.com/avilum/secimport)
     * Or [requires.io | Monitor your dependencies](https://requires.io/)
     * Or [Brakeman Security Scanner](https://brakemanscanner.org/)
     * Or [trailofbits/pip-audit: Audits Python environments and dependency trees for known vulnerabilities](https://github.com/trailofbits/pip-audit)
