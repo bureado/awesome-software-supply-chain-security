@@ -326,6 +326,7 @@ Also see:
   * Also see: [kpcyrd/apt-swarm: 🥸 p2p gossip network for update transparency, based on pgp 🥸](https://github.com/kpcyrd/apt-swarm)
 * [Open Policy Agent](https://www.openpolicyagent.org/)
 * [netskopeoss/beam: Behavioral Evaluation of Application Metrics (BEAM) detects supply chain compromises by analyzing network traffic](https://github.com/netskopeoss/beam) using machine learning and SHAP explainability to identify malicious behavior patterns
+* [GitLab Libbehave (Experiment): Scans dependencies during merge request pipelines to identify newly added libraries and their risky behaviors](https://docs.gitlab.com/user/application_security/dependency_scanning/experiment_libbehave_dependency/) - assigning riskiness scores for behaviors like OS command execution, dynamic code evaluation, and file system access
 * [Conftest](https://www.conftest.dev/examples/) allows to write tests against structured configuration data using the Open Policy Agent Rego query language: [here's an example](https://github.com/open-policy-agent/conftest/blob/master/examples/docker/policy/commands.rego)
 * Several [pre-commit](https://pre-commit.com/hooks.html) hooks allow vulnerability checking right before dependency ingestion time into the codebase
   * e.g., [pyupio/safety: Safety checks your installed dependencies for known security vulnerabilities](https://github.com/pyupio/safety)
