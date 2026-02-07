@@ -468,6 +468,7 @@ And a few things to watch beyond libraries and software dependencies:
 > This section includes: reference architectures and authoritative compilations of supply chain attacks and the emerging categories.
 
 * [in-toto | A framework to secure the integrity of software supply chains](https://in-toto.io/)
+* [VXDF (Validated Exploitable Data Flow): Open security standard for documenting confirmed vulnerabilities with structured evidence of exploitability](https://vxdf.org/), using JSON Schema with 33 evidence types and interoperability with SARIF, SPDX, CWE, and CVSS
 * [Supply chain Levels for Software Artifacts](https://slsa.dev/) or SLSA (salsa) is a security framework, a check-list of standards and controls to prevent tampering, improve integrity, and secure packages and infrastructure in your projects, businesses or enterprises. 
   * Great read: [SLSA | CloudSecDocs](https://cloudsecdocs.com/devops/pipelines/supply_chain/slsa/)
   * Another L50 read: [Building trust in our software supply chains with SLSA](https://blog.chainguard.dev/building-trust-in-our-software-supply-chains-with-slsa/)
