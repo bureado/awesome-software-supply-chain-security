@@ -454,6 +454,7 @@ And a few things to watch beyond libraries and software dependencies:
   * And a [pattern search across GitHub](https://cs.github.com/?scopeName=All+repos&scope=&q=%22uses%3A+slsa-framework%2Fslsa-github-generator%2F.github%2Fworkflows%2F%22+path%3A**.yml+NOT+org%3Aslsa-framework+NOT+org%3Aasraa+NOT+org%3Alaurentsimon+NOT+org%3Aazeemshaikh38+NOT+org%3Asethmlarson+NOT+org%3Alukehinds) for inspiration (thanks [@infernosec](https://twitter.com/infernosec/status/1559937819128127488))
 * [OWASP Application Security Verification Standard](https://owasp.org/www-project-application-security-verification-standard/), esp. _V14 - Configuration_
 * [OWASP/Software-Component-Verification-Standard: Software Component Verification Standard (SCVS)](https://github.com/OWASP/Software-Component-Verification-Standard)
+  * Also see: [OWASP SCVS BOM Maturity Model](https://scvs.owasp.org/bom-maturity-model/), a formalized taxonomy for evaluating bill of materials capabilities and supporting organizational policies
 * [CREST launches OWASP Verification Standard (OVS)](https://www.crest-approved.org/crest-launches-owasp-verification-standard-ovs/)
 * SAFECODE's [Fundamental Practices for Secure Software Development, Third Edition](https://safecode.org/uncategorized/fundamental-practices-secure-software-development/), esp. _Manage Security Risk Inherent in the Use of Third-party Components_
 * [SSF | The Secure Software Factory](https://thesecuresoftwarefactory.github.io/ssf/) and [mlieberman85/supply-chain-examples](https://github.com/mlieberman85/supply-chain-examples)
