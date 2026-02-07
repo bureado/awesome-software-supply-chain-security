@@ -401,6 +401,7 @@ And a few things to watch beyond libraries and software dependencies:
     * Also see: [Kubernetes taps Sigstore to thwart open-source software supply chain attacks](https://www.zdnet.com/article/kubernetes-taps-sigstore-to-thwart-open-source-software-supply-chain-attacks/)
     * Sigstore-specific view of the [OpenSSF Landscape](https://landscape.openssf.org/sigstore)
     * Read: [Sigstore Bundle Format](https://www.trustification.io/blog/2023/01/13/sigstore-bundle-format/) walks through the structure of Sigstore's offline verification bundle, including signatures, certificates and Rekor inclusion proofs
+    * [sigstore/model-transparency: Signing and verification for ML model integrity and provenance via Sigstore](https://github.com/sigstore/model-transparency) - extends model supply chain security to ML artifacts
 * [cas - cas attestation service](https://cas.codenotary.com/)
 * [Witness](https://witness.dev/) - [testifysec/witness: Witness is a pluggable framework for software supply chain risk management.  It automates, normalizes, and verifies software artifact provenance.](https://github.com/testifysec/witness)
   * Watch: [Securing the Supply Chain with Witness - Cole Kennedy, TestifySec](https://www.youtube.com/watch?v=cZD_4u7DZPM)
