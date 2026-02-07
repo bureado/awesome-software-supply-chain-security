@@ -525,6 +525,7 @@ Also see:
   * [r-b ecosytem mapping](https://pad.riseup.net/p/rbecosystemmapping-keep)
   * [Reproducible Builds / reprotest](https://salsa.debian.org/reproducible-builds/reprotest)
   * [Is NixOS Reproducible?](https://r13y.com/)
+  * Read: [Is NixOS truly reproducible?](https://luj.fr/blog/is-nixos-truly-reproducible.html) - Examines bitwise reproducibility claims and challenges in the Nix ecosystem
 * [Bootstrappable Builds (GNU Mes Reference Manual)](https://www.gnu.org/software/mes/manual/html_node/Bootstrappable-Builds.html)
   * Also read [Bootstrappable builds](https://lwn.net/Articles/841797/) from LWN
 * [tektoncd/chains: Supply Chain Security in Tekton Pipelines](https://github.com/tektoncd/chains)
