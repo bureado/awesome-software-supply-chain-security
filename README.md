@@ -627,6 +627,7 @@ And a collection of reads and listens, ranging from insightful blog posts, expla
   * [ossf/oss-compromises: Archive of various open source security compromises](https://github.com/ossf/oss-compromises)
   * Python-specific example: [Bad actors vs our community: detecting software supply chain...](https://www.youtube.com/watch?app=desktop&v=Rcuqn56uCDk&feature=youtu.be) by Ajinkya Rajput and Ashish Bijlani
   * A comprehensive all rounder: [Protect Yourself Against Supply Chain Attacks - Rob Bos - NDC Security 2022](https://www.youtube.com/watch?v=00R1JGBQEJg)
+* Watch: [What Is This Package Even Doing? Analyzing Behaviors of Our Software Dependencies](https://www.youtube.com/watch?v=63Tr3C9CjmU&t=935s) by Isaac Dawson, OpenSSF - examining runtime behavior analysis of package dependencies
   * Not supply chain security specific, but worth tracking: [PayDevs/awful-oss-incidents: 🤬 A categorized list of incidents caused by unappreciated OSS maintainers or underfunded OSS projects. Feedback welcome!](https://github.com/PayDevs/awful-oss-incidents)
 * [Improving TOFU (trust on first use) With Transparency](https://dlorenc.medium.com/improving-tofu-with-transparency-da674aa2879d)
 * Reports:
