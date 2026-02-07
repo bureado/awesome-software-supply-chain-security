@@ -526,6 +526,7 @@ Also see:
 * [Dependency management](https://cloud.google.com/artifact-registry/docs/dependencies) as part of Google Cloud's Artifact Registry documentation
 * [Security hardening for GitHub Actions](https://docs.github.com/en/actions/security-guides/security-hardening-for-github-actions)
   * And: [step-security/harden-runner: Security agent for GitHub-hosted runner: block egress traffic &amp; detect code overwrite to prevent breaches](https://github.com/step-security/harden-runner)
+  * And: [StepSecurity Action Advisor](https://app.stepsecurity.io/action-advisor), a tool that scores GitHub Actions for security and suggests maintained alternatives
 * [Handling build-time dependency vulnerabilities](https://hackmd.io/@VOkN52x7RbeXS-3vr4XOgg/BJBDNYK0F) from [Create guidance on triaging build time dependency vulnerabilities · Issue #855 · cncf/tag-security](https://github.com/cncf/tag-security/issues/855)
 * [Code Sight](https://www.synopsys.com/software-integrity/code-sight.html)
 * [cider-security-research/cicd-goat: A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.](https://github.com/cider-security-research/cicd-goat)
@@ -567,6 +568,7 @@ And a collection of reads and listens, ranging from insightful blog posts, expla
 * [Census II of Free and Open Source Software — Application Libraries](https://linuxfoundation.org/wp-content/uploads/LFResearch_Harvard_Census_II.pdf)
 * [“Chain”ging the Game - how runtime makes your supply chain even more secure](https://sysdig.com/blog/chainging-the-game/)
 * [How to attack cloud infrastructure via a malicious pull request](https://goteleport.com/blog/hack-via-pull-request/)
+* [Introducing StepSecurity Developer MDM](https://www.stepsecurity.io/blog/introducing-stepsecurity-developer-mdm-protecting-developer-machines-from-supply-chain-attacks), on protecting developer machines and AI coding agents from supply chain attacks targeting credentials, IDE extensions and local dependencies
 * [The Challenges of Securing the Open Source Supply Chain](https://thenewstack.io/the-challenges-of-securing-the-open-source-supply-chain/)
 * [What is a Software Supply Chain Attestation - and why do I need it?](https://www.testifysec.com/blog/what-is-a-supply-chain-attestation/)
 * [Open Policy Agent 2021, Year in Review](https://blog.openpolicyagent.org/open-policy-agent-2021-year-in-review-f334244868e0)
