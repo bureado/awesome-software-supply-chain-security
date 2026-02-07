@@ -165,6 +165,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * Fortress: [Software Bill of Materials](https://www.fortressinfosec.com/sbom)
 * [javixeneize/yasca: Yet Another SCA tool](https://github.com/javixeneize/yasca)
 * Cybeats [SBOM Studio](https://www.cybeats.com/sbom-studio)
+* [DeepBOM](https://www.deepbits.com/platform) from Deepbits, an AI-powered platform for SBOM management, vulnerability assessment, malware detection and license compliance
 * [edgebitio/edgebit-build: GitHub action to upload SBOMs to EdgeBit and receive vulnerability context in your pull requests](https://github.com/edgebitio/edgebit-build) from [EdgeBit - Real-time supply chain security, enabling security teams to target and coordinate vulnerability remediation without toil.](https://edgebit.io/)
 * REA's [Software Assurance Guardian Point Man (SAG-PM)](https://reliableenergyanalytics.com/products)
 * [microsoft/sbom-tool: The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts](https://github.com/microsoft/sbom-tool)
