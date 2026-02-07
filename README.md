@@ -575,6 +575,7 @@ Also see:
 * [oss-reproducible](https://github.com/microsoft/OSSGadget/tree/main/src/oss-reproducible) - Measures the reproducibility of a package based on its purported source. Part of [OSS Gadget](https://github.com/microsoft/OSSGadget)
 * [jart/landlock-make: Sandboxing for GNU Make has never been easier](https://github.com/jart/landlock-make)
   * Read: [Using Landlock to Sandbox GNU Make](https://justine.lol/make/)
+* [Fraunhofer-AISEC/supply-graph: Graph-based analysis tool for detecting supply chain attacks in build systems by tracing source-to-binary relationships (research/FOSDEM 2025 demonstration project using XZ CVE-2024-3094)](https://github.com/Fraunhofer-AISEC/supply-graph)
 * [veraison/veraison: Project Veraison will build software components that can be used to build Attestation Verification Services](https://github.com/veraison/veraison)
 * [Changelog](https://www.pantsbuild.org/docs/changelog) for [Pants 2: The ergonomic build system](https://www.pantsbuild.org/)
 * [Bazel](https://bazel.build/) is an open source build and test tool similar to Make, Maven, and Gradle
