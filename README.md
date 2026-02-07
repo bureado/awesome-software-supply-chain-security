@@ -449,6 +449,7 @@ And a few things to watch beyond libraries and software dependencies:
     * Related project: [werf/trdl: The universal solution for delivering your software updates securely from a trusted The Update Framework (TUF) repository.](https://github.com/werf/trdl)
     * Read: [Secure Software Updates via TUF — Part 2](https://medium.com/@mulgundmath/secure-software-updates-via-tuf-part-2-412c6a2b10ab)
 * [deislabs/ratify: Artifact Ratification Framework](https://github.com/deislabs/ratify)
+* [OpenAttestation: Blockchain-based framework for endorsing and verifying documents with cryptographic trust (archived as of October 2025, transitioning to TrustVC)](https://www.openattestation.com/). Supports verifiable credentials, selective disclosure, decentralized rendering, and verified issuer identity
 * [latchset/tang: Tang binding daemon](https://github.com/latchset/tang)
 * [ietf-rats - Overview](https://github.com/ietf-rats)
 * [An exposed apt signing key and how to improve apt security](https://blog.cloudflare.com/dont-use-apt-key/)
