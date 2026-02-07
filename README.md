@@ -498,6 +498,7 @@ And a few things to watch beyond libraries and software dependencies:
 * [OWASP Application Security Verification Standard](https://owasp.org/www-project-application-security-verification-standard/), esp. _V14 - Configuration_
 * [OWASP/Software-Component-Verification-Standard: Software Component Verification Standard (SCVS)](https://github.com/OWASP/Software-Component-Verification-Standard)
   * Also see: [OWASP SCVS BOM Maturity Model](https://scvs.owasp.org/bom-maturity-model/), a formalized taxonomy for evaluating bill of materials capabilities and supporting organizational policies
+* [CycloneDX/transparency-exchange-api: OWASP Transparency Exchange API (TEA) standard for exchanging SBOM and vulnerability information, standardized in ECMA TC54](https://github.com/CycloneDX/transparency-exchange-api)
 * [CREST launches OWASP Verification Standard (OVS)](https://www.crest-approved.org/crest-launches-owasp-verification-standard-ovs/)
 * SAFECODE's [Fundamental Practices for Secure Software Development, Third Edition](https://safecode.org/uncategorized/fundamental-practices-secure-software-development/), esp. _Manage Security Risk Inherent in the Use of Third-party Components_
 * [SSF | The Secure Software Factory](https://thesecuresoftwarefactory.github.io/ssf/) and [mlieberman85/supply-chain-examples](https://github.com/mlieberman85/supply-chain-examples)
