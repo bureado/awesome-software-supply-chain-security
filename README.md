@@ -190,6 +190,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * Read: [An Empirical Study of the SBOM Landscape](https://arxiv.org/abs/2303.11102), a deep-dive into 6 SBOM tools and the accuracy of the SBOMs they produce for complex open-source Java projects (IEEE Security & Privacy, 2023)
   * Also see: [How to Quickly Measure SBOM Accuracy for Free](https://www.endorlabs.com/learn/how-to-quickly-measure-sbom-accuracy-for-free) from Endor Labs, with a reproducible script at [endorlabs/sbom-lab](https://github.com/endorlabs/sbom-lab)
 * Read: [OWASP CycloneDX — Authoritative Guide to SBOM](https://cyclonedx.org/guides/OWASP_CycloneDX-Authoritative-Guide-to-SBOM-en.pdf), a comprehensive PDF guide on Software Bill of Materials, formats, and best practices
+* [SBOM Insights](https://sbom-insights.dev/) blog covering SBOM compliance frameworks (NTIA minimum elements, BSI standards), quality scoring with sbomqs, and practical SBOM use cases
 
 More interesting resources:
 
