@@ -237,6 +237,7 @@ A few open source projects are documenting, in public, how they acquire dependen
   * Also [OpenSSF Security Insights Spec](https://github.com/ossf/security-insights-spec)
   * Read: [How OpenSSF Scorecards can help to evaluate open-source software risks](https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3668192/how-openssf-scorecards-can-help-to-evaluate-open-source-software-risks.amp.html)
   * Great real life example: [State of the Eclipse Foundation GitHub repositories](https://mikael.barbero.tech/blog/post/eclipsefdn-scorecard-aug2022/)
+  * Also see: [naveensrinivasan/scorecard-1000-critical-projects](https://github.com/naveensrinivasan/scorecard-1000-critical-projects), using the Scorecard API to analyze the top 1000 critical open source projects from the [Criticality Score](https://github.com/ossf/criticality_score) dataset
 * [Lynis - Security auditing and hardening tool for Linux/Unix](https://cisofy.com/lynis/)
 * [victims/victims-cve-db: CVE database store](https://github.com/victims/victims-cve-db)
 * [anchore/grype: A vulnerability scanner for container images and filesystems](https://github.com/anchore/grype)
