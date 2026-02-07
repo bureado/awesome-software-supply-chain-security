@@ -472,6 +472,7 @@ And a few things to watch beyond libraries and software dependencies:
 * [Securing the Software Supply Chain for Developers](https://media.defense.gov/2022/Sep/01/2003068942/-1/-1/0/ESF_SECURING_THE_SOFTWARE_SUPPLY_CHAIN_DEVELOPERS.PDF) was published by the National Security Agency (NSA), Cybersecurity and Infrastructure Security Agency (CISA), and the Office of the Director of National Intelligence (ODNI) under the Enduring Security Framework (ESF) initiative
 * OpenSSF's [Concise Guide for Developing More Secure Software 2022-09-01](https://github.com/ossf/wg-best-practices-os-developers/blob/main/docs/Concise-Guide-for-Developing-More-Secure-Software.md#readme)
 * Chris Hughes on the NSA Recommended Practices for Developers: [Securing the Software Supply Chain](https://medium.com/@chris.hughes_11070/securing-the-software-supply-chain-d3426d36150d)
+* Read: [Elements of an Effective Software Supply Chain Strategy](https://www.informationweek.com/software-services/elements-of-an-effective-software-supply-chain-strategy) proposes 12 elements for software supply chain risk management spanning asset inventory, SBOM, provenance, attestation, compliance and governance
 
 Also see:
 
