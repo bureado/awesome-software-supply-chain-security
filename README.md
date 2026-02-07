@@ -562,7 +562,7 @@ Also see:
 * [aws/uefi: AWS firmware for Nitro instances with reproducible builds to verify measurements against source code](https://github.com/aws/uefi), enabling reproducible hardware attestation
 * [Azure-Samples/microsoft-azure-attestation: Confidential Compute attestation service examples including measurement verification in JWT certificates](https://github.com/Azure-Samples/microsoft-azure-attestation) for tying runtime attestation to build provenance
 * [reposaur/reposaur: Open source compliance tool for development platforms.](https://github.com/reposaur/reposaur)
-* [buildsec/frsca](https://github.com/buildsec/frsca) is an implementation of the CNCF's Secure Software Factory Reference Architecture. It is also intended to follow SLSA requirements closely and generate in-toto attesttations for SLSA provenance predicates.
+* [buildsec/frsca](https://github.com/buildsec/frsca) is an implementation of the CNCF's Secure Software Factory Reference Architecture. It is also intended to follow SLSA requirements closely and generate in-toto attestations for SLSA provenance predicates.
 * [chainloop-dev/chainloop: Chainloop is an open source software supply chain control plane, a single source of truth for artifacts plus a declarative attestation crafting process.](https://github.com/chainloop-dev/chainloop)
   * Also see: [Software Supply Chain Attestation the Easy Way](https://docs.chainloop.dev/blog/software-supply-chain-attestation-easy-way) from the Chainloop documentation
   * Read: [Attestation concepts](https://docs.chainloop.dev/concepts/attestations) covers the attestation lifecycle (`init`, `add`, `push`) and Sigstore bundle format used by Chainloop
