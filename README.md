@@ -415,6 +415,7 @@ And a few things to watch beyond libraries and software dependencies:
 * See [Issue #21 · testifysec/witness](https://github.com/testifysec/witness/issues/21#issuecomment-991774080) for a succinct description of how [testifysec/witness: Witness is a pluggable framework for software supply chain risk management.  It automates, normalizes, and verifies software artifact providence.](https://github.com/testifysec/witness/) deals with attestation chains 
   * Another [witness example with GitLab](https://gitlab.com/testifysec/demos/witness-demo)
 * [Allow using SSH keys to sign commits · Discussion #7744 · github/feedback](https://github.com/github/feedback/discussions/7744#discussioncomment-1794438)
+* Read: [Introducing "Trusted Publishers"](https://blog.pypi.org/posts/2023-04-20-introducing-trusted-publishers/) on PyPI's use of OpenID Connect for short-lived, tokenless publishing from GitHub Actions, eliminating the need for long-lived API tokens
 * [aws-solutions/verifiable-controls-evidence-store: This repository contains the source code of the Verifiable Controls Evidence Store solution](https://github.com/aws-solutions/verifiable-controls-evidence-store)
 * Read: [Monitoring the kernel.org Transparency Log for a year](https://linderud.dev/blog/monitoring-the-kernel.org-transparency-log-for-a-year/)
 * Also read: [Software Distribution Transparency and Auditability](https://arxiv.org/abs/1711.07278)
