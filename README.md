@@ -396,6 +396,7 @@ And a few things to watch beyond libraries and software dependencies:
   * Also see: [testifysec/go-ima: go-ima is a tool that checks if a file has been tampered with.  It is useful in ensuring integrity in CI systems](https://github.com/testifysec/go-ima)
 * [puerco/tejolote: A highly configurable build executor and observer designed to generate signed SLSA provenance attestations about build runs.](https://github.com/puerco/tejolote)
 * [in-toto-run - GitHub Marketplace](https://github.com/marketplace/actions/in-toto-run) and [in-toto/github-action: in-toto provenance github action](https://github.com/in-toto/github-action)
+* [kusaridev/spector](https://github.com/kusaridev/spector) is a Rust tool and library for strict generation, validation and verification of supply chain metadata documents, supporting SLSA 1.0 Provenance and in-toto 1.0 Statement. Read the [announcement](https://www.kusari.dev/blog/kusari-open-sources-spector)
 * [General availability of SLSA3 Generic Generator for GitHub Actions](https://slsa.dev/blog/2022/08/slsa-github-workflows-generic-ga)
   * [slsa-framework/slsa-github-generator: Language-agnostic SLSA provenance generation for Github Actions](https://github.com/slsa-framework/slsa-github-generator)
   * Also see: [Attestation Crafting | ChainLoop documentation](https://docs.chainloop.dev/getting-started/attestation-crafting)
@@ -509,6 +510,7 @@ Also see:
   * Read: [Attestation concepts](https://docs.chainloop.dev/concepts/attestations) covers the attestation lifecycle (`init`, `add`, `push`) and Sigstore bundle format used by Chainloop
 * [aquasecurity/chain-bench: an open-source tool for auditing your software supply chain stack for security compliance](https://github.com/aquasecurity/chain-bench) implementing checks for [CIS 1.0 | Vulnerability Database | Aqua Security](https://avd.aquasec.com/compliance/softwaresupplychain/cis-1.0/)
 * [ossf/allstar: GitHub App to set and enforce security policies](https://github.com/ossf/allstar)
+* [kusaridev/skootrs](https://github.com/kusaridev/skootrs) is a CLI tool for creating secure-by-design/default source repos with security best practices built in
 * [scribe-public/gitgat: Evaluate source control (GitHub) security posture](https://github.com/scribe-public/gitgat)
 * [Legit-Labs/legitify: Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets](https://github.com/Legit-Labs/legitify)
 * [crashappsec/github-analyzer: A tool to check the security settings of Github Organizations.](https://github.com/crashappsec/github-analyzer)
