@@ -679,6 +679,7 @@ And a collection of reads and listens, ranging from insightful blog posts, expla
 * [Why SBOMS & Security Scanning Go Together - Upstream: The Software Supply Chain Security Podcast presented by Anchore](https://www.buzzsprout.com/1913318/10096487)
 * [SBOMs in the Windows Supply Chain](https://s3-us-west-1.amazonaws.com/groupsioattachments/19482/98065190/1665/0?AWSAccessKeyId=AKIAJECNKOVMCCU3ATNQ&Expires=1682372170&Signature=x0o52XZ1FYr5QpNHAg8hb49mFcY%3D&response-content-disposition=inline%3B+filename%3D%22SBOMs%2520in%2520the%2520Windows%2520Supply%2520Chain.pdf%22), from the [SPDX User Group](https://lists.spdx.org/g/spdx/message/1679)
 * [Whose Sign Is It Anyway?](https://www.youtube.com/watch?v=psTh2xOvVJI) - Marina Moore, NYU & Matthew Riley, Google
+* Watch: [True Security: Unforgeable Baseline Compliance](https://www.youtube.com/watch?v=_Na_R1IY-5c) - Adolfo García Veytia, OpenSSF, on establishing cryptographically verifiable security baselines
 * [Binary Authorization for Borg: how Google verifies code provenance and implements code identity](https://cloud.google.com/docs/security/binary-authorization-for-borg)
 * [Application Security Weekly (Video) on Apple Podcasts](https://podcasts.apple.com/us/podcast/application-security-weekly-video/id1338908396)
 * [How to prioritize the improvement of open source software security](https://www.brookings.edu/techstream/how-to-prioritize-the-improvement-of-open-source-software-security/)
