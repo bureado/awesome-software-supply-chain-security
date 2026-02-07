@@ -665,6 +665,7 @@ And a collection of reads and listens, ranging from insightful blog posts, expla
 * Watch: [What Is This Package Even Doing? Analyzing Behaviors of Our Software Dependencies](https://www.youtube.com/watch?v=63Tr3C9CjmU&t=935s) by Isaac Dawson, OpenSSF - examining runtime behavior analysis of package dependencies
   * Not supply chain security specific, but worth tracking: [PayDevs/awful-oss-incidents: 🤬 A categorized list of incidents caused by unappreciated OSS maintainers or underfunded OSS projects. Feedback welcome!](https://github.com/PayDevs/awful-oss-incidents)
 * [Improving TOFU (trust on first use) With Transparency](https://dlorenc.medium.com/improving-tofu-with-transparency-da674aa2879d)
+* Read: [Supply Chain Attacks are Exploiting Our Assumptions](https://blog.trailofbits.com/2025/09/24/supply-chain-attacks-are-exploiting-our-assumptions/) (Trail of Bits), analyzing implicit trust assumptions in package managers and recent attacks that exploit them
 * Reports:
   * [2022 State of Cloud Native Security Report - Palo Alto Networks](https://www.paloaltonetworks.com/state-of-cloud-native-security)
   * [2022 Software Supply Chain Security Report • Anchore](https://anchore.com/software-supply-chain-security-report-2022/)
