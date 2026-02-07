@@ -628,6 +628,7 @@ And a collection of reads and listens, ranging from insightful blog posts, expla
 * [Open Policy Agent 2021, Year in Review](https://blog.openpolicyagent.org/open-policy-agent-2021-year-in-review-f334244868e0)
 * [Reproducibility · Cloud Native Buildpacks](https://buildpacks.io/docs/features/reproducibility/) and [Buildpacks and SBOM Integration Opportunities](https://zt.dev/posts/buildpacks-sbom-opportunities/)
 * [The state of software bill of materials: SBOM growth could bolster software supply chains](https://venturebeat.com/2022/02/02/the-state-of-software-bill-of-materials-sbom-growth-could-bolster-software-supply-chains/)
+* Watch: [FOSDEM 2025 - Where in the OSS supply chain do SBOM attributes come from?](https://archive.fosdem.org/2025/schedule/event/fosdem-2025-6483-where-in-the-oss-supply-chain-do-sbom-attributes-come-from-/) by Salve J. Nilsen on SBOM metadata sourcing, authorization, and the landscape of regulatory demands (NIS2, Cyber Resilience Act)
 * [Secure Your Software Supply Chain with New VMware Tanzu Application Platform Capabilities](https://tanzu.vmware.com/content/blog/secure-software-supply-chain-vmware-tanzu-application-platform)
   * [Secure Software Supply Chains](https://tanzu.vmware.com/developer/learningpaths/secure-software-supply-chain/)
 * A few resources to understand supply chain compromises:
