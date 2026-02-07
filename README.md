@@ -537,6 +537,7 @@ Also see:
 * [buildsec/vendorme](https://github.com/buildsec/vendorme) improves the developer workflow by giving you one single place to manage any vendored dependencies, and ensures that those are validated properly to improve the security around your supply chain
 * [eellak/build-recorder](https://github.com/eellak/build-recorder)
   * Also see: [FOSDEM 2023 - Build recorder: a system to capture detailed information](https://fosdem.org/2023/schedule/event/sbom_build_recorder/)
+* [rust-secure-code/cargo-auditable: Embed the Cargo dependency tree in your Rust binaries](https://github.com/rust-secure-code/cargo-auditable), enabling vulnerability auditing of compiled Rust binaries with zero bookkeeping; supported by cargo-audit, Trivy, Grype, and other tools
 
 Also see:
 
