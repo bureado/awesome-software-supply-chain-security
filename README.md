@@ -192,6 +192,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
   * Also see: [How to Quickly Measure SBOM Accuracy for Free](https://www.endorlabs.com/learn/how-to-quickly-measure-sbom-accuracy-for-free) from Endor Labs, with a reproducible script at [endorlabs/sbom-lab](https://github.com/endorlabs/sbom-lab)
 * Read: [OWASP CycloneDX — Authoritative Guide to SBOM](https://cyclonedx.org/guides/OWASP_CycloneDX-Authoritative-Guide-to-SBOM-en.pdf), a comprehensive PDF guide on Software Bill of Materials, formats, and best practices
 * [SBOM Insights](https://sbom-insights.dev/) blog covering SBOM compliance frameworks (NTIA minimum elements, BSI standards), quality scoring with sbomqs, and practical SBOM use cases
+* [cyfinoid/aibommaker: AI BOM Generator](https://github.com/cyfinoid/aibommaker), a client-side web tool for analyzing GitHub repositories for AI/LLM usage and generating AI Bills of Materials in CycloneDX 1.7 and SPDX 3.0.1 formats with hardware, infrastructure, and governance detection
 
 More interesting resources:
 
