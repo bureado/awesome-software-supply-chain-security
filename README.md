@@ -590,6 +590,7 @@ And a collection of reads and listens, ranging from insightful blog posts, expla
   * [IQTLabs/software-supply-chain-compromises: A dataset of software supply chain compromises. Please help us maintain it!](https://github.com/IQTLabs/software-supply-chain-compromises)
   * [Taxonomy of Attacks on Open-Source Software Supply Chains](https://arxiv.org/abs/2204.04008) and [Risk Explorer for Software Supply Chains](https://sap.github.io/risk-explorer-for-software-supply-chains/)
     * Endor Labs' version: [Risk Explorer for Software Supply Chains](https://riskexplorer.endorlabs.com/)
+    * See also: [SAP-samples/risk-explorer-execution-pocs](https://github.com/SAP-samples/risk-explorer-execution-pocs), runnable PoC implementations demonstrating how 3rd-party dependencies can achieve arbitrary code execution at install time and runtime across multiple ecosystems (Python, JavaScript, Ruby, PHP, Rust, Go, Java)
     * Also see a classic, [Backstabber's Knife Collection: A Review of Open Source Software Supply Chain Attacks](https://arxiv.org/abs/2005.09535)
   * [Towards Measuring Supply Chain Attacks on Package Managers for Interpreted Languages](https://arxiv.org/pdf/2002.01139.pdf)
   * The [Software Supply Chain Security Threat Landscape](https://www.linkedin.com/posts/tzachi-zornstain_august-supply-chain-summary-report-activity-6975045859688239104-adsU/?utm_source=share) dispatches from Checkmarx are often fresh reading
