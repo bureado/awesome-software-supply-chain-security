@@ -86,6 +86,7 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
 * [Checkmarx/chainalert-github-action: scans popular packages and alerts in cases there is suspicion of an account takeover](https://github.com/Checkmarx/chainalert-github-action)
 * Open Source Security Foundation (OpenSSF) [Alpha-Omega Project](https://openssf.org/community/alpha-omega/)
 * [Socket - Find and compare millions of open source packages](https://socket.dev/), focused on JavaScript
+* [Shai Hulud 2.0 Scanner](https://github.com/nxgn-kd01/shai-hulud-scanner) - Fast, comprehensive scanner to detect the Shai Hulud 2.0 npm supply chain attack (796+ compromised packages). Scans for malicious files, credential theft patterns, and compromised package ecosystems.
 * [diffoscope: in-depth comparison of files, archives, and directories](https://diffoscope.org/)
 * [RedHatProductSecurity/component-registry: Component Registry (Corgi) aggregates component data across Red Hat's supported products, managed services, and internal product pipeline services.](https://github.com/RedHatProductSecurity/component-registry)
 * [OSS Insight](https://ossinsight.io/), powered by TIDB Cloud, is an insight tool that can help you analyze in depth any single GitHub repository/developers, compare any two repositories using the same metrics, and provide comprehensive, valuable, and trending open source insights.
