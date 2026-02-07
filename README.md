@@ -392,6 +392,8 @@ Also see:
 And a few things to watch beyond libraries and software dependencies:
 
 * [System Transparency | security architecture for bare-metal servers](https://system-transparency.org/)
+* [sigsum.org: Transparent and verifiable build logs using stronger threat models than centralized transparency logs](https://sigsum.org/)
+* [Tillitis: Building open, trustworthy hardware and software for secure computation](https://tillitis.se/)
 * [Emulated host profiles in fwupd](https://blogs.gnome.org/hughsie/2022/07/29/emulated-host-profiles-in-fwupd/)
 * [GNOME To Warn Users If Secure Boot Disabled, Preparing Other Firmware Security Help](https://www.phoronix.com/news/GNOME-Secure-Boot-Warning)
 * [Kernel Self Protection Project - Linux Kernel Security Subsystem](https://kernsec.org/wiki/index.php/Kernel_Self_Protection_Project)
@@ -532,6 +534,8 @@ Also see:
 * On instrumenting runners:
   * Keep an eye on [Draft: POC Witness Runner integration (!1) · Merge requests · testifysec / gitlab-runner](https://gitlab.com/testifysec/gitlab-runner/-/merge_requests/1) for GitLab runners
   * Also, [edgelesssys/constellation: Constellation is the first Confidential Kubernetes. Constellation shields entire Kubernetes clusters from the (cloud) infrastructure using confidential computing.](https://github.com/edgelesssys/constellation)
+* [aws/uefi: AWS firmware for Nitro instances with reproducible builds to verify measurements against source code](https://github.com/aws/uefi), enabling reproducible hardware attestation
+* [Azure-Samples/microsoft-azure-attestation: Confidential Compute attestation service examples including measurement verification in JWT certificates](https://github.com/Azure-Samples/microsoft-azure-attestation) for tying runtime attestation to build provenance
 * [reposaur/reposaur: Open source compliance tool for development platforms.](https://github.com/reposaur/reposaur)
 * [buildsec/frsca](https://github.com/buildsec/frsca) is an implementation of the CNCF's Secure Software Factory Reference Architecture. It is also intended to follow SLSA requirements closely and generate in-toto attesttations for SLSA provenance predicates.
 * [chainloop-dev/chainloop: Chainloop is an open source software supply chain control plane, a single source of truth for artifacts plus a declarative attestation crafting process.](https://github.com/chainloop-dev/chainloop)
