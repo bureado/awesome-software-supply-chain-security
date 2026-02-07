@@ -535,6 +535,7 @@ Also see:
 * [Bazel](https://bazel.build/) is an open source build and test tool similar to Make, Maven, and Gradle
 * [GoogleContainerTools/kaniko: Build Container Images In Kubernetes](https://github.com/GoogleContainerTools/kaniko)
 * [sethvargo/ratchet: A tool for securing CI/CD workflows with version pinning.](https://github.com/sethvargo/ratchet)
+* [Pinning GitHub Actions](https://pin-gh-actions.kammel.dev/) guide with statistics on SHA pinning adoption and tools like Frizbee for migration and Renovate for automated updates
 * [buildsec/vendorme](https://github.com/buildsec/vendorme) improves the developer workflow by giving you one single place to manage any vendored dependencies, and ensures that those are validated properly to improve the security around your supply chain
 * [eellak/build-recorder](https://github.com/eellak/build-recorder)
   * Also see: [FOSDEM 2023 - Build recorder: a system to capture detailed information](https://fosdem.org/2023/schedule/event/sbom_build_recorder/)
