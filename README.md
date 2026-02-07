@@ -328,6 +328,7 @@ Also see:
     * Or [npm-audit](https://docs.npmjs.com/cli/v8/commands/npm-audit)
       * Also see [snyk-labs/snync: Mitigate security concerns of Dependency Confusion supply chain security risks](https://github.com/snyk-labs/snync)
       * And [lirantal/lockfile-lint: Lint an npm or yarn lockfile to analyze and detect security issues](https://github.com/lirantal/lockfile-lint)
+      * [KTH-LangSec/nodeshield: Runtime enforcement of SBOMs and Capabilities Bill of Materials (CBOM) for Node.js to prevent supply chain attacks](https://github.com/KTH-LangSec/nodeshield)
     * Or [requires.io | Monitor your dependencies](https://requires.io/)
     * Or [Brakeman Security Scanner](https://brakemanscanner.org/)
     * Or [trailofbits/pip-audit: Audits Python environments and dependency trees for known vulnerabilities](https://github.com/trailofbits/pip-audit)
