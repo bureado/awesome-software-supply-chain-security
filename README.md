@@ -233,6 +233,7 @@ A few open source projects are documenting, in public, how they acquire dependen
 * [Vuls · Agentless Vulnerability Scanner for Linux/FreeBSD](https://vuls.io/)
 * [Vulnerability Database](https://vuldb.com/?), an [API](https://vuldb.com/?kb.api) is also available; see [VulDB](https://github.com/vuldb)
 * [AppThreat/vulnerability-db: Vulnerability database and package search for sources such as OSV, NVD, GitHub and npm.](https://github.com/AppThreat/vulnerability-db)
+* [vulnerability-lookup/vulnerability-lookup: Vulnerability correlation platform with multi-source feeds](https://github.com/vulnerability-lookup/vulnerability-lookup) (NVD, GitHub, OSV, national databases), CVD management, sightings tracking, comments, bundles, and API for rapid lookup and cross-source correlation
 * [aquasecurity/trivy: Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues](https://github.com/aquasecurity/trivy)
 * [SAST for Code Security | Snyk Code](https://snyk.io/product/snyk-code/)
   * Also see: [Choosing Open Source Libraries](https://www.youtube.com/watch?app=desktop&v=Q4Yv3VGPiy4) from Snyk
