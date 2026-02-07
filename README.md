@@ -639,6 +639,7 @@ And a collection of reads and listens, ranging from insightful blog posts, expla
 * [Open Source Security Foundation (OpenSSF) Security Mobilization Plan](https://openssf.org/oss-security-mobilization-plan/)
 * [Not Just Third Party Risk](https://www.kusari.dev/blog/not_just_tprm/)
 * [Open Source Security: How Digital Infrastructure Is Built on a House of Cards](https://www.lawfareblog.com/open-source-security-how-digital-infrastructure-built-house-cards)
+* Read: [Kink in the Chain: Eight Perspectives on Software Supply Chain Risk Management](https://www.atlanticcouncil.org/content-series/cybersecurity-policy-and-strategy/kink-in-the-chain-eight-perspectives-on-software-supply-chain-risk-management/) from the Atlantic Council, featuring policy and industry perspectives on threats, tools, and government initiatives
 * Series: [Bootstrapping Trust Part 1](https://openziti.io/bootstrapping-trust-part-1-encryption-everywhere) covering encryption, certificates, chains and roots of trust
 * Contact sign-up sheet required: [The Rise of Continuous Packaging](https://cloudsmith.com/developers/resources/the-rise-of-continuous-packaging/) by Cloudsmith and O'Reilly
 * [Supply Chain Security for Cloud Native Java](https://speakerdeck.com/thomasvitale/supply-chain-security-for-cloud-native-java) (from [Thomas Vitale](https://twitter.com/vitalethomas/status/1565714896154755075))
