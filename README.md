@@ -537,7 +537,7 @@ Also see:
 > This section includes: reproducible builds, hermetic builds, bootstrappable builds, special considerations for CI/CD systems, best practices building artifacts such as OCI containers, etc.
 
 * [Reproducible Builds](https://reproducible-builds.org/), particularly the [Documentation](https://reproducible-builds.org/docs/)
-  * [r-b ecosytem mapping](https://pad.riseup.net/p/rbecosystemmapping-keep)
+  * [r-b ecosystem mapping](https://pad.riseup.net/p/rbecosystemmapping-keep)
   * [Reproducible Builds / reprotest](https://salsa.debian.org/reproducible-builds/reprotest)
   * [Is NixOS Reproducible?](https://r13y.com/)
   * Read: [Is NixOS truly reproducible?](https://luj.fr/blog/is-nixos-truly-reproducible.html) - Examines bitwise reproducibility claims and challenges in the Nix ecosystem
