@@ -69,6 +69,7 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
   * [bottlerocket-os/hotdog: Hotdog is a set of OCI hooks used to inject the Log4j Hot Patch into containers.](https://github.com/bottlerocket-os/hotdog)
 * [deepfence/ThreatMapper: 🔥 🔥   Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more. 🔥 🔥](https://github.com/deepfence/ThreatMapper)
 * [dependency-check](https://jeremylong.github.io/DependencyCheck/index.html)
+* [6mile/super-confused: Dependency confusion analysis tool supporting 17+ file formats and SBOM files](https://github.com/6mile/super-confused), identifying confusion opportunities across npm, PyPI, Cargo, Packagist, RubyGems, Maven, Go and other ecosystems
 * [ossf/package-analysis: Open Source Package Analysis](https://github.com/ossf/package-analysis) and [ossf/package-feeds: Feed parsing for language package manager updates](https://github.com/ossf/package-feeds)
   * Related: [Introducing Package Analysis: Scanning open source packages for malicious behavior](https://openssf.org/blog/2022/04/28/introducing-package-analysis-scanning-open-source-packages-for-malicious-behavior/)
   * Also [Argo Security Automation with OSS-Fuzz](https://blog.argoproj.io/argo-security-automation-with-oss-fuzz-da38c1f86452), [Improving Security by Fuzzing the CNCF landscape](https://www.cncf.io/blog/2022/06/28/improving-security-by-fuzzing-the-cncf-landscape/) and [google/oss-fuzz: OSS-Fuzz - continuous fuzzing for open source software.](https://github.com/google/oss-fuzz)
