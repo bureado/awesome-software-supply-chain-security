@@ -638,6 +638,7 @@ And a collection of reads and listens, ranging from insightful blog posts, expla
 * [Reproducibility · Cloud Native Buildpacks](https://buildpacks.io/docs/features/reproducibility/) and [Buildpacks and SBOM Integration Opportunities](https://zt.dev/posts/buildpacks-sbom-opportunities/)
 * [The state of software bill of materials: SBOM growth could bolster software supply chains](https://venturebeat.com/2022/02/02/the-state-of-software-bill-of-materials-sbom-growth-could-bolster-software-supply-chains/)
 * Watch: [FOSDEM 2025 - Where in the OSS supply chain do SBOM attributes come from?](https://archive.fosdem.org/2025/schedule/event/fosdem-2025-6483-where-in-the-oss-supply-chain-do-sbom-attributes-come-from-/) by Salve J. Nilsen on SBOM metadata sourcing, authorization, and the landscape of regulatory demands (NIS2, Cyber Resilience Act)
+* Watch: [FOSDEM 2024 - SBOMs that you can trust: The Good, The Bad and the Ugly](https://archive.fosdem.org/2024/schedule/event/fosdem-2024-2889-sboms-that-you-can-trust-the-good-the-bad-and-the-ugly/) on SBOM trustworthiness across generation, storage, distribution, and processing using in-toto attestations, SLSA, CAS, and Sigstore
 * [Secure Your Software Supply Chain with New VMware Tanzu Application Platform Capabilities](https://tanzu.vmware.com/content/blog/secure-software-supply-chain-vmware-tanzu-application-platform)
   * [Secure Software Supply Chains](https://tanzu.vmware.com/developer/learningpaths/secure-software-supply-chain/)
 * A few resources to understand supply chain compromises:
