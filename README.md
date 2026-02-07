@@ -95,6 +95,7 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
 * [grep.app | code search](https://grep.app/)
 * [GitHub code search](https://github.com/features/code-search)
 * [searchcode | source code search engine](https://searchcode.com/)
+* [SpecterOps/DeepPass2: Multi-layer secrets detection using regex patterns, fine-tuned BERT, and LLM verification](https://github.com/SpecterOps/DeepPass2) to identify both structured tokens and context-dependent free-form passwords in documents
 * [Sourcegraph](https://sourcegraph.com/search) from Sourcegraph
 * [Onboard open-source contributors on Open Source Hub](https://opensourcehub.io/), see the [docker-slim](https://opensourcehub.io/docker-slim/docker-slim) example in Codesee
 * [Code Checker](https://snyk.io/code-checker/) from Snyk
