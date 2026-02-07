@@ -334,6 +334,7 @@ Also see:
     * Also [dockerfile resource scans - checkov](https://www.checkov.io/5.Policy%20Index/dockerfile.html) from [bridgecrewio/checkov: Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.](https://github.com/bridgecrewio/checkov)
     * And: [xlab-si/iac-scan-runner: Service that scans your Infrastructure as Code for common vulnerabilities](https://github.com/xlab-si/iac-scan-runner)
     * And: [aws-samples/automated-security-helper](https://github.com/aws-samples/automated-security-helper)1
+    * And: [GeekMasher/quibble](https://github.com/GeekMasher/quibble), a Rust-based security linter for Docker and Podman Compose files that checks for socket mounting, untrusted registries, hardcoded secrets and more. Read the [intro post](https://geekmasher.dev/sec/quibble/22-12-08--quibble-intro/)
 * [Vulnerability Assessment | OpenSCAP portal](https://www.open-scap.org/features/vulnerability-assessment/)
 * [Detecting Log4Shell with Wazuh](https://wazuh.com/blog/detecting-log4shell-with-wazuh/)
 * [aquasecurity/starboard: Kubernetes-native security toolkit](https://github.com/aquasecurity/starboard)
