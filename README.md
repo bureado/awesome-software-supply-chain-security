@@ -573,6 +573,7 @@ Also see:
 * [securego/gosec: Go static analysis tool that detects security problems by scanning the Go AST, enforcing secure coding practices](https://github.com/securego/gosec)
 * [Bootstrappable Builds (GNU Mes Reference Manual)](https://www.gnu.org/software/mes/manual/html_node/Bootstrappable-Builds.html)
   * Also read [Bootstrappable builds](https://lwn.net/Articles/841797/) from LWN
+* [hermetoproject/hermeto: CLI tool that pre-fetches dependencies to enable hermetic builds with explicit, reproducible, and pinned dependencies for network-isolated container builds](https://github.com/hermetoproject/hermeto)
 * [tektoncd/chains: Supply Chain Security in Tekton Pipelines](https://github.com/tektoncd/chains)
   * [Verifiable Supply Chain Metadata for Tekton - CD Foundation](https://cd.foundation/blog/2021/06/18/verifiable-supply-chain-metadata-for-tekton/)
 * [JReleaser](https://jreleaser.org/) is a release automation tool for Java/JVM projects that can sign artifacts (JARs, Zips, Tars, and other files) with cosign for publishing to AWS S3, JFrog Artifactory, or as release assets on GitHub, GitLab, or Gitea
@@ -682,6 +683,8 @@ And a collection of reads and listens, ranging from insightful blog posts, expla
 * Watch: [FOSDEM 2024 - SBOMs that you can trust: The Good, The Bad and the Ugly](https://archive.fosdem.org/2024/schedule/event/fosdem-2024-2889-sboms-that-you-can-trust-the-good-the-bad-and-the-ugly/) on SBOM trustworthiness across generation, storage, distribution, and processing using in-toto attestations, SLSA, CAS, and Sigstore
 * Watch: [FOSDEM 2024 - How to make SPDX industry standard for AI/ML](https://archive.fosdem.org/2024/schedule/event/fosdem-2024-3169-how-to-make-spdx-industry-standard-for-ai-ml/) on extending SPDX 3.0 adoption to AI/ML communities, covering SBOMs for data and data pipelines
 * Watch: [FOSDEM 2023 - Git Checkout Authentication to the Rescue of Supply Chain Security](https://archive.fosdem.org/2023/schedule/event/security_where_does_that_code_come_from/) on authenticating Git checkouts, reproducible builds, and provenance tracking in GNU Guix
+* Watch: [Lock the Chef in the Kitchen: Enabling Accurate SBOMs Via Hermetic Builds](https://www.youtube.com/watch?v=cwmdQI6uWWA) by Adam Cmiel (Red Hat) on using Hermeto to pre-fetch dependencies and enable hermetic builds for accurate SBOM generation
+* Watch: [LLM Compressor Hermetic Build Demo](https://www.youtube.com/watch?v=T-5rMOKZD4s) by Konflux CI demonstrating hermetic build practices
 * [Secure Your Software Supply Chain with New VMware Tanzu Application Platform Capabilities](https://tanzu.vmware.com/content/blog/secure-software-supply-chain-vmware-tanzu-application-platform)
   * [Secure Software Supply Chains](https://tanzu.vmware.com/developer/learningpaths/secure-software-supply-chain/)
 * A few resources to understand supply chain compromises:
