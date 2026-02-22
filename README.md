@@ -691,6 +691,7 @@ And a collection of reads and listens, ranging from insightful blog posts, expla
 * Watch: [Lock the Chef in the Kitchen: Enabling Accurate SBOMs Via Hermetic Builds](https://www.youtube.com/watch?v=cwmdQI6uWWA) by Adam Cmiel (Red Hat) on using Hermeto to pre-fetch dependencies and enable hermetic builds for accurate SBOM generation
 * Watch: [LLM Compressor Hermetic Build Demo](https://www.youtube.com/watch?v=T-5rMOKZD4s) by Konflux CI demonstrating hermetic build practices
 * Watch: [From SBOM Basics To Automation: A Beginner's Journey in Extracting ELF Binary Dependencies](https://www.youtube.com/watch?v=ygqxWF30BSg) by Takashi Ninjouji (OpenSSF) on practical SBOM automation and binary analysis
+* Watch: [Lessons Learned from Generating 100M SBOMs: Google's Approach to SBOM Compliance](https://www.youtube.com/watch?v=ZYsUbN6oT7Q) from CNCF on Google's experiences and best practices for large-scale SBOM generation and compliance
 * [Secure Your Software Supply Chain with New VMware Tanzu Application Platform Capabilities](https://tanzu.vmware.com/content/blog/secure-software-supply-chain-vmware-tanzu-application-platform)
   * [Secure Software Supply Chains](https://tanzu.vmware.com/developer/learningpaths/secure-software-supply-chain/)
 * A few resources to understand supply chain compromises:
