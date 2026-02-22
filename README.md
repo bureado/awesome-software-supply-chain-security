@@ -210,6 +210,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * [SBOM Insights](https://sbom-insights.dev/) blog covering SBOM compliance frameworks (NTIA minimum elements, BSI standards), quality scoring with sbomqs, and practical SBOM use cases
 * [cyfinoid/aibommaker: AI BOM Generator](https://github.com/cyfinoid/aibommaker), a client-side web tool for analyzing GitHub repositories for AI/LLM usage and generating AI Bills of Materials in CycloneDX 1.7 and SPDX 3.0.1 formats with hardware, infrastructure, and governance detection
 * [trustification/AIBOM-generator: Generate AI Bills of Materials for Hugging Face models](https://github.com/trustification/AIBOM-generator), documenting AI model dependencies and provenance
+* [Trusera/ai-bom: AI Bill of Materials generator for agent workflows](https://github.com/Trusera/ai-bom), scanning n8n, LangGraph, and CrewAI workflows for AI components and generating SBOM output in CycloneDX and SPDX formats
 
 More interesting resources:
 
