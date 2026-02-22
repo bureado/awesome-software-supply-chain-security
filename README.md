@@ -703,6 +703,7 @@ And a collection of reads and listens, ranging from insightful blog posts, expla
   * Not supply chain security specific, but worth tracking: [PayDevs/awful-oss-incidents: 🤬 A categorized list of incidents caused by unappreciated OSS maintainers or underfunded OSS projects. Feedback welcome!](https://github.com/PayDevs/awful-oss-incidents)
 * [Improving TOFU (trust on first use) With Transparency](https://dlorenc.medium.com/improving-tofu-with-transparency-da674aa2879d)
 * Read: [Supply Chain Attacks are Exploiting Our Assumptions](https://blog.trailofbits.com/2025/09/24/supply-chain-attacks-are-exploiting-our-assumptions/) (Trail of Bits), analyzing implicit trust assumptions in package managers and recent attacks that exploit them
+* Read: [Guard Your Codebase: Practical Steps and Tools to Prevent Malicious Code](https://apiiro.com/blog/guard-your-codebase-practical-steps-and-tools-to-prevent-malicious-code/) (Apiiro), discussing malicious code detection patterns and strategies with open-source tools including malicious-code-ruleset for Semgrep and PRevent for pull request scanning
 * Reports:
   * [2022 State of Cloud Native Security Report - Palo Alto Networks](https://www.paloaltonetworks.com/state-of-cloud-native-security)
   * [2022 Software Supply Chain Security Report • Anchore](https://anchore.com/software-supply-chain-security-report-2022/)
