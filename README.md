@@ -152,6 +152,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
   * Also note: [New `docker sbom` Command Creates SBOMs Using Syft](https://anchore.com/sbom/docker-sbom-command-creates-sbom-using-syft/)
   * [Creating SBOM Attestations Using Syft and Sigstore](https://anchore.com/sbom/creating-sbom-attestations-using-syft-and-sigstore/)
   * Simple flow: [utils/ci/github/docker-build-sign-sbom at main · marco-lancini/utils](https://github.com/marco-lancini/utils/tree/main/ci/github/docker-build-sign-sbom)
+* [sony/esstra: GCC plugin and Python tool that embeds source file information into binaries during compilation to enhance software transparency, traceability, and SBOM generation for open-source license compliance and vulnerability management](https://github.com/sony/esstra)
 * [e-m-b-a/emba: Security analyzer for firmware of embedded devices, supporting static and dynamic analysis via emulation, SBOM generation, and vulnerability reporting](https://github.com/e-m-b-a/emba)
 * [ANNOUNCE: Scan is now in maintenance mode · Issue #352 · ShiftLeftSecurity/sast-scan](https://github.com/ShiftLeftSecurity/sast-scan/issues/352)
 * [Container Security | Qualys, Inc.](https://www.qualys.com/apps/container-security/)
@@ -687,6 +688,7 @@ And a collection of reads and listens, ranging from insightful blog posts, expla
 * Watch: [FOSDEM 2023 - Git Checkout Authentication to the Rescue of Supply Chain Security](https://archive.fosdem.org/2023/schedule/event/security_where_does_that_code_come_from/) on authenticating Git checkouts, reproducible builds, and provenance tracking in GNU Guix
 * Watch: [Lock the Chef in the Kitchen: Enabling Accurate SBOMs Via Hermetic Builds](https://www.youtube.com/watch?v=cwmdQI6uWWA) by Adam Cmiel (Red Hat) on using Hermeto to pre-fetch dependencies and enable hermetic builds for accurate SBOM generation
 * Watch: [LLM Compressor Hermetic Build Demo](https://www.youtube.com/watch?v=T-5rMOKZD4s) by Konflux CI demonstrating hermetic build practices
+* Watch: [From SBOM Basics To Automation: A Beginner's Journey in Extracting ELF Binary Dependencies](https://www.youtube.com/watch?v=ygqxWF30BSg) by Takashi Ninjouji (OpenSSF) on practical SBOM automation and binary analysis
 * [Secure Your Software Supply Chain with New VMware Tanzu Application Platform Capabilities](https://tanzu.vmware.com/content/blog/secure-software-supply-chain-vmware-tanzu-application-platform)
   * [Secure Software Supply Chains](https://tanzu.vmware.com/developer/learningpaths/secure-software-supply-chain/)
 * A few resources to understand supply chain compromises:
