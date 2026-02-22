@@ -342,6 +342,7 @@ Also see:
 
 * [grafeas/kritis: Solution for securing your software supply chain for Kubernetes apps, enforcing deploy-time security policies](https://github.com/grafeas/kritis)
 * [aquasecurity/trivy-operator: Kubernetes-native security toolkit that continuously scans the cluster for vulnerabilities, misconfiguration, secrets, and exposed sensitive information](https://github.com/aquasecurity/trivy-operator)
+* [goodwithtech/dockle: Container image linter for security, detects vulnerabilities, helps build best-practice Dockerfiles and supports CIS Benchmarks](https://github.com/goodwithtech/dockle)
 * [Kyverno](https://kyverno.io/)
   * Read: [Attesting Image Scans With Kyverno](https://neonmirrors.net/post/2022-07/attesting-image-scans-kyverno/)
     * And: [Managing Kyverno Policies as OCI Artifacts with OCIRepository Sources](https://fluxcd.io/blog/2022/08/manage-kyverno-policies-as-ocirepositories/)
@@ -567,6 +568,7 @@ Also see:
   * [Reproducible Builds / reprotest](https://salsa.debian.org/reproducible-builds/reprotest)
   * [Is NixOS Reproducible?](https://r13y.com/)
   * Read: [Is NixOS truly reproducible?](https://luj.fr/blog/is-nixos-truly-reproducible.html) - Examines bitwise reproducibility claims and challenges in the Nix ecosystem
+* [securego/gosec: Go static analysis tool that detects security problems by scanning the Go AST, enforcing secure coding practices](https://github.com/securego/gosec)
 * [Bootstrappable Builds (GNU Mes Reference Manual)](https://www.gnu.org/software/mes/manual/html_node/Bootstrappable-Builds.html)
   * Also read [Bootstrappable builds](https://lwn.net/Articles/841797/) from LWN
 * [tektoncd/chains: Supply Chain Security in Tekton Pipelines](https://github.com/tektoncd/chains)
@@ -594,6 +596,7 @@ Also see:
   * Also see: [Software Supply Chain Attestation the Easy Way](https://docs.chainloop.dev/blog/software-supply-chain-attestation-easy-way) from the Chainloop documentation
   * Read: [Attestation concepts](https://docs.chainloop.dev/concepts/attestations) covers the attestation lifecycle (`init`, `add`, `push`) and Sigstore bundle format used by Chainloop
 * [aquasecurity/chain-bench: an open-source tool for auditing your software supply chain stack for security compliance](https://github.com/aquasecurity/chain-bench) implementing checks for [CIS 1.0 | Vulnerability Database | Aqua Security](https://avd.aquasec.com/compliance/softwaresupplychain/cis-1.0/)
+* [globocom/huskyCI: Orchestrates security tests and centralizes results for analysis and metrics across multiple languages (Python, Ruby, JavaScript, Go, Java, HCL)](https://github.com/globocom/huskyCI), including SAST tools, secrets scanning with GitLeaks, and SCA tools
 * [ossf/allstar: GitHub App to set and enforce security policies](https://github.com/ossf/allstar)
 * [kusaridev/skootrs](https://github.com/kusaridev/skootrs) is a CLI tool for creating secure-by-design/default source repos with security best practices built in
 * [MediaMarktSaturn/technolinator](https://github.com/MediaMarktSaturn/technolinator), a GitHub App for pull-request vulnerability analysis and SBOM creation/upload to Dependency-Track, wrapping CDXGen, SBOMQS, and dep-scan/Grype
