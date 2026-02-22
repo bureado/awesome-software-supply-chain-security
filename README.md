@@ -104,6 +104,7 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
 * [searchcode | source code search engine](https://searchcode.com/)
 * [SpecterOps/DeepPass2: Multi-layer secrets detection using regex patterns, fine-tuned BERT, and LLM verification](https://github.com/SpecterOps/DeepPass2) to identify both structured tokens and context-dependent free-form passwords in documents
 * [mongodb/kingfisher: High-performance secret scanner that detects and validates secrets by testing against external systems](https://github.com/mongodb/kingfisher), reducing false positives through entropy analysis and real-time verification across AWS, Azure, GCP, and other platforms
+* [rohitcoder/hawk-eye: Command-line tool for discovering secrets and PII across infrastructure including S3, databases, cloud storage, Google Drive, Slack, and file systems using text analysis and OCR on various document formats](https://github.com/rohitcoder/hawk-eye)
 * [safedep/pmg: Package Manager Guard wraps package managers (npm, pip, poetry, uv, etc.) to block malicious packages at install time using SafeDep's realtime malware analysis and threat detection](https://github.com/safedep/pmg)
 * [Sourcegraph](https://sourcegraph.com/search) from Sourcegraph
 * [Onboard open-source contributors on Open Source Hub](https://opensourcehub.io/), see the [docker-slim](https://opensourcehub.io/docker-slim/docker-slim) example in Codesee
