@@ -198,6 +198,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * [CycloneDX/cyclonedx-webpack-plugin: Create CycloneDX Software Bill of Materials (SBOM) from webpack bundles at compile time.](https://github.com/CycloneDX/cyclonedx-webpack-plugin)
 * [advanced-security/gh-sbom: Generate SBOMs with gh CLI](https://github.com/advanced-security/gh-sbom)
 * [SoftwareDesignLab/SBOM-in-a-Box](https://github.com/SoftwareDesignLab/SBOM-in-a-Box), a unified platform for SBOM generation (using integrated open source tools), conversion (SPDX/CycloneDX), VEX generation, quality metrics, comparison and merging
+* [DanBeard/DecoderRing: Tool for converting between popular SBOM formats (SPDX, SWID)](https://github.com/DanBeard/DecoderRing)
 * [philips-software/SPDXMerge: Tool for merging multiple SPDX JSON/Tag-value SBOMs into a parent SBOM](https://github.com/philips-software/SPDXMerge), supporting deep merge (consolidate contents) and shallow merge (create references) with GitHub Action and Docker support
 * [interlynk-io/sbomqs: SBOM quality score - Quality metrics for your sboms](https://github.com/interlynk-io/sbomqs)
 * [interlynk-io/sbommv: Tool for transferring SBOMs between systems with modular adapter-based architecture, supporting GitHub, S3, local folders as sources and Dependency-Track, Interlynk Platform, S3, local folders as destinations](https://github.com/interlynk-io/sbommv)
@@ -229,7 +230,21 @@ More interesting resources:
 * [All About That BoM, ‘bout That BoM - Melba Lopez, IBM](https://www.youtube.com/watch?v=lm7ySgCeALk)
 * [OWASP CycloneDX Launches SBOM Exchange API](https://cyclonedx.org/news/owasp-cyclonedx-launches-sbom-exchange-api-standardizing-sbom-distribution/)
 * Read: [SBOM Management | Six Ways It Prevents SBOM Sprawl](https://anchore.com/sbom/sbom-management-and-six-ways-it-prevents-sbom-sprawl/)
+* Watch: [SBOM and Attestations](https://www.youtube.com/watch?v=wX6aTZfpJv0&t=702s)
+* Tom Alrich on SBOM: [Finally, Guidelines for Using SBOMs](https://tomalrichblog.blogspot.com/2022/04/finally-guidelines-for-using-sboms.html), [Which Is the Right SBOM Format for Us?](https://tomalrichblog.blogspot.com/2022/01/which-is-right-sbom-format-for-us.html)
 * Read: NTIA's [The Minimum Elements For a Software Bill of Materials](https://www.ntia.doc.gov/files/ntia/publications/sbom_minimum_elements_report.pdf)
+* NTIA SBOM resources — a collection of foundational documents on SBOM framing, implementation guidance, and formats:
+  * [NTIA SBOM Homepage](https://www.ntia.gov/SBOM)
+  * [SBOM at a Glance](https://www.ntia.gov/files/ntia/publications/sbom_at_a_glance_apr2021.pdf)
+  * [SBOM Two-Page Overview](https://www.ntia.gov/files/ntia/publications/sbom_overview_20200818.pdf)
+  * [SBOM Myths vs. Facts](https://www.ntia.gov/files/ntia/publications/sbom_myths_vs_facts_nov2021.pdf)
+  * [Framing Software Component Transparency: Establishing a Common Software Bill of Materials (SBOM) – Second Edition](https://www.ntia.gov/files/ntia/publications/ntia_sbom_framing_2nd_edition_20211021.pdf)
+  * [How to Guide for SBOM Generation](https://www.ntia.gov/files/ntia/publications/howto_guide_for_sbom_generation_v1.pdf)
+  * [SBOM Options and Decision Points](https://www.ntia.gov/files/ntia/publications/sbom_options_and_decision_points_20210427-1.pdf)
+  * [Software Identity: Challenges and Guidance](https://www.ntia.gov/files/ntia/publications/ntia_sbom_software_identity-2021mar30.pdf)
+  * [SBOM Tool Classification Taxonomy](https://www.ntia.gov/files/ntia/publications/ntia_sbom_tooling_taxonomy-2021mar30.pdf)
+  * [Sharing and Exchanging SBOMs](https://www.ntia.gov/files/ntia/publications/ntia_sbom_sharing_exchanging_sboms-10feb2021.pdf)
+  * [SBOM Explainers on YouTube](https://www.youtube.com/playlist?list=PLO2lqCK7WyTDpVmcHsy6R2HWftFkUp6zG)
 * Read: [What an SBOM Can Do for You](https://blog.chainguard.dev/what-an-sbom-can-do-for-you/)
 
 A few open source projects are documenting, in public, how they acquire dependencies. This intentional, human-parsable, long-form examples can be illustrative:
@@ -307,6 +322,7 @@ A dedicated section on VEX reads:
   * [VEX! or... How to Reduce CVE Noise With One Simple Trick!](https://www.youtube.com/watch?v=OWAn3ynhyzQ) by Frederick Kautz
   * [Vulnerability Exploitability eXchange (VEX) - Status Justifications](https://www.cisa.gov/sites/default/files/publications/VEX_Status_Justification_Jun22.pdf)
 * [Real-time VEX](https://tomalrichblog.blogspot.com/2022/09/real-time-vex.html?m=1)
+* Tom Alrich: [Needed: Real-time VEX](https://tomalrichblog.blogspot.com/2022/04/needed-real-time-vex.html)
 
 Also see:
 
@@ -495,6 +511,7 @@ And a few things to watch beyond libraries and software dependencies:
   * Read: [Securing Gitpod's Software Supply Chain with SLSA](https://www.gitpod.io/blog/securing-the-software-supply-chain-at-gitpod-with-slsa)
   * Read: [A First Step to Attaining SLSA Level 3 on GitHub](https://blogs.vmware.com/opensource/2022/08/02/a-first-step-to-attaining-slsa-level-3-on-github/)
   * [SLSA Verification Summary Attestation (VSA) Specification](https://slsa.dev/spec/v1.2/verification_summary) - Technical spec for attestations that verify artifacts at specific SLSA levels with details on dependency verification and policy decisions
+  * Google Security Blog: [How to SLSA, Part 1 — The Basics](https://security.googleblog.com/2022/04/how-to-slsa-part-1-basics.html), [Part 2 — The Details](https://security.googleblog.com/2022/04/how-to-slsa-part-2-details.html), [Part 3 — Putting It All Together](https://security.googleblog.com/2022/04/how-to-slsa-part-3-putting-it-all.html)
 * Read: [SLSA E2E with AMPEL](https://slsa.dev/blog/2025/10/slsa-e2e-with-ampel), a practical end-to-end SLSA implementation walkthrough using AMPEL policy verification and VSA receipts
   * And a [pattern search across GitHub](https://cs.github.com/?scopeName=All+repos&scope=&q=%22uses%3A+slsa-framework%2Fslsa-github-generator%2F.github%2Fworkflows%2F%22+path%3A**.yml+NOT+org%3Aslsa-framework+NOT+org%3Aasraa+NOT+org%3Alaurentsimon+NOT+org%3Aazeemshaikh38+NOT+org%3Asethmlarson+NOT+org%3Alukehinds) for inspiration (thanks [@infernosec](https://twitter.com/infernosec/status/1559937819128127488))
   * [Container Hardening Priorities (CHPs)](https://github.com/chps-dev) - Complementary framework for assessing container image security with criteria for minimalism, provenance, configuration, and vulnerabilities. Read: [Evaluating Container Security with Container Hardening Priorities](https://www.chainguard.dev/unchained/evaluating-container-security-with-container-hardening-priorities-some-chps-for-your-slsa)
@@ -515,6 +532,13 @@ And a few things to watch beyond libraries and software dependencies:
   * Also [Comply with NIST's secure software supply chain framework with GitLab](https://about.gitlab.com/blog/2022/03/29/comply-with-nist-secure-supply-chain-framework-with-gitlab/)
 * The _Supply Chain Risk Management_ section of [SP 800-53 Rev. 5, Security and Privacy Controls for Info Systems and Organizations | CSRC](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final), also see [center-for-threat-informed-defense/attack-control-framework-mappings: Security control framework mappings to MITRE ATT&CK](https://github.com/center-for-threat-informed-defense/attack-control-framework-mappings)
 * [SP 800-161 Rev. 1, C-SCRM Practices for Systems and Organizations | CSRC](https://csrc.nist.gov/publications/detail/sp/800-161/rev-1/final)
+* [White House Executive Order on Improving the Nation's Cybersecurity (EO 14028)](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/)
+* [NIST SP 800-218 (SSDF): Secure Software Development Framework — Recommendations for Mitigating Software Vulnerabilities (draft)](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-218-draft.pdf)
+* [NSTAC Draft Report to the President: Software Assurance in the Information and Communications Technology and Services Supply Chain](https://www.cisa.gov/sites/default/files/publications/Draft%20NSTAC%20Report%20to%20the%20President%20on%20Software%20Assurance.pdf)
+* [CISA: Information and Communications Technology Supply Chain Risk Management](https://www.cisa.gov/supply-chain)
+* [National Counterintelligence and Security Center (NCSC): Supply Chain Risk Management Guidance](https://www.dni.gov/index.php/ncsc-newsroom/item/2153-ncsc-unveils-new-supply-chain-risk-management-guidance)
+* [MITRE: Deliver Uncompromised — Securing Critical Software Supply Chains](https://www.mitre.org/publications/technical-papers/deliver-uncompromised-securing-critical-software-supply-chains)
+* [Google Cloud: Shifting Left on Security — Securing Software Supply Chains (PDF)](https://cloud.google.com/files/shifting-left-on-security.pdf)
 * [npm Best Practices Guide](https://github.com/ossf/package-manager-best-practices/blob/main/published/npm.md) (OpenSSF) - Features and recommendations on using npm safely
 * [Principles for Package Repository Security](https://repos.openssf.org/principles-for-package-repository-security) (OpenSSF) - Taxonomy and security maturity levels for package repositories across authentication, authorization, general capabilities, and CLI tooling
 * [CIS Software Supply Chain Security Guide](https://github.com/aquasecurity/chain-bench/blob/main/docs/CIS-Software-Supply-Chain-Security-Guide-v1.0.pdf)
@@ -554,6 +578,9 @@ Also see:
 * [kpcyrd/rebuilderd: Independent verification of binary packages - reproducible builds](https://github.com/kpcyrd/rebuilderd)
 * [google/oss-rebuild: Automate reproducible building and generate SLSA Provenance for Python, JavaScript/TypeScript, and Rust packages to detect supply chain compromises](https://github.com/google/oss-rebuild), with build observability, dynamic analysis, and support for historical package attestation
 * [tag-security/sscsp.md at main · cncf/tag-security](https://github.com/cncf/tag-security/blob/main/supply-chain-security/supply-chain-security-paper/sscsp.md)
+  * Also available as [CNCF Software Supply Chain Best Practices Whitepaper (PDF)](https://github.com/cncf/tag-security/blob/main/supply-chain-security/supply-chain-security-paper/CNCF_SSCP_v1.pdf)
+  * [A Framework for Supply Chain Security Evaluation](https://github.com/cncf/tag-security/blob/main/supply-chain-security/supply-chain-security-paper/secure-supply-chain-assessment.md) - companion assessment framework
+  * [CNCF Secure Software Factory Reference Architecture Whitepaper (PDF)](https://github.com/cncf/tag-security/blob/main/supply-chain-security/secure-software-factory/Secure_Software_Factory_Whitepaper.pdf)
 * [defenseunicorns/zarf: DevSecOps for Air Gap & Limited-Connection Systems. https://zarf.dev/](https://github.com/defenseunicorns/zarf)
 * [Lockheed Martin / hoppr / hoppr](https://gitlab.com/lmco/hoppr/hoppr) is a CLI framework for defining, validating, and transferring dependencies between environments
   * Example using SBOM as an input: [Inputs - Hoppr](https://lmco.gitlab.io/hoppr/hoppr/getting_started/inputs.html#cyclonedx-sboms)
@@ -639,6 +666,12 @@ And a collection of reads and listens, ranging from insightful blog posts, expla
 * [Secure Software Development Fundamentals Courses - Open Source Security Foundation](https://openssf.org/training/courses/)
   * [Securing Your Software Supply Chain with Sigstore](https://www.edx.org/course/securing-your-software-supply-chain-with-sigstore)
 * [Census II of Free and Open Source Software — Application Libraries](https://linuxfoundation.org/wp-content/uploads/LFResearch_Harvard_Census_II.pdf)
+* [Google: Protect Your Open Source Project from Supply Chain Attacks](https://opensource.googleblog.com/2021/10/protect-your-open-source-project-from-supply-chain-attacks.html)
+* Watch: [LinuxFoundation SupplyChainSecurityCon 2021 — talk recordings](https://cd.foundation/blog/2021/11/10/supplychainsecuritycon-talk-recordings-now-available/)
+* Watch: [OWASP Global AppSec Virtual 2020 — full playlist](https://www.youtube.com/playlist?list=PLpr-xdpM8wG_VUJaTWBSa6pdnlOX78Cz9)
+* Watch: [NIST EO 14028 — Guidelines for Enhancing Software Supply Chain Security (event recordings)](https://www.nist.gov/news-events/events/2021/11/executive-order-14028-guidelines-%03enhancing-software-supply-chain)
+* [VMware: Securing Software Supply Chains — co-authoring the CNCF best practices whitepaper](https://blogs.vmware.com/opensource/2021/06/01/vmware-developers-help-write-a-new-cncf-whitepaper-on-best-practices-for-securing-the-software-supply-chain/)
+* [VMware Supply Chain Choreography guide](https://tanzu.vmware.com/developer/guides/supply-chain-choreography/)
 * [“Chain”ging the Game - how runtime makes your supply chain even more secure](https://sysdig.com/blog/chainging-the-game/)
 * [How to attack cloud infrastructure via a malicious pull request](https://goteleport.com/blog/hack-via-pull-request/)
 * [Introducing StepSecurity Developer MDM](https://www.stepsecurity.io/blog/introducing-stepsecurity-developer-mdm-protecting-developer-machines-from-supply-chain-attacks), on protecting developer machines and AI coding agents from supply chain attacks targeting credentials, IDE extensions and local dependencies
@@ -658,6 +691,8 @@ And a collection of reads and listens, ranging from insightful blog posts, expla
   * [tag-security/supply-chain-security/compromises at main · cncf/tag-security](https://github.com/cncf/tag-security/tree/main/supply-chain-security/compromises)
   * [IQTLabs/software-supply-chain-compromises: A dataset of software supply chain compromises. Please help us maintain it!](https://github.com/IQTLabs/software-supply-chain-compromises)
   * [Atlantic Council Software Supply Chain Security — The Dataset](https://www.atlanticcouncil.org/content-series/cybersecurity-policy-and-strategy/software-supply-chain-security-the-dataset/), an interactive dashboard and downloadable dataset of 250+ software supply chain attacks and disclosures, filterable by scale, timing, actors, codebase, and attack vectors
+  * Atlantic Council: [Breaking Trust — Shades of Crisis Across an Insecure Software Supply Chain (2020)](https://www.atlanticcouncil.org/wp-content/uploads/2020/07/Breaking-trust-Shades-of-crisis-across-an-insecure-software-supply-chain.pdf)
+  * Atlantic Council: [Broken Trust — Lessons from Sunburst (2021)](https://www.atlanticcouncil.org/wp-content/uploads/2021/03/BROKEN-TRUST.pdf)
   * [Taxonomy of Attacks on Open-Source Software Supply Chains](https://arxiv.org/abs/2204.04008) and [Risk Explorer for Software Supply Chains](https://sap.github.io/risk-explorer-for-software-supply-chains/)
     * Endor Labs' version: [Risk Explorer for Software Supply Chains](https://riskexplorer.endorlabs.com/)
     * See also: [SAP-samples/risk-explorer-execution-pocs](https://github.com/SAP-samples/risk-explorer-execution-pocs), runnable PoC implementations demonstrating how 3rd-party dependencies can achieve arbitrary code execution at install time and runtime across multiple ecosystems (Python, JavaScript, Ruby, PHP, Rust, Go, Java)
@@ -675,6 +710,8 @@ And a collection of reads and listens, ranging from insightful blog posts, expla
 * Reports:
   * [2022 State of Cloud Native Security Report - Palo Alto Networks](https://www.paloaltonetworks.com/state-of-cloud-native-security)
   * [2022 Software Supply Chain Security Report • Anchore](https://anchore.com/software-supply-chain-security-report-2022/)
+  * [Palo Alto Networks Unit 42 Cloud Threat Report, H2 2021: Supply Chain Security Issues](https://www.paloaltonetworks.com/prisma/unit42-cloud-threat-research-2h21)
+  * [Synopsys: Reduce Risk With Effective Software Supply Chain Management (whitepaper)](https://www.synopsys.com/software-integrity/resources/white-papers/sofware-supply-chain-management.html)
 * End-to-end demos and examples:
   * [goreleaser/supply-chain-example: Example goreleaser + github actions config with keyless signing and SBOM generation](https://github.com/goreleaser/supply-chain-example)
   * [Improve supply chain security with GitHub actions, Cosign, Kyverno and other open source tools](https://www.cloudnative.quest/posts/security/2022/01/01/improve-supply-chain-security-with-github-actions-and-open-source-tools/)
