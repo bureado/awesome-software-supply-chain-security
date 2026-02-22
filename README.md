@@ -577,6 +577,7 @@ Also see:
 * [Bootstrappable Builds (GNU Mes Reference Manual)](https://www.gnu.org/software/mes/manual/html_node/Bootstrappable-Builds.html)
   * Also read [Bootstrappable builds](https://lwn.net/Articles/841797/) from LWN
 * [hermetoproject/hermeto: CLI tool that pre-fetches dependencies to enable hermetic builds with explicit, reproducible, and pinned dependencies for network-isolated container builds](https://github.com/hermetoproject/hermeto)
+* [garnix-io/garn: Build tool and development environment manager using declarative TypeScript configuration to encode project dependencies, build steps, and development environment in a single reproducible definition](https://github.com/garnix-io/garn)
 * [tektoncd/chains: Supply Chain Security in Tekton Pipelines](https://github.com/tektoncd/chains)
   * [Verifiable Supply Chain Metadata for Tekton - CD Foundation](https://cd.foundation/blog/2021/06/18/verifiable-supply-chain-metadata-for-tekton/)
 * [JReleaser](https://jreleaser.org/) is a release automation tool for Java/JVM projects that can sign artifacts (JARs, Zips, Tars, and other files) with cosign for publishing to AWS S3, JFrog Artifactory, or as release assets on GitHub, GitLab, or Gitea
