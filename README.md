@@ -210,6 +210,13 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * [SBOM Insights](https://sbom-insights.dev/) blog covering SBOM compliance frameworks (NTIA minimum elements, BSI standards), quality scoring with sbomqs, and practical SBOM use cases
 * [cyfinoid/aibommaker: AI BOM Generator](https://github.com/cyfinoid/aibommaker), a client-side web tool for analyzing GitHub repositories for AI/LLM usage and generating AI Bills of Materials in CycloneDX 1.7 and SPDX 3.0.1 formats with hardware, infrastructure, and governance detection
 * [trustification/AIBOM-generator: Generate AI Bills of Materials for Hugging Face models](https://github.com/trustification/AIBOM-generator), documenting AI model dependencies and provenance
+* Language-specific open source vulnerability auditing tools:
+  * [RetireJS/retire.js: Scanner detecting the use of JavaScript libraries with known vulnerabilities](https://github.com/RetireJS/retire.js)
+  * [rubysec/bundler-audit: Patch-level verification for Bundler](https://github.com/rubysec/bundler-audit) — audits Gemfile.lock against the Ruby Advisory Database
+  * [rustsec/cargo-audit: Audit Cargo.lock files for crates with security vulnerabilities](https://github.com/rustsec/rustsec/tree/main/cargo-audit) using the [RustSec Advisory Database](https://github.com/RustSec/advisory-db)
+  * [golang/vuln govulncheck: Vulnerability scanner for Go that reports only vulnerabilities affecting your code](https://github.com/golang/vuln) based on the [Go vulnerability database](https://vuln.go.dev/)
+  * [sonatype-nexus-community/nancy: Tool to check for vulnerabilities in your Golang dependencies via OSS Index](https://github.com/sonatype-nexus-community/nancy)
+  * [Synopsys Black Duck: Commercial SCA platform for open source risk management, license compliance, and component intelligence](https://www.synopsys.com/software-integrity/security-testing/software-composition-analysis.html)
 
 More interesting resources:
 
@@ -293,6 +300,19 @@ A few open source projects are documenting, in public, how they acquire dependen
 * See the [Vulnerability Management](https://open-docs.neuvector.com/scanning/scanning/vulnerabilities) in the NeuVector Docs for integration examples in container scenarios
 * [noqcks/xeol: An end-of-life (EOL) package scanner for container images, systems, and SBOMs](https://github.com/noqcks/xeol)
 * [mchmarny/vimp: Compare data from multiple vulnerability scanners to get a more complete picture of potential exposures.](https://github.com/mchmarny/vimp)
+* Web application and network vulnerability scanners:
+  * [zaproxy/zaproxy: OWASP ZAP — open source web application security scanner](https://github.com/zaproxy/zaproxy) from the OWASP Foundation
+  * [projectdiscovery/nuclei: Fast and customizable vulnerability scanner based on a simple YAML DSL](https://github.com/projectdiscovery/nuclei)
+  * [greenbone/openvas-scanner: Open Vulnerability Assessment Scanner (OpenVAS)](https://github.com/greenbone/openvas-scanner); see also [Greenbone Community Edition](https://www.greenbone.net/en/community-edition/)
+  * [sullo/nikto: Web server scanner that performs comprehensive tests against web servers](https://github.com/sullo/nikto)
+  * [wapiti-scanner/wapiti: Web application vulnerability scanner](https://github.com/wapiti-scanner/wapiti)
+  * [nmap/nmap: Network scanner used extensively for security auditing and vulnerability discovery](https://github.com/nmap/nmap)
+* TLS/SSL and protocol security auditing tools:
+  * [jtesta/ssh-audit: SSH server and client security auditing](https://github.com/jtesta/ssh-audit)
+  * [rbsec/sslscan: Tests SSL/TLS enabled services to discover supported cipher suites](https://github.com/rbsec/sslscan)
+  * [nabla-c0d3/sslyze: Fast and powerful SSL/TLS configuration analyzer](https://github.com/nabla-c0d3/sslyze)
+  * [Qualys SSL Labs](https://www.ssllabs.com/ssltest/) — free online deep analysis of web server TLS/SSL configuration
+  * [mozilla/observatory: Mozilla Observatory helps assess website security by checking for modern security configurations](https://github.com/mozilla/observatory)
 
 A dedicated section on VEX reads:
 
@@ -345,6 +365,15 @@ Also see:
       * Also see [snyk-labs/snync: Mitigate security concerns of Dependency Confusion supply chain security risks](https://github.com/snyk-labs/snync)
       * And [lirantal/lockfile-lint: Lint an npm or yarn lockfile to analyze and detect security issues](https://github.com/lirantal/lockfile-lint)
       * [KTH-LangSec/nodeshield: Runtime enforcement of SBOMs and Capabilities Bill of Materials (CBOM) for Node.js to prevent supply chain attacks](https://github.com/KTH-LangSec/nodeshield)
+* Secret scanning tools for detecting credentials and sensitive data in source code and git history:
+  * [Yelp/detect-secrets: An enterprise-friendly way of detecting and preventing secrets in code](https://github.com/Yelp/detect-secrets)
+  * [gitleaks/gitleaks: Protect and discover secrets using Gitleaks 🔑](https://github.com/gitleaks/gitleaks)
+  * [trufflesecurity/trufflehog: Find, verify, and analyze leaked credentials](https://github.com/trufflesecurity/trufflehog)
+  * [GitGuardian/ggshield: Find and fix over 350+ types of hardcoded secrets and IaC misconfigurations](https://github.com/GitGuardian/ggshield) from [GitGuardian](https://www.gitguardian.com/)
+  * [thoughtworks/talisman: Tool to detect and prevent secrets from being committed to a Git repository](https://github.com/thoughtworks/talisman)
+  * [Skyscanner/whispers: Identify hardcoded credentials and dangerous functions in source code](https://github.com/Skyscanner/whispers)
+  * [praetorian-inc/noseyparker: Command-line program that finds secrets and sensitive information in textual data and Git history](https://github.com/praetorian-inc/noseyparker)
+  * [newrelic/rusty-hog: Suite of secret scanners built in Rust for performance](https://github.com/newrelic/rusty-hog)
 * [chains-project/goleash: eBPF-based runtime policy enforcement for Go applications, enforcing least privilege at the package level to detect and block malicious behavior from compromised dependencies](https://github.com/chains-project/goleash)
 * [avilum/secimport: eBPF-based module-level sandboxing for Python applications, enforcing syscall restrictions per Python module to mitigate risks from vulnerable or malicious dependencies](https://github.com/avilum/secimport)
     * Or [requires.io | Monitor your dependencies](https://requires.io/)
@@ -367,6 +396,15 @@ Also see:
   * [eliasgranderubio/dagda: a tool to perform static analysis of known vulnerabilities, trojans, viruses, malware &amp; other malicious threats in docker images/containers and to monitor the docker daemon and running docker containers for detecting anomalous activities](https://github.com/eliasgranderubio/dagda)
     * Half brilliant, half funny, full helpful: [kpcyrd/libredefender: Imagine the information security compliance guideline says you need an antivirus but you run Arch Linux](https://github.com/kpcyrd/libredefender)
   * [target/strelka: Real-time, container-based file scanning system for threat hunting, detection, and incident response with file extraction and metadata collection at enterprise scale](https://github.com/target/strelka)
+  * [PyCQA/bandit: Tool designed to find common security issues in Python code](https://github.com/PyCQA/bandit)
+  * [securego/gosec: Golang Security Checker inspects Go source code for security problems using AST traversal](https://github.com/securego/gosec)
+  * [Bearer/bearer: Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks in code](https://github.com/Bearer/bearer)
+  * [ZupIT/horusec: Automated identification of security vulnerabilities in your project using SAST, DAST, and secrets detection](https://github.com/ZupIT/horusec)
+  * [SonarSource/sonarqube: Continuous inspection of code quality and security; detect bugs, vulnerabilities, and code smells in 30+ languages](https://github.com/SonarSource/sonarqube)
+  * [spotbugs/spotbugs: SpotBugs is the spiritual successor of FindBugs, a static analysis tool for bugs in Java code](https://github.com/spotbugs/spotbugs)
+  * [OpenText Fortify Static Code Analyzer: Commercial SAST tool supporting 30+ languages with deep taint analysis](https://www.opentext.com/products/fortify-static-code-analyzer)
+  * [Synopsys Coverity: Commercial static analysis platform for finding critical security defects and quality issues](https://www.synopsys.com/software-integrity/security-testing/static-analysis-sast.html)
+  * [OWASP Security Knowledge Framework (SKF): Web application that uses OWASP Application Security Verification Standard to train developers in writing secure code](https://github.com/blabla1337/skf-flask)
 * [Mandiant capa: Reverse engineering tool that recognizes behaviors in binaries through expert-crafted rules for API calls, constants, and strings; supports static and dynamic analysis via IDA Pro, Binary Ninja, and Ghidra](https://mandiant.github.io/capa/)
 * [KICS - Keeping Infrastructure as Code Secure](https://kics.io/)
   * [tinkerbell/lint-install: Consistently install reasonable linter rules for open-source projects](https://github.com/tinkerbell/lint-install)
@@ -393,6 +431,30 @@ Also see:
 * [doowon/sigtool: sigtool for signed PE files in GO](https://github.com/doowon/sigtool)
 * [Introducing "safe npm", a Socket npm Wrapper - Socket](https://socket.dev/blog/introducing-safe-npm)
 * [Introducing SafeDep vet 🚀 | SafeDep](https://safedep.io/blog/introducing-safedep-vet/)
+* Infrastructure-as-Code (IaC) security scanners:
+  * [aquasecurity/tfsec: Security scanner for your Terraform code](https://github.com/aquasecurity/tfsec)
+  * [tenable/terrascan: Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning](https://github.com/tenable/terrascan)
+* Container image security:
+  * [goodwithtech/dockle: Container Image Linter for Security, helping build the best Docker Image](https://github.com/goodwithtech/dockle)
+  * [docker/docker-bench-security: Script that checks for dozens of common best-practices around deploying Docker containers in production](https://github.com/docker/docker-bench-security)
+  * [Palo Alto Networks Prisma Cloud (formerly Twistlock): Comprehensive cloud-native application protection platform including container security](https://www.paloaltonetworks.com/prisma/cloud)
+* Kubernetes security:
+  * [Shopify/kubeaudit: Audits Kubernetes clusters against various common security concerns](https://github.com/Shopify/kubeaudit)
+  * [derailed/popeye: Kubernetes cluster resource sanitizer that scans live clusters for potential issues](https://github.com/derailed/popeye)
+* Cloud security posture management:
+  * [prowler-cloud/prowler: Security tool for AWS, GCP, and Azure best practices assessment, auditing, incident response, and continuous monitoring](https://github.com/prowler-cloud/prowler)
+  * [nccgroup/ScoutSuite: Multi-Cloud Security Auditing Tool](https://github.com/nccgroup/ScoutSuite)
+  * [aquasecurity/cloudsploit: Cloud Security Posture Management (CSPM)](https://github.com/aquasecurity/cloudsploit)
+  * [Wiz: Cloud security platform providing visibility across cloud environments with agentless scanning](https://www.wiz.io/)
+  * [Microsoft Defender for Cloud: Cloud Security Posture Management and workload protection](https://azure.microsoft.com/products/defender-for-cloud)
+* Application security testing (DAST):
+  * [PortSwigger Burp Suite: Industry standard web vulnerability scanner and proxy](https://portswigger.net/burp)
+  * [PortSwigger Burp Suite Dastardly: Lightweight DAST scanner for CI/CD pipelines](https://portswigger.net/burp/dastardly)
+  * [Acunetix / Invicti: Automated web application security scanner](https://www.invicti.com/)
+  * [StackHawk: DAST tool for finding and fixing application security bugs in CI/CD](https://www.stackhawk.com/)
+  * [wpscanteam/wpscan: WordPress security scanner](https://github.com/wpscanteam/wpscan)
+* Mobile application security:
+  * [MobSF/Mobile-Security-Framework-MobSF: Automated, all-in-one mobile app pen-testing, malware analysis and security assessment framework for Android/iOS/Windows](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
 
 Also see:
 
@@ -527,6 +589,7 @@ And a few things to watch beyond libraries and software dependencies:
 * OpenSSF's [Concise Guide for Developing More Secure Software 2022-09-01](https://github.com/ossf/wg-best-practices-os-developers/blob/main/docs/Concise-Guide-for-Developing-More-Secure-Software.md#readme)
 * Chris Hughes on the NSA Recommended Practices for Developers: [Securing the Software Supply Chain](https://medium.com/@chris.hughes_11070/securing-the-software-supply-chain-d3426d36150d)
 * Read: [Elements of an Effective Software Supply Chain Strategy](https://www.informationweek.com/software-services/elements-of-an-effective-software-supply-chain-strategy) proposes 12 elements for software supply chain risk management spanning asset inventory, SBOM, provenance, attestation, compliance and governance
+* [Threagile/threagile: Agile Threat Modeling Toolkit — models threats in DevSecOps environments using YAML and generates risk reports](https://github.com/Threagile/threagile)
 
 Also see:
 
