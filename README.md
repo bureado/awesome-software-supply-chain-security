@@ -38,7 +38,7 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
 > This section includes: package management, library management, dependency management, vendored dependency management, by-hash searches, package, library and dependency naming, library behavior labeling, library publishing, registries and repositories, publishing gates and scans, dependency lifecycle.
 
 * [picatz/deputy: Comprehensive dependency management tool for secure dependency lifecycle management covering vulnerability scans, diffs, fixes, SBOMs, sandboxed execution, and policy-as-code enforcement across repos, images, and registries](https://github.com/picatz/deputy). Read: [Introduction to Deputy](https://picatz.github.io/blog/2026/1/21/introduction-to-deputy)
-* Read: [HyperRes: A Formal System for Cross-Ecosystem Dependency Resolution](https://arxiv.org/abs/2506.10803), addressing multi-lingual projects by enabling versioned dependency resolution across language ecosystems without requiring users to shift package managers
+* 📖 Read: [HyperRes: A Formal System for Cross-Ecosystem Dependency Resolution](https://arxiv.org/abs/2506.10803), addressing multi-lingual projects by enabling versioned dependency resolution across language ecosystems without requiring users to shift package managers
 * [Open Source Insights](https://deps.dev/)
 * [guacsec/guac: GUAC aggregates software security metadata into a high fidelity graph database.](https://github.com/guacsec/guac)
 * [package-url/purl-spec: A minimal specification for purl aka. a package &quot;mostly universal&quot; URL, join the discussion at https://gitter.im/package-url/Lobby](https://github.com/package-url/purl-spec)
@@ -120,7 +120,7 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
 Also read:
 
 * [TaptuIT/awesome-devsecops: Curating the best DevSecOps resources and tooling.](https://github.com/TaptuIT/awesome-devsecops#dependency-management)
-* Read: [Contour: A Practical System for Binary Transparency](https://arxiv.org/abs/1712.08427)
+* 📖 Read: [Contour: A Practical System for Binary Transparency](https://arxiv.org/abs/1712.08427)
 * Several interesting concepts in: [Shopify/seer-prototype: Security Expert Elicitation of Risks](https://github.com/Shopify/seer-prototype/tree/main)
 
 ### SCA and SBOM
@@ -226,10 +226,10 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * [interlynk-io/sbommv: Tool for transferring SBOMs between systems with modular adapter-based architecture, supporting GitHub, S3, local folders as sources and Dependency-Track, Interlynk Platform, S3, local folders as destinations](https://github.com/interlynk-io/sbommv)
 * [eBay/sbom-scorecard: Generate a score for your sbom to understand if it will actually be useful.](https://github.com/eBay/sbom-scorecard)
 * [Sbomify: SBOM platform with attestation verification support using Sigstore and GitHub attestations, SPDX 2.3 export, product lifecycle management, and compliance tracking](https://sbomify.com/). Read: [Announcing Sbomify v0.25: Attestations](https://sbomify.com/2026/01/23/announcing-sbomify-v0-25-the-one-with-attestations/)
-* Read: [An Empirical Study of the SBOM Landscape](https://arxiv.org/abs/2303.11102), a deep-dive into 6 SBOM tools and the accuracy of the SBOMs they produce for complex open-source Java projects (IEEE Security & Privacy, 2023)
+* 📖 Read: [An Empirical Study of the SBOM Landscape](https://arxiv.org/abs/2303.11102), a deep-dive into 6 SBOM tools and the accuracy of the SBOMs they produce for complex open-source Java projects (IEEE Security & Privacy, 2023)
   * Also see: [How to Quickly Measure SBOM Accuracy for Free](https://www.endorlabs.com/learn/how-to-quickly-measure-sbom-accuracy-for-free) from Endor Labs, with a reproducible script at [endorlabs/sbom-lab](https://github.com/endorlabs/sbom-lab)
-  * Read: [Software Bill of Materials (SBOM) Harmonization Plugfest 2024](https://www.sei.cmu.edu/news/study-finds-key-causes-of-divergence-in-software-bills-of-materials/) by CMU's SEI, analyzing causes of SBOM divergence across 243 sample SBOMs from 21 tool vendors and recommending harmonization approaches
-* Read: [OWASP CycloneDX — Authoritative Guide to SBOM](https://cyclonedx.org/guides/OWASP_CycloneDX-Authoritative-Guide-to-SBOM-en.pdf), a comprehensive PDF guide on Software Bill of Materials, formats, and best practices
+  * 📖 Read: [Software Bill of Materials (SBOM) Harmonization Plugfest 2024](https://www.sei.cmu.edu/news/study-finds-key-causes-of-divergence-in-software-bills-of-materials/) by CMU's SEI, analyzing causes of SBOM divergence across 243 sample SBOMs from 21 tool vendors and recommending harmonization approaches
+* 📖 Read: [OWASP CycloneDX — Authoritative Guide to SBOM](https://cyclonedx.org/guides/OWASP_CycloneDX-Authoritative-Guide-to-SBOM-en.pdf), a comprehensive PDF guide on Software Bill of Materials, formats, and best practices
 * [SBOM Insights](https://sbom-insights.dev/) blog covering SBOM compliance frameworks (NTIA minimum elements, BSI standards), quality scoring with sbomqs, and practical SBOM use cases
 * [cyfinoid/aibommaker: AI BOM Generator](https://github.com/cyfinoid/aibommaker), a client-side web tool for analyzing GitHub repositories for AI/LLM usage and generating AI Bills of Materials in CycloneDX 1.7 and SPDX 3.0.1 formats with hardware, infrastructure, and governance detection
 * [trustification/AIBOM-generator: Generate AI Bills of Materials for Hugging Face models](https://github.com/trustification/AIBOM-generator), documenting AI model dependencies and provenance
@@ -252,9 +252,9 @@ More interesting resources:
 * [BOF: SBOMs for Embedded Systems: What's Working, What's Not? - Kate Stewart, Linux Foundation](https://www.youtube.com/watch?v=E17RvPlVbQI)
 * [All About That BoM, ‘bout That BoM - Melba Lopez, IBM](https://www.youtube.com/watch?v=lm7ySgCeALk)
 * [OWASP CycloneDX Launches SBOM Exchange API](https://cyclonedx.org/news/owasp-cyclonedx-launches-sbom-exchange-api-standardizing-sbom-distribution/)
-* Read: [SBOM Management | Six Ways It Prevents SBOM Sprawl](https://anchore.com/sbom/sbom-management-and-six-ways-it-prevents-sbom-sprawl/)
-* Read: NTIA's [The Minimum Elements For a Software Bill of Materials](https://www.ntia.doc.gov/files/ntia/publications/sbom_minimum_elements_report.pdf)
-* Read: [What an SBOM Can Do for You](https://blog.chainguard.dev/what-an-sbom-can-do-for-you/)
+* 📖 Read: [SBOM Management | Six Ways It Prevents SBOM Sprawl](https://anchore.com/sbom/sbom-management-and-six-ways-it-prevents-sbom-sprawl/)
+* 📖 Read: NTIA's [The Minimum Elements For a Software Bill of Materials](https://www.ntia.doc.gov/files/ntia/publications/sbom_minimum_elements_report.pdf)
+* 📖 Read: [What an SBOM Can Do for You](https://blog.chainguard.dev/what-an-sbom-can-do-for-you/)
 
 A few open source projects are documenting, in public, how they acquire dependencies. This intentional, human-parsable, long-form examples can be illustrative:
 
@@ -265,8 +265,8 @@ A few open source projects are documenting, in public, how they acquire dependen
 ### Vulnerability information exchange
 
 * [OSV](https://osv.dev/)
-  * Read: [SBOM in Action: finding vulnerabilities with a Software Bill of Materials](https://security.googleblog.com/2022/06/sbom-in-action-finding-vulnerabilities.html?m=1)
-  * Read: [Announcing OSV-Scanner V2: Vulnerability scanner and remediation tool for open source](https://security.googleblog.com/2025/03/announcing-osv-scanner-v2-vulnerability.html)
+  * 📖 Read: [SBOM in Action: finding vulnerabilities with a Software Bill of Materials](https://security.googleblog.com/2022/06/sbom-in-action-finding-vulnerabilities.html?m=1)
+  * 📖 Read: [Announcing OSV-Scanner V2: Vulnerability scanner and remediation tool for open source](https://security.googleblog.com/2025/03/announcing-osv-scanner-v2-vulnerability.html)
   * Related: [spdx/spdx-to-osv: Produce an Open Source Vulnerability JSON file based on information in an SPDX document](https://github.com/spdx/spdx-to-osv/)
   * Tools: [google/osv-scanner: Vulnerability scanner written in Go which uses the data provided by https://osv.dev](https://github.com/google/osv-scanner)
 * Qualys' [Vulnerability Detection Pipeline](https://community.qualys.com/vulnerability-detection-pipeline/)
@@ -288,7 +288,7 @@ A few open source projects are documenting, in public, how they acquire dependen
   * [ossf/scorecard-action: Official GitHub Action for OSSF Scorecards.](https://github.com/ossf/scorecard-action)
     * Note: [How OpenSSF Scorecard’s GitHub Action v2 action uses GitHub OIDC with Sigstore](https://github.com/sigstore/community/issues/125#issuecomment-1240965050)
   * Also [OpenSSF Security Insights Spec](https://github.com/ossf/security-insights-spec)
-  * Read: [How OpenSSF Scorecards can help to evaluate open-source software risks](https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3668192/how-openssf-scorecards-can-help-to-evaluate-open-source-software-risks.amp.html)
+  * 📖 Read: [How OpenSSF Scorecards can help to evaluate open-source software risks](https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3668192/how-openssf-scorecards-can-help-to-evaluate-open-source-software-risks.amp.html)
   * Great real life example: [State of the Eclipse Foundation GitHub repositories](https://mikael.barbero.tech/blog/post/eclipsefdn-scorecard-aug2022/)
   * Also see: [naveensrinivasan/scorecard-1000-critical-projects](https://github.com/naveensrinivasan/scorecard-1000-critical-projects), using the Scorecard API to analyze the top 1000 critical open source projects from the [Criticality Score](https://github.com/ossf/criticality_score) dataset
 * [Lynis - Security auditing and hardening tool for Linux/Unix](https://cisofy.com/lynis/)
@@ -337,9 +337,9 @@ Also see:
 * [Vulncode-DB](https://www.vulncode-db.com/end) on deprecation path
 * [GitHub brings supply chain security features to the Rust community](https://github.blog/2022-06-06-github-brings-supply-chain-security-features-to-the-rust-community/)
 * [CyCognito Adopts Mapping ATT&CK to CVE for Impact](https://info.mitre-engenuity.org/hubfs/Center%20for%20Threat%20Informed%20Defense/Adoption%20Spotlight_CVE%20for%20Impact_CTID_CyCognito_20220622_Final.pdf)
-* Read: [A closer look at CVSS scores](https://theoryof.predictable.software/articles/a-closer-look-at-cvss-scores/), [Patch Madness: Vendor Bug Advisories Are Broken, So Broken](https://www.darkreading.com/risk/patch-madness-vendor-bug-advisories-broken) and [An Incomplete Look at Vulnerability Databases & Scoring Methodologies](https://medium.com/@chris.hughes_11070/an-incomplete-look-at-vulnerability-databases-scoring-methodologies-7be7155661e8)
-* Read: [How to Analyze an SBOM](https://cloudsmith.com/blog/how-to-analyze-an-sbom/) and [How to Generate and Host SBoMs](https://cloudsmith.com/blog/how-to-generate-and-host-an-sbom/) from Cloudsmith
-* Read: [After the Advisory](https://blog.deps.dev/after-the-advisory/) from Google's Open Source Insights team
+* 📖 Read: [A closer look at CVSS scores](https://theoryof.predictable.software/articles/a-closer-look-at-cvss-scores/), [Patch Madness: Vendor Bug Advisories Are Broken, So Broken](https://www.darkreading.com/risk/patch-madness-vendor-bug-advisories-broken) and [An Incomplete Look at Vulnerability Databases & Scoring Methodologies](https://medium.com/@chris.hughes_11070/an-incomplete-look-at-vulnerability-databases-scoring-methodologies-7be7155661e8)
+* 📖 Read: [How to Analyze an SBOM](https://cloudsmith.com/blog/how-to-analyze-an-sbom/) and [How to Generate and Host SBoMs](https://cloudsmith.com/blog/how-to-generate-and-host-an-sbom/) from Cloudsmith
+* 📖 Read: [After the Advisory](https://blog.deps.dev/after-the-advisory/) from Google's Open Source Insights team
 
 ## Point-of-use validations
 
@@ -349,7 +349,7 @@ Also see:
 * [aquasecurity/trivy-operator: Kubernetes-native security toolkit that continuously scans the cluster for vulnerabilities, misconfiguration, secrets, and exposed sensitive information](https://github.com/aquasecurity/trivy-operator)
 * [goodwithtech/dockle: Container image linter for security, detects vulnerabilities, helps build best-practice Dockerfiles and supports CIS Benchmarks](https://github.com/goodwithtech/dockle)
 * [Kyverno](https://kyverno.io/)
-  * Read: [Attesting Image Scans With Kyverno](https://neonmirrors.net/post/2022-07/attesting-image-scans-kyverno/)
+  * 📖 Read: [Attesting Image Scans With Kyverno](https://neonmirrors.net/post/2022-07/attesting-image-scans-kyverno/)
     * And: [Managing Kyverno Policies as OCI Artifacts with OCIRepository Sources](https://fluxcd.io/blog/2022/08/manage-kyverno-policies-as-ocirepositories/)
   * Also: [testifysec/judge-k8s: Proof of concept Kubernetes admission controller using the witness attestation verification library](https://github.com/testifysec/judge-k8s)
 * [ckotzbauer/sbom-operator: Catalogue all images of a Kubernetes cluster to multiple targets with Syft](https://github.com/ckotzbauer/sbom-operator)
@@ -363,7 +363,7 @@ Also see:
 * [kpcyrd/pacman-bintrans: Experimental binary transparency for pacman with sigstore and rekor](https://github.com/kpcyrd/pacman-bintrans)
   * Also see: [kpcyrd/apt-swarm: 🥸 p2p gossip network for update transparency, based on pgp 🥸](https://github.com/kpcyrd/apt-swarm)
 * [Open Policy Agent](https://www.openpolicyagent.org/)
-  * Read: [GitHub Artifact Attestations OPA Provider: Enforce admission policies with artifact attestations in Kubernetes](https://github.blog/changelog/2025-06-23-enforce-admission-policies-with-artifact-attestations-in-kubernetes-using-opa-gatekeeper/) - integrating GitHub Artifact Attestations (build provenance, SBOM, custom) with OPA Gatekeeper for Kubernetes admission control
+  * 📖 Read: [GitHub Artifact Attestations OPA Provider: Enforce admission policies with artifact attestations in Kubernetes](https://github.blog/changelog/2025-06-23-enforce-admission-policies-with-artifact-attestations-in-kubernetes-using-opa-gatekeeper/) - integrating GitHub Artifact Attestations (build provenance, SBOM, custom) with OPA Gatekeeper for Kubernetes admission control
 * [netskopeoss/beam: Behavioral Evaluation of Application Metrics (BEAM) detects supply chain compromises by analyzing network traffic](https://github.com/netskopeoss/beam) using machine learning and SHAP explainability to identify malicious behavior patterns
 * [GitLab Libbehave (Experiment): Scans dependencies during merge request pipelines to identify newly added libraries and their risky behaviors](https://docs.gitlab.com/user/application_security/dependency_scanning/experiment_libbehave_dependency/) - assigning riskiness scores for behaviors like OS command execution, dynamic code evaluation, and file system access
 * [Conftest](https://www.conftest.dev/examples/) allows to write tests against structured configuration data using the Open Policy Agent Rego query language: [here's an example](https://github.com/open-policy-agent/conftest/blob/master/examples/docker/policy/commands.rego)
@@ -429,7 +429,7 @@ Also see:
 * [JupiterOne/secops-automation-examples: Examples on how to maintain security/compliance as code and to automate SecOps using the JupiterOne platform.](https://github.com/JupiterOne/secops-automation-examples)
   * [How We Generate a Software Bill of Materials (SBOM) with CycloneDX](https://try.jupiterone.com/how-we-generate-a-software-bill-of-materials-sbom-with-cyclonedx)
 * [Securing CICD pipelines with StackRox / RHACS and Sigstore](https://rcarrata.com/kubernetes/sign-images-acs-1/)
-* Watch: [Do you trust your package manager?](https://www.youtube.com/watch?app=desktop&v=VfBShgNnQt4&feature=youtu.be) at Security Fest 2022
+* 📢 Watch: [Do you trust your package manager?](https://www.youtube.com/watch?app=desktop&v=VfBShgNnQt4&feature=youtu.be) at Security Fest 2022
 
 ### Supply chain beyond libraries
 
@@ -455,12 +455,12 @@ And a few things to watch beyond libraries and software dependencies:
     * [Rekor](https://docs.sigstore.dev/rekor/overview)
     * Also see: [Kubernetes taps Sigstore to thwart open-source software supply chain attacks](https://www.zdnet.com/article/kubernetes-taps-sigstore-to-thwart-open-source-software-supply-chain-attacks/)
     * Sigstore-specific view of the [OpenSSF Landscape](https://landscape.openssf.org/sigstore)
-    * Read: [Sigstore Bundle Format](https://www.trustification.io/blog/2023/01/13/sigstore-bundle-format/) walks through the structure of Sigstore's offline verification bundle, including signatures, certificates and Rekor inclusion proofs
+    * 📖 Read: [Sigstore Bundle Format](https://www.trustification.io/blog/2023/01/13/sigstore-bundle-format/) walks through the structure of Sigstore's offline verification bundle, including signatures, certificates and Rekor inclusion proofs
     * [sigstore/model-transparency: Signing and verification for ML model integrity and provenance via Sigstore](https://github.com/sigstore/model-transparency) - extends model supply chain security to ML artifacts
 * [stacklok/toolhive: MCP server deployment platform with Sigstore-based provenance verification and attestation support for container images and binaries](https://github.com/stacklok/toolhive)
 * [cas - cas attestation service](https://cas.codenotary.com/)
 * [Witness](https://witness.dev/) - [testifysec/witness: Witness is a pluggable framework for software supply chain risk management.  It automates, normalizes, and verifies software artifact provenance.](https://github.com/testifysec/witness)
-  * Watch: [Securing the Supply Chain with Witness - Cole Kennedy, TestifySec](https://www.youtube.com/watch?v=cZD_4u7DZPM)
+  * 📢 Watch: [Securing the Supply Chain with Witness - Cole Kennedy, TestifySec](https://www.youtube.com/watch?v=cZD_4u7DZPM)
   * Also see: [testifysec/go-ima: go-ima is a tool that checks if a file has been tampered with.  It is useful in ensuring integrity in CI systems](https://github.com/testifysec/go-ima)
 * [puerco/tejolote: A highly configurable build executor and observer designed to generate signed SLSA provenance attestations about build runs.](https://github.com/puerco/tejolote)
 * [in-toto-run - GitHub Marketplace](https://github.com/marketplace/actions/in-toto-run) and [in-toto/github-action: in-toto provenance github action](https://github.com/in-toto/github-action)
@@ -479,7 +479,7 @@ And a few things to watch beyond libraries and software dependencies:
     * Also see [How to easily try out TUF + in-toto](https://badhomb.re/ci/security/2020/05/01/tuf-in-toto.html)
     * Check out [Python-TUF reaches version 1.0.0](https://ssl.engineering.nyu.edu/blog/2022-02-21-tuf-1_0_0)
     * Related project: [werf/trdl: The universal solution for delivering your software updates securely from a trusted The Update Framework (TUF) repository.](https://github.com/werf/trdl)
-    * Read: [Secure Software Updates via TUF — Part 2](https://medium.com/@mulgundmath/secure-software-updates-via-tuf-part-2-412c6a2b10ab)
+    * 📖 Read: [Secure Software Updates via TUF — Part 2](https://medium.com/@mulgundmath/secure-software-updates-via-tuf-part-2-412c6a2b10ab)
 * [goharbor/harbor: Trusted cloud native registry project supporting content signing and verification, RBAC, and vulnerability scanning for OCI artifacts](https://github.com/goharbor/harbor)
 * [deislabs/ratify: Artifact Ratification Framework](https://github.com/deislabs/ratify)
 * [OpenAttestation: Blockchain-based framework for endorsing and verifying documents with cryptographic trust (archived as of October 2025, transitioning to TrustVC)](https://www.openattestation.com/). Supports verifiable credentials, selective disclosure, decentralized rendering, and verified issuer identity
@@ -489,15 +489,15 @@ And a few things to watch beyond libraries and software dependencies:
 * See [Issue #21 · testifysec/witness](https://github.com/testifysec/witness/issues/21#issuecomment-991774080) for a succinct description of how [testifysec/witness: Witness is a pluggable framework for software supply chain risk management.  It automates, normalizes, and verifies software artifact provenance.](https://github.com/testifysec/witness/) deals with attestation chains 
   * Another [witness example with GitLab](https://gitlab.com/testifysec/demos/witness-demo)
 * [Allow using SSH keys to sign commits · Discussion #7744 · github/feedback](https://github.com/github/feedback/discussions/7744#discussioncomment-1794438)
-* Read: [Introducing "Trusted Publishers"](https://blog.pypi.org/posts/2023-04-20-introducing-trusted-publishers/) on PyPI's use of OpenID Connect for short-lived, tokenless publishing from GitHub Actions, eliminating the need for long-lived API tokens
+* 📖 Read: [Introducing "Trusted Publishers"](https://blog.pypi.org/posts/2023-04-20-introducing-trusted-publishers/) on PyPI's use of OpenID Connect for short-lived, tokenless publishing from GitHub Actions, eliminating the need for long-lived API tokens
 * [aws-solutions/verifiable-controls-evidence-store: This repository contains the source code of the Verifiable Controls Evidence Store solution](https://github.com/aws-solutions/verifiable-controls-evidence-store)
-* Read: [Monitoring the kernel.org Transparency Log for a year](https://linderud.dev/blog/monitoring-the-kernel.org-transparency-log-for-a-year/)
-* Read: [Using Rekor Monitor](https://blog.sigstore.dev/using-rekor-monitor/) (Sigstore blog), covering consistency checking and identity monitoring for Rekor and Fulcio transparency logs
-* Read: [Guide to Rekor Monitor and Its Integration with Red Hat Trusted Artifact Signer](https://www.redhat.com/en/blog/guide-rekor-monitor-and-its-integration-red-hat-trusted-artifact-signer) (Red Hat), covering transparency log integrity verification with continuous monitoring and Prometheus metrics
-* Read: [Catching Malicious Package Releases Using a Transparency Log](https://blog.trailofbits.com/2025/12/12/catching-malicious-package-releases-using-a-transparency-log/) (Trail of Bits), explaining how rekor-monitor detects compromised signing identities and malicious releases via Rekor transparency logs
+* 📖 Read: [Monitoring the kernel.org Transparency Log for a year](https://linderud.dev/blog/monitoring-the-kernel.org-transparency-log-for-a-year/)
+* 📖 Read: [Using Rekor Monitor](https://blog.sigstore.dev/using-rekor-monitor/) (Sigstore blog), covering consistency checking and identity monitoring for Rekor and Fulcio transparency logs
+* 📖 Read: [Guide to Rekor Monitor and Its Integration with Red Hat Trusted Artifact Signer](https://www.redhat.com/en/blog/guide-rekor-monitor-and-its-integration-red-hat-trusted-artifact-signer) (Red Hat), covering transparency log integrity verification with continuous monitoring and Prometheus metrics
+* 📖 Read: [Catching Malicious Package Releases Using a Transparency Log](https://blog.trailofbits.com/2025/12/12/catching-malicious-package-releases-using-a-transparency-log/) (Trail of Bits), explaining how rekor-monitor detects compromised signing identities and malicious releases via Rekor transparency logs
 * Also read: [Software Distribution Transparency and Auditability](https://arxiv.org/abs/1711.07278)
 * [paragonie/libgossamer: Public Key Infrastructure without Certificate Authorities, for WordPress and Packagist](https://github.com/paragonie/libgossamer)
-  * Read: [Solving Open Source Supply Chain Security for the PHP Ecosystem](https://paragonie.com/blog/2022/01/solving-open-source-supply-chain-security-for-php-ecosystem)
+  * 📖 Read: [Solving Open Source Supply Chain Security for the PHP Ecosystem](https://paragonie.com/blog/2022/01/solving-open-source-supply-chain-security-for-php-ecosystem)
 * [johnsonshi/image-layer-provenance](https://github.com/johnsonshi/image-layer-provenance), a PoC for Image Layer Provenance and Manifest Layer History
 * [oras-project/artifacts-spec](https://github.com/oras-project/artifacts-spec/)
 * [recipy/recipy: Effortless method to record provenance in Python](https://github.com/recipy/recipy)
@@ -508,7 +508,7 @@ And a few things to watch beyond libraries and software dependencies:
 * [pyrsia/pyrsia: Decentralized Package Network](https://github.com/pyrsia/pyrsia)
 * [transmute-industries/verifiable-actions: Workflow tools for Decentralized Identifiers &amp; Verifiable Credentials](https://github.com/transmute-industries/verifiable-actions/tree/main)
 * [IOTA Notarization](https://www.iota.org/products/notarization) is an open-source toolkit for anchoring, updating and verifying data integrity on a decentralized ledger, supporting locked (immutable) and dynamic notarization modes. See [iotaledger](https://github.com/iotaledger) on GitHub
-* Watch: [Privacy-preserving Approaches to Transparency Logs](https://www.youtube.com/watch?v=UrLdEYVASak)
+* 📢 Watch: [Privacy-preserving Approaches to Transparency Logs](https://www.youtube.com/watch?v=UrLdEYVASak)
 
 ## Frameworks and best practice references
 
@@ -519,13 +519,13 @@ And a few things to watch beyond libraries and software dependencies:
 * [Supply chain Levels for Software Artifacts](https://slsa.dev/) or SLSA (salsa) is a security framework, a check-list of standards and controls to prevent tampering, improve integrity, and secure packages and infrastructure in your projects, businesses or enterprises. 
   * Great read: [SLSA | CloudSecDocs](https://cloudsecdocs.com/devops/pipelines/supply_chain/slsa/)
   * Another L50 read: [Building trust in our software supply chains with SLSA](https://blog.chainguard.dev/building-trust-in-our-software-supply-chains-with-slsa/)
-  * Read: [SLSA for Success: Using SLSA to help achieve NIST’s SSDF](https://slsa.dev/blog/2022/06/slsa-ssdf) and [All about that Base(line): How Cybersecurity Frameworks are Evolving with Foundational Guidance](https://slsa.dev/blog/2022/07/slsa-foundational-framework)
+  * 📖 Read: [SLSA for Success: Using SLSA to help achieve NIST’s SSDF](https://slsa.dev/blog/2022/06/slsa-ssdf) and [All about that Base(line): How Cybersecurity Frameworks are Evolving with Foundational Guidance](https://slsa.dev/blog/2022/07/slsa-foundational-framework)
     * Also, a [framework mapping](https://docs.google.com/spreadsheets/d/1P_xxMlyF5iPV51CqIk8_EhI57aR6wf1Gkrg8sRHBMMQ/edit?usp=sharing) put together by [Red Hat](https://www.redhat.com/en/blog/SLSA-framework-measuring-supply-chain-security-maturity)
   * [A Practical Guide to the SLSA Framework](https://fossa.com/blog/practical-guide-slsa-framework/) by FOSSA
-  * Read: [Securing Gitpod's Software Supply Chain with SLSA](https://www.gitpod.io/blog/securing-the-software-supply-chain-at-gitpod-with-slsa)
-  * Read: [A First Step to Attaining SLSA Level 3 on GitHub](https://blogs.vmware.com/opensource/2022/08/02/a-first-step-to-attaining-slsa-level-3-on-github/)
+  * 📖 Read: [Securing Gitpod's Software Supply Chain with SLSA](https://www.gitpod.io/blog/securing-the-software-supply-chain-at-gitpod-with-slsa)
+  * 📖 Read: [A First Step to Attaining SLSA Level 3 on GitHub](https://blogs.vmware.com/opensource/2022/08/02/a-first-step-to-attaining-slsa-level-3-on-github/)
   * [SLSA Verification Summary Attestation (VSA) Specification](https://slsa.dev/spec/v1.2/verification_summary) - Technical spec for attestations that verify artifacts at specific SLSA levels with details on dependency verification and policy decisions
-* Read: [SLSA E2E with AMPEL](https://slsa.dev/blog/2025/10/slsa-e2e-with-ampel), a practical end-to-end SLSA implementation walkthrough using AMPEL policy verification and VSA receipts
+* 📖 Read: [SLSA E2E with AMPEL](https://slsa.dev/blog/2025/10/slsa-e2e-with-ampel), a practical end-to-end SLSA implementation walkthrough using AMPEL policy verification and VSA receipts
   * And a [pattern search across GitHub](https://cs.github.com/?scopeName=All+repos&scope=&q=%22uses%3A+slsa-framework%2Fslsa-github-generator%2F.github%2Fworkflows%2F%22+path%3A**.yml+NOT+org%3Aslsa-framework+NOT+org%3Aasraa+NOT+org%3Alaurentsimon+NOT+org%3Aazeemshaikh38+NOT+org%3Asethmlarson+NOT+org%3Alukehinds) for inspiration (thanks [@infernosec](https://twitter.com/infernosec/status/1559937819128127488))
   * [Container Hardening Priorities (CHPs)](https://github.com/chps-dev) - Complementary framework for assessing container image security with criteria for minimalism, provenance, configuration, and vulnerabilities. Read: [Evaluating Container Security with Container Hardening Priorities](https://www.chainguard.dev/unchained/evaluating-container-security-with-container-hardening-priorities-some-chps-for-your-slsa)
 * [Open Source Project Security Baseline](https://baseline.openssf.org/) - OpenSSF's tiered framework of security practices for open source projects, aligned with international cybersecurity standards (CRA, NIST SSDF), providing actionable guidance for developers to enhance security posture
@@ -553,11 +553,11 @@ And a few things to watch beyond libraries and software dependencies:
 * Previously referenced: [Google Best Practices for Java Libraries](https://jlbp.dev/)
 * MITRE's [System of Trust](https://sot.mitre.org/framework/system_of_trust.html)
 * [Securing the Software Supply Chain for Developers](https://media.defense.gov/2022/Sep/01/2003068942/-1/-1/0/ESF_SECURING_THE_SOFTWARE_SUPPLY_CHAIN_DEVELOPERS.PDF) was published by the National Security Agency (NSA), Cybersecurity and Infrastructure Security Agency (CISA), and the Office of the Director of National Intelligence (ODNI) under the Enduring Security Framework (ESF) initiative
-* Read: [Government's Role in Increasing Software Supply Chain Security — A Toolbox for Policy Makers](https://www.interface-eu.org/publications/governments-role-increasing-software-supply-chain-security-toolbox-policy-makers) from Interface-EU, a three-level policy framework spanning secure development practices, CVD guidance, SBOMs, standards, procurement requirements, and liability regimes
+* 📖 Read: [Government's Role in Increasing Software Supply Chain Security — A Toolbox for Policy Makers](https://www.interface-eu.org/publications/governments-role-increasing-software-supply-chain-security-toolbox-policy-makers) from Interface-EU, a three-level policy framework spanning secure development practices, CVD guidance, SBOMs, standards, procurement requirements, and liability regimes
 * [EU ICT Supply Chain Security Toolbox](https://digital-strategy.ec.europa.eu/en/library/toolbox-improve-ict-supply-chain-security) from the European Commission, providing guidance on identifying, assessing, and mitigating cybersecurity risks in ICT supply chains, aligned with the revised Cybersecurity Act and NIS Cooperation Group recommendations
 * OpenSSF's [Concise Guide for Developing More Secure Software 2022-09-01](https://github.com/ossf/wg-best-practices-os-developers/blob/main/docs/Concise-Guide-for-Developing-More-Secure-Software.md#readme)
 * Chris Hughes on the NSA Recommended Practices for Developers: [Securing the Software Supply Chain](https://medium.com/@chris.hughes_11070/securing-the-software-supply-chain-d3426d36150d)
-* Read: [Elements of an Effective Software Supply Chain Strategy](https://www.informationweek.com/software-services/elements-of-an-effective-software-supply-chain-strategy) proposes 12 elements for software supply chain risk management spanning asset inventory, SBOM, provenance, attestation, compliance and governance
+* 📖 Read: [Elements of an Effective Software Supply Chain Strategy](https://www.informationweek.com/software-services/elements-of-an-effective-software-supply-chain-strategy) proposes 12 elements for software supply chain risk management spanning asset inventory, SBOM, provenance, attestation, compliance and governance
 
 Also see:
 
@@ -573,7 +573,7 @@ Also see:
   * [r-b ecosystem mapping](https://pad.riseup.net/p/rbecosystemmapping-keep)
   * [Reproducible Builds / reprotest](https://salsa.debian.org/reproducible-builds/reprotest)
   * [Is NixOS Reproducible?](https://r13y.com/)
-  * Read: [Is NixOS truly reproducible?](https://luj.fr/blog/is-nixos-truly-reproducible.html) - Examines bitwise reproducibility claims and challenges in the Nix ecosystem
+  * 📖 Read: [Is NixOS truly reproducible?](https://luj.fr/blog/is-nixos-truly-reproducible.html) - Examines bitwise reproducibility claims and challenges in the Nix ecosystem
 * [securego/gosec: Go static analysis tool that detects security problems by scanning the Go AST, enforcing secure coding practices](https://github.com/securego/gosec)
 * [Bootstrappable Builds (GNU Mes Reference Manual)](https://www.gnu.org/software/mes/manual/html_node/Bootstrappable-Builds.html)
   * Also read [Bootstrappable builds](https://lwn.net/Articles/841797/) from LWN
@@ -603,7 +603,7 @@ Also see:
 * [buildsec/frsca](https://github.com/buildsec/frsca) is an implementation of the CNCF's Secure Software Factory Reference Architecture. It is also intended to follow SLSA requirements closely and generate in-toto attestations for SLSA provenance predicates.
 * [chainloop-dev/chainloop: Chainloop is an open source software supply chain control plane, a single source of truth for artifacts plus a declarative attestation crafting process.](https://github.com/chainloop-dev/chainloop)
   * Also see: [Software Supply Chain Attestation the Easy Way](https://docs.chainloop.dev/blog/software-supply-chain-attestation-easy-way) from the Chainloop documentation
-  * Read: [Attestation concepts](https://docs.chainloop.dev/concepts/attestations) covers the attestation lifecycle (`init`, `add`, `push`) and Sigstore bundle format used by Chainloop
+  * 📖 Read: [Attestation concepts](https://docs.chainloop.dev/concepts/attestations) covers the attestation lifecycle (`init`, `add`, `push`) and Sigstore bundle format used by Chainloop
 * [aquasecurity/chain-bench: an open-source tool for auditing your software supply chain stack for security compliance](https://github.com/aquasecurity/chain-bench) implementing checks for [CIS 1.0 | Vulnerability Database | Aqua Security](https://avd.aquasec.com/compliance/softwaresupplychain/cis-1.0/)
 * [globocom/huskyCI: Orchestrates security tests and centralizes results for analysis and metrics across multiple languages (Python, Ruby, JavaScript, Go, Java, HCL)](https://github.com/globocom/huskyCI), including SAST tools, secrets scanning with GitLeaks, and SCA tools
 * [ossf/allstar: GitHub App to set and enforce security policies](https://github.com/ossf/allstar)
@@ -615,7 +615,7 @@ Also see:
 * [wspr-ncsu/github-actions-security-analysis](https://github.com/wspr-ncsu/github-actions-security-analysis) from [Characterizing the Security of Github CI Workflows | USENIX](https://www.usenix.org/conference/usenixsecurity22/presentation/koishybayev)
 * [oss-reproducible](https://github.com/microsoft/OSSGadget/tree/main/src/oss-reproducible) - Measures the reproducibility of a package based on its purported source. Part of [OSS Gadget](https://github.com/microsoft/OSSGadget)
 * [jart/landlock-make: Sandboxing for GNU Make has never been easier](https://github.com/jart/landlock-make)
-  * Read: [Using Landlock to Sandbox GNU Make](https://justine.lol/make/)
+  * 📖 Read: [Using Landlock to Sandbox GNU Make](https://justine.lol/make/)
 * [Fraunhofer-AISEC/supply-graph: Graph-based analysis tool for detecting supply chain attacks in build systems by tracing source-to-binary relationships (research/FOSDEM 2025 demonstration project using XZ CVE-2024-3094)](https://github.com/Fraunhofer-AISEC/supply-graph)
 * [veraison/veraison: Project Veraison will build software components that can be used to build Attestation Verification Services](https://github.com/veraison/veraison)
 * [Changelog](https://www.pantsbuild.org/docs/changelog) for [Pants 2: The ergonomic build system](https://www.pantsbuild.org/)
@@ -642,11 +642,11 @@ Also see:
 * [Code Sight](https://www.synopsys.com/software-integrity/code-sight.html)
 * [cider-security-research/cicd-goat: A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.](https://github.com/cider-security-research/cicd-goat)
   * And: [step-security/attack-simulator: Simulate past supply chain attacks such as SolarWinds, Codecov, and ua-parser-js](https://github.com/step-security/attack-simulator)
-* Read: [What Makes a Build Reproducible, Part 2](https://blogs.vmware.com/opensource/2022/07/14/what-makes-a-build-reproducible-part-2/)
-* Read: [Building a Secure Software Supply Chain with GNU Guix](https://programming-journal.org/2023/7/1/)
+* 📖 Read: [What Makes a Build Reproducible, Part 2](https://blogs.vmware.com/opensource/2022/07/14/what-makes-a-build-reproducible-part-2/)
+* 📖 Read: [Building a Secure Software Supply Chain with GNU Guix](https://programming-journal.org/2023/7/1/)
 * [alecmocatta/build_id: Obtain a UUID uniquely representing the build of the current binary.](https://github.com/alecmocatta/build_id)
-* Read: [On Omitting Commits and Committing Omissions: Preventing Git Metadata Tampering That (Re)introduces Software Vulnerabilities](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/torres-arias)
-* Read: [Reproducible Builds: Break a log, good things come in trees](https://bora.uib.no/bora-xmlui/handle/1956/20411)
+* 📖 Read: [On Omitting Commits and Committing Omissions: Preventing Git Metadata Tampering That (Re)introduces Software Vulnerabilities](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/torres-arias)
+* 📖 Read: [Reproducible Builds: Break a log, good things come in trees](https://bora.uib.no/bora-xmlui/handle/1956/20411)
 * [Secure Your Software Factory with melange and apko](https://www.chainguard.dev/unchained/secure-your-software-factory-with-melange-and-apko)
   * On the `apko` pattern, see [Shopify/hansel](https://github.com/Shopify/hansel)
 * [kpcyrd/archlinux-inputs-fsck: Lint repository of PKGBUILDs for cryptographically pinned inputs](https://github.com/kpcyrd/archlinux-inputs-fsck)
@@ -669,8 +669,8 @@ Also see:
   * A helpful list of acronyms: [Acronyms | OpenSCAP portal](https://www.open-scap.org/resources/acronyms/)
   * [slsa/terminology.md at main · slsa-framework/slsa](https://github.com/slsa-framework/slsa/blob/main/docs/_spec/v0.1/terminology.md)
   * [tag-security/cloud-native-security-lexicon.md at main · cncf/tag-security](https://github.com/cncf/tag-security/blob/main/security-lexicon/cloud-native-security-lexicon.md)
-  * Watch: [How to start learning about Supply Chain Security](https://www.youtube.com/watch?v=vFLmm8NnHFg)
-  * Watch: [Open Source Supply Chain Security: A Visualization of the Checkmarx Solution](https://www.youtube.com/watch?v=MIus0_o72hE), plus the Checkmarx channel on YouTube has excellent explanatory videos for tactics, techniques and procedures in the supply chain security domain, for example: [Large Scale Campaign Created Fake GitHub Projects Clones with Fake Commit Added Malware](https://www.youtube.com/watch?v=VQ1blNH3qGM)
+  * 📢 Watch: [How to start learning about Supply Chain Security](https://www.youtube.com/watch?v=vFLmm8NnHFg)
+  * 📢 Watch: [Open Source Supply Chain Security: A Visualization of the Checkmarx Solution](https://www.youtube.com/watch?v=MIus0_o72hE), plus the Checkmarx channel on YouTube has excellent explanatory videos for tactics, techniques and procedures in the supply chain security domain, for example: [Large Scale Campaign Created Fake GitHub Projects Clones with Fake Commit Added Malware](https://www.youtube.com/watch?v=VQ1blNH3qGM)
 
 And a collection of reads and listens, ranging from insightful blog posts, explainers/all-rounders and some long-form analysis (we've tried to keep deep dive reads scoped to other sections)
 
@@ -685,14 +685,14 @@ And a collection of reads and listens, ranging from insightful blog posts, expla
 * [Open Policy Agent 2021, Year in Review](https://blog.openpolicyagent.org/open-policy-agent-2021-year-in-review-f334244868e0)
 * [Reproducibility · Cloud Native Buildpacks](https://buildpacks.io/docs/features/reproducibility/) and [Buildpacks and SBOM Integration Opportunities](https://zt.dev/posts/buildpacks-sbom-opportunities/)
 * [The state of software bill of materials: SBOM growth could bolster software supply chains](https://venturebeat.com/2022/02/02/the-state-of-software-bill-of-materials-sbom-growth-could-bolster-software-supply-chains/)
-* Watch: [FOSDEM 2025 - Where in the OSS supply chain do SBOM attributes come from?](https://archive.fosdem.org/2025/schedule/event/fosdem-2025-6483-where-in-the-oss-supply-chain-do-sbom-attributes-come-from-/) by Salve J. Nilsen on SBOM metadata sourcing, authorization, and the landscape of regulatory demands (NIS2, Cyber Resilience Act)
-* Watch: [FOSDEM 2024 - SBOMs that you can trust: The Good, The Bad and the Ugly](https://archive.fosdem.org/2024/schedule/event/fosdem-2024-2889-sboms-that-you-can-trust-the-good-the-bad-and-the-ugly/) on SBOM trustworthiness across generation, storage, distribution, and processing using in-toto attestations, SLSA, CAS, and Sigstore
-* Watch: [FOSDEM 2024 - How to make SPDX industry standard for AI/ML](https://archive.fosdem.org/2024/schedule/event/fosdem-2024-3169-how-to-make-spdx-industry-standard-for-ai-ml/) on extending SPDX 3.0 adoption to AI/ML communities, covering SBOMs for data and data pipelines
-* Watch: [FOSDEM 2023 - Git Checkout Authentication to the Rescue of Supply Chain Security](https://archive.fosdem.org/2023/schedule/event/security_where_does_that_code_come_from/) on authenticating Git checkouts, reproducible builds, and provenance tracking in GNU Guix
-* Watch: [Lock the Chef in the Kitchen: Enabling Accurate SBOMs Via Hermetic Builds](https://www.youtube.com/watch?v=cwmdQI6uWWA) by Adam Cmiel (Red Hat) on using Hermeto to pre-fetch dependencies and enable hermetic builds for accurate SBOM generation
-* Watch: [LLM Compressor Hermetic Build Demo](https://www.youtube.com/watch?v=T-5rMOKZD4s) by Konflux CI demonstrating hermetic build practices
-* Watch: [From SBOM Basics To Automation: A Beginner's Journey in Extracting ELF Binary Dependencies](https://www.youtube.com/watch?v=ygqxWF30BSg) by Takashi Ninjouji (OpenSSF) on practical SBOM automation and binary analysis
-* Watch: [Lessons Learned from Generating 100M SBOMs: Google's Approach to SBOM Compliance](https://www.youtube.com/watch?v=ZYsUbN6oT7Q) from CNCF on Google's experiences and best practices for large-scale SBOM generation and compliance
+* 📢 Watch: [FOSDEM 2025 - Where in the OSS supply chain do SBOM attributes come from?](https://archive.fosdem.org/2025/schedule/event/fosdem-2025-6483-where-in-the-oss-supply-chain-do-sbom-attributes-come-from-/) by Salve J. Nilsen on SBOM metadata sourcing, authorization, and the landscape of regulatory demands (NIS2, Cyber Resilience Act)
+* 📢 Watch: [FOSDEM 2024 - SBOMs that you can trust: The Good, The Bad and the Ugly](https://archive.fosdem.org/2024/schedule/event/fosdem-2024-2889-sboms-that-you-can-trust-the-good-the-bad-and-the-ugly/) on SBOM trustworthiness across generation, storage, distribution, and processing using in-toto attestations, SLSA, CAS, and Sigstore
+* 📢 Watch: [FOSDEM 2024 - How to make SPDX industry standard for AI/ML](https://archive.fosdem.org/2024/schedule/event/fosdem-2024-3169-how-to-make-spdx-industry-standard-for-ai-ml/) on extending SPDX 3.0 adoption to AI/ML communities, covering SBOMs for data and data pipelines
+* 📢 Watch: [FOSDEM 2023 - Git Checkout Authentication to the Rescue of Supply Chain Security](https://archive.fosdem.org/2023/schedule/event/security_where_does_that_code_come_from/) on authenticating Git checkouts, reproducible builds, and provenance tracking in GNU Guix
+* 📢 Watch: [Lock the Chef in the Kitchen: Enabling Accurate SBOMs Via Hermetic Builds](https://www.youtube.com/watch?v=cwmdQI6uWWA) by Adam Cmiel (Red Hat) on using Hermeto to pre-fetch dependencies and enable hermetic builds for accurate SBOM generation
+* 📢 Watch: [LLM Compressor Hermetic Build Demo](https://www.youtube.com/watch?v=T-5rMOKZD4s) by Konflux CI demonstrating hermetic build practices
+* 📢 Watch: [From SBOM Basics To Automation: A Beginner's Journey in Extracting ELF Binary Dependencies](https://www.youtube.com/watch?v=ygqxWF30BSg) by Takashi Ninjouji (OpenSSF) on practical SBOM automation and binary analysis
+* 📢 Watch: [Lessons Learned from Generating 100M SBOMs: Google's Approach to SBOM Compliance](https://www.youtube.com/watch?v=ZYsUbN6oT7Q) from CNCF on Google's experiences and best practices for large-scale SBOM generation and compliance
 * [Secure Your Software Supply Chain with New VMware Tanzu Application Platform Capabilities](https://tanzu.vmware.com/content/blog/secure-software-supply-chain-vmware-tanzu-application-platform)
   * [Secure Software Supply Chains](https://tanzu.vmware.com/developer/learningpaths/secure-software-supply-chain/)
 * A few resources to understand supply chain compromises:
@@ -705,18 +705,18 @@ And a collection of reads and listens, ranging from insightful blog posts, expla
     * See also: [SAP-samples/risk-explorer-execution-pocs](https://github.com/SAP-samples/risk-explorer-execution-pocs), runnable PoC implementations demonstrating how 3rd-party dependencies can achieve arbitrary code execution at install time and runtime across multiple ecosystems (Python, JavaScript, Ruby, PHP, Rust, Go, Java)
     * Also see a classic, [Backstabber's Knife Collection: A Review of Open Source Software Supply Chain Attacks](https://arxiv.org/abs/2005.09535)
   * [Towards Measuring Supply Chain Attacks on Package Managers for Interpreted Languages](https://arxiv.org/pdf/2002.01139.pdf)
-* Read: [RepoAudit: Autonomous Repository-Level Code Auditing with LLMs](https://arxiv.org/abs/2501.18160), an LLM-based agent using data-flow analysis and validation to detect bugs and vulnerabilities in codebases with 78.43% precision while reducing hallucinations
+* 📖 Read: [RepoAudit: Autonomous Repository-Level Code Auditing with LLMs](https://arxiv.org/abs/2501.18160), an LLM-based agent using data-flow analysis and validation to detect bugs and vulnerabilities in codebases with 78.43% precision while reducing hallucinations
   * The [Software Supply Chain Security Threat Landscape](https://www.linkedin.com/posts/tzachi-zornstain_august-supply-chain-summary-report-activity-6975045859688239104-adsU/?utm_source=share) dispatches from Checkmarx are often fresh reading
   * [ossf/oss-compromises: Archive of various open source security compromises](https://github.com/ossf/oss-compromises)
   * Python-specific example: [Bad actors vs our community: detecting software supply chain...](https://www.youtube.com/watch?app=desktop&v=Rcuqn56uCDk&feature=youtu.be) by Ajinkya Rajput and Ashish Bijlani
   * A comprehensive all rounder: [Protect Yourself Against Supply Chain Attacks - Rob Bos - NDC Security 2022](https://www.youtube.com/watch?v=00R1JGBQEJg)
-* Read: [Mitigating Software Supply Chain Attacks: A Systematic Mapping of Attack Techniques to Framework Tasks](https://arxiv.org/abs/2503.12192), analyzing how NIST SSDF and 9 other frameworks mitigate real attack techniques from SolarWinds, Log4j, and XZ Utils, identifying priority mitigation tasks and gaps
-* Watch: [What Is This Package Even Doing? Analyzing Behaviors of Our Software Dependencies](https://www.youtube.com/watch?v=63Tr3C9CjmU&t=935s) by Isaac Dawson, OpenSSF - examining runtime behavior analysis of package dependencies
+* 📖 Read: [Mitigating Software Supply Chain Attacks: A Systematic Mapping of Attack Techniques to Framework Tasks](https://arxiv.org/abs/2503.12192), analyzing how NIST SSDF and 9 other frameworks mitigate real attack techniques from SolarWinds, Log4j, and XZ Utils, identifying priority mitigation tasks and gaps
+* 📢 Watch: [What Is This Package Even Doing? Analyzing Behaviors of Our Software Dependencies](https://www.youtube.com/watch?v=63Tr3C9CjmU&t=935s) by Isaac Dawson, OpenSSF - examining runtime behavior analysis of package dependencies
   * Not supply chain security specific, but worth tracking: [PayDevs/awful-oss-incidents: 🤬 A categorized list of incidents caused by unappreciated OSS maintainers or underfunded OSS projects. Feedback welcome!](https://github.com/PayDevs/awful-oss-incidents)
 * [Improving TOFU (trust on first use) With Transparency](https://dlorenc.medium.com/improving-tofu-with-transparency-da674aa2879d)
-* Read: [Supply Chain Attacks are Exploiting Our Assumptions](https://blog.trailofbits.com/2025/09/24/supply-chain-attacks-are-exploiting-our-assumptions/) (Trail of Bits), analyzing implicit trust assumptions in package managers and recent attacks that exploit them
-* Read: [Guard Your Codebase: Practical Steps and Tools to Prevent Malicious Code](https://apiiro.com/blog/guard-your-codebase-practical-steps-and-tools-to-prevent-malicious-code/) (Apiiro), discussing malicious code detection patterns and strategies with open-source tools including malicious-code-ruleset for Semgrep and PRevent for pull request scanning
-* Watch: [AI-BOM Workshop at RSA Conference 2024](https://github.com/aibom-workshop/rsa-2024) - Comprehensive workshop on AI software supply chain security and AI Bill of Materials (AI-BOM) covering ecosystem best practices with industry leaders and CISA representatives, including recorded lightning talks
+* 📖 Read: [Supply Chain Attacks are Exploiting Our Assumptions](https://blog.trailofbits.com/2025/09/24/supply-chain-attacks-are-exploiting-our-assumptions/) (Trail of Bits), analyzing implicit trust assumptions in package managers and recent attacks that exploit them
+* 📖 Read: [Guard Your Codebase: Practical Steps and Tools to Prevent Malicious Code](https://apiiro.com/blog/guard-your-codebase-practical-steps-and-tools-to-prevent-malicious-code/) (Apiiro), discussing malicious code detection patterns and strategies with open-source tools including malicious-code-ruleset for Semgrep and PRevent for pull request scanning
+* 📢 Watch: [AI-BOM Workshop at RSA Conference 2024](https://github.com/aibom-workshop/rsa-2024) - Comprehensive workshop on AI software supply chain security and AI Bill of Materials (AI-BOM) covering ecosystem best practices with industry leaders and CISA representatives, including recorded lightning talks
 * Reports:
   * [2022 State of Cloud Native Security Report - Palo Alto Networks](https://www.paloaltonetworks.com/state-of-cloud-native-security)
   * [2022 Software Supply Chain Security Report • Anchore](https://anchore.com/software-supply-chain-security-report-2022/)
@@ -734,7 +734,7 @@ And a collection of reads and listens, ranging from insightful blog posts, expla
 * [Why SBOMS & Security Scanning Go Together - Upstream: The Software Supply Chain Security Podcast presented by Anchore](https://www.buzzsprout.com/1913318/10096487)
 * [SBOMs in the Windows Supply Chain](https://s3-us-west-1.amazonaws.com/groupsioattachments/19482/98065190/1665/0?AWSAccessKeyId=AKIAJECNKOVMCCU3ATNQ&Expires=1682372170&Signature=x0o52XZ1FYr5QpNHAg8hb49mFcY%3D&response-content-disposition=inline%3B+filename%3D%22SBOMs%2520in%2520the%2520Windows%2520Supply%2520Chain.pdf%22), from the [SPDX User Group](https://lists.spdx.org/g/spdx/message/1679)
 * [Whose Sign Is It Anyway?](https://www.youtube.com/watch?v=psTh2xOvVJI) - Marina Moore, NYU & Matthew Riley, Google
-* Watch: [True Security: Unforgeable Baseline Compliance](https://www.youtube.com/watch?v=_Na_R1IY-5c) - Adolfo García Veytia, OpenSSF, on establishing cryptographically verifiable security baselines
+* 📢 Watch: [True Security: Unforgeable Baseline Compliance](https://www.youtube.com/watch?v=_Na_R1IY-5c) - Adolfo García Veytia, OpenSSF, on establishing cryptographically verifiable security baselines
 * [Binary Authorization for Borg: how Google verifies code provenance and implements code identity](https://cloud.google.com/docs/security/binary-authorization-for-borg)
 * [Application Security Weekly (Video) on Apple Podcasts](https://podcasts.apple.com/us/podcast/application-security-weekly-video/id1338908396)
 * [How to prioritize the improvement of open source software security](https://www.brookings.edu/techstream/how-to-prioritize-the-improvement-of-open-source-software-security/)
@@ -744,22 +744,22 @@ And a collection of reads and listens, ranging from insightful blog posts, expla
 * [sigstore/community: General sigstore community repo](https://github.com/sigstore/community#slack)
 * [CycloneDX Use Cases](https://cyclonedx.org/use-cases/)
   * Listen: [#6: Steve Springett: CycloneDX and the Future of SBOMs - Cybellum](https://cybellum.com/podcast/6-steve-springett-cyclonedx-and-the-future-of-sboms/)
-  * Watch: [CycloneDX and the Cloud](https://www.youtube.com/watch?v=ctBS2lfd020) from OWASP CycloneDX
+  * 📢 Watch: [CycloneDX and the Cloud](https://www.youtube.com/watch?v=ctBS2lfd020) from OWASP CycloneDX
 * [Building a Sustainable Software Supply Chain](https://fossa.com/blog/building-sustainable-software-supply-chain/), particularly the section: "The Software Supply Chain Sustainability Maturity Model"
 * [Dependency Issues: Solving the World’s Open Source Software Security Problem](https://warontherocks.com/2022/05/dependency-issues-solving-the-worlds-open-source-software-security-problem/) offers a well meditated view on the problem space as well
 * [The Digital Economy Runs on Open Source. Here&rsquo;s How to Protect It](https://hbr.org/2021/09/the-digital-economy-runs-on-open-source-heres-how-to-protect-it) (HBR)
 * [Report: 95% of IT leaders say Log4shell was &#8216;major wake-up call&#8217; for cloud security](https://venturebeat.com/2022/04/29/report-95-of-it-leaders-say-log4shell-was-major-wake-up-call-for-cloud-security/)
 * Presentation: [Securing the Open Source Software Supply Chain](https://github.com/di/talks/raw/master/2022/pycon_us_2022/talk.pdf) at PyConUS2022 by Dustin Ingram
-* Watch: [The state of open source security in 2022](https://www.helpnetsecurity.com/2022/04/13/open-source-security-video/) with Kurt Seifried
+* 📢 Watch: [The state of open source security in 2022](https://www.helpnetsecurity.com/2022/04/13/open-source-security-video/) with Kurt Seifried
 * Podcast: [Kubernetes Podcast from Google: Episode 174 - in-toto, with Santiago Torres-Arias](https://kubernetespodcast.com/episode/174-in-toto/)
 * [EO 14028 and Supply Chain Security](https://www.testifysec.com/blog/turtles-all-the-way-down/)
 * [Reducing Open Source Risk Throughout the Development, Delivery and Deployment of SBOMs](https://icitech.org/wp-content/uploads/2022/05/SBOM_Whitepaper.pdf), a May 2022 paper illustrating at a high level the differences between SBOMs in publishing, distribution and delivery scenarios; see pages 6-9
 * [Open Source Security Foundation (OpenSSF) Security Mobilization Plan](https://openssf.org/oss-security-mobilization-plan/)
 * [Not Just Third Party Risk](https://www.kusari.dev/blog/not_just_tprm/)
-* Read: [NIST Provides Solid Guidance on Software Supply Chain Security in DevSecOps](https://www.csoonline.com/article/655648/nist-provides-solid-guidance-on-software-supply-chain-security-in-devsecops.html) (CSO Online) - Overview of NIST SP 800-204D on integrating supply chain security into CI/CD pipelines with recommendations for secure builds, artifact management, and zero-trust principles
-* Read: [How Golang Manages Its Security Supply Chain](https://thenewstack.io/how-golang-manages-its-security-supply-chain/) (The New Stack) - Overview of Go's supply chain security practices including checksums, CapsLock, OSS-Fuzz, SBOMs and vulnerability databases
+* 📖 Read: [NIST Provides Solid Guidance on Software Supply Chain Security in DevSecOps](https://www.csoonline.com/article/655648/nist-provides-solid-guidance-on-software-supply-chain-security-in-devsecops.html) (CSO Online) - Overview of NIST SP 800-204D on integrating supply chain security into CI/CD pipelines with recommendations for secure builds, artifact management, and zero-trust principles
+* 📖 Read: [How Golang Manages Its Security Supply Chain](https://thenewstack.io/how-golang-manages-its-security-supply-chain/) (The New Stack) - Overview of Go's supply chain security practices including checksums, CapsLock, OSS-Fuzz, SBOMs and vulnerability databases
 * [Open Source Security: How Digital Infrastructure Is Built on a House of Cards](https://www.lawfareblog.com/open-source-security-how-digital-infrastructure-built-house-cards)
-* Read: [Kink in the Chain: Eight Perspectives on Software Supply Chain Risk Management](https://www.atlanticcouncil.org/content-series/cybersecurity-policy-and-strategy/kink-in-the-chain-eight-perspectives-on-software-supply-chain-risk-management/) from the Atlantic Council, featuring policy and industry perspectives on threats, tools, and government initiatives
+* 📖 Read: [Kink in the Chain: Eight Perspectives on Software Supply Chain Risk Management](https://www.atlanticcouncil.org/content-series/cybersecurity-policy-and-strategy/kink-in-the-chain-eight-perspectives-on-software-supply-chain-risk-management/) from the Atlantic Council, featuring policy and industry perspectives on threats, tools, and government initiatives
 * Series: [Bootstrapping Trust Part 1](https://openziti.io/bootstrapping-trust-part-1-encryption-everywhere) covering encryption, certificates, chains and roots of trust
 * Contact sign-up sheet required: [The Rise of Continuous Packaging](https://cloudsmith.com/developers/resources/the-rise-of-continuous-packaging/) by Cloudsmith and O'Reilly
 * [Supply Chain Security for Cloud Native Java](https://speakerdeck.com/thomasvitale/supply-chain-security-for-cloud-native-java) (from [Thomas Vitale](https://twitter.com/vitalethomas/status/1565714896154755075))
@@ -767,4 +767,4 @@ And a collection of reads and listens, ranging from insightful blog posts, expla
 * [New security concerns for the open-source software supply chain](https://www.helpnetsecurity.com/2022/10/17/security-concerns-open-source-software-supply-chain/) (top level findings from The State of the Software Supply Chain: Open Source Edition 2022)
 * [Software Supply Chain Primer v0.93](https://docs.google.com/document/d/1Kq6e8DZ9G1MzKP3Tnlf6bXWLf41ad_tdTKs8ikfhGJ0/edit#heading=h.30j0zll) (June 2022)
 * [Research Case Study: Supply Chain Security at Scale – Insights into NPM Account Takeovers](https://laburity.com/research-npm-account-takeovers/) (November 2024)
-* Read: [How Cloudflare's client-side security made the npm supply chain attack a non-event](https://blog.cloudflare.com/how-cloudflares-client-side-security-made-the-npm-supply-chain-attack-a-non/) on detecting malicious JavaScript in npm packages using ML-based Abstract Syntax Tree analysis and graph neural networks
+* 📖 Read: [How Cloudflare's client-side security made the npm supply chain attack a non-event](https://blog.cloudflare.com/how-cloudflares-client-side-security-made-the-npm-supply-chain-attack-a-non/) on detecting malicious JavaScript in npm packages using ML-based Abstract Syntax Tree analysis and graph neural networks
