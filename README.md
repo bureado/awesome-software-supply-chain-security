@@ -94,6 +94,7 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
 * From [Projects | Software Transparency Foundation](https://st.foundation/projects), see [OSSKB | Free Open Source Inventorying](https://osskb.org/)
   * And particularly: [scanoss.py/PACKAGE.md at main · scanoss/scanoss.py](https://github.com/scanoss/scanoss.py/blob/main/PACKAGE.md)
 * [Artifact Hub](https://artifacthub.io/), featuring [Packages security report](https://artifacthub.io/docs/topics/security_report/) and also [verifies with cosign](https://artifacthub.io/docs/topics/repositories/#kubewarden-policies-repositories)
+* [ocicl/ocicl: ASDF system package manager for Common Lisp](https://github.com/ocicl/ocicl) - all packages managed by ocicl have their signatures stored in the Rekor transparency log
 * [crt.sh | Certificate Search](https://crt.sh/)
 * [grep.app | code search](https://grep.app/)
 * [GitHub code search](https://github.com/features/code-search)
@@ -327,6 +328,7 @@ Also see:
   * Also: [testifysec/judge-k8s: Proof of concept Kubernetes admission controller using the witness attestation verification library](https://github.com/testifysec/judge-k8s)
 * [ckotzbauer/sbom-operator: Catalogue all images of a Kubernetes cluster to multiple targets with Syft](https://github.com/ckotzbauer/sbom-operator)
 * [CONNAISSEUR - Verify Container Image Signatures in Kubernetes](https://sse-secure-systems.github.io/connaisseur/v2.0.0/)
+* [Kubewarden](https://kubewarden.io/) is a Kubernetes policy engine that uses sigstore to sign and verify its WebAssembly policies, allowing policy authors to leverage sigstore verification capabilities inside their policies to validate OCI artifacts
 * [sigstore/policy-controller: The policy admission controller used to enforce policy on a cluster on verifiable supply-chain metadata from cosign.](https://github.com/sigstore/policy-controller)
   * Also see: [lukehinds/policy-controller-demo: demo of keyless signing with the sigstore kubernetes policy controller](https://github.com/lukehinds/policy-controller-demo)
 * [portieris/POLICIES.md at main · IBM/portieris](https://github.com/IBM/portieris/blob/main/POLICIES.md)
@@ -441,6 +443,7 @@ And a few things to watch beyond libraries and software dependencies:
   * [slsa-framework/slsa-github-generator: Language-agnostic SLSA provenance generation for Github Actions](https://github.com/slsa-framework/slsa-github-generator)
   * Also see: [Attestation Crafting | ChainLoop documentation](https://docs.chainloop.dev/getting-started/attestation-crafting)
 * [technosophos/helm-gpg: Chart signing and verification with GnuPG for Helm.](https://github.com/technosophos/helm-gpg)
+  * [sigstore/helm-sigstore: Helm plugin for publishing and verifying signed Helm charts in the Rekor transparency log](https://github.com/sigstore/helm-sigstore) and [sigstore/helm-charts: Helm charts for deploying sigstore components in Kubernetes](https://github.com/sigstore/helm-charts)
 * [cashapp/pivit](https://github.com/cashapp/pivit) is a command line tool for managing x509 certificates stored on smart cards with PIV applet support that is fully compatible with `git`
 * [notaryproject/notary: Notary is a project that allows anyone to have trust over arbitrary collections of data](https://github.com/notaryproject/notary)
   * [notaryproject/roadmap: Roadmap for NotaryV2](https://github.com/notaryproject/roadmap)
@@ -547,6 +550,7 @@ Also see:
   * Also read [Bootstrappable builds](https://lwn.net/Articles/841797/) from LWN
 * [tektoncd/chains: Supply Chain Security in Tekton Pipelines](https://github.com/tektoncd/chains)
   * [Verifiable Supply Chain Metadata for Tekton - CD Foundation](https://cd.foundation/blog/2021/06/18/verifiable-supply-chain-metadata-for-tekton/)
+* [JReleaser](https://jreleaser.org/) is a release automation tool for Java/JVM projects that can sign artifacts (JARs, Zips, Tars, and other files) with cosign for publishing to AWS S3, JFrog Artifactory, or as release assets on GitHub, GitLab, or Gitea
 * [google/santa: A binary authorization system for macOS](https://github.com/google/santa)
 * [fepitre/package-rebuilder: Standalone orchestrator for rebuilding Debian, Fedora and Qubes OS packages in order to generate `in-toto` metadata which can be used with `apt-transport-in-toto` or `dnf-plugin-in-toto` to validate reproducible status.](https://github.com/fepitre/package-rebuilder)
 * [kpcyrd/rebuilderd-debian-buildinfo-crawler: Reproducible Builds: Scraper/Parser for https://buildinfos.debian.net into structured data](https://github.com/kpcyrd/rebuilderd-debian-buildinfo-crawler)
