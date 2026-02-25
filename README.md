@@ -71,6 +71,7 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
   * [bottlerocket-os/hotdog: Hotdog is a set of OCI hooks used to inject the Log4j Hot Patch into containers.](https://github.com/bottlerocket-os/hotdog)
 * [deepfence/ThreatMapper: 🔥 🔥   Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more. 🔥 🔥](https://github.com/deepfence/ThreatMapper)
 * [dependency-check](https://jeremylong.github.io/DependencyCheck/index.html)
+* [Releaserun/releaserun-cli: CLI tool that scans project dependencies for end-of-life versions and known CVEs, checking package.json, go.mod, requirements.txt, Gemfile, Cargo.toml and Dockerfile base images against endoflife.date and OSV databases](https://github.com/Releaserun/releaserun-cli)
 * [6mile/super-confused: Dependency confusion analysis tool supporting 17+ file formats and SBOM files](https://github.com/6mile/super-confused), identifying confusion opportunities across npm, PyPI, Cargo, Packagist, RubyGems, Maven, Go and other ecosystems
 * [apiiro/combobulator: Dependency Combobulator is an open-source, modular, and extensible framework to detect and prevent dependency confusion attacks](https://github.com/apiiro/combobulator)
 * [DataDog/ghbuster: Detects suspicious GitHub repositories and users using heuristics to identify potentially malicious or inauthentic accounts](https://github.com/DataDog/ghbuster)
