@@ -633,6 +633,7 @@ Also see:
 * [project-copacetic/copacetic: CLI tool for directly patching container images using vulnerability reports from scanners like Trivy, enabling targeted OS package updates without rebuilding images](https://github.com/project-copacetic/copacetic)
 * [apiiro/PRevent: Self-hosted GitHub app that scans pull requests for malicious code patterns including dynamic code execution and obfuscation](https://github.com/apiiro/PRevent)
 * [SpecterOps/GitHound: BloodHound OpenGraph collector for GitHub mapping organizational structure, permissions, and roles into navigable attack-path graphs for security audits](https://github.com/SpecterOps/GitHound)
+* [dash14/buildcage: Restricts outbound network access during Docker builds per RUN step via SNI-based domain filtering, working as a drop-in BuildKit remote driver with ready-to-use GitHub Actions](https://github.com/dash14/buildcage)
 
 Also see:
 
