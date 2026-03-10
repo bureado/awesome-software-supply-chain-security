@@ -522,6 +522,7 @@ And a few things to watch beyond libraries and software dependencies:
 > This section includes: reference architectures and authoritative compilations of supply chain attacks and the emerging categories.
 
 * [in-toto | A framework to secure the integrity of software supply chains](https://in-toto.io/)
+* [sbom-tool/gh-guard: CI/CD supply chain hardening plugin for Claude Code guiding Rust projects to achieve OpenSSF Scorecard scores, Trusted Publishing, SLSA L3 provenance, and comprehensive dependency auditing with interactive hardening levels](https://github.com/sbom-tool/gh-guard)
 * [VXDF (Validated Exploitable Data Flow): Open security standard for documenting confirmed vulnerabilities with structured evidence of exploitability](https://vxdf.org/), using JSON Schema with 33 evidence types and interoperability with SARIF, SPDX, CWE, and CVSS
 * [Supply chain Levels for Software Artifacts](https://slsa.dev/) or SLSA (salsa) is a security framework, a check-list of standards and controls to prevent tampering, improve integrity, and secure packages and infrastructure in your projects, businesses or enterprises. 
   * Great read: [SLSA | CloudSecDocs](https://cloudsecdocs.com/devops/pipelines/supply_chain/slsa/)
