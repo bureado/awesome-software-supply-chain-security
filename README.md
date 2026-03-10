@@ -599,6 +599,7 @@ Also see:
 * On instrumenting runners:
   * Keep an eye on [Draft: POC Witness Runner integration (!1) · Merge requests · testifysec / gitlab-runner](https://gitlab.com/testifysec/gitlab-runner/-/merge_requests/1) for GitLab runners
   * [appsec-jedi/pipeline-sentinel: eBPF-powered security monitor for CI/CD build pipelines detecting and blocking suspicious process executions to prevent supply chain attacks during the build phase](https://github.com/appsec-jedi/pipeline-sentinel)
+* [trailofbits/build-wrap: Linker replacement to sandbox build scripts using Bubblewrap (Linux) or sandbox-exec (macOS), protecting against malicious build script execution](https://github.com/trailofbits/build-wrap)
   * Also, [edgelesssys/constellation: Constellation is the first Confidential Kubernetes. Constellation shields entire Kubernetes clusters from the (cloud) infrastructure using confidential computing.](https://github.com/edgelesssys/constellation)
 * [aws/uefi: AWS firmware for Nitro instances with reproducible builds to verify measurements against source code](https://github.com/aws/uefi), enabling reproducible hardware attestation
 * [Azure-Samples/microsoft-azure-attestation: Confidential Compute attestation service examples including measurement verification in JWT certificates](https://github.com/Azure-Samples/microsoft-azure-attestation) for tying runtime attestation to build provenance
