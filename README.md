@@ -355,6 +355,7 @@ Also see:
 * [grafeas/kritis: Solution for securing your software supply chain for Kubernetes apps, enforcing deploy-time security policies](https://github.com/grafeas/kritis)
 * [spaceraccoon/vulnerability-spoiler-alert: AI-powered monitoring hub that watches open-source repositories and detects security vulnerability patches before CVEs are assigned, with RSS feed and web interface](https://github.com/spaceraccoon/vulnerability-spoiler-alert)
 * [aquasecurity/trivy-operator: Kubernetes-native security toolkit that continuously scans the cluster for vulnerabilities, misconfiguration, secrets, and exposed sensitive information](https://github.com/aquasecurity/trivy-operator)
+* [boostsecurityio/bagel: Cross-platform CLI that audits developer workstations for supply chain security risks, inventorying dev tools, risky configurations, and secret metadata (never payloads) across Git, SSH, npm, cloud credentials, and IDE configurations](https://github.com/boostsecurityio/bagel)
 * [goodwithtech/dockle: Container image linter for security, detects vulnerabilities, helps build best-practice Dockerfiles and supports CIS Benchmarks](https://github.com/goodwithtech/dockle)
 * [Kyverno](https://kyverno.io/)
   * Read: [Attesting Image Scans With Kyverno](https://neonmirrors.net/post/2022-07/attesting-image-scans-kyverno/)
