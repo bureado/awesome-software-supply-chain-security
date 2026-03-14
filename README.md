@@ -169,6 +169,10 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * [siemens/debsbom: Generates SBOMs for Debian-based distributions in SPDX and CycloneDX formats, with focus on source packages (relevant for CVE matching) and complete dependency graphs for identifying crucial components](https://github.com/siemens/debsbom)
 * [Collabora SBOM Toolkit: Tooling used in Apertis for generating Software Bill of Materials with comprehensive component tracking and supply chain transparency](https://salsa.debian.org/collabora-team/sbom-toolkit)
 * [boschglobal/SEPIA (SBOM Exchange Procedures, Interfaces and Architecture): Schema mapping and harmonization between SPDX and CycloneDX with tooling for SBOM validation, metadata editing, field insertion, and multi-SBOM merging](https://github.com/boschglobal/SBOM-sg-SEPIA-bosch)
+* **Nix-specific SBOM tools** for generating precise SBOMs from Nix derivations:
+  * [nikstur/bombon: Generates SBOMs for Nix packages at the .nix level with access to meta information, supporting flat SBOM output](https://github.com/nikstur/bombon)
+  * [tweag/genealogos: Nix SBOM generator using nixtract for dependency introspection with hierarchical representation of build and runtime dependencies](https://github.com/tweag/genealogos)
+  * [tiiuae/sbomnix: Generates SBOMs for Nix derivations at the .drv level, attempting to reconstruct metadata and supporting both build-time and runtime pruning](https://github.com/tiiuae/sbomnix)
 * [REA-Products/C-SCRM-Use-Case at master · rjb4standards/REA-Products](https://github.com/rjb4standards/REA-Products/tree/master/C-SCRM-Use-Case) from [this tweet](https://twitter.com/rjb4standards/status/1481250447331573761?s=12)
   * Also see [Energy SBOM Proof of Concept - INL](https://inl.gov/sbom-poc/)
 * [Phylum Analyze PR Action: GitHub Action to analyze Pull Requests for open-source supply chain issues](https://github.com/phylum-dev/phylum-analyze-pr-action) from [Phylum | The Software Supply Chain Security Company](https://phylum.io/)
