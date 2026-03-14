@@ -588,6 +588,7 @@ Also see:
   * Read: [Is NixOS truly reproducible?](https://luj.fr/blog/is-nixos-truly-reproducible.html) - Examines bitwise reproducibility claims and challenges in the Nix ecosystem
 * [securego/gosec: Go static analysis tool that detects security problems by scanning the Go AST, enforcing secure coding practices](https://github.com/securego/gosec)
 * [trailofbits/buttercup: AI-driven cyber reasoning system for automated vulnerability discovery and patching in open-source code repositories using fuzzing and multi-agent LLM-based patching](https://github.com/trailofbits/buttercup)
+* [knostic/OpenAnt: LLM-based vulnerability discovery tool for proactively finding verified security flaws while minimizing false positives and negatives, supporting Go, Python, JavaScript/TypeScript, C/C++, PHP, and Ruby](https://github.com/knostic/OpenAnt)
 * [Bootstrappable Builds (GNU Mes Reference Manual)](https://www.gnu.org/software/mes/manual/html_node/Bootstrappable-Builds.html)
   * Also read [Bootstrappable builds](https://lwn.net/Articles/841797/) from LWN
 * [hermetoproject/hermeto: CLI tool that pre-fetches dependencies to enable hermetic builds with explicit, reproducible, and pinned dependencies for network-isolated container builds](https://github.com/hermetoproject/hermeto)
