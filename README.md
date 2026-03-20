@@ -402,6 +402,7 @@ Also see:
     * Or [Checkmarx/chainjacking: Find which of your go lang direct GitHub dependencies is susceptible to ChainJacking attack](https://github.com/Checkmarx/chainjacking)
     * Or [Cargo Vet](https://mozilla.github.io/cargo-vet/) and [crev-dev/cargo-crev: A cryptographically verifiable code review system for the cargo (Rust) package manager.](https://github.com/crev-dev/cargo-crev)
     * Not automated validation, but comprehensive guidance for Java with a few critical points relating to supply chain security: [Google Best Practices for Java Libraries](https://jlbp.dev/)
+* [stacklok/brood-box: CLI tool for running coding agents inside hardware-isolated microVMs with workspace snapshot isolation, egress control, and MCP authorization](https://github.com/stacklok/brood-box)
 * Static analysis is often used at this stage in order to detect dependency acquisition, e.g.:
   * [Semgrep](https://semgrep.dev/)
     * [Getting started with Semgrep Supply Chain](https://semgrep.dev/docs/semgrep-sc/scanning-open-source-dependencies/)
