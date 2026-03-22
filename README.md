@@ -363,6 +363,7 @@ Also see:
 * [spaceraccoon/vulnerability-spoiler-alert: AI-powered monitoring hub that watches open-source repositories and detects security vulnerability patches before CVEs are assigned, with RSS feed and web interface](https://github.com/spaceraccoon/vulnerability-spoiler-alert)
 * [aquasecurity/trivy-operator: Kubernetes-native security toolkit that continuously scans the cluster for vulnerabilities, misconfiguration, secrets, and exposed sensitive information](https://github.com/aquasecurity/trivy-operator)
 * [boostsecurityio/bagel: Cross-platform CLI that audits developer workstations for supply chain security risks, inventorying dev tools, risky configurations, and secret metadata (never payloads) across Git, SSH, npm, cloud credentials, and IDE configurations](https://github.com/boostsecurityio/bagel)
+* [clawsec/clawsearch-guard: Pre-install security check for AI agent skills and MCP servers, scanning packages for vulnerabilities and malicious patterns before they enter your supply chain](https://github.com/nicepkg/clawsearch)
 * [luisfontes19/watchtower: VS Code security scanner extension that detects malicious configurations and hidden threats in development environments including Unicode steganography attacks, malicious tasks, and compromised dependencies](https://github.com/luisfontes19/watchtower)
 * [goodwithtech/dockle: Container image linter for security, detects vulnerabilities, helps build best-practice Dockerfiles and supports CIS Benchmarks](https://github.com/goodwithtech/dockle)
 * [advaitpatel/DockSec: AI-powered Docker security scanner that combines Trivy, Hadolint, and Docker Scout with AI analysis to explain vulnerabilities in plain English and suggest specific Dockerfile fixes](https://github.com/advaitpatel/DockSec)
@@ -453,6 +454,8 @@ Also see:
 
 And a few things to watch beyond libraries and software dependencies:
 
+* [ClawSec: Security audit platform for AI agent skills and MCP servers, providing vulnerability scanning, risk scoring, and supply chain integrity checks](https://clawsec.com/)
+* [ClawSearch: Safe discovery engine for AI agent skills with built-in security audits, enabling developers to find and verify MCP servers and agent tools before integration](https://clawsearch.com/)
 * [System Transparency | security architecture for bare-metal servers](https://system-transparency.org/)
 * [sigsum.org: Transparent and verifiable build logs using stronger threat models than centralized transparency logs](https://sigsum.org/)
 * [Tillitis: Building open, trustworthy hardware and software for secure computation](https://tillitis.se/)
