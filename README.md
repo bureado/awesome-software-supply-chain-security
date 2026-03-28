@@ -477,6 +477,7 @@ And a few things to watch beyond libraries and software dependencies:
     * Read: [Sigstore Bundle Format](https://www.trustification.io/blog/2023/01/13/sigstore-bundle-format/) walks through the structure of Sigstore's offline verification bundle, including signatures, certificates and Rekor inclusion proofs
     * [sigstore/model-transparency: Signing and verification for ML model integrity and provenance via Sigstore](https://github.com/sigstore/model-transparency) - extends model supply chain security to ML artifacts
 * [stacklok/toolhive: MCP server deployment platform with Sigstore-based provenance verification and attestation support for container images and binaries](https://github.com/stacklok/toolhive)
+* [sns45/forgeseal: Supply chain security CLI for JS/TS that generates CycloneDX SBOMs from lockfiles, signs with Sigstore keyless signing, produces SLSA v1 provenance attestations, and triages vulnerabilities via OSV.dev](https://github.com/sns45/forgeseal)
 * [cas - cas attestation service](https://cas.codenotary.com/)
 * [Witness](https://witness.dev/) - [testifysec/witness: Witness is a pluggable framework for software supply chain risk management.  It automates, normalizes, and verifies software artifact provenance.](https://github.com/testifysec/witness)
   * Watch: [Securing the Supply Chain with Witness - Cole Kennedy, TestifySec](https://www.youtube.com/watch?v=cZD_4u7DZPM)
