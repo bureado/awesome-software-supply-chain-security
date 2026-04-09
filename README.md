@@ -441,6 +441,7 @@ Also see:
 * [doowon/sigtool: sigtool for signed PE files in GO](https://github.com/doowon/sigtool)
 * [Introducing "safe npm", a Socket npm Wrapper - Socket](https://socket.dev/blog/introducing-safe-npm)
 * [Introducing SafeDep vet 🚀 | SafeDep](https://safedep.io/blog/introducing-safedep-vet/)
+* [Conforma: Securely verify supply chain artifacts, and enforce policies about how they were built and tested, in a manageable, scalable, and declarative way. Built with Sigstore and Open Policy Agent](https://conforma.dev)
 
 Also see:
 
