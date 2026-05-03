@@ -123,6 +123,14 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
 * [trailofbits/vendetect: Command-line tool for automatically detecting vendored and copy/pasted code between repositories](https://github.com/trailofbits/vendetect) using similarity detection algorithms to identify code reuse and potential intellectual property issues
 * [Software-Transparency-Foundation/stf-plagicheck: High-performance code plagiarism detection using winnowing fingerprints and snippet matching to scan source code against the osskb-core-open-dataset for potential code reuse](https://github.com/Software-Transparency-Foundation/stf-plagicheck)
 * [GitXray: Security tool for analyzing GitHub repositories to detect threat actors, fake repositories, tampered commits, sensitive information disclosures, and supply chain risks using GitHub REST API](https://gitxray.com/)
+* [2ndSetAI/good-egg: Trust scoring system for GitHub PR authors based on contribution history across the GitHub ecosystem, using data-driven analysis to detect AI-generated mass PRs and evaluate contributor credibility](https://github.com/2ndSetAI/good-egg)
+* [arnica/depsguard: Rust-based tool that guards dependencies against supply chain attacks with zero dependencies, static binary distribution for easy CI/CD integration](https://github.com/arnica/depsguard)
+* [GarderaSecurity/gardwatch: Dependency intelligence tool that scores packages on trust, security, and quality, detecting typosquatting, namespace squatting, homoglyph attacks, and malware with OpenSSF Scorecard integration](https://github.com/GarderaSecurity/gardwatch)
+* [Bluewaves54/Bulwark: Lightweight security gateway between package managers and public registries (PyPI, npm, Maven, Open VSX) that inspects packages against configurable policy rules, single Go binary with YAML configuration](https://github.com/Bluewaves54/Bulwark)
+* [elastic/supply-chain-monitor: Automated monitoring of top PyPI and npm packages for supply chain compromise, using LLM analysis to classify diffs as benign or malicious with Slack alerting](https://github.com/elastic/supply-chain-monitor)
+* [vulnerability-lookup/cpe-guesser: Command-line tool and web service for guessing CPE names from keywords for vulnerability research and tracking](https://github.com/vulnerability-lookup/cpe-guesser)
+* [betterleaks/betterleaks: High-performance secrets detection tool with CEL-based contextual filtering, secret validation, and token efficiency filtering to reduce false positives](https://github.com/betterleaks/betterleaks)
+
 Also read:
 
 * [TaptuIT/awesome-devsecops: Curating the best DevSecOps resources and tooling.](https://github.com/TaptuIT/awesome-devsecops#dependency-management)
@@ -441,6 +449,14 @@ Also see:
 * [doowon/sigtool: sigtool for signed PE files in GO](https://github.com/doowon/sigtool)
 * [Introducing "safe npm", a Socket npm Wrapper - Socket](https://socket.dev/blog/introducing-safe-npm)
 * [Introducing SafeDep vet 🚀 | SafeDep](https://safedep.io/blog/introducing-safedep-vet/)
+* [code-cargo/cargowall: eBPF-based network firewall for GitHub Actions runners that monitors and controls outbound connections during CI/CD to prevent malicious actions, supply chain attacks, and secret exfiltration](https://github.com/code-cargo/cargowall)
+* [aflock-ai/cilock-action: GitHub Actions security hardening tool that enforces CI/CD pipeline best practices including environment isolation, secret protection, and dependency verification](https://github.com/aflock-ai/cilock-action)
+* [nick79/diffguard: LLM-powered security review for staged git diffs with AST-aware context, CWE mappings, framework detection (Django, Flask, Rails, Laravel, etc.), and configurable severity thresholds](https://github.com/nick79/diffguard)
+* [kusari-oss/darnit: Pluggable compliance audit framework generating cryptographic attestations and automating remediation for software engineering best practices including security, testing, build reproducibility, and governance](https://github.com/kusari-oss/darnit)
+* [ironsh/iron-proxy: MITM egress proxy with built-in DNS server enforcing default-deny network access, designed to prevent secrets exfiltration, command injection, and reverse shell attacks in CI/CD and sandboxed environments](https://github.com/ironsh/iron-proxy)
+* [code-cargo/cargowall-action: Official GitHub Action for CargoWall that provides eBPF-based network egress filtering for GitHub Actions runners to prevent supply chain attacks and data exfiltration](https://github.com/code-cargo/cargowall-action)
+* [JulietSecurity/abom: Actions Bill of Materials tool that recursively resolves and maps every GitHub Action in your workflows including nested composite actions and reusable workflows](https://github.com/JulietSecurity/abom)
+* [celagus/appsec-crew: Multi-agent application security automation for GitHub using CrewAI, combining Betterleaks, OSV-Scanner, and Semgrep for security scanning and automated remediation](https://github.com/celagus/appsec-crew)
 
 Also see:
 
@@ -580,6 +596,10 @@ And a few things to watch beyond libraries and software dependencies:
 * OpenSSF's [Concise Guide for Developing More Secure Software 2022-09-01](https://github.com/ossf/wg-best-practices-os-developers/blob/main/docs/Concise-Guide-for-Developing-More-Secure-Software.md#readme)
 * Chris Hughes on the NSA Recommended Practices for Developers: [Securing the Software Supply Chain](https://medium.com/@chris.hughes_11070/securing-the-software-supply-chain-d3426d36150d)
 * Read: [Elements of an Effective Software Supply Chain Strategy](https://www.informationweek.com/software-services/elements-of-an-effective-software-supply-chain-strategy) proposes 12 elements for software supply chain risk management spanning asset inventory, SBOM, provenance, attestation, compliance and governance
+* [boostsecurityio/smokedmeat: CI/CD red team framework for testing GitHub Actions workflows and pipeline security, exposing CI/CD risks including Log4Shell-like exploits, script injection, and exfiltration vulnerabilities](https://github.com/boostsecurityio/smokedmeat)
+* [mchmarny/reputer: CLI tool that calculates contributor reputation scores from Git provider APIs (GitHub) to establish identity confidence and measure contributor trustworthiness for supply chain decisions](https://github.com/mchmarny/reputer)
+* [ReversingLabs rl-protect: Supply chain security scanning platform with policy controls, artifact analysis, and provenance tracking for detecting malicious packages and supply chain compromises](https://docs.secure.software/community/tools/rl-protect)
+* 📖 Read: [GitHub Actions security threat model and defenses](https://www.wiz.io/blog/github-actions-security-threat-model-and-defenses) - Comprehensive analysis of GitHub Actions security risks including pull request pwnage, script injection, and third-party component vulnerabilities with defensive strategies
 
 Also see:
 
@@ -645,6 +665,7 @@ Also see:
 * [veraison/veraison: Project Veraison will build software components that can be used to build Attestation Verification Services](https://github.com/veraison/veraison)
 * [Changelog](https://www.pantsbuild.org/docs/changelog) for [Pants 2: The ergonomic build system](https://www.pantsbuild.org/)
 * [Bazel](https://bazel.build/) is an open source build and test tool similar to Make, Maven, and Gradle
+* [stagex.tools: Decentralized, bootstrappable, reproducible Linux distribution with native OCI layer support and Containerfile-based build definitions](https://stagex.tools/)
 * [GoogleContainerTools/kaniko: Build Container Images In Kubernetes](https://github.com/GoogleContainerTools/kaniko)
 * [sethvargo/ratchet: A tool for securing CI/CD workflows with version pinning.](https://github.com/sethvargo/ratchet)
 * [Pinning GitHub Actions](https://pin-gh-actions.kammel.dev/) guide with statistics on SHA pinning adoption and tools like Frizbee for migration and Renovate for automated updates
