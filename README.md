@@ -451,6 +451,7 @@ Also see:
 * [doowon/sigtool: sigtool for signed PE files in GO](https://github.com/doowon/sigtool)
 * [Introducing "safe npm", a Socket npm Wrapper - Socket](https://socket.dev/blog/introducing-safe-npm)
 * [Introducing SafeDep vet 🚀 | SafeDep](https://safedep.io/blog/introducing-safedep-vet/)
+* [Conforma: Securely verify supply chain artifacts, and enforce policies about how they were built and tested, in a manageable, scalable, and declarative way. Built with Sigstore and Open Policy Agent](https://conforma.dev)
 * [code-cargo/cargowall: eBPF-based network firewall for GitHub Actions runners that monitors and controls outbound connections during CI/CD to prevent malicious actions, supply chain attacks, and secret exfiltration](https://github.com/code-cargo/cargowall)
 * [aflock-ai/cilock-action: GitHub Actions security hardening tool that enforces CI/CD pipeline best practices including environment isolation, secret protection, and dependency verification](https://github.com/aflock-ai/cilock-action)
 * [nick79/diffguard: LLM-powered security review for staged git diffs with AST-aware context, CWE mappings, framework detection (Django, Flask, Rails, Laravel, etc.), and configurable severity thresholds](https://github.com/nick79/diffguard)
