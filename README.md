@@ -549,6 +549,7 @@ And a few things to watch beyond libraries and software dependencies:
 * [transmute-industries/verifiable-actions: Workflow tools for Decentralized Identifiers &amp; Verifiable Credentials](https://github.com/transmute-industries/verifiable-actions/tree/main)
 * [IOTA Notarization](https://www.iota.org/products/notarization) is an open-source toolkit for anchoring, updating and verifying data integrity on a decentralized ledger, supporting locked (immutable) and dynamic notarization modes. See [iotaledger](https://github.com/iotaledger) on GitHub
 * Watch: [Privacy-preserving Approaches to Transparency Logs](https://www.youtube.com/watch?v=UrLdEYVASak)
+* [eparon/oidc-secure-api-github-actions: Lab demonstrating secretless API protection using GitHub Actions OIDC tokens validated by Envoy Proxy's jwt_authn and Lua-based authorization, with a mock OAuth2 server and act for local simulation](https://github.com/eparon/oidc-secure-api-github-actions). Read: [How to Secure APIs Using OIDC and GitHub Actions (No Secrets)](https://eparon.me/posts/2026-03-24-oidc-gh-actions-p2/), also see [Part 1: OIDC fundamentals and GitHub Actions token mechanics](https://eparon.me/posts/2026-02-28-oidc-gh-actions-p1/)
 
 ## Frameworks and best practice references
 
