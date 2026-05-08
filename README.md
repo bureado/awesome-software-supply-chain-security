@@ -304,6 +304,7 @@ A few open source projects are documenting, in public, how they acquire dependen
   * Also see: [Choosing Open Source Libraries](https://www.youtube.com/watch?app=desktop&v=Q4Yv3VGPiy4) from Snyk
 * [Contrast Community Edition](https://www.contrastsecurity.com/contrast-community-edition)
 * [Known Exploited Vulnerabilities Catalog | CISA](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+* [CISA KEV Deadline Planner](https://kev-deadline-planner.vercel.app/) ([source](https://github.com/Turner-Levey/kev-deadline-planner)): Browser-only planner that matches CVEs against a bundled CISA Known Exploited Vulnerabilities snapshot and exports Markdown, CSV, and ICS triage artifacts.
 * [TURROKS/CVE_Prioritizer: Prioritize vulnerability patching by combining CVSS, EPSS, CISA KEV, and VulnCheck data](https://github.com/TURROKS/CVE_Prioritizer)
 * [cve-search/cve-search: cve-search - a tool to perform local searches for known vulnerabilities](https://github.com/cve-search/cve-search)
 * [Exein-io/kepler: NIST-based CVE lookup store and API powered by Rust](https://github.com/Exein-io/kepler)
