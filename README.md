@@ -94,6 +94,7 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
 * Open Source Security Foundation (OpenSSF) [Alpha-Omega Project](https://openssf.org/community/alpha-omega/)
 * [Socket - Find and compare millions of open source packages](https://socket.dev/), focused on JavaScript
 * [Shai Hulud 2.0 Scanner](https://github.com/nxgn-kd01/shai-hulud-scanner) - Fast, comprehensive scanner to detect the Shai Hulud 2.0 npm supply chain attack (796+ compromised packages). Scans for malicious files, credential theft patterns, and compromised package ecosystems.
+* [`Xygeni`: Unified supply chain security platform that provides deep visibility into the software supply chain. It features malware detection in dependencies (including "obfuscated-at-rest" patterns), reachability analysis to prioritize exploitable vulnerabilities, and monitoring of CI/CD posture to detect anomalies and unauthorized changes.](https://xygeni.io/)
 * [diffoscope: in-depth comparison of files, archives, and directories](https://diffoscope.org/)
 * [RedHatProductSecurity/component-registry: Component Registry (Corgi) aggregates component data across Red Hat's supported products, managed services, and internal product pipeline services.](https://github.com/RedHatProductSecurity/component-registry)
 * [OSS Insight](https://ossinsight.io/), powered by TIDB Cloud, is an insight tool that can help you analyze in depth any single GitHub repository/developers, compare any two repositories using the same metrics, and provide comprehensive, valuable, and trending open source insights.
@@ -203,6 +204,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * [BBVA/susto: Systematic Universal Security Testing Orchestration](https://github.com/BBVA/susto)
 * [AppThreat/rosa: An experiment that looks very promising so far.](https://github.com/AppThreat/rosa)
 * FOSSA's [SBOM Solution](https://fossa.com/lp/simplify-sbom-generation-fossa)
+* [`Xygeni SCA & SBOM`: Enterprise-grade Software Composition Analysis (SCA) and SBOM lifecycle management. Provides automated SBOM generation (CycloneDX/SPDX), ingestion, and VEX support, combined with reachability analysis to filter out non-exploitable vulnerabilities and reduce security noise.](https://xygeni.io/solutions/software-composition-analysis-sca/)
 * [Rezillion Dynamic SBOM](https://www.rezilion.com/platform/dynamic-sbom/)
 * [opensbom-generator/spdx-sbom-generator: Support CI generation of SBOMs via golang tooling.](https://github.com/opensbom-generator/spdx-sbom-generator)
 * Tauruseer's [SBOM tools](https://www.tauruseer.com/platform/dynamic-software-bill-of-materials-SBOM)
