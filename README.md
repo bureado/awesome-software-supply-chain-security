@@ -819,3 +819,8 @@ And a collection of reads and listens, ranging from insightful blog posts, expla
 * [Software Supply Chain Primer v0.93](https://docs.google.com/document/d/1Kq6e8DZ9G1MzKP3Tnlf6bXWLf41ad_tdTKs8ikfhGJ0/edit#heading=h.30j0zll) (June 2022)
 * [Research Case Study: Supply Chain Security at Scale – Insights into NPM Account Takeovers](https://laburity.com/research-npm-account-takeovers/) (November 2024)
 * Read: [How Cloudflare's client-side security made the npm supply chain attack a non-event](https://blog.cloudflare.com/how-cloudflares-client-side-security-made-the-npm-supply-chain-attack-a-non/) on detecting malicious JavaScript in npm packages using ML-based Abstract Syntax Tree analysis and graph neural networks
+
+
+## Tools
+
+- [RiskGraph](https://github.com/solosofi/riskgraph) - Credit score API for npm/PyPI packages using OSV.dev CVEs, maintainer health, version anomalies, download trust, and license risk; built for AI agents and CI/CD dependency gates.
