@@ -705,6 +705,7 @@ And a collection of reads and listens, ranging from insightful blog posts, expla
 * [Census II of Free and Open Source Software — Application Libraries](https://linuxfoundation.org/wp-content/uploads/LFResearch_Harvard_Census_II.pdf)
 * [“Chain”ging the Game - how runtime makes your supply chain even more secure](https://sysdig.com/blog/chainging-the-game/)
 * [How to attack cloud infrastructure via a malicious pull request](https://goteleport.com/blog/hack-via-pull-request/)
+* [When Valid Provenance Isn't Enough: Miasma and the SLSA Bypass Gap](https://getcommit.dev/blog/redhat-miasma-provenance-bypass/) — analysis of the June 2026 Red Hat npm compromise (32 packages, valid SLSA attestations) and why temporal behavioral monitoring catches what provenance signing misses: batch publishing anomalies, new lifecycle hooks, and payload size jumps that static trust scores cannot surface
 * [Introducing StepSecurity Developer MDM](https://www.stepsecurity.io/blog/introducing-stepsecurity-developer-mdm-protecting-developer-machines-from-supply-chain-attacks), on protecting developer machines and AI coding agents from supply chain attacks targeting credentials, IDE extensions and local dependencies
 * [The Challenges of Securing the Open Source Supply Chain](https://thenewstack.io/the-challenges-of-securing-the-open-source-supply-chain/)
 * [What is a Software Supply Chain Attestation - and why do I need it?](https://www.testifysec.com/blog/what-is-a-supply-chain-attestation/)
