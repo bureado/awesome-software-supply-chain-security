@@ -94,6 +94,7 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
 * Open Source Security Foundation (OpenSSF) [Alpha-Omega Project](https://openssf.org/community/alpha-omega/)
 * [Socket - Find and compare millions of open source packages](https://socket.dev/), focused on JavaScript
 * [Shai Hulud 2.0 Scanner](https://github.com/nxgn-kd01/shai-hulud-scanner) - Fast, comprehensive scanner to detect the Shai Hulud 2.0 npm supply chain attack (796+ compromised packages). Scans for malicious files, credential theft patterns, and compromised package ecosystems.
+* [eltociear/skill-audit-mcp](https://github.com/eltociear/skill-audit-mcp) - Static security scanner for the **MCP server and AI agent skill supply chain**. Detects 68 attack patterns across 4 severity levels (CRITICAL/HIGH/MEDIUM/LOW) in skill files, MCP server source, and plugin manifests — credential exfiltration, prompt injection, code execution, seed-phrase harvest, auth bypass, path traversal. SARIF output, ships as GitHub Action (`uses: eltociear/skill-audit-mcp@v1`), multi-arch Docker (`ghcr.io/eltociear/skill-audit-mcp:v1`), and hosted x402 API. Zero dependencies. 68+ real CVEs disclosed using this ruleset.
 * [diffoscope: in-depth comparison of files, archives, and directories](https://diffoscope.org/)
 * [RedHatProductSecurity/component-registry: Component Registry (Corgi) aggregates component data across Red Hat's supported products, managed services, and internal product pipeline services.](https://github.com/RedHatProductSecurity/component-registry)
 * [OSS Insight](https://ossinsight.io/), powered by TIDB Cloud, is an insight tool that can help you analyze in depth any single GitHub repository/developers, compare any two repositories using the same metrics, and provide comprehensive, valuable, and trending open source insights.
@@ -113,6 +114,7 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
 * [safedep/pmg: Package Manager Guard wraps package managers (npm, pip, poetry, uv, etc.) to block malicious packages at install time using SafeDep's realtime malware analysis and threat detection](https://github.com/safedep/pmg)
 * [AikidoSec/safe-chain: Package manager wrapper for npm, pip, poetry, yarn, and other package managers that blocks installation of newly published packages (less than 24 hours old) to prevent malware campaigns, with no build data sharing](https://github.com/AikidoSec/safe-chain)
 * [AyoubTadlaoui/npmguard: Native pre-install risk gate for npm packages with an MCP tool for AI coding agents — scores packages on eight supply-chain signals (typosquats via Damerau-Levenshtein, OSV malware advisories, lifecycle scripts, sole-maintainer risk, package age, maintainer churn, repo health, deprecation) and blocks before lifecycle scripts can run. Single Rust binary, distributed outside npm, includes an MCP server so Claude Code / Cursor / Windsurf can gate `npm install` calls](https://github.com/AyoubTadlaoui/npmguard)
+* [momenbasel/AgentGuard: Intercepts package installations triggered by AI coding agents (Claude Code, Codex, Copilot) and validates against typosquatting, known malicious packages (OSV.dev feed), VirusTotal, and dangerous command patterns before execution. Supports npm, pip, Composer, Go, Cargo, and more](https://github.com/momenbasel/AgentGuard)
 * [Otsmane-Ahmed/KEIP: eBPF-based real-time malware protection for Python package installations that monitors network behavior during setup.py execution and blocks suspicious outbound connections](https://github.com/Otsmane-Ahmed/KEIP)
 * [Sourcegraph](https://sourcegraph.com/search) from Sourcegraph
 * [Onboard open-source contributors on Open Source Hub](https://opensourcehub.io/), see the [docker-slim](https://opensourcehub.io/docker-slim/docker-slim) example in Codesee
@@ -287,6 +289,7 @@ A few open source projects are documenting, in public, how they acquire dependen
 * [What curl expects from dependencies](https://daniel.haxx.se/blog/2022/03/28/what-curl-expects-from-dependencies/)
 * [Security: The Value of SBOMs](https://fluxcd.io/blog/2022/02/security-the-value-of-sboms/) from Flux
 - [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with integrated supply chain security (SBOM, SLSA, Sigstore/Cosign, Kyverno policy), CNCF Sandbox project.
+* [nelsonduarte/capa-language: A capability-typed programming language whose compiler emits CycloneDX 1.5, SPDX 2.3, CycloneDX VEX, and SLSA L1 provenance directly from function signatures, with per-function granularity for declared capabilities (Fs/Net/Env/...) and user-defined capabilities. Includes a worked example of sandboxing LLM agent tool-use via the type system](https://github.com/nelsonduarte/capa-language)
 
 ### Vulnerability information exchange
 
@@ -550,6 +553,7 @@ And a few things to watch beyond libraries and software dependencies:
 * [transmute-industries/verifiable-actions: Workflow tools for Decentralized Identifiers &amp; Verifiable Credentials](https://github.com/transmute-industries/verifiable-actions/tree/main)
 * [IOTA Notarization](https://www.iota.org/products/notarization) is an open-source toolkit for anchoring, updating and verifying data integrity on a decentralized ledger, supporting locked (immutable) and dynamic notarization modes. See [iotaledger](https://github.com/iotaledger) on GitHub
 * Watch: [Privacy-preserving Approaches to Transparency Logs](https://www.youtube.com/watch?v=UrLdEYVASak)
+* [trustcheck](https://github.com/Halfblood-Prince/trustcheck) – Verify PyPI packages using attestations and provenance before installing them.
 
 ## Frameworks and best practice references
 
@@ -601,6 +605,7 @@ And a few things to watch beyond libraries and software dependencies:
 * Chris Hughes on the NSA Recommended Practices for Developers: [Securing the Software Supply Chain](https://medium.com/@chris.hughes_11070/securing-the-software-supply-chain-d3426d36150d)
 * Read: [Elements of an Effective Software Supply Chain Strategy](https://www.informationweek.com/software-services/elements-of-an-effective-software-supply-chain-strategy) proposes 12 elements for software supply chain risk management spanning asset inventory, SBOM, provenance, attestation, compliance and governance
 * [boostsecurityio/smokedmeat: CI/CD red team framework for testing GitHub Actions workflows and pipeline security, exposing CI/CD risks including Log4Shell-like exploits, script injection, and exfiltration vulnerabilities](https://github.com/boostsecurityio/smokedmeat)
+* [praetorian-inc/trajan: Multi-platform CI/CD security scanner for detecting pipeline configuration weaknesses across GitHub Actions, GitLab CI, Azure DevOps, Jenkins, and JFrog](https://github.com/praetorian-inc/trajan)
 * [mchmarny/reputer: CLI tool that calculates contributor reputation scores from Git provider APIs (GitHub) to establish identity confidence and measure contributor trustworthiness for supply chain decisions](https://github.com/mchmarny/reputer)
 * [ReversingLabs rl-protect: Supply chain security scanning platform with policy controls, artifact analysis, and provenance tracking for detecting malicious packages and supply chain compromises](https://docs.secure.software/community/tools/rl-protect)
 * 📖 Read: [GitHub Actions security threat model and defenses](https://www.wiz.io/blog/github-actions-security-threat-model-and-defenses) - Comprehensive analysis of GitHub Actions security risks including pull request pwnage, script injection, and third-party component vulnerabilities with defensive strategies
@@ -689,6 +694,7 @@ Also see:
 * [Security hardening for GitHub Actions](https://docs.github.com/en/actions/security-guides/security-hardening-for-github-actions)
   * And: [step-security/harden-runner: Security agent for GitHub-hosted runner: block egress traffic &amp; detect code overwrite to prevent breaches](https://github.com/step-security/harden-runner)
   * And: [StepSecurity Action Advisor](https://app.stepsecurity.io/action-advisor), a tool that scores GitHub Actions for security and suggests maintained alternatives
+  * And: [zizmor: Static analysis for GitHub Actions workflows to identify insecure CI/CD patterns](https://github.com/zizmorcore/zizmor)
 * [Handling build-time dependency vulnerabilities](https://hackmd.io/@VOkN52x7RbeXS-3vr4XOgg/BJBDNYK0F) from [Create guidance on triaging build time dependency vulnerabilities · Issue #855 · cncf/tag-security](https://github.com/cncf/tag-security/issues/855)
 * [Code Sight](https://www.synopsys.com/software-integrity/code-sight.html)
 * [cider-security-research/cicd-goat: A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.](https://github.com/cider-security-research/cicd-goat)
