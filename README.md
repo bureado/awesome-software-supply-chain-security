@@ -550,6 +550,7 @@ And a few things to watch beyond libraries and software dependencies:
 * [transmute-industries/verifiable-actions: Workflow tools for Decentralized Identifiers &amp; Verifiable Credentials](https://github.com/transmute-industries/verifiable-actions/tree/main)
 * [IOTA Notarization](https://www.iota.org/products/notarization) is an open-source toolkit for anchoring, updating and verifying data integrity on a decentralized ledger, supporting locked (immutable) and dynamic notarization modes. See [iotaledger](https://github.com/iotaledger) on GitHub
 * Watch: [Privacy-preserving Approaches to Transparency Logs](https://www.youtube.com/watch?v=UrLdEYVASak)
+* [trustcheck](https://github.com/Halfblood-Prince/trustcheck) – Verify PyPI packages using attestations and provenance before installing them.
 
 ## Frameworks and best practice references
 
