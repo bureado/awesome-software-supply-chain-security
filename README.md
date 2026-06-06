@@ -134,6 +134,7 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
 * [elastic/supply-chain-monitor: Automated monitoring of top PyPI and npm packages for supply chain compromise, using LLM analysis to classify diffs as benign or malicious with Slack alerting](https://github.com/elastic/supply-chain-monitor)
 * [vulnerability-lookup/cpe-guesser: Command-line tool and web service for guessing CPE names from keywords for vulnerability research and tracking](https://github.com/vulnerability-lookup/cpe-guesser)
 * [betterleaks/betterleaks: High-performance secrets detection tool with CEL-based contextual filtering, secret validation, and token efficiency filtering to reduce false positives](https://github.com/betterleaks/betterleaks)
+* [OpenSourceMalware.com: Community-driven threat intelligence platform for checking malicious packages, repositories, and containers across ecosystems, plus threat reporting and feed integration](https://opensourcemalware.com/) ([API docs](https://docs.opensourcemalware.com/api/overview))
 
 Also read:
 
