@@ -124,6 +124,8 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
 * [chaoss/augur: Python library and web service for Open Source Software Health and Sustainability metrics &amp; data collection. You can find our documentation and new contributor information easily here: https://chaoss.github.io/augur/ and learn more about Augur at our website https://augurlabs.io](https://github.com/chaoss/augur)
 * [IBM/CBOM: Cryptography Bill of Materials](https://github.com/IBM/CBOM)
 * [AppThreat/blint: BLint is a Binary Linter to check the security properties, and capabilities in your executables. It is powered by lief.](https://github.com/AppThreat/blint)
+* [chainguard-dev/malcontent: Static analysis tool for detecting supply chain attacks in container images and artifacts through behavioral pattern matching and anomaly detection](https://github.com/chainguard-dev/malcontent)
+* [mandiant/flare-floss: FLARE Obfuscated String Solver uses advanced static analysis to automatically extract and deobfuscate strings from binaries, useful for analyzing suspicious artifacts and identifying hidden behaviors](https://github.com/mandiant/flare-floss)
 * [trailofbits/vendetect: Command-line tool for automatically detecting vendored and copy/pasted code between repositories](https://github.com/trailofbits/vendetect) using similarity detection algorithms to identify code reuse and potential intellectual property issues
 * [Software-Transparency-Foundation/stf-plagicheck: High-performance code plagiarism detection using winnowing fingerprints and snippet matching to scan source code against the osskb-core-open-dataset for potential code reuse](https://github.com/Software-Transparency-Foundation/stf-plagicheck)
 * [GitXray: Security tool for analyzing GitHub repositories to detect threat actors, fake repositories, tampered commits, sensitive information disclosures, and supply chain risks using GitHub REST API](https://gitxray.com/)
@@ -623,6 +625,7 @@ And a few things to watch beyond libraries and software dependencies:
 * [mchmarny/reputer: CLI tool that calculates contributor reputation scores from Git provider APIs (GitHub) to establish identity confidence and measure contributor trustworthiness for supply chain decisions](https://github.com/mchmarny/reputer)
 * [ReversingLabs rl-protect: Supply chain security scanning platform with policy controls, artifact analysis, and provenance tracking for detecting malicious packages and supply chain compromises](https://docs.secure.software/community/tools/rl-protect)
 * 📖 Read: [GitHub Actions security threat model and defenses](https://www.wiz.io/blog/github-actions-security-threat-model-and-defenses) - Comprehensive analysis of GitHub Actions security risks including pull request pwnage, script injection, and third-party component vulnerabilities with defensive strategies
+* [boostsecurityio/lotp: "Living Off the Pipeline" — inventory and techniques database of development tool abuse capabilities, documenting how CI/CD tools and build pipelines can be exploited for supply chain attacks](https://github.com/boostsecurityio/lotp)
 
 Also see:
 
