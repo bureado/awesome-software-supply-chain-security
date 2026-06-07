@@ -136,6 +136,7 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
 * [betterleaks/betterleaks: High-performance secrets detection tool with CEL-based contextual filtering, secret validation, and token efficiency filtering to reduce false positives](https://github.com/betterleaks/betterleaks)
 * [OpenSourceMalware.com: Community-driven threat intelligence platform for checking malicious packages, repositories, and containers across ecosystems, plus threat reporting and feed integration](https://opensourcemalware.com/) ([API docs](https://docs.opensourcemalware.com/api/overview))
 * [santhsecurity/keyhog: High-performance secrets scanner with 900+ detectors and GPU acceleration support, scanning source trees, git history, Docker images, S3 buckets, and runtime environments for leaked credentials and malicious indicators](https://github.com/santhsecurity/keyhog)
+* [irchaosclub/FANGS: eBPF-based npm package behavior monitoring system that runs releases in Docker sandbox, captures syscalls and network activity via kernel instrumentation, and flags behavioral deviations from baseline to detect supply chain anomalies](https://github.com/irchaosclub/FANGS)
 
 Also read:
 
@@ -471,6 +472,7 @@ Also see:
 * [code-cargo/cargowall-action: Official GitHub Action for CargoWall that provides eBPF-based network egress filtering for GitHub Actions runners to prevent supply chain attacks and data exfiltration](https://github.com/code-cargo/cargowall-action)
 * [JulietSecurity/abom: Actions Bill of Materials tool that recursively resolves and maps every GitHub Action in your workflows including nested composite actions and reusable workflows](https://github.com/JulietSecurity/abom)
 * [celagus/appsec-crew: Multi-agent application security automation for GitHub using CrewAI, combining Betterleaks, OSV-Scanner, and Semgrep for security scanning and automated remediation](https://github.com/celagus/appsec-crew)
+* [safedep/gryph: Security auditing layer for AI coding agents (Claude Code, Cursor, Windsurf, Gemini CLI) that logs all agent actions (file reads/writes, shell commands) to local SQLite for review and debugging, with no cloud telemetry](https://github.com/safedep/gryph)
 
 Also see:
 
