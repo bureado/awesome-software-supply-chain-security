@@ -410,6 +410,7 @@ Also see:
     * Or [npm-audit](https://docs.npmjs.com/cli/v8/commands/npm-audit)
       * Also see [snyk-labs/snync: Mitigate security concerns of Dependency Confusion supply chain security risks](https://github.com/snyk-labs/snync)
       * And [lirantal/lockfile-lint: Lint an npm or yarn lockfile to analyze and detect security issues](https://github.com/lirantal/lockfile-lint)
+      * And [KoblerS/np-audit: Static security analyzer for npm packages detecting obfuscated lifecycle scripts, known vulnerabilities, and malicious patterns before installation, with zero dependencies and drop-in `npm install`/`npm ci` replacement](https://github.com/KoblerS/np-audit)
       * [KTH-LangSec/nodeshield: Runtime enforcement of SBOMs and Capabilities Bill of Materials (CBOM) for Node.js to prevent supply chain attacks](https://github.com/KTH-LangSec/nodeshield)
 * [chains-project/goleash: eBPF-based runtime policy enforcement for Go applications, enforcing least privilege at the package level to detect and block malicious behavior from compromised dependencies](https://github.com/chains-project/goleash)
 * [avilum/secimport: eBPF-based module-level sandboxing for Python applications, enforcing syscall restrictions per Python module to mitigate risks from vulnerable or malicious dependencies](https://github.com/avilum/secimport)
