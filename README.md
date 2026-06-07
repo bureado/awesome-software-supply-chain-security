@@ -523,6 +523,7 @@ And a few things to watch beyond libraries and software dependencies:
   * [slsa-framework/slsa-github-generator: Language-agnostic SLSA provenance generation for Github Actions](https://github.com/slsa-framework/slsa-github-generator)
   * Also see: [Attestation Crafting | ChainLoop documentation](https://docs.chainloop.dev/getting-started/attestation-crafting)
 * [technosophos/helm-gpg: Chart signing and verification with GnuPG for Helm.](https://github.com/technosophos/helm-gpg)
+* [asfaload/asfaload: Open-source self-hostable multisignature sign-off solution for securing artifact downloads, container image validation, and deployment approval workflows with configurable m-of-n signature thresholds](https://github.com/asfaload/asfaload) ([docs](https://asfaload.com/doc/))
   * [sigstore/helm-sigstore: Helm plugin for publishing and verifying signed Helm charts in the Rekor transparency log](https://github.com/sigstore/helm-sigstore) and [sigstore/helm-charts: Helm charts for deploying sigstore components in Kubernetes](https://github.com/sigstore/helm-charts)
 * [cashapp/pivit](https://github.com/cashapp/pivit) is a command line tool for managing x509 certificates stored on smart cards with PIV applet support that is fully compatible with `git`
 * [notaryproject/notary: Notary is a project that allows anyone to have trust over arbitrary collections of data](https://github.com/notaryproject/notary)
