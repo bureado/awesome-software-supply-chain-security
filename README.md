@@ -135,6 +135,7 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
 * [vulnerability-lookup/cpe-guesser: Command-line tool and web service for guessing CPE names from keywords for vulnerability research and tracking](https://github.com/vulnerability-lookup/cpe-guesser)
 * [betterleaks/betterleaks: High-performance secrets detection tool with CEL-based contextual filtering, secret validation, and token efficiency filtering to reduce false positives](https://github.com/betterleaks/betterleaks)
 * [OpenSourceMalware.com: Community-driven threat intelligence platform for checking malicious packages, repositories, and containers across ecosystems, plus threat reporting and feed integration](https://opensourcemalware.com/) ([API docs](https://docs.opensourcemalware.com/api/overview))
+* [santhsecurity/keyhog: High-performance secrets scanner with 900+ detectors and GPU acceleration support, scanning source trees, git history, Docker images, S3 buckets, and runtime environments for leaked credentials and malicious indicators](https://github.com/santhsecurity/keyhog)
 
 Also read:
 
