@@ -154,7 +154,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * OWASP's [SCA tools](https://owasp.org/www-community/Source_Code_Analysis_Tools) list is comprehensive on its own
 * [Grafeas: A Component Metadata API](https://github.com/grafeas/grafeas)
 * [trailofbits/it-depends: A tool to automatically build a dependency graph and Software Bill of Materials (SBOM) for packages and arbitrary source code repositories.](https://github.com/trailofbits/it-depends)
-* [infai-tech/vulnfeed-mcp: MCP server for software composition analysis that scans dependency lockfiles (npm, PyPI, Go, Cargo, RubyGems, Packagist) for known CVEs from NVD and the GitHub Advisory Database, prioritizing findings by EPSS exploit probability and recommending exact fix versions](https://github.com/infai-tech/vulnfeed-mcp)
+* [infai-tech/vulnfeed-mcp: MCP server for software composition analysis that scans dependency lockfiles (npm, PyPI, Go, Cargo, RubyGems, Packagist) for known CVEs from NVD and the GitHub Advisory Database, prioritizing findings by EPSS exploit probability and recommending exact fix versions](https://github.com/novadyne-hq/vulnfeed-mcp)
 * [Mend SCA SBOM](https://www.mend.io/sbom/), [Mend Bolt: Find and Fix Open Source vulnerabilities](https://www.mend.io/free-developer-tools/bolt/) and [Whitesource Renovate: Automated Dependency Updates](https://www.whitesourcesoftware.com/free-developer-tools/renovate/)
   * [renovatebot/renovate: Universal dependency update tool that fits into your workflows.](https://github.com/renovatebot/renovate)
     * Also read [Use Cases - Renovate Docs](https://docs.renovatebot.com/getting-started/use-cases/)
