@@ -383,6 +383,7 @@ Also see:
 ## Point-of-use validations
 
 > This section includes: admission and ingestion policies, pull-time verification and end-user verifications.
+* [WestBayBerry/DG_CLI: blocks malicious npm and PyPI packages at install time with behavioral scanning, before the package install scripts run, plus a native install hook for AI coding agents](https://github.com/WestBayBerry/DG_CLI)
 
 * [grafeas/kritis: Solution for securing your software supply chain for Kubernetes apps, enforcing deploy-time security policies](https://github.com/grafeas/kritis)
 * [spaceraccoon/vulnerability-spoiler-alert: AI-powered monitoring hub that watches open-source repositories and detects security vulnerability patches before CVEs are assigned, with RSS feed and web interface](https://github.com/spaceraccoon/vulnerability-spoiler-alert)
