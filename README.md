@@ -845,3 +845,5 @@ And a collection of reads and listens, ranging from insightful blog posts, expla
 * [Software Supply Chain Primer v0.93](https://docs.google.com/document/d/1Kq6e8DZ9G1MzKP3Tnlf6bXWLf41ad_tdTKs8ikfhGJ0/edit#heading=h.30j0zll) (June 2022)
 * [Research Case Study: Supply Chain Security at Scale – Insights into NPM Account Takeovers](https://laburity.com/research-npm-account-takeovers/) (November 2024)
 * Read: [How Cloudflare's client-side security made the npm supply chain attack a non-event](https://blog.cloudflare.com/how-cloudflares-client-side-security-made-the-npm-supply-chain-attack-a-non/) on detecting malicious JavaScript in npm packages using ML-based Abstract Syntax Tree analysis and graph neural networks
+
+* Read: [12 Steps to Secure GitHub Actions After the Trivy Attack](https://haitmg.pl/blog/github-actions-security-after-trivy-attack/) on hardening GitHub Actions workflows after the tj-actions/changed-files supply chain compromise, covering pin-to-SHA, OIDC tokens, least-privilege permissions, and egress filtering
