@@ -404,6 +404,7 @@ Also see:
 * [portieris/POLICIES.md at main · IBM/portieris](https://github.com/IBM/portieris/blob/main/POLICIES.md)
 * [reproducible-containers/repro-get: Reproducible apt/dnf/apk/pacman, with content-addressing](https://github.com/reproducible-containers/repro-get)
 * [asfaload/checksums: Repository holding checksums of internet artifacts to improve security of downloads by hosting duplicate verification points](https://github.com/asfaload/checksums)
+* [b7n0de/proofbundle: Offline, pure-Python verifier for portable cryptographic evidence bundles (Ed25519 signature + RFC 6962 Merkle inclusion + optional SD-JWT) that also verifies real Sigstore Rekor inclusion proofs with no running log server](https://github.com/b7n0de/proofbundle)
 * [kpcyrd/pacman-bintrans: Experimental binary transparency for pacman with sigstore and rekor](https://github.com/kpcyrd/pacman-bintrans)
   * Also see: [kpcyrd/apt-swarm: 🥸 p2p gossip network for update transparency, based on pgp 🥸](https://github.com/kpcyrd/apt-swarm)
 * [Open Policy Agent](https://www.openpolicyagent.org/)
