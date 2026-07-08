@@ -696,6 +696,7 @@ Also see:
 * [stagex.tools: Decentralized, bootstrappable, reproducible Linux distribution with native OCI layer support and Containerfile-based build definitions](https://stagex.tools/)
 * [GoogleContainerTools/kaniko: Build Container Images In Kubernetes](https://github.com/GoogleContainerTools/kaniko)
 * [sethvargo/ratchet: A tool for securing CI/CD workflows with version pinning.](https://github.com/sethvargo/ratchet)
+* [wille/gh-actions-cli: Pin GitHub Actions to commit SHAs, enforce allowed-actions policies, and update pinned actions from the terminal](https://github.com/wille/gh-actions-cli)
 * [Pinning GitHub Actions](https://pin-gh-actions.kammel.dev/) guide with statistics on SHA pinning adoption and tools like Frizbee for migration and Renovate for automated updates
 * [buildsec/vendorme](https://github.com/buildsec/vendorme) improves the developer workflow by giving you one single place to manage any vendored dependencies, and ensures that those are validated properly to improve the security around your supply chain
 * [eellak/build-recorder](https://github.com/eellak/build-recorder)
