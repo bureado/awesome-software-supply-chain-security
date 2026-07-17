@@ -392,6 +392,7 @@ Also see:
 * [hashgraph-online/codex-plugin-scanner: Security and best-practices scanner for OpenAI Codex CLI plugins. Scores plugins 0-100 across manifest validation, secret detection, MCP transport hardening, GitHub Actions security, and best practices. Outputs SARIF for CI integration](https://github.com/hashgraph-online/codex-plugin-scanner)
 * [goodwithtech/dockle: Container image linter for security, detects vulnerabilities, helps build best-practice Dockerfiles and supports CIS Benchmarks](https://github.com/goodwithtech/dockle)
 * [advaitpatel/DockSec: AI-powered Docker security scanner that combines Trivy, Hadolint, and Docker Scout with AI analysis to explain vulnerabilities in plain English and suggest specific Dockerfile fixes](https://github.com/advaitpatel/DockSec)
+* [homeofe/supply-chain-guard: Multi-ecosystem point-of-use scanner (npm, PyPI, Cargo, Go, RubyGems, Composer, NuGet, Docker, VS Code, GitHub Actions) that flags malware campaigns, typosquats and malicious install hooks before install, with an MCP server so AI agents can vet packages, plus SLSA grading and CycloneDX SBOMs](https://github.com/homeofe/supply-chain-guard)
 * [Kyverno](https://kyverno.io/)
   * Read: [Attesting Image Scans With Kyverno](https://neonmirrors.net/post/2022-07/attesting-image-scans-kyverno/)
     * And: [Managing Kyverno Policies as OCI Artifacts with OCIRepository Sources](https://fluxcd.io/blog/2022/08/manage-kyverno-policies-as-ocirepositories/)
