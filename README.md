@@ -123,6 +123,7 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
 * [cve-search/git-vuln-finder: Finding potential software vulnerabilities from git commit messages](https://github.com/cve-search/git-vuln-finder)
 * [chaoss/augur: Python library and web service for Open Source Software Health and Sustainability metrics &amp; data collection. You can find our documentation and new contributor information easily here: https://chaoss.github.io/augur/ and learn more about Augur at our website https://augurlabs.io](https://github.com/chaoss/augur)
 * [IBM/CBOM: Cryptography Bill of Materials](https://github.com/IBM/CBOM)
+* [quantakrypto/pqc-tools: Generates a CycloneDX CBOM (cryptographic bill of materials) and scans code and dependencies for quantum-vulnerable cryptography, with NIST post-quantum migration guidance](https://github.com/quantakrypto/pqc-tools)
 * [AppThreat/blint: BLint is a Binary Linter to check the security properties, and capabilities in your executables. It is powered by lief.](https://github.com/AppThreat/blint)
 * [chainguard-dev/malcontent: Static analysis tool for detecting supply chain attacks in container images and artifacts through behavioral pattern matching and anomaly detection](https://github.com/chainguard-dev/malcontent)
 * [mandiant/flare-floss: FLARE Obfuscated String Solver uses advanced static analysis to automatically extract and deobfuscate strings from binaries, useful for analyzing suspicious artifacts and identifying hidden behaviors](https://github.com/mandiant/flare-floss)
