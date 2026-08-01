@@ -703,6 +703,7 @@ Also see:
 * [rust-secure-code/cargo-auditable: Embed the Cargo dependency tree in your Rust binaries](https://github.com/rust-secure-code/cargo-auditable), enabling vulnerability auditing of compiled Rust binaries with zero bookkeeping; supported by cargo-audit, Trivy, Grype, and other tools
 * [project-copacetic/copacetic: CLI tool for directly patching container images using vulnerability reports from scanners like Trivy, enabling targeted OS package updates without rebuilding images](https://github.com/project-copacetic/copacetic)
 * [apiiro/PRevent: Self-hosted GitHub app that scans pull requests for malicious code patterns including dynamic code execution and obfuscation](https://github.com/apiiro/PRevent)
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, with proof of exploitation.
 * [SpecterOps/GitHound: BloodHound OpenGraph collector for GitHub mapping organizational structure, permissions, and roles into navigable attack-path graphs for security audits](https://github.com/SpecterOps/GitHound)
 * [dash14/buildcage: Restricts outbound network access during Docker builds per RUN step via SNI-based domain filtering, working as a drop-in BuildKit remote driver with ready-to-use GitHub Actions](https://github.com/dash14/buildcage)
 
