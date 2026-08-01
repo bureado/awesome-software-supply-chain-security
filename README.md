@@ -299,6 +299,7 @@ A few open source projects are documenting, in public, how they acquire dependen
 * [Security: The Value of SBOMs](https://fluxcd.io/blog/2022/02/security-the-value-of-sboms/) from Flux
 - [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with integrated supply chain security (SBOM, SLSA, Sigstore/Cosign, Kyverno policy), CNCF Sandbox project.
 * [nelsonduarte/capa-language: A capability-typed programming language whose compiler emits CycloneDX 1.5, SPDX 2.3, CycloneDX VEX, and SLSA L1 provenance directly from function signatures, with per-function granularity for declared capabilities (Fs/Net/Env/...) and user-defined capabilities. Includes a worked example of sandboxing LLM agent tool-use via the type system](https://github.com/nelsonduarte/capa-language)
+* [OWASP/VulnReach: adds runtime-aware reachability analysis on top of standard SCA output, combining static taint tracking, AST call-graph analysis, route exposure mapping and live runtime coverage to classify each detected CVE as dynamically reachable, statically reachable, uncertain, or not reachable](https://github.com/OWASP/VulnReach/) - surfaces only the dependency vulnerabilities that are actually reachable, cutting through SCA noise
 
 ### Vulnerability information exchange
 
