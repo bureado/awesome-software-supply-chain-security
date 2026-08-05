@@ -39,6 +39,7 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
 
 * [picatz/deputy: Comprehensive dependency management tool for secure dependency lifecycle management covering vulnerability scans, diffs, fixes, SBOMs, sandboxed execution, and policy-as-code enforcement across repos, images, and registries](https://github.com/picatz/deputy). Read: [Introduction to Deputy](https://picatz.github.io/blog/2026/1/21/introduction-to-deputy)
 * [trailofbits/deptective: Automatically determines native dependencies required to run arbitrary programs by observing file access attempts and iteratively installing missing dependencies](https://github.com/trailofbits/deptective)
+* [matteo-sung/lockvet: Explains any lockfile or SBOM change before merge — semver jumps, OSV vulnerabilities introduced/fixed, release ages, deprecations, license changes, unlisted (unpublished) versions and newly-added npm install scripts, with transitive via-chains, across 29 lockfile formats; vets PRs by URL on GitHub, GitLab, Bitbucket, Gitea/Forgejo and Azure DevOps](https://github.com/matteo-sung/lockvet)
 * Read: [HyperRes: A Formal System for Cross-Ecosystem Dependency Resolution](https://arxiv.org/abs/2506.10803), addressing multi-lingual projects by enabling versioned dependency resolution across language ecosystems without requiring users to shift package managers
 * [Open Source Insights](https://deps.dev/)
 * [guacsec/guac: GUAC aggregates software security metadata into a high fidelity graph database.](https://github.com/guacsec/guac)
