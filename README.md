@@ -489,6 +489,7 @@ Also see:
   * [How We Generate a Software Bill of Materials (SBOM) with CycloneDX](https://try.jupiterone.com/how-we-generate-a-software-bill-of-materials-sbom-with-cyclonedx)
 * [Securing CICD pipelines with StackRox / RHACS and Sigstore](https://rcarrata.com/kubernetes/sign-images-acs-1/)
 * Watch: [Do you trust your package manager?](https://www.youtube.com/watch?app=desktop&v=VfBShgNnQt4&feature=youtu.be) at Security Fest 2022
+* [Protet: behavioral detection for build pipelines — flags malicious execution from kernel-level telemetry (eBPF/Tetragon) during the build, emitting OCSF Detection Findings](https://protet.io)
 
 ### Supply chain beyond libraries
 
