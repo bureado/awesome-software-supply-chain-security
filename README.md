@@ -356,6 +356,7 @@ A few open source projects are documenting, in public, how they acquire dependen
 * See the [Vulnerability Management](https://open-docs.neuvector.com/scanning/scanning/vulnerabilities) in the NeuVector Docs for integration examples in container scenarios
 * [noqcks/xeol: An end-of-life (EOL) package scanner for container images, systems, and SBOMs](https://github.com/noqcks/xeol)
 * [mchmarny/vimp: Compare data from multiple vulnerability scanners to get a more complete picture of potential exposures.](https://github.com/mchmarny/vimp)
+* [CAOShurong/vulnfuse: Local-first CLI, browser workbench, and GitHub Action for explainable correlation and deduplication across SARIF, Trivy, Grype, Snyk, CycloneDX VDR/VEX, OSV-Scanner, and CSV vulnerability reports](https://github.com/CAOShurong/vulnfuse)
 
 A dedicated section on VEX reads:
 
