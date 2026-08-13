@@ -385,6 +385,7 @@ Also see:
 > This section includes: admission and ingestion policies, pull-time verification and end-user verifications.
 
 * [grafeas/kritis: Solution for securing your software supply chain for Kubernetes apps, enforcing deploy-time security policies](https://github.com/grafeas/kritis)
+* [Baktun-Studio/linebreak-gate: Fail-closed CI gate for AI-written code that blocks pull requests carrying known CVEs (OSV scan) and enforces human-approved acceptance criteria, served read-only to coding agents over MCP; git-only, works on a bare clone](https://github.com/Baktun-Studio/linebreak-gate)
 * [spaceraccoon/vulnerability-spoiler-alert: AI-powered monitoring hub that watches open-source repositories and detects security vulnerability patches before CVEs are assigned, with RSS feed and web interface](https://github.com/spaceraccoon/vulnerability-spoiler-alert)
 * [aquasecurity/trivy-operator: Kubernetes-native security toolkit that continuously scans the cluster for vulnerabilities, misconfiguration, secrets, and exposed sensitive information](https://github.com/aquasecurity/trivy-operator)
 * [boostsecurityio/bagel: Cross-platform CLI that audits developer workstations for supply chain security risks, inventorying dev tools, risky configurations, and secret metadata (never payloads) across Git, SSH, npm, cloud credentials, and IDE configurations](https://github.com/boostsecurityio/bagel)
