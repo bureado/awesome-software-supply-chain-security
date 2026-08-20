@@ -503,6 +503,7 @@ And a few things to watch beyond libraries and software dependencies:
 * [keylime/keylime: A CNCF Project to Bootstrap &amp; Maintain Trust on the Edge / Cloud and IoT](https://github.com/keylime/keylime)
 * [parallaxsecond/parsec: Platform AbstRaction for SECurity service](https://github.com/parallaxsecond/parsec)
 * [TPM Carte Blanche-resistant Boot Attestation](https://www.dlp.rip/tcb-attestation)
+* [rung-dev/rung: deterministic, AI-free CI gate that verifies an AI coding agent actually ran the checks it claims, reading a machine-checkable evidence bundle at pull-time to pass or block the build; ships as a GitHub Action and CLI](https://github.com/rung-dev/rung)
 
 ## Identity, signing and provenance
 
