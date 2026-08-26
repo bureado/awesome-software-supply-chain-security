@@ -480,6 +480,7 @@ Also see:
 * [JulietSecurity/abom: Actions Bill of Materials tool that recursively resolves and maps every GitHub Action in your workflows including nested composite actions and reusable workflows](https://github.com/JulietSecurity/abom)
 * [celagus/appsec-crew: Multi-agent application security automation for GitHub using CrewAI, combining Betterleaks, OSV-Scanner, and Semgrep for security scanning and automated remediation](https://github.com/celagus/appsec-crew)
 * [safedep/gryph: Security auditing layer for AI coding agents (Claude Code, Cursor, Windsurf, Gemini CLI) that logs all agent actions (file reads/writes, shell commands) to local SQLite for review and debugging, with no cloud telemetry](https://github.com/safedep/gryph)
+* [TraceFold/tracefold: Rust tool that constructs and checks an inverse for AI coding-agent filesystem and git changes before they land, signs each verdict as a DSSE-attested receipt anchored in a tamper-evident append-only log verifiable offline, and gates writes through a Cedar policy engine with four verdict states (admit, deny, escalate, policy-error)](https://github.com/TraceFold/tracefold)
 
 Also see:
 
