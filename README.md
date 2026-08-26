@@ -299,6 +299,7 @@ A few open source projects are documenting, in public, how they acquire dependen
 * [Security: The Value of SBOMs](https://fluxcd.io/blog/2022/02/security-the-value-of-sboms/) from Flux
 - [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with integrated supply chain security (SBOM, SLSA, Sigstore/Cosign, Kyverno policy), CNCF Sandbox project.
 * [nelsonduarte/capa-language: A capability-typed programming language whose compiler emits CycloneDX 1.5, SPDX 2.3, CycloneDX VEX, and SLSA L1 provenance directly from function signatures, with per-function granularity for declared capabilities (Fs/Net/Env/...) and user-defined capabilities. Includes a worked example of sandboxing LLM agent tool-use via the type system](https://github.com/nelsonduarte/capa-language)
+* [sbom-diff](https://github.com/fabiocicerchia/sbom-diff) - Diffs two SBOMs (CycloneDX/SPDX) - added, removed, and version-changed components.
 
 ### Vulnerability information exchange
 
