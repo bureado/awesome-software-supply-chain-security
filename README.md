@@ -503,6 +503,7 @@ And a few things to watch beyond libraries and software dependencies:
 * [keylime/keylime: A CNCF Project to Bootstrap &amp; Maintain Trust on the Edge / Cloud and IoT](https://github.com/keylime/keylime)
 * [parallaxsecond/parsec: Platform AbstRaction for SECurity service](https://github.com/parallaxsecond/parsec)
 * [TPM Carte Blanche-resistant Boot Attestation](https://www.dlp.rip/tcb-attestation)
+* [cosign-verify-init](https://github.com/fabiocicerchia/cosign-verify-init) - Kubernetes init container that verifies cosign image signatures before the workload starts.
 
 ## Identity, signing and provenance
 
