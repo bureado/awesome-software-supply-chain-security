@@ -438,6 +438,7 @@ Also see:
   * [banyanops/collector: A framework for Static Analysis of Docker container images](https://github.com/banyanops/collector)
   * [quay/clair: Vulnerability Static Analysis for Containers](https://github.com/quay/clair)
   * [DataDog/guarddog: GuardDog is a CLI tool to Identify malicious PyPI and npm packages](https://github.com/datadog/guarddog)
+  * [luantak/is-malicious: Review untrusted codebases for covert behavior, data theft, and suspicious build or CI steps before execution](https://github.com/luantak/is-malicious)
   * [eliasgranderubio/dagda: a tool to perform static analysis of known vulnerabilities, trojans, viruses, malware &amp; other malicious threats in docker images/containers and to monitor the docker daemon and running docker containers for detecting anomalous activities](https://github.com/eliasgranderubio/dagda)
     * Half brilliant, half funny, full helpful: [kpcyrd/libredefender: Imagine the information security compliance guideline says you need an antivirus but you run Arch Linux](https://github.com/kpcyrd/libredefender)
   * [target/strelka: Real-time, container-based file scanning system for threat hunting, detection, and incident response with file extraction and metadata collection at enterprise scale](https://github.com/target/strelka)
