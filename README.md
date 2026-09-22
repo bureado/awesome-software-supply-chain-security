@@ -503,6 +503,7 @@ And a few things to watch beyond libraries and software dependencies:
 * [keylime/keylime: A CNCF Project to Bootstrap &amp; Maintain Trust on the Edge / Cloud and IoT](https://github.com/keylime/keylime)
 * [parallaxsecond/parsec: Platform AbstRaction for SECurity service](https://github.com/parallaxsecond/parsec)
 * [TPM Carte Blanche-resistant Boot Attestation](https://www.dlp.rip/tcb-attestation)
+* [KeyDrift](https://keydrift.dev) - Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
 
 ## Identity, signing and provenance
 
