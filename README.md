@@ -163,6 +163,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * [nexB/scancode-toolkit: ScanCode detects licenses, copyrights, package manifests &amp; dependencies and more by scanning code ... to discover and inventory open source and third-party packages used in your code.](https://github.com/nexB/scancode-toolkit)
 * OWASP's [SCA tools](https://owasp.org/www-community/Source_Code_Analysis_Tools) list is comprehensive on its own
 * [Grafeas: A Component Metadata API](https://github.com/grafeas/grafeas)
+* [GoogleCloudPlatform/k8s-aibom: Unprivileged Kubernetes controller generating CycloneDX 1.6 ML-BOMs for AI workloads at runtime, with Sigstore model-signature verification](https://github.com/GoogleCloudPlatform/k8s-aibom)
 * [trailofbits/it-depends: A tool to automatically build a dependency graph and Software Bill of Materials (SBOM) for packages and arbitrary source code repositories.](https://github.com/trailofbits/it-depends)
 * [Mend SCA SBOM](https://www.mend.io/sbom/), [Mend Bolt: Find and Fix Open Source vulnerabilities](https://www.mend.io/free-developer-tools/bolt/) and [Whitesource Renovate: Automated Dependency Updates](https://www.whitesourcesoftware.com/free-developer-tools/renovate/)
   * [renovatebot/renovate: Universal dependency update tool that fits into your workflows.](https://github.com/renovatebot/renovate)
