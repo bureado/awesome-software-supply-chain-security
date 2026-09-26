@@ -141,6 +141,7 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
 * [OpenSourceMalware.com: Community-driven threat intelligence platform for checking malicious packages, repositories, and containers across ecosystems, plus threat reporting and feed integration](https://opensourcemalware.com/) ([API docs](https://docs.opensourcemalware.com/api/overview))
 * [santhsecurity/keyhog: High-performance secrets scanner with 900+ detectors and GPU acceleration support, scanning source trees, git history, Docker images, S3 buckets, and runtime environments for leaked credentials and malicious indicators](https://github.com/santhsecurity/keyhog)
 * [irchaosclub/FANGS: eBPF-based npm package behavior monitoring system that runs releases in Docker sandbox, captures syscalls and network activity via kernel instrumentation, and flags behavioral deviations from baseline to detect supply chain anomalies](https://github.com/irchaosclub/FANGS)
+* [presendapp/presend: Free API endpoint that flags npm packages recently taken over by a previously unseen publisher after a long period of dormancy (the event-stream pattern), plus vulnerability checks via OSV.dev across 8 ecosystems and typosquat detection. Disclosure: I am the author.](https://github.com/presendapp/presend)
 
 Also read:
 
