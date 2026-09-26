@@ -317,6 +317,7 @@ A few open source projects are documenting, in public, how they acquire dependen
   * Also see: [Choosing Open Source Libraries](https://www.youtube.com/watch?app=desktop&v=Q4Yv3VGPiy4) from Snyk
 * [Contrast Community Edition](https://www.contrastsecurity.com/contrast-community-edition)
 * [Known Exploited Vulnerabilities Catalog | CISA](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+* [abinjohnson400-beep/crawatch.dev: CLI and GitHub Action that fails CI when a lockfile dependency is on the CISA KEV catalog](https://github.com/abinjohnson400-beep/crawatch.dev), also publishes the [KEV-to-package join as JSON](https://crawatch.dev/kev-packages.json)
 * [TURROKS/CVE_Prioritizer: Prioritize vulnerability patching by combining CVSS, EPSS, CISA KEV, and VulnCheck data](https://github.com/TURROKS/CVE_Prioritizer)
 * [cve-search/cve-search: cve-search - a tool to perform local searches for known vulnerabilities](https://github.com/cve-search/cve-search)
 * [Exein-io/kepler: NIST-based CVE lookup store and API powered by Rust](https://github.com/Exein-io/kepler)
