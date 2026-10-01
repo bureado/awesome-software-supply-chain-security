@@ -141,6 +141,8 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
 * [OpenSourceMalware.com: Community-driven threat intelligence platform for checking malicious packages, repositories, and containers across ecosystems, plus threat reporting and feed integration](https://opensourcemalware.com/) ([API docs](https://docs.opensourcemalware.com/api/overview))
 * [santhsecurity/keyhog: High-performance secrets scanner with 900+ detectors and GPU acceleration support, scanning source trees, git history, Docker images, S3 buckets, and runtime environments for leaked credentials and malicious indicators](https://github.com/santhsecurity/keyhog)
 * [irchaosclub/FANGS: eBPF-based npm package behavior monitoring system that runs releases in Docker sandbox, captures syscalls and network activity via kernel instrumentation, and flags behavioral deviations from baseline to detect supply chain anomalies](https://github.com/irchaosclub/FANGS)
+* [yunaremaia/taintrace: Typosquat detector aimed at dependencies that AI coding agents install on the project's behalf. Scans lockfiles (Cargo.lock, package-lock.json, requirements.txt, go.sum, composer.lock) for package names that suspiciously resemble legitimate ones, covering the class of malicious packages that carry no CVE and therefore pass `npm audit` and `cargo audit` unnoticed](https://github.com/yunaremaia/taintrace)
+* [yunaremaia/depscan: Multi-ecosystem dependency scanner covering Cargo, npm, PyPI and Go, with Levenshtein-based typosquat detection against known packages across Cargo.lock, package-lock.json, requirements.txt, go.mod, poetry.lock and Pipfile.lock, and JSON output for CI integration](https://github.com/yunaremaia/depscan)
 
 Also read:
 
