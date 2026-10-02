@@ -480,6 +480,7 @@ Also see:
 * [JulietSecurity/abom: Actions Bill of Materials tool that recursively resolves and maps every GitHub Action in your workflows including nested composite actions and reusable workflows](https://github.com/JulietSecurity/abom)
 * [celagus/appsec-crew: Multi-agent application security automation for GitHub using CrewAI, combining Betterleaks, OSV-Scanner, and Semgrep for security scanning and automated remediation](https://github.com/celagus/appsec-crew)
 * [safedep/gryph: Security auditing layer for AI coding agents (Claude Code, Cursor, Windsurf, Gemini CLI) that logs all agent actions (file reads/writes, shell commands) to local SQLite for review and debugging, with no cloud telemetry](https://github.com/safedep/gryph)
+* [wu350891451-jpg/verify-frozen-artifacts: GitHub Action that fails CI when a frozen artifact or AI-agent evidence packet no longer matches its declared SHA256](https://github.com/wu350891451-jpg/verify-frozen-artifacts) ([public workflow](https://github.com/wu350891451-jpg/Jacky/blob/main/.github/workflows/verify.yml), [successful run](https://github.com/wu350891451-jpg/Jacky/actions/runs/36947732905))
 
 Also see:
 
