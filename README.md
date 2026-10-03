@@ -627,6 +627,7 @@ And a few things to watch beyond libraries and software dependencies:
 * [mchmarny/reputer: CLI tool that calculates contributor reputation scores from Git provider APIs (GitHub) to establish identity confidence and measure contributor trustworthiness for supply chain decisions](https://github.com/mchmarny/reputer)
 * [ReversingLabs rl-protect: Supply chain security scanning platform with policy controls, artifact analysis, and provenance tracking for detecting malicious packages and supply chain compromises](https://docs.secure.software/community/tools/rl-protect)
 * 📖 Read: [GitHub Actions security threat model and defenses](https://www.wiz.io/blog/github-actions-security-threat-model-and-defenses) - Comprehensive analysis of GitHub Actions security risks including pull request pwnage, script injection, and third-party component vulnerabilities with defensive strategies
+* 📖 Read: [pull_request_target in the wild: 60 public workflows, 6 exploitable, and the fixes that actually work](https://magsolutionsai.com/blog/pull-request-target-in-the-wild.html) - Measurement of real workflows, including the mitigations (environment approval, maintainer label gates, trusted second checkouts) that make most flagged cases safe
 * [boostsecurityio/lotp: "Living Off the Pipeline" — inventory and techniques database of development tool abuse capabilities, documenting how CI/CD tools and build pipelines can be exploited for supply chain attacks](https://github.com/boostsecurityio/lotp)
 
 Also see:
@@ -703,6 +704,8 @@ Also see:
 * [rust-secure-code/cargo-auditable: Embed the Cargo dependency tree in your Rust binaries](https://github.com/rust-secure-code/cargo-auditable), enabling vulnerability auditing of compiled Rust binaries with zero bookkeeping; supported by cargo-audit, Trivy, Grype, and other tools
 * [project-copacetic/copacetic: CLI tool for directly patching container images using vulnerability reports from scanners like Trivy, enabling targeted OS package updates without rebuilding images](https://github.com/project-copacetic/copacetic)
 * [apiiro/PRevent: Self-hosted GitHub app that scans pull requests for malicious code patterns including dynamic code execution and obfuscation](https://github.com/apiiro/PRevent)
+* [MagAudit Agent: GitHub App that checks every pull request for dependencies published days ago with almost no downloads, hardcoded credentials, service keys shipped to the browser bundle, and risky GitHub Actions/Terraform/Kubernetes config](https://magsolutionsai.com/), deterministic (no LLM in the analysis), with its own [false-positive record](https://magsolutionsai.com/quality.html) published
+* [MagSolutionsAI/dependency-check: free GitHub Action that flags dependencies a pull request adds that do not exist on PyPI or npm, or were published days ago with almost no users](https://github.com/MagSolutionsAI/dependency-check), running entirely in the runner
 * [SpecterOps/GitHound: BloodHound OpenGraph collector for GitHub mapping organizational structure, permissions, and roles into navigable attack-path graphs for security audits](https://github.com/SpecterOps/GitHound)
 * [dash14/buildcage: Restricts outbound network access during Docker builds per RUN step via SNI-based domain filtering, working as a drop-in BuildKit remote driver with ready-to-use GitHub Actions](https://github.com/dash14/buildcage)
 
