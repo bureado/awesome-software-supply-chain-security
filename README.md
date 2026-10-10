@@ -318,6 +318,7 @@ A few open source projects are documenting, in public, how they acquire dependen
 * [Contrast Community Edition](https://www.contrastsecurity.com/contrast-community-edition)
 * [Known Exploited Vulnerabilities Catalog | CISA](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
 * [TURROKS/CVE_Prioritizer: Prioritize vulnerability patching by combining CVSS, EPSS, CISA KEV, and VulnCheck data](https://github.com/TURROKS/CVE_Prioritizer)
+* [GautamTalksDev/cra-clock: GitHub Action that writes a CycloneDX SBOM from lockfiles, checks components against OSV, CISA KEV and EPSS, and opens an issue with EU Cyber Resilience Act Article 14 reporting deadlines when a dependency is actively exploited](https://github.com/GautamTalksDev/cra-clock)
 * [cve-search/cve-search: cve-search - a tool to perform local searches for known vulnerabilities](https://github.com/cve-search/cve-search)
 * [Exein-io/kepler: NIST-based CVE lookup store and API powered by Rust](https://github.com/Exein-io/kepler)
 * [nexB/vulnerablecode: A work-in-progress towards a free and open vulnerabilities database and the packages they impact. And the tools to aggregate and correlate these vulnerabilities. Sponsored by NLnet https://nlnet.nl/project/vulnerabilitydatabase/ for https://www.aboutcode.org/ Chat at https://gitter.im/aboutcode-org/vulnerablecode](https://github.com/nexB/vulnerablecode)
