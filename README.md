@@ -180,6 +180,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
   * Also note: [New `docker sbom` Command Creates SBOMs Using Syft](https://anchore.com/sbom/docker-sbom-command-creates-sbom-using-syft/)
   * [Creating SBOM Attestations Using Syft and Sigstore](https://anchore.com/sbom/creating-sbom-attestations-using-syft-and-sigstore/)
   * Simple flow: [utils/ci/github/docker-build-sign-sbom at main · marco-lancini/utils](https://github.com/marco-lancini/utils/tree/main/ci/github/docker-build-sign-sbom)
+* [cpeoples/cudabom: CLI that identifies NVIDIA CUDA software inside Python wheels, shared libraries, executables, and container images using multiple evidence sources, then emits CycloneDX SBOMs and VEX mapped to NVIDIA security bulletins](https://github.com/cpeoples/cudabom)
 * [sony/esstra: GCC plugin and Python tool that embeds source file information into binaries during compilation to enhance software transparency, traceability, and SBOM generation for open-source license compliance and vulnerability management](https://github.com/sony/esstra)
 * [e-m-b-a/emba: Security analyzer for firmware of embedded devices, supporting static and dynamic analysis via emulation, SBOM generation, and vulnerability reporting](https://github.com/e-m-b-a/emba)
 * [safedep/xbom: BOM generation tool that detects AI SDKs, ML models, SaaS APIs, and cryptographic algorithms via static code analysis with community-maintained YAML signatures, supporting Python, Java, Go, and JavaScript with CycloneDX output](https://github.com/safedep/xbom)
