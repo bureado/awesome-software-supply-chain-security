@@ -480,6 +480,7 @@ Also see:
 * [JulietSecurity/abom: Actions Bill of Materials tool that recursively resolves and maps every GitHub Action in your workflows including nested composite actions and reusable workflows](https://github.com/JulietSecurity/abom)
 * [celagus/appsec-crew: Multi-agent application security automation for GitHub using CrewAI, combining Betterleaks, OSV-Scanner, and Semgrep for security scanning and automated remediation](https://github.com/celagus/appsec-crew)
 * [safedep/gryph: Security auditing layer for AI coding agents (Claude Code, Cursor, Windsurf, Gemini CLI) that logs all agent actions (file reads/writes, shell commands) to local SQLite for review and debugging, with no cloud telemetry](https://github.com/safedep/gryph)
+* [MustacheCase/zanadir: CLI and GitHub Action that audits GitHub Actions, GitLab CI, CircleCI, Bitbucket Pipelines, Azure Pipelines and Jenkins configuration for missing security controls (SCA, secrets, SAST, IaC, SBOM, workflow security) and grades whether present controls can actually fail the build](https://github.com/MustacheCase/zanadir)
 
 Also see:
 
