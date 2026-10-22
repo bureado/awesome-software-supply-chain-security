@@ -480,6 +480,7 @@ Also see:
 * [JulietSecurity/abom: Actions Bill of Materials tool that recursively resolves and maps every GitHub Action in your workflows including nested composite actions and reusable workflows](https://github.com/JulietSecurity/abom)
 * [celagus/appsec-crew: Multi-agent application security automation for GitHub using CrewAI, combining Betterleaks, OSV-Scanner, and Semgrep for security scanning and automated remediation](https://github.com/celagus/appsec-crew)
 * [safedep/gryph: Security auditing layer for AI coding agents (Claude Code, Cursor, Windsurf, Gemini CLI) that logs all agent actions (file reads/writes, shell commands) to local SQLite for review and debugging, with no cloud telemetry](https://github.com/safedep/gryph)
+* [TexWoW/unripe: CLI, GitHub Action and pre-commit hook that fails a build when a lockfile pins a dependency version published within a set time (3 days by default), across npm, pnpm, yarn, bun, Deno, PyPI, Cargo, Go, Composer, RubyGems, NuGet, Gradle and GitHub Actions; dates Go modules by when the checksum database first saw them](https://github.com/TexWoW/unripe)
 
 Also see:
 
