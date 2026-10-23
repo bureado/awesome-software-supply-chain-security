@@ -478,6 +478,7 @@ Also see:
 * [ironsh/iron-proxy: MITM egress proxy with built-in DNS server enforcing default-deny network access, designed to prevent secrets exfiltration, command injection, and reverse shell attacks in CI/CD and sandboxed environments](https://github.com/ironsh/iron-proxy)
 * [code-cargo/cargowall-action: Official GitHub Action for CargoWall that provides eBPF-based network egress filtering for GitHub Actions runners to prevent supply chain attacks and data exfiltration](https://github.com/code-cargo/cargowall-action)
 * [JulietSecurity/abom: Actions Bill of Materials tool that recursively resolves and maps every GitHub Action in your workflows including nested composite actions and reusable workflows](https://github.com/JulietSecurity/abom)
+* [kobima6813/actions-harden: Zero-dependency CLI and GitHub Action that flags unpinned actions, missing or over-broad permissions, pull_request_target misuse, script injection and secrets printed to logs in GitHub Actions workflows, and can pin actions to commit SHAs](https://github.com/kobima6813/actions-harden)
 * [celagus/appsec-crew: Multi-agent application security automation for GitHub using CrewAI, combining Betterleaks, OSV-Scanner, and Semgrep for security scanning and automated remediation](https://github.com/celagus/appsec-crew)
 * [safedep/gryph: Security auditing layer for AI coding agents (Claude Code, Cursor, Windsurf, Gemini CLI) that logs all agent actions (file reads/writes, shell commands) to local SQLite for review and debugging, with no cloud telemetry](https://github.com/safedep/gryph)
 
