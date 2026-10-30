@@ -176,6 +176,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * [oss-review-toolkit/ort: A suite of tools to assist with reviewing Open Source Software dependencies.](https://github.com/oss-review-toolkit/ort)
 * [fosslight/fosslight: FOSSLight is an integrated open source management system that supports the open source software lifecycle, including dependency analysis, license compliance, and SBOM generation.](https://github.com/fosslight/fosslight) See [fosslight.org](https://fosslight.org/)
 * [fsfe/reuse-tool: REUSE is a tool to check and annotate source files with SPDX license identifiers, making license and copyright information machine-readable.](https://git.fsfe.org/reuse/tool) See [reuse.software](https://reuse.software/)
+* [licensegate](https://licensegate.org/): free CLI and GitHub Action that builds a CycloneDX SBOM and third-party notices from an npm, pnpm, yarn or bun lockfile, and checks each dependency licence against how the software ships (SaaS, distributed, library, internal), failing CI on a conflict
 * [anchore/syft: CLI tool and library for generating a Software Bill of Materials from container images and filesystems](https://github.com/anchore/syft) from [Software supply chain security solutions • Anchore](https://anchore.com/)
   * Also note: [New `docker sbom` Command Creates SBOMs Using Syft](https://anchore.com/sbom/docker-sbom-command-creates-sbom-using-syft/)
   * [Creating SBOM Attestations Using Syft and Sigstore](https://anchore.com/sbom/creating-sbom-attestations-using-syft-and-sigstore/)
