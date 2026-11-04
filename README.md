@@ -404,6 +404,7 @@ Also see:
 * [portieris/POLICIES.md at main · IBM/portieris](https://github.com/IBM/portieris/blob/main/POLICIES.md)
 * [reproducible-containers/repro-get: Reproducible apt/dnf/apk/pacman, with content-addressing](https://github.com/reproducible-containers/repro-get)
 * [asfaload/checksums: Repository holding checksums of internet artifacts to improve security of downloads by hosting duplicate verification points](https://github.com/asfaload/checksums)
+* [sudodrift/releasedrift: Finds GitHub release downloads in Dockerfiles, shell scripts, Makefiles, Actions workflows and Ansible, reports the ones not pinned to a SHA-256, and records the asset digests GitHub reports so a later run can tell when a release file was replaced under the same tag](https://github.com/sudodrift/releasedrift)
 * [kpcyrd/pacman-bintrans: Experimental binary transparency for pacman with sigstore and rekor](https://github.com/kpcyrd/pacman-bintrans)
   * Also see: [kpcyrd/apt-swarm: 🥸 p2p gossip network for update transparency, based on pgp 🥸](https://github.com/kpcyrd/apt-swarm)
 * [Open Policy Agent](https://www.openpolicyagent.org/)
