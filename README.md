@@ -183,6 +183,7 @@ The most complete reference is [awesomeSBOM/awesome-sbom](https://github.com/awe
 * [sony/esstra: GCC plugin and Python tool that embeds source file information into binaries during compilation to enhance software transparency, traceability, and SBOM generation for open-source license compliance and vulnerability management](https://github.com/sony/esstra)
 * [e-m-b-a/emba: Security analyzer for firmware of embedded devices, supporting static and dynamic analysis via emulation, SBOM generation, and vulnerability reporting](https://github.com/e-m-b-a/emba)
 * [safedep/xbom: BOM generation tool that detects AI SDKs, ML models, SaaS APIs, and cryptographic algorithms via static code analysis with community-maintained YAML signatures, supporting Python, Java, Go, and JavaScript with CycloneDX output](https://github.com/safedep/xbom)
+* [Lennonhaha/fibemate-tools: cbom-tools — scans a source tree for cryptographic assets, emits a CycloneDX 1.6/1.7 CBOM, and diffs two CBOMs to show added, removed or changed algorithms; listed in the CycloneDX Tool Center](https://github.com/Lennonhaha/fibemate-tools/tree/main/cbom-tools)
 * [ANNOUNCE: Scan is now in maintenance mode · Issue #352 · ShiftLeftSecurity/sast-scan](https://github.com/ShiftLeftSecurity/sast-scan/issues/352)
 * [Container Security | Qualys, Inc.](https://www.qualys.com/apps/container-security/)
 * [Aqua Cloud Native Security, Container Security &amp; Serverless Security](https://www.aquasec.com/)
