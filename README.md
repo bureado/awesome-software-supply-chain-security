@@ -370,6 +370,7 @@ A dedicated section on VEX reads:
   * [VEX! or... How to Reduce CVE Noise With One Simple Trick!](https://www.youtube.com/watch?v=OWAn3ynhyzQ) by Frederick Kautz
   * [Vulnerability Exploitability eXchange (VEX) - Status Justifications](https://www.cisa.gov/sites/default/files/publications/VEX_Status_Justification_Jun22.pdf)
 * [Real-time VEX](https://tomalrichblog.blogspot.com/2022/09/real-time-vex.html?m=1)
+* [itulo/fixdossier: GitHub Action that builds a dated security-fix record and SUPPORT.md policy from releases, advisories, and commits](https://github.com/itulo/fixdossier)
 
 Also see:
 
