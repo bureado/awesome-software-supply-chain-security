@@ -379,6 +379,8 @@ Also see:
 * Read: [A closer look at CVSS scores](https://theoryof.predictable.software/articles/a-closer-look-at-cvss-scores/), [Patch Madness: Vendor Bug Advisories Are Broken, So Broken](https://www.darkreading.com/risk/patch-madness-vendor-bug-advisories-broken) and [An Incomplete Look at Vulnerability Databases & Scoring Methodologies](https://medium.com/@chris.hughes_11070/an-incomplete-look-at-vulnerability-databases-scoring-methodologies-7be7155661e8)
 * Read: [How to Analyze an SBOM](https://cloudsmith.com/blog/how-to-analyze-an-sbom/) and [How to Generate and Host SBoMs](https://cloudsmith.com/blog/how-to-generate-and-host-an-sbom/) from Cloudsmith
 * Read: [After the Advisory](https://blog.deps.dev/after-the-advisory/) from Google's Open Source Insights team
+* [OffSeq Threat Radar: vulnerability intelligence API with CISA KEV, EPSS and exploit status, SBOM and lockfile scanning with SARIF output, and patch-order prioritization](https://radar.offseq.com/api-docs)
+  * Tools: [offseq/radar-scan-action: GitHub Action that scans an SBOM or lockfile, uploads SARIF to code scanning and gates CI](https://github.com/offseq/radar-scan-action)
 
 ## Point-of-use validations
 
