@@ -299,7 +299,6 @@ A few open source projects are documenting, in public, how they acquire dependen
 * [Security: The Value of SBOMs](https://fluxcd.io/blog/2022/02/security-the-value-of-sboms/) from Flux
 - [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with integrated supply chain security (SBOM, SLSA, Sigstore/Cosign, Kyverno policy), CNCF Sandbox project.
 * [nelsonduarte/capa-language: A capability-typed programming language whose compiler emits CycloneDX 1.5, SPDX 2.3, CycloneDX VEX, and SLSA L1 provenance directly from function signatures, with per-function granularity for declared capabilities (Fs/Net/Env/...) and user-defined capabilities. Includes a worked example of sandboxing LLM agent tool-use via the type system](https://github.com/nelsonduarte/capa-language)
-* [Lennonhaha/fibemate-tools: verifact re-checks numeric claims in docs against the artefacts that should back them (benchmarks, test counts, version strings) and exits non-zero on drift](https://github.com/Lennonhaha/fibemate-tools/tree/main/verifact)
 
 ### Vulnerability information exchange
 
@@ -481,6 +480,7 @@ Also see:
 * [JulietSecurity/abom: Actions Bill of Materials tool that recursively resolves and maps every GitHub Action in your workflows including nested composite actions and reusable workflows](https://github.com/JulietSecurity/abom)
 * [celagus/appsec-crew: Multi-agent application security automation for GitHub using CrewAI, combining Betterleaks, OSV-Scanner, and Semgrep for security scanning and automated remediation](https://github.com/celagus/appsec-crew)
 * [safedep/gryph: Security auditing layer for AI coding agents (Claude Code, Cursor, Windsurf, Gemini CLI) that logs all agent actions (file reads/writes, shell commands) to local SQLite for review and debugging, with no cloud telemetry](https://github.com/safedep/gryph)
+* [Lennonhaha/fibemate-tools: verifact checks the numbers a document claims against the files that should back them, and exits non-zero when a claim drifts or cannot be bound to an artifact](https://github.com/Lennonhaha/fibemate-tools/tree/main/verifact)
 
 Also see:
 
