@@ -139,6 +139,7 @@ Using this lens we can identify a large group of "subjects" (dependencies), dist
 * [vulnerability-lookup/cpe-guesser: Command-line tool and web service for guessing CPE names from keywords for vulnerability research and tracking](https://github.com/vulnerability-lookup/cpe-guesser)
 * [betterleaks/betterleaks: High-performance secrets detection tool with CEL-based contextual filtering, secret validation, and token efficiency filtering to reduce false positives](https://github.com/betterleaks/betterleaks)
 * [OpenSourceMalware.com: Community-driven threat intelligence platform for checking malicious packages, repositories, and containers across ecosystems, plus threat reporting and feed integration](https://opensourcemalware.com/) ([API docs](https://docs.opensourcemalware.com/api/overview))
+* [Protet Intel: public record of malicious npm package versions from Protet, CI/CD runtime security designed for GitLab; screened as they are published and confirmed by a reviewer, with free NDJSON, Atom and OSV feeds](https://protet.io/intel) ([package lookup](https://protet.io/check))
 * [santhsecurity/keyhog: High-performance secrets scanner with 900+ detectors and GPU acceleration support, scanning source trees, git history, Docker images, S3 buckets, and runtime environments for leaked credentials and malicious indicators](https://github.com/santhsecurity/keyhog)
 * [irchaosclub/FANGS: eBPF-based npm package behavior monitoring system that runs releases in Docker sandbox, captures syscalls and network activity via kernel instrumentation, and flags behavioral deviations from baseline to detect supply chain anomalies](https://github.com/irchaosclub/FANGS)
 
@@ -489,7 +490,7 @@ Also see:
   * [How We Generate a Software Bill of Materials (SBOM) with CycloneDX](https://try.jupiterone.com/how-we-generate-a-software-bill-of-materials-sbom-with-cyclonedx)
 * [Securing CICD pipelines with StackRox / RHACS and Sigstore](https://rcarrata.com/kubernetes/sign-images-acs-1/)
 * Watch: [Do you trust your package manager?](https://www.youtube.com/watch?app=desktop&v=VfBShgNnQt4&feature=youtu.be) at Security Fest 2022
-* [Protet: behavioral detection for build pipelines — flags malicious execution from kernel-level telemetry (eBPF/Tetragon) during the build, emitting OCSF Detection Findings](https://protet.io)
+* [Protet: CI/CD runtime security designed for GitLab; an eBPF (Tetragon) sensor next to the runners records what each CI job does when it runs and flags attacks, supply-chain compromises among them](https://protet.io)
 
 ### Supply chain beyond libraries
 
